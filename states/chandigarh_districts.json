@@ -1,0 +1,659 @@
+{
+  "type": "state_districts",
+  "state_name": "CHANDIGARH",
+  "data": {
+    "CHANDIGARH": {
+      "average_methane": 1882.2494202853804,
+      "data_quality": {
+        "total_months": 106,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 137.0
+      },
+      "point_count": 14522
+    }
+  },
+  "monthly_data": {
+    "2014_01": {
+      "CHANDIGARH": {
+        "average": 1874.9999176697622,
+        "point_count": 137
+      }
+    },
+    "2014_02": {
+      "CHANDIGARH": {
+        "average": 1850.2132112399327,
+        "point_count": 137
+      }
+    },
+    "2014_03": {
+      "CHANDIGARH": {
+        "average": 1855.747524640449,
+        "point_count": 137
+      }
+    },
+    "2014_04": {
+      "CHANDIGARH": {
+        "average": 1878.23220033344,
+        "point_count": 137
+      }
+    },
+    "2014_05": {
+      "CHANDIGARH": {
+        "average": 1977.8198171608178,
+        "point_count": 137
+      }
+    },
+    "2014_06": {
+      "CHANDIGARH": {
+        "average": 1904.657533865936,
+        "point_count": 137
+      }
+    },
+    "2014_07": {
+      "CHANDIGARH": {
+        "average": 1917.48983129896,
+        "point_count": 137
+      }
+    },
+    "2014_08": {
+      "CHANDIGARH": {
+        "average": 1880.4011878523936,
+        "point_count": 137
+      }
+    },
+    "2014_09": {
+      "CHANDIGARH": {
+        "average": 1850.0291669180924,
+        "point_count": 137
+      }
+    },
+    "2014_10": {
+      "CHANDIGARH": {
+        "average": 1874.745116725235,
+        "point_count": 137
+      }
+    },
+    "2014_11": {
+      "CHANDIGARH": {
+        "average": 1879.8965717003193,
+        "point_count": 137
+      }
+    },
+    "2014_12": {
+      "CHANDIGARH": {
+        "average": 1880.8004145300843,
+        "point_count": 137
+      }
+    },
+    "2015_01": {
+      "CHANDIGARH": {
+        "average": 1874.1712630755128,
+        "point_count": 137
+      }
+    },
+    "2015_02": {
+      "CHANDIGARH": {
+        "average": 1850.8173586253945,
+        "point_count": 137
+      }
+    },
+    "2015_03": {
+      "CHANDIGARH": {
+        "average": 1856.59502814958,
+        "point_count": 137
+      }
+    },
+    "2015_04": {
+      "CHANDIGARH": {
+        "average": 1877.4127919486823,
+        "point_count": 137
+      }
+    },
+    "2015_05": {
+      "CHANDIGARH": {
+        "average": 1949.4133495178808,
+        "point_count": 137
+      }
+    },
+    "2015_06": {
+      "CHANDIGARH": {
+        "average": 1901.2293557961225,
+        "point_count": 137
+      }
+    },
+    "2015_07": {
+      "CHANDIGARH": {
+        "average": 1907.188740153316,
+        "point_count": 137
+      }
+    },
+    "2015_08": {
+      "CHANDIGARH": {
+        "average": 1878.8615320188137,
+        "point_count": 137
+      }
+    },
+    "2015_09": {
+      "CHANDIGARH": {
+        "average": 1879.9471286264206,
+        "point_count": 137
+      }
+    },
+    "2015_10": {
+      "CHANDIGARH": {
+        "average": 1876.633058866486,
+        "point_count": 137
+      }
+    },
+    "2015_11": {
+      "CHANDIGARH": {
+        "average": 1882.1485236414999,
+        "point_count": 137
+      }
+    },
+    "2015_12": {
+      "CHANDIGARH": {
+        "average": 1879.748929342415,
+        "point_count": 137
+      }
+    },
+    "2016_01": {
+      "CHANDIGARH": {
+        "average": 1879.8810903634978,
+        "point_count": 137
+      }
+    },
+    "2016_02": {
+      "CHANDIGARH": {
+        "average": 1849.70391236864,
+        "point_count": 137
+      }
+    },
+    "2016_03": {
+      "CHANDIGARH": {
+        "average": 1856.8884473485516,
+        "point_count": 137
+      }
+    },
+    "2016_04": {
+      "CHANDIGARH": {
+        "average": 1876.8050818113772,
+        "point_count": 137
+      }
+    },
+    "2016_05": {
+      "CHANDIGARH": {
+        "average": 1935.702821587178,
+        "point_count": 137
+      }
+    },
+    "2016_06": {
+      "CHANDIGARH": {
+        "average": 1920.938334894502,
+        "point_count": 137
+      }
+    },
+    "2016_07": {
+      "CHANDIGARH": {
+        "average": 1917.0715032160592,
+        "point_count": 137
+      }
+    },
+    "2016_08": {
+      "CHANDIGARH": {
+        "average": 1879.7887036494028,
+        "point_count": 137
+      }
+    },
+    "2016_09": {
+      "CHANDIGARH": {
+        "average": 1857.4558401525826,
+        "point_count": 137
+      }
+    },
+    "2016_10": {
+      "CHANDIGARH": {
+        "average": 1876.638059727622,
+        "point_count": 137
+      }
+    },
+    "2016_11": {
+      "CHANDIGARH": {
+        "average": 1875.8233622987707,
+        "point_count": 137
+      }
+    },
+    "2016_12": {
+      "CHANDIGARH": {
+        "average": 1879.2443469668956,
+        "point_count": 137
+      }
+    },
+    "2017_01": {
+      "CHANDIGARH": {
+        "average": 1875.697465205081,
+        "point_count": 137
+      }
+    },
+    "2017_02": {
+      "CHANDIGARH": {
+        "average": 1850.5801395782094,
+        "point_count": 137
+      }
+    },
+    "2017_03": {
+      "CHANDIGARH": {
+        "average": 1858.9313987081778,
+        "point_count": 137
+      }
+    },
+    "2017_04": {
+      "CHANDIGARH": {
+        "average": 1877.2961582282278,
+        "point_count": 137
+      }
+    },
+    "2017_05": {
+      "CHANDIGARH": {
+        "average": 1928.226636606294,
+        "point_count": 137
+      }
+    },
+    "2017_06": {
+      "CHANDIGARH": {
+        "average": 1907.387717042038,
+        "point_count": 137
+      }
+    },
+    "2017_07": {
+      "CHANDIGARH": {
+        "average": 1918.0409508413834,
+        "point_count": 137
+      }
+    },
+    "2017_08": {
+      "CHANDIGARH": {
+        "average": 1841.491460321535,
+        "point_count": 137
+      }
+    },
+    "2017_09": {
+      "CHANDIGARH": {
+        "average": 1856.4699474985443,
+        "point_count": 137
+      }
+    },
+    "2017_10": {
+      "CHANDIGARH": {
+        "average": 1876.703823624734,
+        "point_count": 137
+      }
+    },
+    "2017_11": {
+      "CHANDIGARH": {
+        "average": 1882.2265920298548,
+        "point_count": 137
+      }
+    },
+    "2017_12": {
+      "CHANDIGARH": {
+        "average": 1878.9445210761276,
+        "point_count": 137
+      }
+    },
+    "2018_01": {
+      "CHANDIGARH": {
+        "average": 1877.19304632667,
+        "point_count": 137
+      }
+    },
+    "2018_02": {
+      "CHANDIGARH": {
+        "average": 1852.1988376011657,
+        "point_count": 137
+      }
+    },
+    "2018_03": {
+      "CHANDIGARH": {
+        "average": 1869.1627035153879,
+        "point_count": 137
+      }
+    },
+    "2018_04": {
+      "CHANDIGARH": {
+        "average": 1879.7714018097233,
+        "point_count": 137
+      }
+    },
+    "2018_05": {
+      "CHANDIGARH": {
+        "average": 1874.0949877417659,
+        "point_count": 137
+      }
+    },
+    "2018_06": {
+      "CHANDIGARH": {
+        "average": 1902.222593954614,
+        "point_count": 137
+      }
+    },
+    "2018_07": {
+      "CHANDIGARH": {
+        "average": 1917.7174378869158,
+        "point_count": 137
+      }
+    },
+    "2018_08": {
+      "CHANDIGARH": {
+        "average": 1833.1057825400999,
+        "point_count": 137
+      }
+    },
+    "2018_09": {
+      "CHANDIGARH": {
+        "average": 1879.9598010029763,
+        "point_count": 137
+      }
+    },
+    "2018_10": {
+      "CHANDIGARH": {
+        "average": 1875.943004423702,
+        "point_count": 137
+      }
+    },
+    "2018_11": {
+      "CHANDIGARH": {
+        "average": 1882.040472648715,
+        "point_count": 137
+      }
+    },
+    "2018_12": {
+      "CHANDIGARH": {
+        "average": 1875.9888939904838,
+        "point_count": 137
+      }
+    },
+    "2019_01": {
+      "CHANDIGARH": {
+        "average": 1876.889985202764,
+        "point_count": 137
+      }
+    },
+    "2019_03": {
+      "CHANDIGARH": {
+        "average": 1879.7475227578657,
+        "point_count": 137
+      }
+    },
+    "2019_04": {
+      "CHANDIGARH": {
+        "average": 1877.8288720495214,
+        "point_count": 137
+      }
+    },
+    "2019_05": {
+      "CHANDIGARH": {
+        "average": 1955.6332104355308,
+        "point_count": 137
+      }
+    },
+    "2019_06": {
+      "CHANDIGARH": {
+        "average": 1932.8332863106723,
+        "point_count": 137
+      }
+    },
+    "2019_07": {
+      "CHANDIGARH": {
+        "average": 1935.0058113497955,
+        "point_count": 137
+      }
+    },
+    "2019_08": {
+      "CHANDIGARH": {
+        "average": 1834.1893708609962,
+        "point_count": 137
+      }
+    },
+    "2019_09": {
+      "CHANDIGARH": {
+        "average": 1847.0043863022374,
+        "point_count": 137
+      }
+    },
+    "2019_10": {
+      "CHANDIGARH": {
+        "average": 1876.1546094195253,
+        "point_count": 137
+      }
+    },
+    "2019_11": {
+      "CHANDIGARH": {
+        "average": 1873.8940220557806,
+        "point_count": 137
+      }
+    },
+    "2019_12": {
+      "CHANDIGARH": {
+        "average": 1875.7830287149127,
+        "point_count": 137
+      }
+    },
+    "2020_01": {
+      "CHANDIGARH": {
+        "average": 1873.128346310129,
+        "point_count": 137
+      }
+    },
+    "2020_02": {
+      "CHANDIGARH": {
+        "average": 1849.702033618745,
+        "point_count": 137
+      }
+    },
+    "2020_03": {
+      "CHANDIGARH": {
+        "average": 1857.1815270281243,
+        "point_count": 137
+      }
+    },
+    "2020_04": {
+      "CHANDIGARH": {
+        "average": 1851.9346196501026,
+        "point_count": 137
+      }
+    },
+    "2020_05": {
+      "CHANDIGARH": {
+        "average": 1975.4272909905005,
+        "point_count": 137
+      }
+    },
+    "2020_06": {
+      "CHANDIGARH": {
+        "average": 1931.1726411447069,
+        "point_count": 137
+      }
+    },
+    "2020_07": {
+      "CHANDIGARH": {
+        "average": 1920.3205577034387,
+        "point_count": 137
+      }
+    },
+    "2020_08": {
+      "CHANDIGARH": {
+        "average": 1881.3496987203357,
+        "point_count": 137
+      }
+    },
+    "2020_09": {
+      "CHANDIGARH": {
+        "average": 1849.9319357215907,
+        "point_count": 137
+      }
+    },
+    "2020_10": {
+      "CHANDIGARH": {
+        "average": 1876.135044427385,
+        "point_count": 137
+      }
+    },
+    "2020_11": {
+      "CHANDIGARH": {
+        "average": 1872.76972562416,
+        "point_count": 137
+      }
+    },
+    "2020_12": {
+      "CHANDIGARH": {
+        "average": 1879.8137089717493,
+        "point_count": 137
+      }
+    },
+    "2021_01": {
+      "CHANDIGARH": {
+        "average": 1877.217970789222,
+        "point_count": 137
+      }
+    },
+    "2021_02": {
+      "CHANDIGARH": {
+        "average": 1849.7542690506357,
+        "point_count": 137
+      }
+    },
+    "2021_03": {
+      "CHANDIGARH": {
+        "average": 1856.898355110953,
+        "point_count": 137
+      }
+    },
+    "2021_04": {
+      "CHANDIGARH": {
+        "average": 1877.348878702225,
+        "point_count": 137
+      }
+    },
+    "2021_05": {
+      "CHANDIGARH": {
+        "average": 1910.1679918032523,
+        "point_count": 137
+      }
+    },
+    "2021_06": {
+      "CHANDIGARH": {
+        "average": 1914.3290751239201,
+        "point_count": 137
+      }
+    },
+    "2021_07": {
+      "CHANDIGARH": {
+        "average": 1914.0434803395667,
+        "point_count": 137
+      }
+    },
+    "2021_08": {
+      "CHANDIGARH": {
+        "average": 1880.0622649209722,
+        "point_count": 137
+      }
+    },
+    "2021_09": {
+      "CHANDIGARH": {
+        "average": 1871.9597454015018,
+        "point_count": 137
+      }
+    },
+    "2021_10": {
+      "CHANDIGARH": {
+        "average": 1849.9550874609768,
+        "point_count": 137
+      }
+    },
+    "2021_11": {
+      "CHANDIGARH": {
+        "average": 1882.5640999290129,
+        "point_count": 137
+      }
+    },
+    "2021_12": {
+      "CHANDIGARH": {
+        "average": 1879.3918618989128,
+        "point_count": 137
+      }
+    },
+    "2022_01": {
+      "CHANDIGARH": {
+        "average": 1875.6848076629901,
+        "point_count": 137
+      }
+    },
+    "2022_02": {
+      "CHANDIGARH": {
+        "average": 1849.8672418440067,
+        "point_count": 137
+      }
+    },
+    "2022_03": {
+      "CHANDIGARH": {
+        "average": 1856.5537079650455,
+        "point_count": 137
+      }
+    },
+    "2022_04": {
+      "CHANDIGARH": {
+        "average": 1877.1514501540814,
+        "point_count": 137
+      }
+    },
+    "2022_05": {
+      "CHANDIGARH": {
+        "average": 1937.9971473235191,
+        "point_count": 137
+      }
+    },
+    "2022_07": {
+      "CHANDIGARH": {
+        "average": 1881.8727473785848,
+        "point_count": 137
+      }
+    },
+    "2022_08": {
+      "CHANDIGARH": {
+        "average": 1879.7653524938594,
+        "point_count": 137
+      }
+    },
+    "2022_09": {
+      "CHANDIGARH": {
+        "average": 1857.472193421599,
+        "point_count": 137
+      }
+    },
+    "2022_10": {
+      "CHANDIGARH": {
+        "average": 1876.3009556685768,
+        "point_count": 137
+      }
+    },
+    "2022_11": {
+      "CHANDIGARH": {
+        "average": 1882.8326924900084,
+        "point_count": 137
+      }
+    },
+    "2022_12": {
+      "CHANDIGARH": {
+        "average": 1878.879105661248,
+        "point_count": 137
+      }
+    }
+  },
+  "statistics": {
+    "mean": 1882.2494202853802,
+    "std": 28.245105972577775,
+    "min": 1833.1057825400999,
+    "max": 1977.8198171608178
+  }
+}

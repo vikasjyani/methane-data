@@ -1,0 +1,5509 @@
+{
+  "type": "state_districts",
+  "state_name": "MEGHALAYA",
+  "data": {
+    "EAST_GARO_HILLS": {
+      "average_methane": 1882.0082990302944,
+      "data_quality": {
+        "total_months": 120,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 1475.4
+      },
+      "point_count": 177048
+    },
+    "EAST_JAINTIA_HILLS": {
+      "average_methane": 1877.3727430320225,
+      "data_quality": {
+        "total_months": 107,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 1918.7009345794393
+      },
+      "point_count": 205301
+    },
+    "EAST_KHASI_HILLS": {
+      "average_methane": 1880.3233415037212,
+      "data_quality": {
+        "total_months": 119,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 2609.7731092436975
+      },
+      "point_count": 310563
+    },
+    "NORTH_GARO_HILLS": {
+      "average_methane": 1881.9791934695693,
+      "data_quality": {
+        "total_months": 120,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 1208.0083333333334
+      },
+      "point_count": 144961
+    },
+    "RI_BHOI": {
+      "average_methane": 1880.449277349656,
+      "data_quality": {
+        "total_months": 118,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 2199.669491525424
+      },
+      "point_count": 259561
+    },
+    "SOUTH_GARO_HILLS": {
+      "average_methane": 1882.082357878507,
+      "data_quality": {
+        "total_months": 120,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 1712.925
+      },
+      "point_count": 205551
+    },
+    "SOUTH_WEST_GARO_HILLS": {
+      "average_methane": 1881.098299616257,
+      "data_quality": {
+        "total_months": 120,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 803.1916666666667
+      },
+      "point_count": 96383
+    },
+    "SOUTH_WEST_KHASI_HILLS": {
+      "average_methane": 1881.4176311813485,
+      "data_quality": {
+        "total_months": 119,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 1251.5210084033613
+      },
+      "point_count": 148931
+    },
+    "WEST_GARO_HILLS": {
+      "average_methane": 1881.476911491661,
+      "data_quality": {
+        "total_months": 120,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 2532.6
+      },
+      "point_count": 303912
+    },
+    "WEST_JAINTIA_HILLS": {
+      "average_methane": 1877.8239917167118,
+      "data_quality": {
+        "total_months": 107,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 1661.411214953271
+      },
+      "point_count": 177771
+    },
+    "WEST_KHASI_HILLS": {
+      "average_methane": 1881.4269760720465,
+      "data_quality": {
+        "total_months": 119,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 3584.672268907563
+      },
+      "point_count": 426576
+    }
+  },
+  "monthly_data": {
+    "2014_01": {
+      "EAST_GARO_HILLS": {
+        "average": 1879.775601018476,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1880.3023932924525,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1873.4449583287733,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1878.6258263971329,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1874.1981849977242,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1879.7383827968538,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1871.098970802866,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1878.522029524611,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1868.912687301494,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1881.025860334261,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1876.971690866778,
+        "point_count": 3742
+      }
+    },
+    "2014_02": {
+      "EAST_GARO_HILLS": {
+        "average": 1854.3963434489644,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1850.9833466750165,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1853.798497877389,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1852.7436374970741,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1852.9227865301298,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1854.0477184645272,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1847.472955331336,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1855.1721618440076,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1845.021988098385,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1851.7319840531122,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1854.9790670255256,
+        "point_count": 3742
+      }
+    },
+    "2014_03": {
+      "EAST_GARO_HILLS": {
+        "average": 1874.3117049637465,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1879.478357567194,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1872.6563949967833,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1874.288914821341,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1873.7837591362825,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1875.0399821135434,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1873.5145592034892,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1876.0017389178126,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1871.4290819946198,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1876.6466757813805,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1876.9977349184135,
+        "point_count": 3742
+      }
+    },
+    "2014_04": {
+      "EAST_GARO_HILLS": {
+        "average": 1875.2392540756125,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1878.0706378438026,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1870.5787220279592,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1874.66029140658,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1872.0686656569978,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1877.9904616486726,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1874.9001403342234,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1866.1151334308088,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1873.944149517703,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1871.499789876755,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1872.9856090550202,
+        "point_count": 3742
+      }
+    },
+    "2014_05": {
+      "EAST_GARO_HILLS": {
+        "average": 1907.9986380999026,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1924.6339382397355,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1915.5507938604183,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1908.8723035563598,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1913.0146013035553,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1909.7796816954087,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1920.0356891606698,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1907.5416937392147,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1919.6082954071055,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1920.3983976208578,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1907.5519520109399,
+        "point_count": 3742
+      }
+    },
+    "2014_06": {
+      "EAST_GARO_HILLS": {
+        "average": 1924.0423692636457,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1905.7772292501168,
+        "point_count": 1821
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1927.5295665532763,
+        "point_count": 2509
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1929.4628949911867,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1920.9661480836005,
+        "point_count": 1740
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1918.445979361201,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1918.4247900747803,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1918.1521514585993,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1929.5357289187225,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1908.9942404807296,
+        "point_count": 627
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1926.1006356043322,
+        "point_count": 3742
+      }
+    },
+    "2014_07": {
+      "EAST_GARO_HILLS": {
+        "average": 1918.704899268632,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1912.4840242406203,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1923.2228430508494,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1918.155854823258,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1924.9619744540535,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1911.6659066243199,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1928.601866418101,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1907.6870589390655,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1926.305120602488,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1925.404806595303,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1919.7522173390923,
+        "point_count": 3742
+      }
+    },
+    "2014_08": {
+      "EAST_GARO_HILLS": {
+        "average": 1866.585295282742,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1843.2393679962954,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1871.1744275328474,
+        "point_count": 1965
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1866.5172679590314,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1869.4015049764469,
+        "point_count": 1739
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1866.4696476514482,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1869.2560609636876,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1866.3327795277314,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1870.8363909077407,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1858.476351581162,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1866.517020935332,
+        "point_count": 3742
+      }
+    },
+    "2014_09": {
+      "EAST_GARO_HILLS": {
+        "average": 1866.9006152998707,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1874.5317249102961,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1871.244872285701,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1862.9562619891587,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1872.7997463597862,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1863.6828149192097,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1872.8315515938139,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1872.7143200794726,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1872.5039378539109,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1872.3721735936876,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1855.3577803391624,
+        "point_count": 3742
+      }
+    },
+    "2014_10": {
+      "EAST_GARO_HILLS": {
+        "average": 1881.4737354616586,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1850.3777893488289,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1868.583998262704,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1881.5776992853478,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1871.993536789509,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1878.3119430781492,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1860.0702903435972,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1880.1426296081258,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1872.139156825041,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1850.3562893059475,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1880.7122623055432,
+        "point_count": 3742
+      }
+    },
+    "2014_11": {
+      "EAST_GARO_HILLS": {
+        "average": 1881.8903642408022,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1880.4937327779078,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1875.7675490004765,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1880.7722244177057,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1878.2309015564051,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1882.2350327151667,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1877.0209960002055,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1881.0731454848774,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1876.5258440767566,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1880.7664705209381,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1878.8397730768756,
+        "point_count": 3742
+      }
+    },
+    "2014_12": {
+      "EAST_GARO_HILLS": {
+        "average": 1877.322496591307,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1880.0492053329242,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1873.680426752374,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1874.651509402959,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1873.589438341325,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1876.345251088912,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1875.7228978228036,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1877.321679006191,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1871.1167159458435,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1880.836364185293,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1874.906235930917,
+        "point_count": 3742
+      }
+    },
+    "2015_01": {
+      "EAST_GARO_HILLS": {
+        "average": 1879.4407984121647,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1879.8411312435228,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1873.498818848289,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1878.3214824760444,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1874.1105094546585,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1874.1872420824643,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1847.8661703710884,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1876.8408852977614,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1857.8218958925063,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1880.3968733745555,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1876.23676873187,
+        "point_count": 3742
+      }
+    },
+    "2015_02": {
+      "EAST_GARO_HILLS": {
+        "average": 1854.4752560680208,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1851.5712671118813,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1855.0075660650539,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1851.274568497545,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1853.4325874072206,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1856.1172110786056,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1846.0734944818946,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1851.0469479051624,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1844.6328495643775,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1852.8846272789785,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1851.3876426968034,
+        "point_count": 3742
+      }
+    },
+    "2015_03": {
+      "EAST_GARO_HILLS": {
+        "average": 1871.7107041782917,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1876.9795963614356,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1870.4658790809217,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1866.6909059124257,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1870.6332682773566,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1865.4341756814451,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1878.1655184702977,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1858.8567406064083,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1875.2100442555288,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1877.2130853369622,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1852.6181871091474,
+        "point_count": 3742
+      }
+    },
+    "2015_04": {
+      "EAST_GARO_HILLS": {
+        "average": 1867.5423844107777,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1877.6565210309932,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1869.9444517962652,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1872.7963403522583,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1869.6779370061581,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1871.4044204075979,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1872.473596002281,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1873.0312130807404,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1867.6791292163316,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1870.665346359394,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1864.758871951913,
+        "point_count": 3742
+      }
+    },
+    "2015_05": {
+      "EAST_GARO_HILLS": {
+        "average": 1916.1706296738396,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1912.305929852184,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1918.445427507288,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1910.7561997530772,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1914.4820137808783,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1920.0134827727065,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1921.7168140422948,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1905.0732636637388,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1924.4696699264596,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1920.3947755149397,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1910.2279140754483,
+        "point_count": 3742
+      }
+    },
+    "2015_06": {
+      "EAST_GARO_HILLS": {
+        "average": 1908.1944013263585,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1903.4998553879843,
+        "point_count": 1820
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1917.5685592442335,
+        "point_count": 2511
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1915.158265564602,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1921.3304925921693,
+        "point_count": 1753
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1908.1501168330872,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1903.1666844996794,
+        "point_count": 437
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1916.0780642953357,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1908.0105595446948,
+        "point_count": 2212
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1907.168099372239,
+        "point_count": 628
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1919.3538613577175,
+        "point_count": 3742
+      }
+    },
+    "2015_07": {
+      "EAST_GARO_HILLS": {
+        "average": 1908.2210808120085,
+        "point_count": 1553
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1915.9769503390135,
+        "point_count": 1950
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1913.8044988708439,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1910.8292667080364,
+        "point_count": 1721
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1929.3210391989448,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1925.8527840595093,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1925.1722761532405,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1929.9555158696962,
+        "point_count": 2565
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1907.291488028799,
+        "point_count": 3742
+      }
+    },
+    "2015_08": {
+      "EAST_GARO_HILLS": {
+        "average": 1873.8451293998648,
+        "point_count": 1553
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1866.0202678111657,
+        "point_count": 2011
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1876.0224013675986,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1865.2817154527804,
+        "point_count": 1776
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1870.632164908285,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1877.9288328248065,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1865.909732364702,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1876.2296579455676,
+        "point_count": 2565
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1865.5184228363553,
+        "point_count": 3742
+      }
+    },
+    "2015_09": {
+      "EAST_GARO_HILLS": {
+        "average": 1873.2332677980573,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1878.9076838203073,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1869.6245285650004,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1873.638258114254,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1863.6033726266412,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1871.7377322211594,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1872.643446363797,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1863.0504414308955,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1872.0033783042156,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1876.2060047429343,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1873.5863667110798,
+        "point_count": 3742
+      }
+    },
+    "2015_10": {
+      "EAST_GARO_HILLS": {
+        "average": 1881.8423359748192,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1857.467352323196,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1868.880308358573,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1881.72394018757,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1870.294746228471,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1880.4314240104707,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1867.1024919925185,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1879.2944494443984,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1876.5121948170085,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1853.3342277947272,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1878.9073970956622,
+        "point_count": 3742
+      }
+    },
+    "2015_11": {
+      "EAST_GARO_HILLS": {
+        "average": 1881.2742940117867,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1880.131927593716,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1875.5780000061145,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1881.8515824856552,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1876.4750341097563,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1881.9605400841076,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1879.6866929450932,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1879.609706973992,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1876.47990087071,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1880.9214263070128,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1877.6780721016416,
+        "point_count": 3742
+      }
+    },
+    "2015_12": {
+      "EAST_GARO_HILLS": {
+        "average": 1879.4362904457496,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1879.6434880394277,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1872.5902555179744,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1877.8411300572598,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1873.936173739129,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1879.6505429832916,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1874.0126637972062,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1878.2821019553478,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1870.1576226286597,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1879.9219905963537,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1876.8916886987454,
+        "point_count": 3742
+      }
+    },
+    "2016_01": {
+      "EAST_GARO_HILLS": {
+        "average": 1855.1555293741158,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1879.3799349946482,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1871.651514668519,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1865.025245264445,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1872.9578204587435,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1853.824698350623,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1874.9905721965129,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1873.8547751335466,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1870.4507486691605,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1880.1232928042668,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1871.7094924564367,
+        "point_count": 3742
+      }
+    },
+    "2016_02": {
+      "EAST_GARO_HILLS": {
+        "average": 1856.4561274088596,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1854.7990173104297,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1854.45907980851,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1855.368551906827,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1852.9154260478408,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1856.6911063945688,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1851.5695394967652,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1855.8538864465008,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1850.2378252286826,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1854.1240218524958,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1854.3915376461214,
+        "point_count": 3742
+      }
+    },
+    "2016_03": {
+      "EAST_GARO_HILLS": {
+        "average": 1877.3215317590511,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1843.4643514698726,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1869.8301668703734,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1876.96242480798,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1871.530791966801,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1874.898291131118,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1874.3315288323927,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1875.2448067592404,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1877.9715289790583,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1875.248763061299,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1874.2315493884619,
+        "point_count": 3742
+      }
+    },
+    "2016_04": {
+      "EAST_GARO_HILLS": {
+        "average": 1870.6267994439363,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1878.9097314406342,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1871.3439280495306,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1861.9406973899522,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1871.3237487432557,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1871.8725914791203,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1872.0766770824966,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1875.76263667437,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1871.4127000618291,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1875.66147435386,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1873.352041190498,
+        "point_count": 3742
+      }
+    },
+    "2016_05": {
+      "EAST_GARO_HILLS": {
+        "average": 1919.1498992455547,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1920.0332231149423,
+        "point_count": 1818
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1927.2343686628913,
+        "point_count": 2496
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1919.4237326237803,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1918.1981422933288,
+        "point_count": 1713
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1920.138166311632,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1923.7925048065554,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1919.801695530192,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1924.7958139770176,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1930.6979452265375,
+        "point_count": 625
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1920.2921786239956,
+        "point_count": 3742
+      }
+    },
+    "2016_06": {
+      "EAST_GARO_HILLS": {
+        "average": 1912.1474369102857,
+        "point_count": 1553
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1915.4321163859554,
+        "point_count": 1991
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1914.3014208021686,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1914.6408397024277,
+        "point_count": 1759
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1912.2722225470845,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1906.94655442124,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1914.9556537656247,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1916.3236400017195,
+        "point_count": 2565
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1911.0329375566546,
+        "point_count": 3742
+      }
+    },
+    "2016_07": {
+      "EAST_GARO_HILLS": {
+        "average": 1906.5194616105653,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1896.7669123207988,
+        "point_count": 1827
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1915.6327691826257,
+        "point_count": 2511
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1911.925617471243,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1916.1677423815875,
+        "point_count": 1746
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1902.7781485265566,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1905.7138537394155,
+        "point_count": 385
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1905.947626596323,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1903.1521291915187,
+        "point_count": 2204
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1901.9349696693282,
+        "point_count": 633
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1910.1728608085923,
+        "point_count": 3742
+      }
+    },
+    "2016_08": {
+      "EAST_GARO_HILLS": {
+        "average": 1875.5499482478663,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1868.1887288410128,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1866.8446232915053,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1874.7922979275343,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1866.851276579383,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1876.358070595171,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1888.3866691488909,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1865.8403729423987,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1874.817659079821,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1867.1362756940105,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1871.23829529198,
+        "point_count": 3742
+      }
+    },
+    "2016_09": {
+      "EAST_GARO_HILLS": {
+        "average": 1873.099629024305,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1879.4520336364358,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1853.2088928774367,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1870.6045888557512,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1853.6431357199,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1871.686552124899,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1872.4602946384648,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1858.250164690057,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1871.2420104243824,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1875.210870664128,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1859.4881010827066,
+        "point_count": 3742
+      }
+    },
+    "2016_10": {
+      "EAST_GARO_HILLS": {
+        "average": 1852.701996676586,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1876.9163981943198,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1858.8351773128575,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1856.1156798285947,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1874.0308346679215,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1852.8531629943868,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1875.7948664773269,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1849.9786251309802,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1874.2842191766017,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1880.8394806399713,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1851.0953060087754,
+        "point_count": 3742
+      }
+    },
+    "2016_11": {
+      "EAST_GARO_HILLS": {
+        "average": 1883.3715891368972,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1879.8072386175738,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1875.1812125076267,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1882.4809694726105,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1875.1538506125378,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1880.397762283735,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1878.2232389012386,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1880.2564638502265,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1876.507006415052,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1880.9730001314174,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1878.7400090217188,
+        "point_count": 3742
+      }
+    },
+    "2016_12": {
+      "EAST_GARO_HILLS": {
+        "average": 1880.0024420912594,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1879.7052727495463,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1875.0455079105768,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1879.0941006380433,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1874.4612863262823,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1882.27004056059,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1877.1241811684167,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1878.9918910186939,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1874.5761789606972,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1880.852175807225,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1877.4966847297926,
+        "point_count": 3742
+      }
+    },
+    "2017_01": {
+      "EAST_GARO_HILLS": {
+        "average": 1877.3808749498228,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1878.8816320667565,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1875.38208018,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1877.5051676170278,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1875.8172023074633,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1878.4923473466836,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1876.5212276091343,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1876.7073841039041,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1870.9132979822932,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1879.2131139325068,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1874.6486112000307,
+        "point_count": 3742
+      }
+    },
+    "2017_02": {
+      "EAST_GARO_HILLS": {
+        "average": 1851.7107683495478,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1851.1731946149737,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1852.419736325736,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1851.0794154204434,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1852.2740354381453,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1852.0644848477534,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1851.305381152819,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1850.8181715954674,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1851.8805345369985,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1852.1324238958077,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1851.0785773166704,
+        "point_count": 3742
+      }
+    },
+    "2017_03": {
+      "EAST_GARO_HILLS": {
+        "average": 1874.6621921615747,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1878.849210823664,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1872.8210324526249,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1876.2697906400012,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1872.8292398172036,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1875.0617041117407,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1874.8064437621997,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1877.8041080200064,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1873.5977087947977,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1876.4377919577475,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1878.3325583504966,
+        "point_count": 3742
+      }
+    },
+    "2017_04": {
+      "EAST_GARO_HILLS": {
+        "average": 1873.1121781437316,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1866.9073671481096,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1872.112702735229,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1873.5960941244948,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1871.7672789888304,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1873.222437318637,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1871.5401180854603,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1874.208339630953,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1872.6447147923432,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1874.4902037517124,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1876.0985729165436,
+        "point_count": 3742
+      }
+    },
+    "2017_05": {
+      "EAST_GARO_HILLS": {
+        "average": 1914.9196629154412,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1918.0271005864647,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1921.5133986674462,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1916.1767782217685,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1911.0200258896355,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1926.3889764582107,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1912.4411693674485,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1925.5191607541083,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1919.7668335153664,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1915.1321558960562,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1917.3718018584198,
+        "point_count": 3742
+      }
+    },
+    "2017_06": {
+      "EAST_GARO_HILLS": {
+        "average": 1912.2954048642907,
+        "point_count": 1553
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1903.6512677863034,
+        "point_count": 1980
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1914.1587569967699,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1911.3085682709063,
+        "point_count": 1743
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1911.1847200953116,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1923.4341311540056,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1909.4259022200695,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1928.9355351171573,
+        "point_count": 2565
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1911.1188123002296,
+        "point_count": 3742
+      }
+    },
+    "2017_07": {
+      "EAST_GARO_HILLS": {
+        "average": 1920.6842839780206,
+        "point_count": 1553
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1925.8097070096358,
+        "point_count": 1996
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1923.1738681370766,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1924.5165940105505,
+        "point_count": 1764
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1928.7370897867947,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1929.462479432981,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1922.2932797249214,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1927.6973373816536,
+        "point_count": 2565
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1928.8188056544986,
+        "point_count": 3742
+      }
+    },
+    "2017_08": {
+      "EAST_GARO_HILLS": {
+        "average": 1880.053669695146,
+        "point_count": 178
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1863.8574660451375,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1869.061186395612,
+        "point_count": 2572
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1875.8346061268628,
+        "point_count": 327
+      },
+      "RI_BHOI": {
+        "average": 1875.4280395195788,
+        "point_count": 1931
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1883.165344425456,
+        "point_count": 215
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1865.7413869522086,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1878.1463585694794,
+        "point_count": 53
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1871.5837615783248,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1864.2363926968985,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1880.8028878079472,
+        "point_count": 588
+      }
+    },
+    "2017_09": {
+      "EAST_GARO_HILLS": {
+        "average": 1870.8552619570767,
+        "point_count": 384
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1852.7764901276453,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1872.0721792149707,
+        "point_count": 2716
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1868.4098502943725,
+        "point_count": 351
+      },
+      "RI_BHOI": {
+        "average": 1872.5909251789587,
+        "point_count": 1931
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1875.1031874752339,
+        "point_count": 1706
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1872.8952111746635,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1876.080130908601,
+        "point_count": 924
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1873.5467275123656,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1873.0348195560914,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1876.3725239930875,
+        "point_count": 970
+      }
+    },
+    "2017_10": {
+      "EAST_GARO_HILLS": {
+        "average": 1851.9248661631411,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1882.0010837095226,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1875.9343190887594,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1855.607707545717,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1874.8150044157917,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1852.1641049377076,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1880.479791844732,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1852.3356006856677,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1878.3575997659632,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1882.1172770235653,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1854.617145621635,
+        "point_count": 3742
+      }
+    },
+    "2017_11": {
+      "EAST_GARO_HILLS": {
+        "average": 1881.6685761267186,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1879.8527998907057,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1875.4446788859457,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1880.3965122827244,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1878.1778772252653,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1882.6677020909635,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1875.4102086076325,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1879.4765588306302,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1874.3758551151286,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1880.7528488128712,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1876.9130546669257,
+        "point_count": 3742
+      }
+    },
+    "2017_12": {
+      "EAST_GARO_HILLS": {
+        "average": 1880.3544960222252,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1880.0946917667554,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1873.9145355832463,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1879.2623401289989,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1873.869092827628,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1881.2501789516216,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1875.7150918208029,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1877.7143003685123,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1870.6849232987208,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1881.0614748015373,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1877.0824154992486,
+        "point_count": 3742
+      }
+    },
+    "2018_01": {
+      "EAST_GARO_HILLS": {
+        "average": 1879.9521632920596,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1875.459927001982,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1863.6295003111347,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1878.4903377213288,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1871.2060075726818,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1880.0225957242028,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1871.7975406812284,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1878.268251805585,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1869.2744189800815,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1869.0049665876625,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1876.858101316312,
+        "point_count": 3742
+      }
+    },
+    "2018_02": {
+      "EAST_GARO_HILLS": {
+        "average": 1852.2943573747798,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1856.6466467208786,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1852.4240427480884,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1851.9502257087877,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1850.8024648845924,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1852.6271600731397,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1851.7666725943745,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1850.4445893189647,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1853.3550500271076,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1857.287172062853,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1850.8660016640376,
+        "point_count": 3742
+      }
+    },
+    "2018_03": {
+      "EAST_GARO_HILLS": {
+        "average": 1874.1698627271555,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1877.380863052046,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1875.0130903325373,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1874.9295198687407,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1875.6237626381467,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1874.3141679401783,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1874.8282242971943,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1877.3130759590829,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1873.4976377767232,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1874.6646721444347,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1877.7732172681524,
+        "point_count": 3742
+      }
+    },
+    "2018_04": {
+      "EAST_GARO_HILLS": {
+        "average": 1866.4830589028973,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1876.6998000613435,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1869.2206737237277,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1869.1403269181965,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1871.7636410628631,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1864.8234271350118,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1875.327553890552,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1859.8370539825726,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1873.8527325290554,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1873.351411224794,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1859.0746247989935,
+        "point_count": 3742
+      }
+    },
+    "2018_05": {
+      "EAST_GARO_HILLS": {
+        "average": 1913.7297405606905,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1917.6100671602042,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1920.5145142296278,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1905.1064054710207,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1916.682122729508,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1914.7514464893575,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1914.1897758859927,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1908.6433775775565,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1912.708486295961,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1919.8840474604592,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1910.4228460001482,
+        "point_count": 3742
+      }
+    },
+    "2018_06": {
+      "EAST_GARO_HILLS": {
+        "average": 1917.117777881114,
+        "point_count": 202
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1913.3593529067782,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1916.3663381348795,
+        "point_count": 2542
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1912.1658439179987,
+        "point_count": 375
+      },
+      "RI_BHOI": {
+        "average": 1915.0703972363533,
+        "point_count": 1911
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1908.8623980903812,
+        "point_count": 261
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1922.6341014684397,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1908.789796588023,
+        "point_count": 38
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1919.1046804766397,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1913.5005662123287,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1908.7296769255781,
+        "point_count": 528
+      }
+    },
+    "2018_07": {
+      "EAST_GARO_HILLS": {
+        "average": 1927.8880292555589,
+        "point_count": 1553
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1922.7370199648296,
+        "point_count": 2035
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1926.999008820335,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1923.3227438380438,
+        "point_count": 1793
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1916.589155067789,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1915.3135635642723,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1923.809753809877,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1925.3446006639144,
+        "point_count": 2565
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1924.9742757696658,
+        "point_count": 3742
+      }
+    },
+    "2018_08": {
+      "EAST_GARO_HILLS": {
+        "average": 1865.9548834836808,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1868.8455987713296,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1873.6329514341996,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1867.0885204832443,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1870.9609588920782,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1865.672357249725,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1866.378966449167,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1871.0073283190402,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1866.4050490576694,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1878.500878954629,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1869.4679317332675,
+        "point_count": 3742
+      }
+    },
+    "2018_09": {
+      "EAST_GARO_HILLS": {
+        "average": 1868.6198476524594,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1879.3649995401506,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1867.1514867521716,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1863.5940403664301,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1870.6633462731813,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1866.7920181094612,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1866.6085766861515,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1859.843964732487,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1865.5406777938947,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1874.109448678912,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1854.5148682476658,
+        "point_count": 3742
+      }
+    },
+    "2018_10": {
+      "EAST_GARO_HILLS": {
+        "average": 1852.4120492041898,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1871.703590961467,
+        "point_count": 1705
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1872.8520378372061,
+        "point_count": 2664
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1856.0858392624496,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1876.5266254124326,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1852.6120418501516,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1871.0682552565893,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1863.2253743394408,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1873.9884821301853,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1872.5506955315661,
+        "point_count": 1705
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1866.420959663558,
+        "point_count": 3742
+      }
+    },
+    "2018_11": {
+      "EAST_GARO_HILLS": {
+        "average": 1880.5109167867688,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1880.5486287842411,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1874.3632046422676,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1879.5342079710001,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1874.41025690757,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1880.5221235019014,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1878.209197156798,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1878.4683489530796,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1876.0561511047752,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1881.126289986808,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1877.2961208763802,
+        "point_count": 3742
+      }
+    },
+    "2018_12": {
+      "EAST_GARO_HILLS": {
+        "average": 1877.562367836724,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1877.0592386701285,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1872.732309974754,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1877.9890905557047,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1873.7316767783134,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1878.120655550967,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1878.4461961536535,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1875.6728500687875,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1870.7356145503156,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1878.670051098773,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1874.7214706980149,
+        "point_count": 3742
+      }
+    },
+    "2019_01": {
+      "EAST_GARO_HILLS": {
+        "average": 1879.8167181352997,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1850.9216323382213,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1865.8653315659353,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1878.651733627593,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1866.9477597562036,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1881.0780480993312,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1876.0505758597028,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1879.158544389534,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1870.4652544051917,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1851.1337208383018,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1877.8089513320372,
+        "point_count": 3742
+      }
+    },
+    "2019_02": {
+      "EAST_GARO_HILLS": {
+        "average": 1855.7925727683696,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1847.0398006586506,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1852.1555084705562,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1855.2874145382468,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1848.7823682820297,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1855.5773018275,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1852.3834409921542,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1853.78596303706,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1853.8305485902054,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1847.6257222808472,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1854.226894153719,
+        "point_count": 3742
+      }
+    },
+    "2019_03": {
+      "EAST_GARO_HILLS": {
+        "average": 1873.3840182325275,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1878.2816532445092,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1870.475322030763,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1873.9722797234886,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1876.2680286900907,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1874.8186844285042,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1871.2728714864872,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1876.1622847226008,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1872.5679243542177,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1874.0141019934204,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1876.9963195480884,
+        "point_count": 3742
+      }
+    },
+    "2019_04": {
+      "EAST_GARO_HILLS": {
+        "average": 1873.7833751829435,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1841.1511902207465,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1870.7314646382515,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1875.0970801972207,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1872.3395040996686,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1874.3111339619068,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1873.4900228875667,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1876.7109773862298,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1872.8181146160487,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1857.3821993589,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1875.881001703486,
+        "point_count": 3742
+      }
+    },
+    "2019_05": {
+      "EAST_GARO_HILLS": {
+        "average": 1908.347020220977,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1909.928789212081,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1914.027969835777,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1906.733868004932,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1905.544251786028,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1911.3626391029366,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1916.0377743215938,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1904.7838360591047,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1905.6093253939132,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1897.1528995486765,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1905.5560043418577,
+        "point_count": 3742
+      }
+    },
+    "2019_06": {
+      "EAST_GARO_HILLS": {
+        "average": 1911.8462713032466,
+        "point_count": 1553
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1908.9183507990915,
+        "point_count": 1924
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1916.8765797675949,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1912.8360974435523,
+        "point_count": 1707
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1908.3862976178118,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1907.7425864381928,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1906.1360071867969,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1912.180335629695,
+        "point_count": 2565
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1908.0996952840642,
+        "point_count": 3742
+      }
+    },
+    "2019_07": {
+      "EAST_GARO_HILLS": {
+        "average": 1926.506074417028,
+        "point_count": 1553
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1925.3770242237943,
+        "point_count": 2042
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1922.7042689369478,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1921.6024652047329,
+        "point_count": 1804
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1925.527881512031,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1924.7833502789674,
+        "point_count": 449
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1927.3582927050384,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1925.720879546236,
+        "point_count": 2214
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1926.5998336455261,
+        "point_count": 3742
+      }
+    },
+    "2019_08": {
+      "EAST_GARO_HILLS": {
+        "average": 1866.6414026065816,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1877.5484013299235,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1868.7035454224351,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1866.2992992591783,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1865.7821544608405,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1866.7025805769367,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1866.0073000727302,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1871.4458675086435,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1865.9681836220786,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1871.231158005715,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1867.7750763041186,
+        "point_count": 3742
+      }
+    },
+    "2019_09": {
+      "EAST_GARO_HILLS": {
+        "average": 1871.0281581660308,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1858.9681531105357,
+        "point_count": 1822
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1876.3906281605462,
+        "point_count": 1994
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1867.4289466050832,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1876.5528997066115,
+        "point_count": 1755
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1862.718935670816,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1850.2985929389622,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1864.1725470539386,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1846.6012492312536,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1866.983597100744,
+        "point_count": 628
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1873.6413549356455,
+        "point_count": 3742
+      }
+    },
+    "2019_10": {
+      "EAST_GARO_HILLS": {
+        "average": 1880.548143812502,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1850.3347473655863,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1867.439669281839,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1881.51160241233,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1871.5724608385383,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1871.1332024833362,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1846.818385238871,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1881.2152465963518,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1849.543087964684,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1850.3077758788825,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1880.2477578095472,
+        "point_count": 3742
+      }
+    },
+    "2019_11": {
+      "EAST_GARO_HILLS": {
+        "average": 1882.913486222019,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1881.4714867598589,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1875.0539151182397,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1880.069913684054,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1874.9689656257206,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1881.1990115152232,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1875.373106837179,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1880.513787017542,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1874.9837440503286,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1881.144618966081,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1878.5616668553691,
+        "point_count": 3742
+      }
+    },
+    "2019_12": {
+      "EAST_GARO_HILLS": {
+        "average": 1879.6985651028513,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1879.2718236474748,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1872.1957813457661,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1878.7322440210833,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1873.045404210321,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1880.0506694930746,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1875.2602615582412,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1878.2379768888716,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1870.3654010474922,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1876.0458608049094,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1876.781764374579,
+        "point_count": 3742
+      }
+    },
+    "2020_01": {
+      "EAST_GARO_HILLS": {
+        "average": 1878.43101098208,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1850.5458701789366,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1864.2785095571767,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1878.379436390344,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1865.2882120419533,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1879.3139538888247,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1874.392073092901,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1877.75331569449,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1870.6269472927477,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1850.949359064953,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1875.4921930952123,
+        "point_count": 3742
+      }
+    },
+    "2020_02": {
+      "EAST_GARO_HILLS": {
+        "average": 1851.9444049477693,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1851.3479237909958,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1852.8871655965222,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1852.4885913849093,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1851.8454632393364,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1852.280029898833,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1849.1298683937532,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1850.9178971681672,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1848.0974729227682,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1852.239840093623,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1852.0897739228928,
+        "point_count": 3742
+      }
+    },
+    "2020_03": {
+      "EAST_GARO_HILLS": {
+        "average": 1866.460112479652,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1875.9981721460535,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1870.7192721558738,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1861.6494172662128,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1874.6924426240387,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1870.8174659847155,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1877.2868202455707,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1872.3017829358982,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1873.9973397083122,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1873.6723633990234,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1866.629002210477,
+        "point_count": 3742
+      }
+    },
+    "2020_04": {
+      "EAST_GARO_HILLS": {
+        "average": 1875.1562917964955,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1843.7303663923324,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1873.1505677033547,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1872.8037620393072,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1875.1026232893157,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1877.0637598829362,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1869.2745426248646,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1866.688749472417,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1867.4566005649012,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1871.6809477169654,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1871.9037496685098,
+        "point_count": 3742
+      }
+    },
+    "2020_05": {
+      "EAST_GARO_HILLS": {
+        "average": 1908.788909489846,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1921.3972089431265,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1912.3243880355742,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1913.9873081371652,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1905.6760855193108,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1910.4358519836837,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1906.6285395580496,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1907.1086610409745,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1913.1361038384339,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1905.7943818035938,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1908.5231793688774,
+        "point_count": 3742
+      }
+    },
+    "2020_06": {
+      "EAST_GARO_HILLS": {
+        "average": 1918.3861311577316,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1909.587499243629,
+        "point_count": 1694
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1920.689625845073,
+        "point_count": 2667
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1922.1487455358256,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1921.704355391804,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1926.3584347027368,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1912.2951782921757,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1916.5096720503893,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1916.9901194912286,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1911.9501603979058,
+        "point_count": 1700
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1918.1852967183402,
+        "point_count": 3742
+      }
+    },
+    "2020_07": {
+      "EAST_GARO_HILLS": {
+        "average": 1912.7916580023661,
+        "point_count": 1553
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1913.6391482665492,
+        "point_count": 1966
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1911.3873693712517,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1914.7949417434402,
+        "point_count": 1740
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1909.0745718581345,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1913.4101794352996,
+        "point_count": 396
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1913.9333634706759,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1912.8187230340018,
+        "point_count": 2215
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1910.7057341553898,
+        "point_count": 3742
+      }
+    },
+    "2020_08": {
+      "EAST_GARO_HILLS": {
+        "average": 1901.545953210529,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1869.1344412443175,
+        "point_count": 1836
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1875.8767398493922,
+        "point_count": 2529
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1892.6298658180622,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1897.4560577075804,
+        "point_count": 1805
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1899.9516232354003,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1868.7082968481209,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1911.9894926222994,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1869.5066290849286,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1867.0361320441584,
+        "point_count": 642
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1906.9626820338235,
+        "point_count": 3742
+      }
+    },
+    "2020_09": {
+      "EAST_GARO_HILLS": {
+        "average": 1874.9324962581793,
+        "point_count": 269
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1871.543342107409,
+        "point_count": 1820
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1873.903069303897,
+        "point_count": 2270
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1851.657350908183,
+        "point_count": 317
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1861.7992508312893,
+        "point_count": 1703
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1873.7364698808553,
+        "point_count": 425
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1858.185452875509,
+        "point_count": 914
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1873.8183858210912,
+        "point_count": 852
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1870.3128016230562,
+        "point_count": 628
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1844.6486740929233,
+        "point_count": 484
+      }
+    },
+    "2020_10": {
+      "EAST_GARO_HILLS": {
+        "average": 1851.635853087331,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1850.5005005032945,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1846.6495499605448,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1855.9993914507613,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1846.9604410755578,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1850.2969595927184,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1847.9033302834023,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1848.8648053024936,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1852.3306882073896,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1850.3954291334608,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1848.452190393934,
+        "point_count": 3742
+      }
+    },
+    "2020_11": {
+      "EAST_GARO_HILLS": {
+        "average": 1880.7634713890418,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1880.6618889546169,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1874.2360244048616,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1880.165915780413,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1874.033526837406,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1882.2963850813237,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1878.3205524598143,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1879.8760886954965,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1876.227242908572,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1880.7983450856557,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1878.0407178554099,
+        "point_count": 3742
+      }
+    },
+    "2020_12": {
+      "EAST_GARO_HILLS": {
+        "average": 1879.5520281296085,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1879.4383141712074,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1872.9455798140682,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1877.885645576018,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1873.8833171373446,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1879.33806830145,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1875.936652084541,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1878.3616578357341,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1871.2086245059995,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1879.8646031086444,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1877.041964801195,
+        "point_count": 3742
+      }
+    },
+    "2021_01": {
+      "EAST_GARO_HILLS": {
+        "average": 1879.3273735880928,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1880.2708694031123,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1873.857700285569,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1878.5599502128912,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1873.7656917445713,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1873.1982397557117,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1874.324841308605,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1878.5619980291685,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1870.0331098478637,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1881.1390902554324,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1877.5765346714625,
+        "point_count": 3742
+      }
+    },
+    "2021_02": {
+      "EAST_GARO_HILLS": {
+        "average": 1855.9531065091023,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1850.669966796426,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1853.7414697002569,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1853.822028831827,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1852.172894846539,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1856.5573260242322,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1851.342369494292,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1852.3326854852507,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1851.5731605928472,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1851.1424719948407,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1851.3968122525669,
+        "point_count": 3742
+      }
+    },
+    "2021_03": {
+      "EAST_GARO_HILLS": {
+        "average": 1874.2757897159618,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1878.4803421330414,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1871.534388961251,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1874.264951118668,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1872.9122862849051,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1876.7396017423296,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1876.565316175739,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1872.5176365601558,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1875.338669746052,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1875.5202811679767,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1875.7733682487544,
+        "point_count": 3742
+      }
+    },
+    "2021_04": {
+      "EAST_GARO_HILLS": {
+        "average": 1874.2246825719433,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1878.7917915284243,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1870.3717336016825,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1875.0732925642092,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1875.8916997969775,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1874.5952144627956,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1873.2899173874737,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1875.782128868205,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1872.9344185487384,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1876.3249814668968,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1877.0442531731237,
+        "point_count": 3742
+      }
+    },
+    "2021_05": {
+      "EAST_GARO_HILLS": {
+        "average": 1918.6151193357696,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1914.9283627648363,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1921.8979870102112,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1917.286768021356,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1909.3667193882375,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1919.3620887041827,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1928.384117334938,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1919.1000513774231,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1926.0530115358906,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1920.6301878939898,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1913.4353001391682,
+        "point_count": 3742
+      }
+    },
+    "2021_06": {
+      "EAST_GARO_HILLS": {
+        "average": 1913.9922734090949,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1895.578837030697,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1917.0659690074992,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1920.8737030490822,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1925.1670607022445,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1914.116712184943,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1914.1545101368615,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1915.4311848636423,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1918.4681128590441,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1906.7101431785284,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1917.5440395376013,
+        "point_count": 3742
+      }
+    },
+    "2021_07": {
+      "EAST_GARO_HILLS": {
+        "average": 1928.6680173778825,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1926.2822934595038,
+        "point_count": 1688
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1926.542714734836,
+        "point_count": 2662
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1922.8461237426884,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1923.2742185433174,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1922.6709054692233,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1918.291313816879,
+        "point_count": 411
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1927.7899898995652,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1920.0309972234936,
+        "point_count": 2174
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1922.0758406030252,
+        "point_count": 1693
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1924.0119665885777,
+        "point_count": 3742
+      }
+    },
+    "2021_08": {
+      "EAST_GARO_HILLS": {
+        "average": 1875.3493556667615,
+        "point_count": 1553
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1868.2946400721426,
+        "point_count": 1996
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1877.1243064318546,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1866.0640718524578,
+        "point_count": 1764
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1872.0381343496072,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1874.934558634852,
+        "point_count": 429
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1867.6115090465473,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1877.1653859244125,
+        "point_count": 2196
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1867.338792150209,
+        "point_count": 3742
+      }
+    },
+    "2021_09": {
+      "EAST_GARO_HILLS": {
+        "average": 1872.0709153715839,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1879.1083313663453,
+        "point_count": 1825
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1862.8007556109574,
+        "point_count": 2511
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1871.214484416808,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1850.8213793829216,
+        "point_count": 1749
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1872.970827604402,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1871.2577379251115,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1872.944725641024,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1868.6384445743581,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1872.9397606495831,
+        "point_count": 630
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1874.8719351717527,
+        "point_count": 3742
+      }
+    },
+    "2021_10": {
+      "EAST_GARO_HILLS": {
+        "average": 1877.0498596533848,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1862.1567329662307,
+        "point_count": 1818
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1869.8803875225751,
+        "point_count": 2483
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1877.1648593547998,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1877.5053934193406,
+        "point_count": 1684
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1875.1488992730035,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1863.8365197511894,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1878.512315450383,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1871.2228275278878,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1850.0378207151655,
+        "point_count": 624
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1879.4384182744352,
+        "point_count": 3742
+      }
+    },
+    "2021_11": {
+      "EAST_GARO_HILLS": {
+        "average": 1883.0059060883136,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1879.081278733837,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1874.9530959209605,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1881.8203254583163,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1875.7685048625883,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1880.7591079473762,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1875.551568111362,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1880.0524337974864,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1877.2806078015687,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1880.5991053133753,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1878.177043747139,
+        "point_count": 3742
+      }
+    },
+    "2021_12": {
+      "EAST_GARO_HILLS": {
+        "average": 1879.850920960169,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1876.8231132418136,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1872.4326034291505,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1878.9065868452283,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1873.414328659156,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1880.419899507844,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1875.4471315567368,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1878.6176237584227,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1870.6350176085687,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1876.3796367345394,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1877.3379827036538,
+        "point_count": 3742
+      }
+    },
+    "2022_01": {
+      "EAST_GARO_HILLS": {
+        "average": 1853.7271663141462,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1880.1662193849581,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1873.4299810760426,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1861.1244852544132,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1874.172905412316,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1853.2316489494574,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1875.3066421934848,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1870.4274498938034,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1870.4232782564886,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1880.7729002723654,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1870.4447876409724,
+        "point_count": 3742
+      }
+    },
+    "2022_02": {
+      "EAST_GARO_HILLS": {
+        "average": 1856.702482845072,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1855.0954584979895,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1855.1234706248117,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1856.4030905986535,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1854.2755816916217,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1856.6969104707173,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1851.189221846331,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1856.2164661258876,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1851.614652614358,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1855.7638279111745,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1855.0668375761288,
+        "point_count": 3742
+      }
+    },
+    "2022_03": {
+      "EAST_GARO_HILLS": {
+        "average": 1877.9198872989555,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1875.9406590435322,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1871.2450777185982,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1876.9206607362478,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1871.8142322810975,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1877.9885634252296,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1875.2026146347473,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1877.3841018074672,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1876.1960543280973,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1876.6795755810472,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1875.60289040307,
+        "point_count": 3742
+      }
+    },
+    "2022_04": {
+      "EAST_GARO_HILLS": {
+        "average": 1873.434303823991,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1876.8826682477159,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1870.9168091274898,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1874.3744473535983,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1872.5959075635599,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1873.9656787645008,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1872.4478698953183,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1875.2067829935868,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1871.6697139758478,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1871.9236338078886,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1876.8562186868578,
+        "point_count": 3742
+      }
+    },
+    "2022_05": {
+      "EAST_GARO_HILLS": {
+        "average": 1918.3871779708236,
+        "point_count": 1553
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1924.6274055803485,
+        "point_count": 1937
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1920.6125205510375,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1922.6118160049773,
+        "point_count": 1711
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1914.1417458669544,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1919.8819336263118,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1909.6602171253767,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1924.3523011370662,
+        "point_count": 2565
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1917.445773210881,
+        "point_count": 3742
+      }
+    },
+    "2022_06": {
+      "EAST_GARO_HILLS": {
+        "average": 1912.5659779848288,
+        "point_count": 1553
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1907.4609615446373,
+        "point_count": 1882
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1916.900310428323,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1923.693130739612,
+        "point_count": 1664
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1911.700601238761,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1914.749311396561,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1913.66769471636,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1917.9245195732667,
+        "point_count": 2565
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1914.186548546101,
+        "point_count": 3742
+      }
+    },
+    "2022_07": {
+      "EAST_GARO_HILLS": {
+        "average": 1914.9693586320514,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1932.7756102987005,
+        "point_count": 1823
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1931.3010999480825,
+        "point_count": 2498
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1919.6913585117989,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1917.0909031748968,
+        "point_count": 1721
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1919.9608779440923,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1926.9400864345891,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1922.7906415636692,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1930.0208642405996,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1934.9348431414921,
+        "point_count": 628
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1921.2834818348379,
+        "point_count": 3742
+      }
+    },
+    "2022_08": {
+      "EAST_GARO_HILLS": {
+        "average": 1865.7978243175414,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1866.7865002535457,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1866.8327251891549,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1862.5388572350837,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1871.4985677717173,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1885.7375358323925,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1868.3544742285594,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1892.07312796934,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1869.3208124471187,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1865.888505705969,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1899.1839021737455,
+        "point_count": 3742
+      }
+    },
+    "2022_09": {
+      "EAST_GARO_HILLS": {
+        "average": 1867.1430079199738,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1841.5773794445827,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1853.8610546720536,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1860.3471102650926,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1855.8090282406622,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1873.2924887732095,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1871.9269552360367,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1856.505076263436,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1869.5929847341306,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1857.8822173876408,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1855.1676369145277,
+        "point_count": 3742
+      }
+    },
+    "2022_10": {
+      "EAST_GARO_HILLS": {
+        "average": 1852.4561393949614,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1850.4210042350724,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1846.1870900361762,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1855.7423682274484,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1847.5949359490862,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1852.7988400687996,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1875.7299526224308,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1850.1130505439853,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1874.4003512292868,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1851.734125647303,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1849.3060820869964,
+        "point_count": 3742
+      }
+    },
+    "2022_11": {
+      "EAST_GARO_HILLS": {
+        "average": 1882.7303892531788,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1880.840427286006,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1875.1654398217229,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1883.0319495392519,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1876.1803217071063,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1882.8963903186097,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1878.1323742389425,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1880.008050691932,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1877.3058740738018,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1880.9682957730497,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1877.95167509977,
+        "point_count": 3742
+      }
+    },
+    "2022_12": {
+      "EAST_GARO_HILLS": {
+        "average": 1881.5376773077476,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1880.0055704242968,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1874.375294935667,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1879.982959131097,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1874.426450022367,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1882.568615288503,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1879.7264818616645,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1880.1117168804467,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1874.061756577636,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1880.4509631273797,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1878.1558902550464,
+        "point_count": 3742
+      }
+    },
+    "2023_01": {
+      "EAST_GARO_HILLS": {
+        "average": 1879.645332162136,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1878.71908891992,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1871.9545816553402,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1879.1133959112487,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1873.6253205860526,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1879.9336661934922,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1874.8922983875973,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1877.7830831391768,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1869.9483244851442,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1878.983744689938,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1875.9872897730022,
+        "point_count": 3742
+      }
+    },
+    "2023_02": {
+      "EAST_GARO_HILLS": {
+        "average": 1851.6386961914084,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1853.6109958714608,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1849.8083098059328,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1850.8682452499572,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1852.054101645256,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1851.687447955598,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1851.8244319017872,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1849.3737134377786,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1851.8136564319636,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1854.535572109925,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1849.9603013361118,
+        "point_count": 3742
+      }
+    },
+    "2023_03": {
+      "EAST_GARO_HILLS": {
+        "average": 1873.981296237976,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1879.2231383192038,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1874.6750909858515,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1874.7761568431874,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1874.4840943937809,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1874.9663798326355,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1874.8918349923788,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1878.2461379888769,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1873.5477552368936,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1868.115826867776,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1878.0395985888401,
+        "point_count": 3742
+      }
+    },
+    "2023_04": {
+      "EAST_GARO_HILLS": {
+        "average": 1875.078163978763,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1842.4759999770909,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1871.6225936754743,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1875.3368632319566,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1879.1576386213303,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1875.5162447109053,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1869.9733118848444,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1876.6764957910711,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1874.207512027453,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1868.1314434242054,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1877.2132231253427,
+        "point_count": 3742
+      }
+    },
+    "2023_05": {
+      "EAST_GARO_HILLS": {
+        "average": 1909.763862306927,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1915.2217340318784,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1923.1657506556667,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1903.0096502597632,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1915.409020901969,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1920.9691702664657,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1908.7761137953676,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1919.6829904756019,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1909.8269502322044,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1915.1702829044987,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1916.2754795276455,
+        "point_count": 3742
+      }
+    },
+    "2023_06": {
+      "EAST_GARO_HILLS": {
+        "average": 1904.2129419942182,
+        "point_count": 196
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1908.7530952942368,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1915.974488394238,
+        "point_count": 2565
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1903.2858487775056,
+        "point_count": 345
+      },
+      "RI_BHOI": {
+        "average": 1912.4043459049105,
+        "point_count": 1931
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1915.6786545256707,
+        "point_count": 232
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1902.4141892886469,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1907.1457039474853,
+        "point_count": 51
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1904.2522869552445,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1911.4514333051115,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1913.8951215328495,
+        "point_count": 582
+      }
+    },
+    "2023_07": {
+      "EAST_GARO_HILLS": {
+        "average": 1911.8801970160207,
+        "point_count": 183
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1916.1861308426203,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1921.2110136057593,
+        "point_count": 2564
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1900.547744326516,
+        "point_count": 349
+      },
+      "RI_BHOI": {
+        "average": 1919.4733451342076,
+        "point_count": 1931
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1925.6468384101652,
+        "point_count": 231
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1910.5102233805046,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1907.1665548986616,
+        "point_count": 51
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1912.550144535914,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1920.307905845414,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1918.0080464137275,
+        "point_count": 578
+      }
+    },
+    "2023_08": {
+      "EAST_GARO_HILLS": {
+        "average": 1868.6079198615428,
+        "point_count": 147
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1872.967623095549,
+        "point_count": 291
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1878.0164076569117,
+        "point_count": 176
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1864.387735079909,
+        "point_count": 827
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1870.9941230752866,
+        "point_count": 2565
+      }
+    },
+    "2023_09": {
+      "EAST_GARO_HILLS": {
+        "average": 1873.1660367759162,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1862.2996862679074,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1871.8735430371146,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1874.9824923859085,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1872.4134491683205,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1873.7978793428724,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1874.7067008886397,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1875.592616565914,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1873.0036211447627,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1868.12060109152,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1876.183714687048,
+        "point_count": 3742
+      }
+    },
+    "2023_10": {
+      "EAST_GARO_HILLS": {
+        "average": 1852.8984251706834,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1875.9750653844783,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1871.1315256377745,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1857.3689984708576,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1870.791811547436,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1853.2879989329226,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1875.31507013908,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1851.989109816583,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1878.3229497049344,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1860.1456391309296,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1854.9086406780325,
+        "point_count": 3742
+      }
+    },
+    "2023_11": {
+      "EAST_GARO_HILLS": {
+        "average": 1875.9536254367258,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1880.0811636719995,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1875.6277061447388,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1876.1690715827676,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1878.192805236207,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1876.3446034244557,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1877.4531023738666,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1877.4855841460828,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1875.2187005077435,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1881.0072024822239,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1879.4452947493496,
+        "point_count": 3742
+      }
+    },
+    "2023_12": {
+      "EAST_GARO_HILLS": {
+        "average": 1879.4618530860366,
+        "point_count": 1553
+      },
+      "EAST_JAINTIA_HILLS": {
+        "average": 1879.0294634449972,
+        "point_count": 1936
+      },
+      "EAST_KHASI_HILLS": {
+        "average": 1872.637496000238,
+        "point_count": 2723
+      },
+      "NORTH_GARO_HILLS": {
+        "average": 1878.3032489459233,
+        "point_count": 1262
+      },
+      "RI_BHOI": {
+        "average": 1874.1276344165378,
+        "point_count": 2325
+      },
+      "SOUTH_GARO_HILLS": {
+        "average": 1880.6518377321959,
+        "point_count": 1779
+      },
+      "SOUTH_WEST_GARO_HILLS": {
+        "average": 1876.3048465321174,
+        "point_count": 827
+      },
+      "SOUTH_WEST_KHASI_HILLS": {
+        "average": 1876.8009129176157,
+        "point_count": 1300
+      },
+      "WEST_GARO_HILLS": {
+        "average": 1870.9315681484707,
+        "point_count": 2565
+      },
+      "WEST_JAINTIA_HILLS": {
+        "average": 1880.1370721946707,
+        "point_count": 1770
+      },
+      "WEST_KHASI_HILLS": {
+        "average": 1876.2059463073458,
+        "point_count": 3742
+      }
+    }
+  },
+  "statistics": {
+    "mean": 1880.7066295936652,
+    "std": 21.827198350087464,
+    "min": 1841.1511902207465,
+    "max": 1934.9348431414921
+  }
+}

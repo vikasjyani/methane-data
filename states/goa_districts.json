@@ -1,0 +1,1192 @@
+{
+  "type": "state_districts",
+  "state_name": "GOA",
+  "data": {
+    "NORTH_GOA": {
+      "average_methane": 1869.6827589490124,
+      "data_quality": {
+        "total_months": 116,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 1519.8879310344828
+      },
+      "point_count": 176307
+    },
+    "SOUTH_GOA": {
+      "average_methane": 1866.4684860134091,
+      "data_quality": {
+        "total_months": 116,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 1736.5603448275863
+      },
+      "point_count": 201441
+    }
+  },
+  "monthly_data": {
+    "2014_01": {
+      "NORTH_GOA": {
+        "average": 1851.5055940542452,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1852.1595203946895,
+        "point_count": 1797
+      }
+    },
+    "2014_02": {
+      "NORTH_GOA": {
+        "average": 1874.5020977781649,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1873.166311092296,
+        "point_count": 1797
+      }
+    },
+    "2014_03": {
+      "NORTH_GOA": {
+        "average": 1874.4086353415769,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1873.2014055892614,
+        "point_count": 1797
+      }
+    },
+    "2014_04": {
+      "NORTH_GOA": {
+        "average": 1862.2746650025188,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1860.8064483046996,
+        "point_count": 1797
+      }
+    },
+    "2014_05": {
+      "NORTH_GOA": {
+        "average": 1890.8585939565278,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1881.5238861719283,
+        "point_count": 1797
+      }
+    },
+    "2014_06": {
+      "NORTH_GOA": {
+        "average": 1875.3840745460054,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1868.8951761782564,
+        "point_count": 1797
+      }
+    },
+    "2014_07": {
+      "NORTH_GOA": {
+        "average": 1871.5329591415007,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1863.2086692833327,
+        "point_count": 1797
+      }
+    },
+    "2014_08": {
+      "NORTH_GOA": {
+        "average": 1870.463361802269,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1866.014539200143,
+        "point_count": 1797
+      }
+    },
+    "2014_09": {
+      "NORTH_GOA": {
+        "average": 1869.961154553288,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1872.2184045451804,
+        "point_count": 1797
+      }
+    },
+    "2014_10": {
+      "NORTH_GOA": {
+        "average": 1868.432445330272,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1872.9120712134563,
+        "point_count": 1797
+      }
+    },
+    "2014_11": {
+      "NORTH_GOA": {
+        "average": 1850.730596050772,
+        "point_count": 1241
+      },
+      "SOUTH_GOA": {
+        "average": 1850.7562587176726,
+        "point_count": 1787
+      }
+    },
+    "2014_12": {
+      "NORTH_GOA": {
+        "average": 1870.230979662939,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1858.3438896670068,
+        "point_count": 1797
+      }
+    },
+    "2015_01": {
+      "NORTH_GOA": {
+        "average": 1846.3202088281525,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1849.3191579949068,
+        "point_count": 1797
+      }
+    },
+    "2015_02": {
+      "NORTH_GOA": {
+        "average": 1873.6146234095347,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1873.5014580531854,
+        "point_count": 1797
+      }
+    },
+    "2015_03": {
+      "NORTH_GOA": {
+        "average": 1873.453578983003,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1872.305369371005,
+        "point_count": 1797
+      }
+    },
+    "2015_04": {
+      "NORTH_GOA": {
+        "average": 1872.3602663082268,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1873.3924371081052,
+        "point_count": 1797
+      }
+    },
+    "2015_05": {
+      "NORTH_GOA": {
+        "average": 1885.317045872845,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1884.7480537194635,
+        "point_count": 1797
+      }
+    },
+    "2015_06": {
+      "NORTH_GOA": {
+        "average": 1865.2823366362456,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1867.7204214013937,
+        "point_count": 1797
+      }
+    },
+    "2015_07": {
+      "NORTH_GOA": {
+        "average": 1869.5834345502974,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1866.4244038104057,
+        "point_count": 1797
+      }
+    },
+    "2015_08": {
+      "NORTH_GOA": {
+        "average": 1871.1840641574543,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1865.5264959118226,
+        "point_count": 1797
+      }
+    },
+    "2015_09": {
+      "NORTH_GOA": {
+        "average": 1874.7587894901867,
+        "point_count": 1229
+      },
+      "SOUTH_GOA": {
+        "average": 1873.4464712091403,
+        "point_count": 1786
+      }
+    },
+    "2015_10": {
+      "NORTH_GOA": {
+        "average": 1851.1574799198754,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1850.848685891126,
+        "point_count": 1797
+      }
+    },
+    "2015_11": {
+      "NORTH_GOA": {
+        "average": 1850.695494781788,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1851.0632633929606,
+        "point_count": 1797
+      }
+    },
+    "2015_12": {
+      "NORTH_GOA": {
+        "average": 1868.773620323496,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1856.948468561663,
+        "point_count": 1797
+      }
+    },
+    "2016_01": {
+      "NORTH_GOA": {
+        "average": 1852.3579474392752,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1853.2037727392876,
+        "point_count": 1797
+      }
+    },
+    "2016_02": {
+      "NORTH_GOA": {
+        "average": 1876.1364169133506,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1873.3280828194356,
+        "point_count": 1797
+      }
+    },
+    "2016_03": {
+      "NORTH_GOA": {
+        "average": 1876.1847235629778,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1876.1545504528378,
+        "point_count": 1797
+      }
+    },
+    "2016_04": {
+      "NORTH_GOA": {
+        "average": 1874.7052485609258,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1874.3113519145036,
+        "point_count": 1797
+      }
+    },
+    "2016_05": {
+      "NORTH_GOA": {
+        "average": 1883.7826174371119,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1890.7222816651147,
+        "point_count": 1797
+      }
+    },
+    "2016_06": {
+      "NORTH_GOA": {
+        "average": 1869.2412581318274,
+        "point_count": 1208
+      },
+      "SOUTH_GOA": {
+        "average": 1865.0083249208346,
+        "point_count": 1782
+      }
+    },
+    "2016_07": {
+      "NORTH_GOA": {
+        "average": 1875.1364487269568,
+        "point_count": 1290
+      },
+      "SOUTH_GOA": {
+        "average": 1866.942588767008,
+        "point_count": 1744
+      }
+    },
+    "2016_08": {
+      "NORTH_GOA": {
+        "average": 1867.1500521063417,
+        "point_count": 1155
+      },
+      "SOUTH_GOA": {
+        "average": 1866.560239266547,
+        "point_count": 1771
+      }
+    },
+    "2016_09": {
+      "NORTH_GOA": {
+        "average": 1868.1590595026603,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1871.5755948614612,
+        "point_count": 1797
+      }
+    },
+    "2016_10": {
+      "NORTH_GOA": {
+        "average": 1847.5560390082064,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1851.9120067681592,
+        "point_count": 1797
+      }
+    },
+    "2016_11": {
+      "NORTH_GOA": {
+        "average": 1857.7623608677873,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1850.818438226137,
+        "point_count": 1797
+      }
+    },
+    "2016_12": {
+      "NORTH_GOA": {
+        "average": 1868.5328602580046,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1856.7597973456695,
+        "point_count": 1797
+      }
+    },
+    "2017_01": {
+      "NORTH_GOA": {
+        "average": 1851.5287765132914,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1853.5847080336302,
+        "point_count": 1797
+      }
+    },
+    "2017_02": {
+      "NORTH_GOA": {
+        "average": 1875.5036369655973,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1878.2317498473212,
+        "point_count": 1797
+      }
+    },
+    "2017_03": {
+      "NORTH_GOA": {
+        "average": 1873.430416194035,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1873.103213166282,
+        "point_count": 1797
+      }
+    },
+    "2017_04": {
+      "NORTH_GOA": {
+        "average": 1883.0879710309932,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1873.1163766338993,
+        "point_count": 1797
+      }
+    },
+    "2017_05": {
+      "NORTH_GOA": {
+        "average": 1881.8660935162677,
+        "point_count": 1213
+      },
+      "SOUTH_GOA": {
+        "average": 1884.0641255852418,
+        "point_count": 1783
+      }
+    },
+    "2017_06": {
+      "NORTH_GOA": {
+        "average": 1862.1258246090013,
+        "point_count": 1213
+      },
+      "SOUTH_GOA": {
+        "average": 1863.1702834811474,
+        "point_count": 1144
+      }
+    },
+    "2017_07": {
+      "NORTH_GOA": {
+        "average": 1870.2818193660619,
+        "point_count": 1294
+      },
+      "SOUTH_GOA": {
+        "average": 1866.2978516244143,
+        "point_count": 1744
+      }
+    },
+    "2017_08": {
+      "NORTH_GOA": {
+        "average": 1877.807489338136,
+        "point_count": 1291
+      },
+      "SOUTH_GOA": {
+        "average": 1866.0420958044924,
+        "point_count": 1744
+      }
+    },
+    "2017_09": {
+      "NORTH_GOA": {
+        "average": 1875.2328033981516,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1863.8724777738807,
+        "point_count": 1797
+      }
+    },
+    "2017_10": {
+      "NORTH_GOA": {
+        "average": 1845.9863256034853,
+        "point_count": 1180
+      },
+      "SOUTH_GOA": {
+        "average": 1846.180858429011,
+        "point_count": 428
+      }
+    },
+    "2017_11": {
+      "NORTH_GOA": {
+        "average": 1867.1873066565208,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1855.446568883034,
+        "point_count": 1797
+      }
+    },
+    "2017_12": {
+      "NORTH_GOA": {
+        "average": 1867.8973472493226,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1856.271266572679,
+        "point_count": 1797
+      }
+    },
+    "2018_01": {
+      "NORTH_GOA": {
+        "average": 1851.9636164510516,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1852.410712548884,
+        "point_count": 1797
+      }
+    },
+    "2018_02": {
+      "NORTH_GOA": {
+        "average": 1878.1332309265167,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1873.6355575047264,
+        "point_count": 1797
+      }
+    },
+    "2018_03": {
+      "NORTH_GOA": {
+        "average": 1873.8900475447915,
+        "point_count": 1192
+      },
+      "SOUTH_GOA": {
+        "average": 1872.9755967396422,
+        "point_count": 1778
+      }
+    },
+    "2018_04": {
+      "NORTH_GOA": {
+        "average": 1870.3222748901499,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1862.3236937389188,
+        "point_count": 1797
+      }
+    },
+    "2018_05": {
+      "NORTH_GOA": {
+        "average": 1883.7373080874224,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1875.1399131968274,
+        "point_count": 1797
+      }
+    },
+    "2018_06": {
+      "NORTH_GOA": {
+        "average": 1883.491487655911,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1872.5175499442576,
+        "point_count": 1797
+      }
+    },
+    "2018_08": {
+      "NORTH_GOA": {
+        "average": 1923.884542015136,
+        "point_count": 1258
+      },
+      "SOUTH_GOA": {
+        "average": 1926.8078170358433,
+        "point_count": 499
+      }
+    },
+    "2018_09": {
+      "NORTH_GOA": {
+        "average": 1880.0764952507634,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1872.1226181407055,
+        "point_count": 1797
+      }
+    },
+    "2018_10": {
+      "NORTH_GOA": {
+        "average": 1859.707246591626,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1870.6935625001636,
+        "point_count": 1797
+      }
+    },
+    "2018_11": {
+      "NORTH_GOA": {
+        "average": 1868.52940988965,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1855.475007573283,
+        "point_count": 1797
+      }
+    },
+    "2018_12": {
+      "NORTH_GOA": {
+        "average": 1862.1990940965943,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1852.0596875475007,
+        "point_count": 1797
+      }
+    },
+    "2019_01": {
+      "NORTH_GOA": {
+        "average": 1852.0320991745373,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1853.1328088453974,
+        "point_count": 1797
+      }
+    },
+    "2019_02": {
+      "NORTH_GOA": {
+        "average": 1874.5947294761554,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1873.2842845195673,
+        "point_count": 1797
+      }
+    },
+    "2019_03": {
+      "NORTH_GOA": {
+        "average": 1873.7341097836536,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1872.2031828198078,
+        "point_count": 1797
+      }
+    },
+    "2019_04": {
+      "NORTH_GOA": {
+        "average": 1865.980784097876,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1864.815471743024,
+        "point_count": 1797
+      }
+    },
+    "2019_05": {
+      "NORTH_GOA": {
+        "average": 1884.1976735353066,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1887.921447694674,
+        "point_count": 1797
+      }
+    },
+    "2019_06": {
+      "NORTH_GOA": {
+        "average": 1886.658506630383,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1875.8643660801392,
+        "point_count": 1797
+      }
+    },
+    "2019_07": {
+      "NORTH_GOA": {
+        "average": 1866.7509310766295,
+        "point_count": 1179
+      },
+      "SOUTH_GOA": {
+        "average": 1865.124196543468,
+        "point_count": 1782
+      }
+    },
+    "2019_08": {
+      "NORTH_GOA": {
+        "average": 1925.0815469011388,
+        "point_count": 1273
+      },
+      "SOUTH_GOA": {
+        "average": 1926.5241548635645,
+        "point_count": 506
+      }
+    },
+    "2019_10": {
+      "NORTH_GOA": {
+        "average": 1856.6691261763995,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1864.9078268893304,
+        "point_count": 1797
+      }
+    },
+    "2019_11": {
+      "NORTH_GOA": {
+        "average": 1850.6954526679106,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1850.6309511674476,
+        "point_count": 1797
+      }
+    },
+    "2019_12": {
+      "NORTH_GOA": {
+        "average": 1855.9020892098868,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1851.8868652001868,
+        "point_count": 1797
+      }
+    },
+    "2020_01": {
+      "NORTH_GOA": {
+        "average": 1852.0215841641757,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1853.8117249242487,
+        "point_count": 1797
+      }
+    },
+    "2020_02": {
+      "NORTH_GOA": {
+        "average": 1872.3361613171223,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1873.217621895106,
+        "point_count": 1797
+      }
+    },
+    "2020_03": {
+      "NORTH_GOA": {
+        "average": 1874.4732090019768,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1873.1716579576796,
+        "point_count": 1797
+      }
+    },
+    "2020_04": {
+      "NORTH_GOA": {
+        "average": 1865.179004798611,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1861.506309967631,
+        "point_count": 1797
+      }
+    },
+    "2020_05": {
+      "NORTH_GOA": {
+        "average": 1872.6575256438864,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1869.5966551803451,
+        "point_count": 1797
+      }
+    },
+    "2020_06": {
+      "NORTH_GOA": {
+        "average": 1870.2800216572675,
+        "point_count": 1300
+      },
+      "SOUTH_GOA": {
+        "average": 1870.228835793634,
+        "point_count": 1749
+      }
+    },
+    "2020_08": {
+      "NORTH_GOA": {
+        "average": 1924.4242181291738,
+        "point_count": 1260
+      },
+      "SOUTH_GOA": {
+        "average": 1917.729957167829,
+        "point_count": 499
+      }
+    },
+    "2020_09": {
+      "NORTH_GOA": {
+        "average": 1871.2459169701044,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1866.3326809740706,
+        "point_count": 1797
+      }
+    },
+    "2020_10": {
+      "NORTH_GOA": {
+        "average": 1854.8002464445187,
+        "point_count": 1235
+      },
+      "SOUTH_GOA": {
+        "average": 1865.307841139795,
+        "point_count": 1786
+      }
+    },
+    "2020_11": {
+      "NORTH_GOA": {
+        "average": 1851.5785658743084,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1851.2231706878977,
+        "point_count": 1797
+      }
+    },
+    "2020_12": {
+      "NORTH_GOA": {
+        "average": 1868.0869914448444,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1857.8579234473339,
+        "point_count": 1797
+      }
+    },
+    "2021_01": {
+      "NORTH_GOA": {
+        "average": 1852.2651265467534,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1852.937051207393,
+        "point_count": 1797
+      }
+    },
+    "2021_02": {
+      "NORTH_GOA": {
+        "average": 1877.0208819079862,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1876.6550444178952,
+        "point_count": 1797
+      }
+    },
+    "2021_03": {
+      "NORTH_GOA": {
+        "average": 1874.5979075744972,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1873.3057919392857,
+        "point_count": 1797
+      }
+    },
+    "2021_04": {
+      "NORTH_GOA": {
+        "average": 1872.450493423327,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1872.6536699467254,
+        "point_count": 1797
+      }
+    },
+    "2021_05": {
+      "NORTH_GOA": {
+        "average": 1880.0683156553207,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1878.2159600152481,
+        "point_count": 1797
+      }
+    },
+    "2021_06": {
+      "NORTH_GOA": {
+        "average": 1871.171155352526,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1864.7553128299191,
+        "point_count": 1797
+      }
+    },
+    "2021_07": {
+      "NORTH_GOA": {
+        "average": 1865.1069042416407,
+        "point_count": 1214
+      },
+      "SOUTH_GOA": {
+        "average": 1865.9243657388665,
+        "point_count": 1783
+      }
+    },
+    "2021_08": {
+      "NORTH_GOA": {
+        "average": 1869.065856437626,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1862.670970806114,
+        "point_count": 1797
+      }
+    },
+    "2021_09": {
+      "NORTH_GOA": {
+        "average": 1870.1759885256095,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1873.5217800807316,
+        "point_count": 1797
+      }
+    },
+    "2021_10": {
+      "NORTH_GOA": {
+        "average": 1852.3543973581338,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1852.0739548762326,
+        "point_count": 1797
+      }
+    },
+    "2021_11": {
+      "NORTH_GOA": {
+        "average": 1848.4264848379655,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1849.141811378939,
+        "point_count": 1797
+      }
+    },
+    "2021_12": {
+      "NORTH_GOA": {
+        "average": 1868.931853114315,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1857.1121903311391,
+        "point_count": 1797
+      }
+    },
+    "2022_01": {
+      "NORTH_GOA": {
+        "average": 1851.6957557806809,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1852.6700781691636,
+        "point_count": 1797
+      }
+    },
+    "2022_02": {
+      "NORTH_GOA": {
+        "average": 1875.508352518067,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1874.6577740566004,
+        "point_count": 1797
+      }
+    },
+    "2022_03": {
+      "NORTH_GOA": {
+        "average": 1872.6870623463608,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1870.6862747265984,
+        "point_count": 1797
+      }
+    },
+    "2022_04": {
+      "NORTH_GOA": {
+        "average": 1879.946520390136,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1876.6491816934063,
+        "point_count": 1797
+      }
+    },
+    "2022_05": {
+      "NORTH_GOA": {
+        "average": 1886.1806039992348,
+        "point_count": 1266
+      },
+      "SOUTH_GOA": {
+        "average": 1886.3798919472285,
+        "point_count": 1791
+      }
+    },
+    "2022_06": {
+      "NORTH_GOA": {
+        "average": 1868.6177846248563,
+        "point_count": 1273
+      },
+      "SOUTH_GOA": {
+        "average": 1875.420848865573,
+        "point_count": 1165
+      }
+    },
+    "2022_08": {
+      "NORTH_GOA": {
+        "average": 1865.0244490527025,
+        "point_count": 1289
+      },
+      "SOUTH_GOA": {
+        "average": 1865.4768733976405,
+        "point_count": 1793
+      }
+    },
+    "2022_09": {
+      "NORTH_GOA": {
+        "average": 1870.1775595434417,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1873.0245644290744,
+        "point_count": 1797
+      }
+    },
+    "2022_10": {
+      "NORTH_GOA": {
+        "average": 1847.410025223969,
+        "point_count": 1276
+      },
+      "SOUTH_GOA": {
+        "average": 1866.6518036683983,
+        "point_count": 1746
+      }
+    },
+    "2022_11": {
+      "NORTH_GOA": {
+        "average": 1863.8129757874779,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1852.5567084749136,
+        "point_count": 1797
+      }
+    },
+    "2022_12": {
+      "NORTH_GOA": {
+        "average": 1866.3743452998986,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1856.0236324262532,
+        "point_count": 1797
+      }
+    },
+    "2023_01": {
+      "NORTH_GOA": {
+        "average": 1851.4985572078356,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1850.414337641638,
+        "point_count": 1797
+      }
+    },
+    "2023_02": {
+      "NORTH_GOA": {
+        "average": 1879.354811684173,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1878.842371227001,
+        "point_count": 1797
+      }
+    },
+    "2023_03": {
+      "NORTH_GOA": {
+        "average": 1875.3382978889438,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1876.1723280394883,
+        "point_count": 1797
+      }
+    },
+    "2023_04": {
+      "NORTH_GOA": {
+        "average": 1886.3742794025272,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1870.5095997341464,
+        "point_count": 1797
+      }
+    },
+    "2023_05": {
+      "NORTH_GOA": {
+        "average": 1882.456012981896,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1883.5693838257994,
+        "point_count": 1797
+      }
+    },
+    "2023_06": {
+      "NORTH_GOA": {
+        "average": 1868.357964335263,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1863.6533820062698,
+        "point_count": 1797
+      }
+    },
+    "2023_07": {
+      "NORTH_GOA": {
+        "average": 1865.414855454896,
+        "point_count": 364
+      },
+      "SOUTH_GOA": {
+        "average": 1865.585541777436,
+        "point_count": 1730
+      }
+    },
+    "2023_08": {
+      "NORTH_GOA": {
+        "average": 1876.2798386684913,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1864.6147287788785,
+        "point_count": 1797
+      }
+    },
+    "2023_09": {
+      "NORTH_GOA": {
+        "average": 1867.8983604592092,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1865.3580698253159,
+        "point_count": 1797
+      }
+    },
+    "2023_10": {
+      "NORTH_GOA": {
+        "average": 1874.7867258355257,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1871.8736124198772,
+        "point_count": 1797
+      }
+    },
+    "2023_11": {
+      "NORTH_GOA": {
+        "average": 1869.07214113588,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1856.446957859743,
+        "point_count": 1797
+      }
+    },
+    "2023_12": {
+      "NORTH_GOA": {
+        "average": 1869.1613016589713,
+        "point_count": 1598
+      },
+      "SOUTH_GOA": {
+        "average": 1857.0785985044015,
+        "point_count": 1797
+      }
+    }
+  },
+  "statistics": {
+    "mean": 1867.9686893724136,
+    "std": 12.231295607419844,
+    "min": 1845.9863256034853,
+    "max": 1926.8078170358433
+  }
+}

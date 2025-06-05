@@ -1,0 +1,1649 @@
+{
+  "type": "state_districts",
+  "state_name": "ANDAMAN & NICOBAR",
+  "data": {
+    "NICOBAR": {
+      "average_methane": 1869.5132293405359,
+      "data_quality": {
+        "total_months": 119,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 1717.781512605042
+      },
+      "point_count": 204416
+    },
+    "NORTH_MIDDLE_ANDAMAN": {
+      "average_methane": 1868.0505113222152,
+      "data_quality": {
+        "total_months": 115,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 3184.6608695652176
+      },
+      "point_count": 366236
+    },
+    "SOUTH_ANDAMAN": {
+      "average_methane": 1868.056982599236,
+      "data_quality": {
+        "total_months": 108,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 2567.5
+      },
+      "point_count": 277290
+    }
+  },
+  "monthly_data": {
+    "2014_01": {
+      "NICOBAR": {
+        "average": 1874.0155331429842,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1851.073082370161,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1852.7693641021326,
+        "point_count": 2643
+      }
+    },
+    "2014_02": {
+      "NICOBAR": {
+        "average": 1874.0665259475443,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1877.9295024017053,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1876.2685905000205,
+        "point_count": 2643
+      }
+    },
+    "2014_03": {
+      "NICOBAR": {
+        "average": 1874.6209461005406,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1877.8228618454536,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1876.3113754866938,
+        "point_count": 2643
+      }
+    },
+    "2014_04": {
+      "NICOBAR": {
+        "average": 1866.0149857593285,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1869.4283012282804,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1870.8221518696976,
+        "point_count": 2643
+      }
+    },
+    "2014_05": {
+      "NICOBAR": {
+        "average": 1871.5175058602545,
+        "point_count": 1601
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1878.4524907384427,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1883.7328779424815,
+        "point_count": 2643
+      }
+    },
+    "2014_06": {
+      "NICOBAR": {
+        "average": 1868.9992999193005,
+        "point_count": 1623
+      }
+    },
+    "2014_07": {
+      "NICOBAR": {
+        "average": 1870.3649012862186,
+        "point_count": 1844
+      }
+    },
+    "2014_08": {
+      "NICOBAR": {
+        "average": 1872.2225201233914,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1871.8552307299904,
+        "point_count": 3504
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1869.2897821184886,
+        "point_count": 2643
+      }
+    },
+    "2014_09": {
+      "NICOBAR": {
+        "average": 1874.0982552801477,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1923.7381672432532,
+        "point_count": 574
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1907.568688835805,
+        "point_count": 2643
+      }
+    },
+    "2014_10": {
+      "NICOBAR": {
+        "average": 1871.9544103746439,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1863.8012675803643,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1872.4902300817678,
+        "point_count": 2643
+      }
+    },
+    "2014_11": {
+      "NICOBAR": {
+        "average": 1868.89606925031,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1850.5674055200395,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1848.3086366954374,
+        "point_count": 2643
+      }
+    },
+    "2014_12": {
+      "NICOBAR": {
+        "average": 1851.3895503042722,
+        "point_count": 1631
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1850.8086682920925,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1850.8747228862173,
+        "point_count": 2643
+      }
+    },
+    "2015_01": {
+      "NICOBAR": {
+        "average": 1874.419192026343,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1851.6902042098584,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1856.3695350880992,
+        "point_count": 2457
+      }
+    },
+    "2015_02": {
+      "NICOBAR": {
+        "average": 1874.1023353891187,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1877.9048994441073,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1876.4549535665565,
+        "point_count": 2643
+      }
+    },
+    "2015_03": {
+      "NICOBAR": {
+        "average": 1874.809927338933,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1877.7584016452636,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1876.2150270319444,
+        "point_count": 2643
+      }
+    },
+    "2015_04": {
+      "NICOBAR": {
+        "average": 1865.5834134210572,
+        "point_count": 1599
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1874.9170568881225,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1880.105072394521,
+        "point_count": 2643
+      }
+    },
+    "2015_05": {
+      "NICOBAR": {
+        "average": 1869.067699450662,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1878.12643531597,
+        "point_count": 3504
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1879.0911457147129,
+        "point_count": 2643
+      }
+    },
+    "2015_06": {
+      "NICOBAR": {
+        "average": 1870.7615647324953,
+        "point_count": 1844
+      }
+    },
+    "2015_07": {
+      "NICOBAR": {
+        "average": 1874.029081521992,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1868.7821813422527,
+        "point_count": 639
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1872.6418850873938,
+        "point_count": 2643
+      }
+    },
+    "2015_08": {
+      "NICOBAR": {
+        "average": 1873.6295211893707,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1866.3849924409544,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1866.0757590001444,
+        "point_count": 2643
+      }
+    },
+    "2015_09": {
+      "NICOBAR": {
+        "average": 1881.523536175193,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1865.5651950478252,
+        "point_count": 3504
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1869.2538011278016,
+        "point_count": 2643
+      }
+    },
+    "2015_10": {
+      "NICOBAR": {
+        "average": 1871.727128370363,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1878.6586550052562,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1868.5391984968987,
+        "point_count": 2643
+      }
+    },
+    "2015_11": {
+      "NICOBAR": {
+        "average": 1849.7363732251786,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1850.9528361257226,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1850.8837544527335,
+        "point_count": 2643
+      }
+    },
+    "2015_12": {
+      "NICOBAR": {
+        "average": 1852.680030733651,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1850.58410629423,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1850.8994530422617,
+        "point_count": 2643
+      }
+    },
+    "2016_01": {
+      "NICOBAR": {
+        "average": 1867.3789595033354,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1856.33704897179,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1856.8292717496336,
+        "point_count": 2643
+      }
+    },
+    "2016_02": {
+      "NICOBAR": {
+        "average": 1873.5258775822736,
+        "point_count": 1656
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1866.8785184808958,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1872.5979402610856,
+        "point_count": 2643
+      }
+    },
+    "2016_03": {
+      "NICOBAR": {
+        "average": 1874.8689496910451,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1877.6242933304388,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1876.7516745634873,
+        "point_count": 2643
+      }
+    },
+    "2016_04": {
+      "NICOBAR": {
+        "average": 1869.7983242514188,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1903.960373010884,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1892.4491420122959,
+        "point_count": 2643
+      }
+    },
+    "2016_05": {
+      "NICOBAR": {
+        "average": 1869.5779299002904,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1885.4189608697172,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1877.743993755564,
+        "point_count": 2643
+      }
+    },
+    "2016_06": {
+      "NICOBAR": {
+        "average": 1874.7399320130896,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1865.6574142875272,
+        "point_count": 28
+      }
+    },
+    "2016_07": {
+      "NICOBAR": {
+        "average": 1870.3220977685435,
+        "point_count": 1594
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1865.97765703052,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1873.9835636647947,
+        "point_count": 2643
+      }
+    },
+    "2016_08": {
+      "NICOBAR": {
+        "average": 1870.390637849471,
+        "point_count": 1656
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1868.9679277141427,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1873.004984231792,
+        "point_count": 2643
+      }
+    },
+    "2016_09": {
+      "NICOBAR": {
+        "average": 1886.5794036298382,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1867.3127066529062,
+        "point_count": 28
+      }
+    },
+    "2016_10": {
+      "NICOBAR": {
+        "average": 1873.5984655574855,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1858.647911263811,
+        "point_count": 3504
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1874.1417124863021,
+        "point_count": 2643
+      }
+    },
+    "2016_11": {
+      "NICOBAR": {
+        "average": 1853.5504362963247,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1850.391652768043,
+        "point_count": 3504
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1849.0456150250768,
+        "point_count": 2643
+      }
+    },
+    "2016_12": {
+      "NICOBAR": {
+        "average": 1850.5493082998862,
+        "point_count": 1700
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1850.4146987465401,
+        "point_count": 3504
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1849.7551698814189,
+        "point_count": 2643
+      }
+    },
+    "2017_01": {
+      "NICOBAR": {
+        "average": 1863.5858348516142,
+        "point_count": 744
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1857.1726770109249,
+        "point_count": 3504
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1860.0288663595531,
+        "point_count": 2643
+      }
+    },
+    "2017_02": {
+      "NICOBAR": {
+        "average": 1872.338990187595,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1877.9145910136242,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1876.3992921131346,
+        "point_count": 2643
+      }
+    },
+    "2017_03": {
+      "NICOBAR": {
+        "average": 1872.8783851988733,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1878.9415975575703,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1875.8203571634328,
+        "point_count": 2643
+      }
+    },
+    "2017_04": {
+      "NICOBAR": {
+        "average": 1869.3262041431938,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1866.6519964428915,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1864.842978341285,
+        "point_count": 2643
+      }
+    },
+    "2017_05": {
+      "NICOBAR": {
+        "average": 1868.8957559475625,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1884.0027298118248,
+        "point_count": 3504
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1882.1919645307232,
+        "point_count": 2643
+      }
+    },
+    "2017_06": {
+      "NICOBAR": {
+        "average": 1874.7897861823458,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1862.361531761772,
+        "point_count": 3504
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1870.7690392640757,
+        "point_count": 2643
+      }
+    },
+    "2017_07": {
+      "NICOBAR": {
+        "average": 1868.5305179084883,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1864.0296305717043,
+        "point_count": 574
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1871.1193769941394,
+        "point_count": 2643
+      }
+    },
+    "2017_08": {
+      "NICOBAR": {
+        "average": 1867.4409923315081,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1867.6753740879,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1863.93801835726,
+        "point_count": 2457
+      }
+    },
+    "2017_09": {
+      "NICOBAR": {
+        "average": 1869.0001109560123,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1880.1834470886688,
+        "point_count": 3486
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1900.7838878360812,
+        "point_count": 356
+      }
+    },
+    "2017_10": {
+      "NICOBAR": {
+        "average": 1870.6611432188347,
+        "point_count": 1555
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1858.1839401252184,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1863.0169509835625,
+        "point_count": 2643
+      }
+    },
+    "2017_11": {
+      "NICOBAR": {
+        "average": 1853.5041071597836,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1850.1946355145133,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1849.688009925755,
+        "point_count": 2643
+      }
+    },
+    "2017_12": {
+      "NICOBAR": {
+        "average": 1852.9592236890705,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1850.3831512150673,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1849.3397407284235,
+        "point_count": 2643
+      }
+    },
+    "2018_01": {
+      "NICOBAR": {
+        "average": 1871.828754263729,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1857.8356193373118,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1867.9429849010332,
+        "point_count": 2643
+      }
+    },
+    "2018_02": {
+      "NICOBAR": {
+        "average": 1870.4245275133478,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1878.3297726133922,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1877.0285107964685,
+        "point_count": 2643
+      }
+    },
+    "2018_03": {
+      "NICOBAR": {
+        "average": 1874.7761448530073,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1878.3143242755032,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1877.147740980946,
+        "point_count": 2643
+      }
+    },
+    "2018_04": {
+      "NICOBAR": {
+        "average": 1873.2738103784397,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1865.0375953334867,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1865.1979541072637,
+        "point_count": 2643
+      }
+    },
+    "2018_05": {
+      "NICOBAR": {
+        "average": 1868.4003957306704,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1881.2860406767024,
+        "point_count": 3504
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1871.9543101540412,
+        "point_count": 2643
+      }
+    },
+    "2018_06": {
+      "NICOBAR": {
+        "average": 1867.1358411816354,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1864.896362546293,
+        "point_count": 3504
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1867.706251838727,
+        "point_count": 2643
+      }
+    },
+    "2018_07": {
+      "NICOBAR": {
+        "average": 1871.6567508280475,
+        "point_count": 1645
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1867.1458965800832,
+        "point_count": 3504
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1873.9073510026828,
+        "point_count": 2643
+      }
+    },
+    "2018_08": {
+      "NICOBAR": {
+        "average": 1874.5672935996731,
+        "point_count": 1844
+      }
+    },
+    "2018_09": {
+      "NICOBAR": {
+        "average": 1871.9844042199165,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1874.2359277908822,
+        "point_count": 3504
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1864.2310494943288,
+        "point_count": 2643
+      }
+    },
+    "2018_10": {
+      "NICOBAR": {
+        "average": 1869.6608549637895,
+        "point_count": 1593
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1877.5773367593022,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1864.081978116403,
+        "point_count": 2643
+      }
+    },
+    "2018_11": {
+      "NICOBAR": {
+        "average": 1853.0121234903786,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1849.4433040726326,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1850.7079063401604,
+        "point_count": 2643
+      }
+    },
+    "2018_12": {
+      "NICOBAR": {
+        "average": 1852.9509289718696,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1850.194174081769,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1849.3337245471296,
+        "point_count": 2643
+      }
+    },
+    "2019_01": {
+      "NICOBAR": {
+        "average": 1869.1807802093854,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1853.160968182026,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1853.2823835725962,
+        "point_count": 2643
+      }
+    },
+    "2019_02": {
+      "NICOBAR": {
+        "average": 1875.289314238764,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1878.2363867318304,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1876.7445135676376,
+        "point_count": 2643
+      }
+    },
+    "2019_03": {
+      "NICOBAR": {
+        "average": 1874.6313747016945,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1877.4294598439706,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1877.4193530242617,
+        "point_count": 2643
+      }
+    },
+    "2019_04": {
+      "NICOBAR": {
+        "average": 1872.2046119892123,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1867.2347182509789,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1866.2638248981075,
+        "point_count": 2643
+      }
+    },
+    "2019_05": {
+      "NICOBAR": {
+        "average": 1869.1316491421612,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1880.6482833769282,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1871.6240980714106,
+        "point_count": 2643
+      }
+    },
+    "2019_06": {
+      "NICOBAR": {
+        "average": 1868.9417474954953,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1868.8082757065229,
+        "point_count": 3504
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1872.459544239121,
+        "point_count": 2643
+      }
+    },
+    "2019_07": {
+      "NICOBAR": {
+        "average": 1872.815590658481,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1863.717057367001,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1873.9338387657579,
+        "point_count": 2643
+      }
+    },
+    "2019_08": {
+      "NICOBAR": {
+        "average": 1868.935114435872,
+        "point_count": 1637
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1862.9996398152518,
+        "point_count": 28
+      }
+    },
+    "2019_09": {
+      "NICOBAR": {
+        "average": 1883.5348089176543,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1864.576017546849,
+        "point_count": 28
+      }
+    },
+    "2019_10": {
+      "NICOBAR": {
+        "average": 1868.0297079580819,
+        "point_count": 1586
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1878.3894251205295,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1876.9916087258723,
+        "point_count": 2643
+      }
+    },
+    "2019_11": {
+      "NICOBAR": {
+        "average": 1853.873606204046,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1850.2295465203706,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1849.2867294799662,
+        "point_count": 2643
+      }
+    },
+    "2019_12": {
+      "NICOBAR": {
+        "average": 1852.7194904918922,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1850.348514348131,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1850.406283803325,
+        "point_count": 2453
+      }
+    },
+    "2020_01": {
+      "NICOBAR": {
+        "average": 1874.616469342025,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1851.8817697012535,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1854.2716872869894,
+        "point_count": 2643
+      }
+    },
+    "2020_02": {
+      "NICOBAR": {
+        "average": 1874.6708690477174,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1878.224440528874,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1876.854983457843,
+        "point_count": 2643
+      }
+    },
+    "2020_03": {
+      "NICOBAR": {
+        "average": 1875.3861209969673,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1877.6357924872277,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1876.8338631386796,
+        "point_count": 2643
+      }
+    },
+    "2020_04": {
+      "NICOBAR": {
+        "average": 1866.1404069479424,
+        "point_count": 1621
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1867.2650497848801,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1868.8029507134763,
+        "point_count": 2643
+      }
+    },
+    "2020_05": {
+      "NICOBAR": {
+        "average": 1873.150577352087,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1877.6645611566212,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1869.8736029281604,
+        "point_count": 2643
+      }
+    },
+    "2020_06": {
+      "NICOBAR": {
+        "average": 1875.322465138317,
+        "point_count": 78
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1865.2395253339478,
+        "point_count": 3504
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1866.6915859050578,
+        "point_count": 2643
+      }
+    },
+    "2020_07": {
+      "NICOBAR": {
+        "average": 1874.4742543466093,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1863.2646887054043,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1875.2832233963763,
+        "point_count": 2458
+      }
+    },
+    "2020_08": {
+      "NICOBAR": {
+        "average": 1868.4695845414897,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1867.996778058648,
+        "point_count": 3504
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1867.2568650343376,
+        "point_count": 2643
+      }
+    },
+    "2020_09": {
+      "NICOBAR": {
+        "average": 1883.5513462898525,
+        "point_count": 1576
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1905.1041017759471,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1907.6251125078452,
+        "point_count": 2455
+      }
+    },
+    "2020_10": {
+      "NICOBAR": {
+        "average": 1873.0128184696343,
+        "point_count": 961
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1866.4941499847482,
+        "point_count": 28
+      }
+    },
+    "2020_11": {
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1852.01032684303,
+        "point_count": 3504
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1851.0845543516991,
+        "point_count": 2643
+      }
+    },
+    "2020_12": {
+      "NICOBAR": {
+        "average": 1846.560869528956,
+        "point_count": 1036
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1850.5155506600106,
+        "point_count": 3504
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1850.961383743566,
+        "point_count": 2643
+      }
+    },
+    "2021_01": {
+      "NICOBAR": {
+        "average": 1869.6767273716114,
+        "point_count": 1641
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1873.5142000482404,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1856.9538529669971,
+        "point_count": 2643
+      }
+    },
+    "2021_02": {
+      "NICOBAR": {
+        "average": 1872.7424682621447,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1877.9736979252311,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1876.627199358698,
+        "point_count": 2643
+      }
+    },
+    "2021_03": {
+      "NICOBAR": {
+        "average": 1870.4714345376979,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1877.1311000634553,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1863.6027196976436,
+        "point_count": 2643
+      }
+    },
+    "2021_04": {
+      "NICOBAR": {
+        "average": 1865.3614956416247,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1895.4750773796115,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1884.2960838620293,
+        "point_count": 2643
+      }
+    },
+    "2021_05": {
+      "NICOBAR": {
+        "average": 1865.5683029849029,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1875.2240111302588,
+        "point_count": 3504
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1872.3784648816077,
+        "point_count": 2643
+      }
+    },
+    "2021_06": {
+      "NICOBAR": {
+        "average": 1873.9944603105619,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1864.4625785761014,
+        "point_count": 3519
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1861.2793681927626,
+        "point_count": 366
+      }
+    },
+    "2021_07": {
+      "NICOBAR": {
+        "average": 1867.023532621497,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1865.3275145468929,
+        "point_count": 3504
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1872.9714427910028,
+        "point_count": 2643
+      }
+    },
+    "2021_08": {
+      "NICOBAR": {
+        "average": 1874.2027060482988,
+        "point_count": 1023
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1873.2543723950228,
+        "point_count": 3504
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1866.3796544073841,
+        "point_count": 2643
+      }
+    },
+    "2021_09": {
+      "NICOBAR": {
+        "average": 1884.2408416388862,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1864.725923199558,
+        "point_count": 3487
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1866.4496202635796,
+        "point_count": 359
+      }
+    },
+    "2021_10": {
+      "NICOBAR": {
+        "average": 1873.8984658818335,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1866.7409766406734,
+        "point_count": 3504
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1877.3251546650401,
+        "point_count": 2643
+      }
+    },
+    "2021_11": {
+      "NICOBAR": {
+        "average": 1851.1042699258135,
+        "point_count": 1431
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1851.7513219020798,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1854.0176503313942,
+        "point_count": 2643
+      }
+    },
+    "2021_12": {
+      "NICOBAR": {
+        "average": 1853.0363751844732,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1850.3612933441473,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1850.1136345585157,
+        "point_count": 2643
+      }
+    },
+    "2022_01": {
+      "NICOBAR": {
+        "average": 1872.5242587623209,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1856.4263274040804,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1856.2139168322394,
+        "point_count": 2643
+      }
+    },
+    "2022_02": {
+      "NICOBAR": {
+        "average": 1872.5415982460586,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1877.891589672039,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1876.9035933043426,
+        "point_count": 2643
+      }
+    },
+    "2022_03": {
+      "NICOBAR": {
+        "average": 1873.9630160305685,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1877.9294699300854,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1876.000395759894,
+        "point_count": 2643
+      }
+    },
+    "2022_04": {
+      "NICOBAR": {
+        "average": 1865.844281342443,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1903.6208191927424,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1891.3789688817353,
+        "point_count": 2643
+      }
+    },
+    "2022_05": {
+      "NICOBAR": {
+        "average": 1873.0674558379544,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1894.0124678108002,
+        "point_count": 3504
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1885.0933653202248,
+        "point_count": 2643
+      }
+    },
+    "2022_06": {
+      "NICOBAR": {
+        "average": 1869.4394097377692,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1862.0590151544743,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1868.2632115812803,
+        "point_count": 2643
+      }
+    },
+    "2022_07": {
+      "NICOBAR": {
+        "average": 1875.0512470994922,
+        "point_count": 1616
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1859.156535510034,
+        "point_count": 75
+      }
+    },
+    "2022_08": {
+      "NICOBAR": {
+        "average": 1880.056466187277,
+        "point_count": 994
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1863.1839323691675,
+        "point_count": 28
+      }
+    },
+    "2022_09": {
+      "NICOBAR": {
+        "average": 1880.8696390079558,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1865.5928711545016,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1866.9951228240707,
+        "point_count": 2643
+      }
+    },
+    "2022_10": {
+      "NICOBAR": {
+        "average": 1871.5487729891227,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1871.6674821852748,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1870.4548144678843,
+        "point_count": 2643
+      }
+    },
+    "2022_11": {
+      "NICOBAR": {
+        "average": 1849.3887075089183,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1849.9967700325853,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1849.8088397650818,
+        "point_count": 2643
+      }
+    },
+    "2022_12": {
+      "NICOBAR": {
+        "average": 1855.9825753165574,
+        "point_count": 744
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1851.202710633576,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1850.3133126616906,
+        "point_count": 2643
+      }
+    },
+    "2023_01": {
+      "NICOBAR": {
+        "average": 1868.6831890085327,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1857.2883692479986,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1859.6294542903333,
+        "point_count": 2458
+      }
+    },
+    "2023_02": {
+      "NICOBAR": {
+        "average": 1872.0741433906462,
+        "point_count": 1584
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1877.5898995196005,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1876.4035350440886,
+        "point_count": 2643
+      }
+    },
+    "2023_03": {
+      "NICOBAR": {
+        "average": 1868.6952679591889,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1877.5757884966238,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1876.2770306903826,
+        "point_count": 2643
+      }
+    },
+    "2023_04": {
+      "NICOBAR": {
+        "average": 1871.3094564021203,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1864.434500610932,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1864.2264126441587,
+        "point_count": 2643
+      }
+    },
+    "2023_05": {
+      "NICOBAR": {
+        "average": 1868.0507039815898,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1885.5577605544017,
+        "point_count": 3504
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1875.3764166118824,
+        "point_count": 2643
+      }
+    },
+    "2023_06": {
+      "NICOBAR": {
+        "average": 1873.4016094700094,
+        "point_count": 963
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1863.2577454355037,
+        "point_count": 3504
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1874.139683830816,
+        "point_count": 2457
+      }
+    },
+    "2023_07": {
+      "NICOBAR": {
+        "average": 1869.027583440583,
+        "point_count": 1580
+      }
+    },
+    "2023_08": {
+      "NICOBAR": {
+        "average": 1873.3488850458702,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1867.6631048605968,
+        "point_count": 3504
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1864.8331479885283,
+        "point_count": 2643
+      }
+    },
+    "2023_09": {
+      "NICOBAR": {
+        "average": 1884.7018386093814,
+        "point_count": 1844
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1866.1358402569783,
+        "point_count": 642
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1866.1310381347132,
+        "point_count": 2643
+      }
+    },
+    "2023_10": {
+      "NICOBAR": {
+        "average": 1872.2071418900134,
+        "point_count": 1159
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1861.3590681296641,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1874.3955710229175,
+        "point_count": 2643
+      }
+    },
+    "2023_11": {
+      "NICOBAR": {
+        "average": 1873.117179544619,
+        "point_count": 1573
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1852.78237368424,
+        "point_count": 600
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1854.2628434785076,
+        "point_count": 2643
+      }
+    },
+    "2023_12": {
+      "NICOBAR": {
+        "average": 1855.3756394074549,
+        "point_count": 744
+      },
+      "NORTH_MIDDLE_ANDAMAN": {
+        "average": 1851.0540736342716,
+        "point_count": 3532
+      },
+      "SOUTH_ANDAMAN": {
+        "average": 1850.1272122669404,
+        "point_count": 2643
+      }
+    }
+  },
+  "statistics": {
+    "mean": 1868.40524948454,
+    "std": 11.727493790660462,
+    "min": 1846.560869528956,
+    "max": 1923.7381672432532
+  }
+}

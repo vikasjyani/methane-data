@@ -1,0 +1,1595 @@
+{
+  "type": "state_districts",
+  "state_name": "DADRA NAGAR HAVELI DAMAN DIU",
+  "data": {
+    "DADRA_&_NAGAR_HAVELI": {
+      "average_methane": 1876.3793313864137,
+      "data_quality": {
+        "total_months": 109,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 536.0
+      },
+      "point_count": 58424
+    },
+    "DAMAN": {
+      "average_methane": 1876.2117471436943,
+      "data_quality": {
+        "total_months": 110,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 89.0
+      },
+      "point_count": 9790
+    },
+    "DIU": {
+      "average_methane": 1874.3536580090106,
+      "data_quality": {
+        "total_months": 111,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 58.0
+      },
+      "point_count": 6438
+    }
+  },
+  "monthly_data": {
+    "2014_01": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1850.8793741439156,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1850.853567614776,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1849.9549172863944,
+        "point_count": 58
+      }
+    },
+    "2014_02": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1856.5776821515817,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1856.7080967254424,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1870.206633291454,
+        "point_count": 58
+      }
+    },
+    "2014_03": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1874.626007569025,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1876.019187706454,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1874.4465447467558,
+        "point_count": 58
+      }
+    },
+    "2014_04": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1868.1613936721335,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1868.7656072317177,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1872.6328249312796,
+        "point_count": 58
+      }
+    },
+    "2014_05": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1892.3546669542093,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1885.9396249245797,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1911.4034067089292,
+        "point_count": 58
+      }
+    },
+    "2014_06": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1891.9280562725696,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1890.6976192851832,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1893.3072578414578,
+        "point_count": 58
+      }
+    },
+    "2014_07": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1883.7013941728462,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1893.0948744401894,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1894.255698124031,
+        "point_count": 58
+      }
+    },
+    "2014_08": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1917.8719523702284,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1917.4105487127,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1914.8389999798474,
+        "point_count": 58
+      }
+    },
+    "2014_09": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1873.4020658799586,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1881.3193567671408,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1872.5096075721208,
+        "point_count": 58
+      }
+    },
+    "2014_10": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1849.394126724372,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1849.5976547873079,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1857.3285924886275,
+        "point_count": 58
+      }
+    },
+    "2014_11": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1876.7186710511999,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1876.5153443460774,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1877.1048287005394,
+        "point_count": 58
+      }
+    },
+    "2014_12": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1876.7231612943167,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1876.9256425438427,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1877.972773730632,
+        "point_count": 58
+      }
+    },
+    "2015_01": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1850.4833613781423,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1849.6109263310075,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1850.3307822426102,
+        "point_count": 58
+      }
+    },
+    "2015_02": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1880.8452283114452,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1879.5913075819394,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1857.367693705966,
+        "point_count": 58
+      }
+    },
+    "2015_03": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1874.675887904803,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1879.7475227578655,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1875.1494099911502,
+        "point_count": 58
+      }
+    },
+    "2015_04": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1863.559986825072,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1862.1411457342492,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1874.5005250495224,
+        "point_count": 58
+      }
+    },
+    "2015_05": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1901.1393647969564,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1903.1509895906693,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1922.2290550016141,
+        "point_count": 58
+      }
+    },
+    "2015_06": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1894.291436539076,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1886.2752381354453,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1892.6946543611223,
+        "point_count": 58
+      }
+    },
+    "2015_07": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1886.3347850849843,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1883.7743234986935,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1874.7846689399278,
+        "point_count": 58
+      }
+    },
+    "2015_08": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1913.3839603552483,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1867.3393137600804,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1866.3607002438816,
+        "point_count": 58
+      }
+    },
+    "2015_09": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1873.61403448537,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1879.8000978768373,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1874.080734473767,
+        "point_count": 58
+      }
+    },
+    "2015_10": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1850.6952416232718,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1850.5731180376586,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1854.719173815131,
+        "point_count": 58
+      }
+    },
+    "2015_11": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1882.5681913931192,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1885.0139333861962,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1876.372971584376,
+        "point_count": 58
+      }
+    },
+    "2015_12": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1876.4679132340957,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1876.8245558388926,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1876.0980655930828,
+        "point_count": 58
+      }
+    },
+    "2016_01": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1849.6989720962988,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1849.5366950229134,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1850.7947991681374,
+        "point_count": 58
+      }
+    },
+    "2016_02": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1872.3862730517064,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1879.7475227578655,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1857.801578011075,
+        "point_count": 58
+      }
+    },
+    "2016_03": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1874.8712429070413,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1878.1174964783384,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1874.9772503935392,
+        "point_count": 58
+      }
+    },
+    "2016_04": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1875.2764235158074,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1877.9472243747798,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1874.3730100599407,
+        "point_count": 58
+      }
+    },
+    "2016_05": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1920.1209348858201,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1915.3840058609076,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1901.2751976740033,
+        "point_count": 58
+      }
+    },
+    "2016_06": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1888.793414157082,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1888.1458817819291,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1870.590849593322,
+        "point_count": 58
+      }
+    },
+    "2016_07": {
+      "DIU": {
+        "average": 1900.6695186767895,
+        "point_count": 58
+      }
+    },
+    "2016_09": {
+      "DIU": {
+        "average": 1873.2267426759458,
+        "point_count": 58
+      }
+    },
+    "2016_10": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1850.226739756694,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1849.7892086837048,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1853.9502354089893,
+        "point_count": 58
+      }
+    },
+    "2016_11": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1876.7222185376468,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1876.551337866035,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1876.3858785250143,
+        "point_count": 58
+      }
+    },
+    "2016_12": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1876.7160887206082,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1876.7380989995181,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1875.915304421974,
+        "point_count": 58
+      }
+    },
+    "2017_01": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1849.6408069448312,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1849.6619453532078,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1849.8784676055075,
+        "point_count": 58
+      }
+    },
+    "2017_02": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1875.4914953273212,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1878.774522753598,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1857.9102128052602,
+        "point_count": 58
+      }
+    },
+    "2017_03": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1874.5473100122663,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1877.869262243794,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1874.5198635770323,
+        "point_count": 58
+      }
+    },
+    "2017_04": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1875.2717599402458,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1877.6352312605504,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1865.4167725287778,
+        "point_count": 58
+      }
+    },
+    "2017_05": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1916.1643047378652,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1916.1863206555063,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1897.740373746639,
+        "point_count": 58
+      }
+    },
+    "2017_06": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1886.1939123184966,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1890.346540926198,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1880.9844787623117,
+        "point_count": 58
+      }
+    },
+    "2017_07": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1883.1264735180391,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1886.6546919990117,
+        "point_count": 89
+      }
+    },
+    "2017_08": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1925.9605536064687,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1918.5588155336604,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1864.273498856421,
+        "point_count": 58
+      }
+    },
+    "2017_09": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1874.3541355813527,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1880.4263638285906,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1865.340505117284,
+        "point_count": 58
+      }
+    },
+    "2017_10": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1856.8949953517056,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1857.1859782723648,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1853.2820488903258,
+        "point_count": 58
+      }
+    },
+    "2017_11": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1876.9575406531194,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1877.646789116112,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1876.4227441192336,
+        "point_count": 58
+      }
+    },
+    "2017_12": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1879.6620277102306,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1881.378701090815,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1872.1245888645358,
+        "point_count": 58
+      }
+    },
+    "2018_01": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1859.4313241095995,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1849.574868589176,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1850.26988180401,
+        "point_count": 58
+      }
+    },
+    "2018_02": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1856.8153128350289,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1856.8662933275798,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1871.9143828121514,
+        "point_count": 58
+      }
+    },
+    "2018_03": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1874.8489574476005,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1877.8452356126054,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1874.1987047845435,
+        "point_count": 58
+      }
+    },
+    "2018_04": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1861.2839028409855,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1877.3606145216818,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1864.2257451947842,
+        "point_count": 58
+      }
+    },
+    "2018_05": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1907.6499955405388,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1916.0999172462537,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1891.4127290696,
+        "point_count": 58
+      }
+    },
+    "2018_06": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1880.047947316821,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1880.1706670080746,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1898.2021366956455,
+        "point_count": 58
+      }
+    },
+    "2018_08": {
+      "DAMAN": {
+        "average": 1865.9509193369242,
+        "point_count": 89
+      }
+    },
+    "2018_09": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1874.816753464083,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1880.6054864880496,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1873.489957401947,
+        "point_count": 58
+      }
+    },
+    "2018_10": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1849.4211843667047,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1850.2995190300703,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1850.1337013930913,
+        "point_count": 58
+      }
+    },
+    "2018_11": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1876.7149432044655,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1876.5644172899313,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1876.6069733893023,
+        "point_count": 58
+      }
+    },
+    "2018_12": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1872.8078935543654,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1874.8139676947458,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1876.2187463518806,
+        "point_count": 58
+      }
+    },
+    "2019_01": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1850.084600943524,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1849.6920104011688,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1850.5308709030094,
+        "point_count": 58
+      }
+    },
+    "2019_02": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1856.9746970213057,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1856.9693886442183,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1873.2679435677412,
+        "point_count": 58
+      }
+    },
+    "2019_03": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1875.5846373941702,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1877.5625527650595,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1874.0384989183028,
+        "point_count": 58
+      }
+    },
+    "2019_04": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1876.875839325955,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1872.1462884911155,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1874.730597304784,
+        "point_count": 58
+      }
+    },
+    "2019_05": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1898.7354688148248,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1900.8999271318262,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1914.1447694707597,
+        "point_count": 58
+      }
+    },
+    "2019_06": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1891.897723506312,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1894.0931517147903,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1896.6856794997057,
+        "point_count": 58
+      }
+    },
+    "2019_07": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1882.1218422556062,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1882.512851302441,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1890.5283635024284,
+        "point_count": 58
+      }
+    },
+    "2019_08": {
+      "DIU": {
+        "average": 1863.2857303125843,
+        "point_count": 58
+      }
+    },
+    "2019_09": {
+      "DIU": {
+        "average": 1874.1587165351973,
+        "point_count": 58
+      }
+    },
+    "2019_10": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1852.0936711523543,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1852.9093763788549,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1851.9425205522823,
+        "point_count": 58
+      }
+    },
+    "2019_11": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1884.3560233351566,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1877.869174749304,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1876.2635739417992,
+        "point_count": 58
+      }
+    },
+    "2019_12": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1879.9154848643273,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1881.7292086116531,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1878.8175279091597,
+        "point_count": 58
+      }
+    },
+    "2020_01": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1849.7766580375003,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1849.665412999003,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1850.8064316738846,
+        "point_count": 58
+      }
+    },
+    "2020_02": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1857.472517168455,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1859.7820859792027,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1874.5495410313956,
+        "point_count": 58
+      }
+    },
+    "2020_03": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1874.242733253116,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1880.298325647103,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1874.8102633820529,
+        "point_count": 58
+      }
+    },
+    "2020_04": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1870.0276176255811,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1869.1690825710002,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1874.7907649094457,
+        "point_count": 58
+      }
+    },
+    "2020_05": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1894.1126605258996,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1890.6400676632647,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1912.3547711853407,
+        "point_count": 58
+      }
+    },
+    "2020_06": {
+      "DIU": {
+        "average": 1896.1279148898461,
+        "point_count": 58
+      }
+    },
+    "2020_07": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1876.7747923214606,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1881.9193967160827,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1888.585067341243,
+        "point_count": 58
+      }
+    },
+    "2020_08": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1900.098817057032,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1910.2765377006165,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1864.376122119625,
+        "point_count": 58
+      }
+    },
+    "2020_09": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1866.88911905232,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1866.1291339866884,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1870.5504655204954,
+        "point_count": 58
+      }
+    },
+    "2020_10": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1850.1254956420973,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1850.8534809855719,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1850.209169676455,
+        "point_count": 58
+      }
+    },
+    "2020_11": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1876.7244534479657,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1876.5111712072976,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1882.354921253938,
+        "point_count": 58
+      }
+    },
+    "2020_12": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1874.4896662271753,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1876.7836018466667,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1877.6883352564164,
+        "point_count": 58
+      }
+    },
+    "2021_01": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1849.8313846638425,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1849.7063961818667,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1850.5871500003416,
+        "point_count": 58
+      }
+    },
+    "2021_02": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1867.5117818733722,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1877.4983446461954,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1857.6250218880407,
+        "point_count": 58
+      }
+    },
+    "2021_03": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1875.3368902843736,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1878.178333393296,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1874.4552990946215,
+        "point_count": 58
+      }
+    },
+    "2021_04": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1873.0306810383267,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1865.870696617966,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1875.1546774940077,
+        "point_count": 58
+      }
+    },
+    "2021_05": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1926.4470887961852,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1928.076117653387,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1923.162174427094,
+        "point_count": 58
+      }
+    },
+    "2021_06": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1890.8844804955622,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1892.3192080749168,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1891.7452084490183,
+        "point_count": 58
+      }
+    },
+    "2021_07": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1892.244465233685,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1896.503825339056,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1890.0569744816403,
+        "point_count": 58
+      }
+    },
+    "2021_08": {
+      "DIU": {
+        "average": 1866.1155535180203,
+        "point_count": 58
+      }
+    },
+    "2021_09": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1865.3288102165297,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1863.2737933930043,
+        "point_count": 89
+      }
+    },
+    "2021_10": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1850.551700840759,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1850.3197858498443,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1851.1111755987545,
+        "point_count": 58
+      }
+    },
+    "2021_11": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1876.7487507404464,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1876.5289114488355,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1876.8391588244403,
+        "point_count": 58
+      }
+    },
+    "2021_12": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1876.2914770651998,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1877.7384266896474,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1880.0354347509235,
+        "point_count": 58
+      }
+    },
+    "2022_01": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1850.209316393152,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1849.8677231191584,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1850.2246570149682,
+        "point_count": 58
+      }
+    },
+    "2022_02": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1872.9219439695546,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1879.461128268667,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1857.547715580191,
+        "point_count": 58
+      }
+    },
+    "2022_03": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1875.8375489390367,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1877.8445432431802,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1875.1433746946007,
+        "point_count": 58
+      }
+    },
+    "2022_04": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1875.6404733206373,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1877.5208785695834,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1874.0150647658995,
+        "point_count": 58
+      }
+    },
+    "2022_05": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1915.0086050790335,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1910.8875086057747,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1902.1188292294141,
+        "point_count": 58
+      }
+    },
+    "2022_06": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1887.5491895486618,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1884.5043285336333,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1876.7597258123417,
+        "point_count": 58
+      }
+    },
+    "2022_07": {
+      "DIU": {
+        "average": 1890.6920682771092,
+        "point_count": 58
+      }
+    },
+    "2022_08": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1911.457669992819,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1876.4188025584756,
+        "point_count": 89
+      }
+    },
+    "2022_09": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1873.6617817417853,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1862.147240173188,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1875.4657914978984,
+        "point_count": 58
+      }
+    },
+    "2022_10": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1850.2183631868022,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1850.2214476055547,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1851.3459417727129,
+        "point_count": 58
+      }
+    },
+    "2022_11": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1876.7251043524193,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1876.5598596952757,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1876.510978146271,
+        "point_count": 58
+      }
+    },
+    "2022_12": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1877.0752847867382,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1875.3517909899572,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1877.406773722208,
+        "point_count": 58
+      }
+    },
+    "2023_01": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1850.7966639295068,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1850.429344421427,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1849.9469155400998,
+        "point_count": 58
+      }
+    },
+    "2023_02": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1876.4832669611917,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1877.988522008933,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1858.0340178321649,
+        "point_count": 58
+      }
+    },
+    "2023_03": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1877.3418600985713,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1861.6634708249503,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1875.1331977198972,
+        "point_count": 58
+      }
+    },
+    "2023_04": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1875.2727330966854,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1877.933092410635,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1863.1657616423706,
+        "point_count": 58
+      }
+    },
+    "2023_05": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1922.7740382531908,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1906.6759593758688,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1893.8691429219102,
+        "point_count": 58
+      }
+    },
+    "2023_06": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1888.4119926455342,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1888.1761062455168,
+        "point_count": 89
+      }
+    },
+    "2023_08": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1871.6949065545211,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1874.845883131752,
+        "point_count": 89
+      }
+    },
+    "2023_09": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1873.9744069360338,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1880.9951975494755,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1874.3731314362542,
+        "point_count": 58
+      }
+    },
+    "2023_10": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1852.2981674963228,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1856.8151086217674,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1850.8245465894854,
+        "point_count": 58
+      }
+    },
+    "2023_11": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1876.7450736512565,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1876.5735652592168,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1876.219172872367,
+        "point_count": 58
+      }
+    },
+    "2023_12": {
+      "DADRA_&_NAGAR_HAVELI": {
+        "average": 1876.3529177664454,
+        "point_count": 536
+      },
+      "DAMAN": {
+        "average": 1877.8604791939727,
+        "point_count": 89
+      },
+      "DIU": {
+        "average": 1876.7954439639866,
+        "point_count": 58
+      }
+    }
+  },
+  "statistics": {
+    "mean": 1876.1826596972437,
+    "std": 18.226077919654067,
+    "min": 1849.394126724372,
+    "max": 1928.076117653387
+  }
+}

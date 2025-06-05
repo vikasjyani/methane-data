@@ -1,0 +1,4000 @@
+{
+  "type": "state_districts",
+  "state_name": "TRIPURA",
+  "data": {
+    "DHALAI": {
+      "average_methane": 1889.9889365120962,
+      "data_quality": {
+        "total_months": 111,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 3579.963963963964
+      },
+      "point_count": 397376
+    },
+    "GOMATI": {
+      "average_methane": 1877.117559519702,
+      "data_quality": {
+        "total_months": 119,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 1472.0588235294117
+      },
+      "point_count": 175175
+    },
+    "KHOWAI": {
+      "average_methane": 1878.0496114949171,
+      "data_quality": {
+        "total_months": 119,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 963.0756302521008
+      },
+      "point_count": 114606
+    },
+    "NORTH_TRIPURA": {
+      "average_methane": 1876.1378695984113,
+      "data_quality": {
+        "total_months": 111,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 1271.3873873873874
+      },
+      "point_count": 141124
+    },
+    "SEPAHIJALA": {
+      "average_methane": 1878.0176638589787,
+      "data_quality": {
+        "total_months": 119,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 1055.7899159663866
+      },
+      "point_count": 125639
+    },
+    "SOUTH_TRIPURA": {
+      "average_methane": 1876.9417559725664,
+      "data_quality": {
+        "total_months": 119,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 1334.6470588235295
+      },
+      "point_count": 158823
+    },
+    "UNOKOTI": {
+      "average_methane": 1875.9071399692818,
+      "data_quality": {
+        "total_months": 102,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 700.0
+      },
+      "point_count": 71400
+    },
+    "WEST_TRIPURA": {
+      "average_methane": 1878.1449572951963,
+      "data_quality": {
+        "total_months": 119,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 926.890756302521
+      },
+      "point_count": 110300
+    }
+  },
+  "monthly_data": {
+    "2014_01": {
+      "DHALAI": {
+        "average": 1892.9989683368738,
+        "point_count": 3708
+      },
+      "GOMATI": {
+        "average": 1883.2701784067576,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1881.846952603672,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1879.1726989391132,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1875.7724977229889,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1883.393369201927,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1882.7252412536886,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1877.9245126774636,
+        "point_count": 929
+      }
+    },
+    "2014_02": {
+      "DHALAI": {
+        "average": 1875.3862608470797,
+        "point_count": 3780
+      },
+      "GOMATI": {
+        "average": 1852.1000566679022,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1851.8374991891246,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1849.5568196657764,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1853.792558828074,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1851.7328698040678,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1847.394063998041,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1854.798380201937,
+        "point_count": 929
+      }
+    },
+    "2014_03": {
+      "DHALAI": {
+        "average": 1890.6743722520332,
+        "point_count": 3704
+      },
+      "GOMATI": {
+        "average": 1874.336778647271,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1872.8032041398258,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1876.845589887792,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1874.3261759234244,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1874.0186741117336,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1878.0534890038039,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1876.520240902943,
+        "point_count": 929
+      }
+    },
+    "2014_04": {
+      "DHALAI": {
+        "average": 1889.7687088913997,
+        "point_count": 3770
+      },
+      "GOMATI": {
+        "average": 1872.4865342803537,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1870.5042356247466,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1878.9593035559637,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1871.5380123251518,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1873.1427843683346,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1876.873793041003,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1872.2254490672171,
+        "point_count": 929
+      }
+    },
+    "2014_05": {
+      "DHALAI": {
+        "average": 1917.1138962433392,
+        "point_count": 3783
+      },
+      "GOMATI": {
+        "average": 1924.2573149971463,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1929.351393883009,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1924.2669367152755,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1924.0721414208258,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1922.7253568557162,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1933.518374732758,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1923.4145081957745,
+        "point_count": 929
+      }
+    },
+    "2014_06": {
+      "DHALAI": {
+        "average": 1900.1005541550678,
+        "point_count": 3774
+      },
+      "GOMATI": {
+        "average": 1892.936113579897,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1893.3488729652986,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1894.1392650283265,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1894.4670426687776,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1893.1687078240684,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1893.043216092121,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1898.3091146459722,
+        "point_count": 929
+      }
+    },
+    "2014_07": {
+      "DHALAI": {
+        "average": 1900.5529150800455,
+        "point_count": 3783
+      },
+      "GOMATI": {
+        "average": 1897.1592868870566,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1894.116436485957,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1893.8545608002,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1903.58429058608,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1893.5054316720395,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1896.3389802418476,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1903.8703345927927,
+        "point_count": 929
+      }
+    },
+    "2014_08": {
+      "GOMATI": {
+        "average": 1907.6491034423473,
+        "point_count": 197
+      },
+      "KHOWAI": {
+        "average": 1893.6699896039615,
+        "point_count": 153
+      },
+      "SEPAHIJALA": {
+        "average": 1897.9204331935694,
+        "point_count": 998
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1907.6678307530551,
+        "point_count": 148
+      },
+      "WEST_TRIPURA": {
+        "average": 1890.2406757584133,
+        "point_count": 890
+      }
+    },
+    "2014_09": {
+      "DHALAI": {
+        "average": 1881.5860475824845,
+        "point_count": 3647
+      },
+      "GOMATI": {
+        "average": 1867.548056699175,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1873.281024783491,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1879.1241085016768,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1873.6750566186017,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1867.2960980073542,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1856.0114361192989,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1872.7268563031728,
+        "point_count": 929
+      }
+    },
+    "2014_10": {
+      "DHALAI": {
+        "average": 1875.8503108833995,
+        "point_count": 3573
+      },
+      "GOMATI": {
+        "average": 1853.3712380322672,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1853.3884752487259,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1850.2166832718513,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1873.5022614017644,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1853.1159860683656,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1850.0785704434197,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1872.5781979939964,
+        "point_count": 929
+      }
+    },
+    "2014_11": {
+      "DHALAI": {
+        "average": 1891.2173831759656,
+        "point_count": 3764
+      },
+      "GOMATI": {
+        "average": 1875.9482241526746,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1874.2818056088854,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1880.9460260679105,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1873.9064562817437,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1876.2944795239016,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1877.0891665481736,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1873.734628403207,
+        "point_count": 929
+      }
+    },
+    "2014_12": {
+      "DHALAI": {
+        "average": 1893.5126287058508,
+        "point_count": 3780
+      },
+      "GOMATI": {
+        "average": 1883.4792011683066,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1882.0621847221482,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1880.3500718600792,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1878.8039247840784,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1882.7463807375798,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1883.3786538755326,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1878.2467007364803,
+        "point_count": 929
+      }
+    },
+    "2015_01": {
+      "DHALAI": {
+        "average": 1891.3735537088844,
+        "point_count": 3777
+      },
+      "GOMATI": {
+        "average": 1880.330238864106,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1877.7482186185437,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1876.7274580244646,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1873.3646797883266,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1880.8413322921688,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1879.6428454733552,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1873.5020299946982,
+        "point_count": 929
+      }
+    },
+    "2015_02": {
+      "DHALAI": {
+        "average": 1877.101332472785,
+        "point_count": 3783
+      },
+      "GOMATI": {
+        "average": 1853.5256788303757,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1854.63829929397,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1855.3935520271611,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1847.9369204737748,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1855.4158074706347,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1856.0751205290542,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1851.5631205752793,
+        "point_count": 929
+      }
+    },
+    "2015_03": {
+      "DHALAI": {
+        "average": 1888.7288629146858,
+        "point_count": 3704
+      },
+      "GOMATI": {
+        "average": 1872.5984270238757,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1874.049691273274,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1879.4969466825262,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1876.3146122360065,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1874.9695222117862,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1877.7940950385735,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1877.294471124523,
+        "point_count": 929
+      }
+    },
+    "2015_04": {
+      "DHALAI": {
+        "average": 1887.6214953271224,
+        "point_count": 3769
+      },
+      "GOMATI": {
+        "average": 1871.1800900803737,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1871.0457015948537,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1847.1498537484097,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1871.5195892841316,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1872.9733528571317,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1844.0145399434239,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1870.6607911684239,
+        "point_count": 929
+      }
+    },
+    "2015_05": {
+      "DHALAI": {
+        "average": 1913.4482049723522,
+        "point_count": 3783
+      },
+      "GOMATI": {
+        "average": 1914.7074836313477,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1918.172497782677,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1913.3389499945033,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1918.5678401706884,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1913.4748237092092,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1919.3298501195134,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1914.780577178852,
+        "point_count": 929
+      }
+    },
+    "2015_06": {
+      "DHALAI": {
+        "average": 1902.1792402974966,
+        "point_count": 3783
+      },
+      "GOMATI": {
+        "average": 1894.0666865451872,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1894.4297650913097,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1895.8526049208872,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1886.9835595229622,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1894.3301797762595,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1896.1960631706945,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1888.5594811294507,
+        "point_count": 929
+      }
+    },
+    "2015_07": {
+      "DHALAI": {
+        "average": 1899.952997670541,
+        "point_count": 1749
+      },
+      "GOMATI": {
+        "average": 1899.6032595083293,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1912.6786958768319,
+        "point_count": 893
+      },
+      "NORTH_TRIPURA": {
+        "average": 1907.449959400375,
+        "point_count": 434
+      },
+      "SEPAHIJALA": {
+        "average": 1925.1579081063496,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1895.1903857171847,
+        "point_count": 1442
+      },
+      "WEST_TRIPURA": {
+        "average": 1929.622686331046,
+        "point_count": 929
+      }
+    },
+    "2015_08": {
+      "DHALAI": {
+        "average": 1933.5905056415427,
+        "point_count": 1762
+      },
+      "GOMATI": {
+        "average": 1923.2256414197511,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1920.1569167564287,
+        "point_count": 903
+      },
+      "NORTH_TRIPURA": {
+        "average": 1932.6720247649243,
+        "point_count": 442
+      },
+      "SEPAHIJALA": {
+        "average": 1886.3764564067062,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1927.782369860855,
+        "point_count": 1442
+      },
+      "WEST_TRIPURA": {
+        "average": 1882.90060394851,
+        "point_count": 929
+      }
+    },
+    "2015_09": {
+      "DHALAI": {
+        "average": 1890.7505921171614,
+        "point_count": 3755
+      },
+      "GOMATI": {
+        "average": 1873.0171771798055,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1874.7514991927058,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1879.6151638162887,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1872.9266443478919,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1871.9054597398303,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1879.5858071684597,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1871.9742195735448,
+        "point_count": 929
+      }
+    },
+    "2015_10": {
+      "DHALAI": {
+        "average": 1875.0509261797024,
+        "point_count": 3751
+      },
+      "GOMATI": {
+        "average": 1853.5273983735133,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1853.6883428140281,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1850.689732258968,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1872.68126795144,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1852.941121390061,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1850.3900368706406,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1872.4690656816138,
+        "point_count": 929
+      }
+    },
+    "2015_11": {
+      "DHALAI": {
+        "average": 1888.7155562989071,
+        "point_count": 3763
+      },
+      "GOMATI": {
+        "average": 1875.3027603076046,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1875.4461091797657,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1875.1444735679204,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1874.737028580686,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1875.6957774773698,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1874.8666886136507,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1874.1549588994812,
+        "point_count": 929
+      }
+    },
+    "2015_12": {
+      "DHALAI": {
+        "average": 1891.187217530691,
+        "point_count": 3782
+      },
+      "GOMATI": {
+        "average": 1879.2016086750502,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1879.14067114277,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1876.1591826788374,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1870.8549050816703,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1880.281850875075,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1879.042657426973,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1870.8734483895416,
+        "point_count": 929
+      }
+    },
+    "2016_01": {
+      "DHALAI": {
+        "average": 1892.5978712274607,
+        "point_count": 3775
+      },
+      "GOMATI": {
+        "average": 1857.41267364229,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1876.4536547543485,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1878.7902162986666,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1848.5758601346488,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1850.6741198981233,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1882.4664873501283,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1854.4480929625756,
+        "point_count": 929
+      }
+    },
+    "2016_02": {
+      "DHALAI": {
+        "average": 1878.3206869788605,
+        "point_count": 3768
+      },
+      "GOMATI": {
+        "average": 1856.047263880873,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1855.5152235228759,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1852.113848509781,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1847.033510818236,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1855.7497213875279,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1852.436589225042,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1846.6278874562338,
+        "point_count": 929
+      }
+    },
+    "2016_03": {
+      "DHALAI": {
+        "average": 1886.4772994030884,
+        "point_count": 3782
+      },
+      "GOMATI": {
+        "average": 1869.4975153706346,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1868.9325091321161,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1862.8330918243726,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1869.670773350038,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1869.2789445487142,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1860.7556207406408,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1869.727284664791,
+        "point_count": 929
+      }
+    },
+    "2016_04": {
+      "DHALAI": {
+        "average": 1889.797334852071,
+        "point_count": 3782
+      },
+      "GOMATI": {
+        "average": 1875.6351806078917,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1875.7834234992263,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1874.6028284382553,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1869.860557716254,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1872.9706500885025,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1880.357280315878,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1868.1261280281635,
+        "point_count": 929
+      }
+    },
+    "2016_05": {
+      "DHALAI": {
+        "average": 1914.8106365585356,
+        "point_count": 3783
+      },
+      "GOMATI": {
+        "average": 1916.809864319625,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1917.5692217769324,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1921.6048577833692,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1925.9318177974344,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1918.3225410468383,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1925.2813691845554,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1924.31725058903,
+        "point_count": 929
+      }
+    },
+    "2016_06": {
+      "DHALAI": {
+        "average": 1893.5013972263494,
+        "point_count": 1767
+      },
+      "GOMATI": {
+        "average": 1893.12610463505,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1892.5230050707428,
+        "point_count": 901
+      },
+      "NORTH_TRIPURA": {
+        "average": 1892.2140357985277,
+        "point_count": 446
+      },
+      "SEPAHIJALA": {
+        "average": 1888.2636848319564,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1893.3083024321572,
+        "point_count": 1442
+      },
+      "WEST_TRIPURA": {
+        "average": 1887.0984003142473,
+        "point_count": 929
+      }
+    },
+    "2016_07": {
+      "DHALAI": {
+        "average": 1900.5258482955091,
+        "point_count": 3781
+      },
+      "GOMATI": {
+        "average": 1888.7812643262134,
+        "point_count": 213
+      },
+      "KHOWAI": {
+        "average": 1890.5136332819595,
+        "point_count": 979
+      },
+      "NORTH_TRIPURA": {
+        "average": 1883.8979267852017,
+        "point_count": 1343
+      },
+      "SEPAHIJALA": {
+        "average": 1887.5047475789886,
+        "point_count": 1005
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1888.460639939388,
+        "point_count": 152
+      },
+      "UNOKOTI": {
+        "average": 1886.4821141939824,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1891.2743234911356,
+        "point_count": 920
+      }
+    },
+    "2016_08": {
+      "DHALAI": {
+        "average": 1883.3621703504466,
+        "point_count": 3783
+      },
+      "GOMATI": {
+        "average": 1864.1819955973158,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1865.9541020022712,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1870.0727617571688,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1867.0867075634685,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1864.6942899226851,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1867.6549536331477,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1866.4517413006781,
+        "point_count": 929
+      }
+    },
+    "2016_09": {
+      "DHALAI": {
+        "average": 1877.336926853682,
+        "point_count": 3757
+      },
+      "GOMATI": {
+        "average": 1868.6979590023532,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1870.9840332999547,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1863.3505664053869,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1865.9631236517905,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1870.4299018774643,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1875.2509967036247,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1866.4214291294454,
+        "point_count": 929
+      }
+    },
+    "2016_10": {
+      "DHALAI": {
+        "average": 1875.412080994816,
+        "point_count": 3661
+      },
+      "GOMATI": {
+        "average": 1849.8666257769717,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1849.3528042732075,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1852.1840672429796,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1844.809152082946,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1849.8150823504643,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1850.3570044101416,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1844.2714835531474,
+        "point_count": 929
+      }
+    },
+    "2016_11": {
+      "DHALAI": {
+        "average": 1893.2344202719148,
+        "point_count": 3778
+      },
+      "GOMATI": {
+        "average": 1883.4213567365157,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1881.22495042915,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1881.1010750551136,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1877.4921910392256,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1882.8574146898484,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1882.3882512459013,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1875.8458994604664,
+        "point_count": 929
+      }
+    },
+    "2016_12": {
+      "DHALAI": {
+        "average": 1893.5711660388451,
+        "point_count": 3782
+      },
+      "GOMATI": {
+        "average": 1882.2324353267902,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1880.9165411780284,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1882.0911009367037,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1875.0065696201937,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1882.314885714176,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1881.9642841773646,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1874.6324521753877,
+        "point_count": 929
+      }
+    },
+    "2017_01": {
+      "DHALAI": {
+        "average": 1877.1516635153528,
+        "point_count": 3541
+      },
+      "GOMATI": {
+        "average": 1853.1801583374056,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1853.7905147509944,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1879.1399249187778,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1872.697735878021,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1852.6712916325657,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1869.9162474405582,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1872.8637588547626,
+        "point_count": 929
+      }
+    },
+    "2017_02": {
+      "DHALAI": {
+        "average": 1878.7246109362065,
+        "point_count": 3775
+      },
+      "GOMATI": {
+        "average": 1856.618199366126,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1856.4143617704178,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1856.9534382542554,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1852.6899892806234,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1856.462472746327,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1857.8505641213103,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1851.9169425461437,
+        "point_count": 929
+      }
+    },
+    "2017_03": {
+      "DHALAI": {
+        "average": 1886.1775158104235,
+        "point_count": 3696
+      },
+      "GOMATI": {
+        "average": 1874.594920285859,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1873.1222290309227,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1877.2514814486908,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1874.3959358478132,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1874.6729165192196,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1877.1259099133235,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1876.2421668496297,
+        "point_count": 929
+      }
+    },
+    "2017_04": {
+      "DHALAI": {
+        "average": 1884.5104731276836,
+        "point_count": 3782
+      },
+      "GOMATI": {
+        "average": 1865.295659990148,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1866.6736414996903,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1868.5271175247108,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1868.6687693519161,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1865.64918086752,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1867.390043898776,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1868.8585023969065,
+        "point_count": 929
+      }
+    },
+    "2017_05": {
+      "DHALAI": {
+        "average": 1909.7275818464323,
+        "point_count": 3783
+      },
+      "GOMATI": {
+        "average": 1900.7154851527764,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1916.8862657340496,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1916.234213721872,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1924.0254048388038,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1900.9184593504117,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1916.9217010630834,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1921.391756428235,
+        "point_count": 929
+      }
+    },
+    "2017_06": {
+      "DHALAI": {
+        "average": 1887.800200941504,
+        "point_count": 1753
+      },
+      "GOMATI": {
+        "average": 1886.066138147303,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1891.3230786424617,
+        "point_count": 894
+      },
+      "NORTH_TRIPURA": {
+        "average": 1898.152451509088,
+        "point_count": 436
+      },
+      "SEPAHIJALA": {
+        "average": 1889.034493552082,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1887.6936543009508,
+        "point_count": 1442
+      },
+      "WEST_TRIPURA": {
+        "average": 1890.6904453733466,
+        "point_count": 929
+      }
+    },
+    "2017_07": {
+      "GOMATI": {
+        "average": 1914.007609350759,
+        "point_count": 218
+      },
+      "KHOWAI": {
+        "average": 1923.8771657408072,
+        "point_count": 170
+      },
+      "SEPAHIJALA": {
+        "average": 1922.4134164427326,
+        "point_count": 1008
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1918.7651722070204,
+        "point_count": 166
+      },
+      "WEST_TRIPURA": {
+        "average": 1921.7741770070486,
+        "point_count": 897
+      }
+    },
+    "2017_08": {
+      "DHALAI": {
+        "average": 1883.2632711908202,
+        "point_count": 3765
+      },
+      "GOMATI": {
+        "average": 1866.3368053941658,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1865.6018738207958,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1864.5590824236394,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1866.1403555135523,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1866.3427155900326,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1863.0260977675966,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1865.7407906323222,
+        "point_count": 929
+      }
+    },
+    "2017_09": {
+      "DHALAI": {
+        "average": 1881.6205930649148,
+        "point_count": 3763
+      },
+      "GOMATI": {
+        "average": 1872.2098754296956,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1873.8124639703592,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1837.8205554195476,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1870.8407815456528,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1873.191822600159,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1850.8945312583953,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1870.0337105242825,
+        "point_count": 929
+      }
+    },
+    "2017_10": {
+      "DHALAI": {
+        "average": 1886.9916126221008,
+        "point_count": 3782
+      },
+      "GOMATI": {
+        "average": 1848.9687388216373,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1850.1237678659518,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1882.1324750133651,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1844.5238744702053,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1848.6627679842659,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1879.8273738525795,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1844.7737339988123,
+        "point_count": 929
+      }
+    },
+    "2017_11": {
+      "DHALAI": {
+        "average": 1888.6418961451784,
+        "point_count": 3760
+      },
+      "GOMATI": {
+        "average": 1874.9721082976168,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1875.1634849190775,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1875.145583047389,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1874.3373968074093,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1874.9295355017412,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1874.4424283433545,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1874.3794325407332,
+        "point_count": 929
+      }
+    },
+    "2017_12": {
+      "DHALAI": {
+        "average": 1893.3812990393164,
+        "point_count": 3781
+      },
+      "GOMATI": {
+        "average": 1883.1776337552687,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1881.8396269212549,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1878.4698382937302,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1879.6613408110268,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1882.7894615146943,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1882.7533713517823,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1875.2443230876477,
+        "point_count": 929
+      }
+    },
+    "2018_01": {
+      "DHALAI": {
+        "average": 1874.809220164928,
+        "point_count": 3714
+      },
+      "GOMATI": {
+        "average": 1852.3265411857851,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1852.7194213628577,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1850.422736549516,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1867.6600029731205,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1851.573483688244,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1850.585790545804,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1867.1944579718238,
+        "point_count": 929
+      }
+    },
+    "2018_02": {
+      "DHALAI": {
+        "average": 1879.6460367035338,
+        "point_count": 3600
+      },
+      "GOMATI": {
+        "average": 1857.1140262155625,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1856.0943983187392,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1856.9535465802242,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1854.6565791418348,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1862.0964193232187,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1857.732916909526,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1852.473728324963,
+        "point_count": 929
+      }
+    },
+    "2018_03": {
+      "DHALAI": {
+        "average": 1890.0065978497812,
+        "point_count": 3782
+      },
+      "GOMATI": {
+        "average": 1874.6778320139686,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1872.914359828339,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1879.7788862071059,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1875.3884410300614,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1874.2587141364593,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1877.7616039301586,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1874.2413689733385,
+        "point_count": 929
+      }
+    },
+    "2018_04": {
+      "DHALAI": {
+        "average": 1886.5860558156846,
+        "point_count": 3780
+      },
+      "GOMATI": {
+        "average": 1872.3929337241734,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1872.7616628775768,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1873.0915920646598,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1871.4761824455231,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1872.4133606098403,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1877.7997150505062,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1869.5411072004838,
+        "point_count": 929
+      }
+    },
+    "2018_05": {
+      "DHALAI": {
+        "average": 1919.211047005697,
+        "point_count": 3783
+      },
+      "GOMATI": {
+        "average": 1933.175257091252,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1926.2251557287193,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1931.0145159606482,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1934.0685900145324,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1934.4917538292073,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1935.7851664242987,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1928.6040923901746,
+        "point_count": 929
+      }
+    },
+    "2018_06": {
+      "DHALAI": {
+        "average": 1894.5596817725666,
+        "point_count": 3782
+      },
+      "GOMATI": {
+        "average": 1893.808684722195,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1892.1722422248422,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1882.959590755927,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1892.6731341596337,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1891.7288031646679,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1885.5674251990679,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1892.9465481515465,
+        "point_count": 929
+      }
+    },
+    "2018_07": {
+      "GOMATI": {
+        "average": 1900.156170670081,
+        "point_count": 240
+      },
+      "KHOWAI": {
+        "average": 1909.1981621172376,
+        "point_count": 190
+      },
+      "SEPAHIJALA": {
+        "average": 1900.937991520585,
+        "point_count": 1021
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1897.9197546646633,
+        "point_count": 189
+      },
+      "WEST_TRIPURA": {
+        "average": 1907.4450991278932,
+        "point_count": 906
+      }
+    },
+    "2018_08": {
+      "DHALAI": {
+        "average": 1883.2390309536736,
+        "point_count": 3778
+      },
+      "GOMATI": {
+        "average": 1865.994669837784,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1866.9676130182438,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1865.5123049794922,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1869.1399222602197,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1865.7185068212084,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1865.3581101193997,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1873.70576056889,
+        "point_count": 929
+      }
+    },
+    "2018_09": {
+      "DHALAI": {
+        "average": 1886.0711481761857,
+        "point_count": 3769
+      },
+      "GOMATI": {
+        "average": 1870.5197893100396,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1870.2011020430941,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1878.8868527952689,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1867.415688901108,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1871.5476119091602,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1878.5502886380877,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1865.9788401287801,
+        "point_count": 929
+      }
+    },
+    "2018_10": {
+      "GOMATI": {
+        "average": 1847.9987426466028,
+        "point_count": 211
+      },
+      "KHOWAI": {
+        "average": 1847.8336114587603,
+        "point_count": 167
+      },
+      "SEPAHIJALA": {
+        "average": 1848.1055705352735,
+        "point_count": 1008
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1846.6611821976087,
+        "point_count": 156
+      },
+      "WEST_TRIPURA": {
+        "average": 1847.9425486856967,
+        "point_count": 895
+      }
+    },
+    "2018_11": {
+      "DHALAI": {
+        "average": 1892.7076726134621,
+        "point_count": 3770
+      },
+      "GOMATI": {
+        "average": 1881.3850973028855,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1881.1996163218653,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1882.1448016097593,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1875.7797216214065,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1880.6324757725454,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1883.2812461471901,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1876.7204179301752,
+        "point_count": 929
+      }
+    },
+    "2018_12": {
+      "DHALAI": {
+        "average": 1893.2306505275158,
+        "point_count": 3761
+      },
+      "GOMATI": {
+        "average": 1873.2899554367382,
+        "point_count": 239
+      },
+      "KHOWAI": {
+        "average": 1872.9389653577232,
+        "point_count": 976
+      },
+      "NORTH_TRIPURA": {
+        "average": 1872.5583041890995,
+        "point_count": 1342
+      },
+      "SEPAHIJALA": {
+        "average": 1872.4546159889392,
+        "point_count": 1015
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1872.59814695738,
+        "point_count": 179
+      },
+      "UNOKOTI": {
+        "average": 1874.8015410698524,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1869.7601808723443,
+        "point_count": 922
+      }
+    },
+    "2019_01": {
+      "DHALAI": {
+        "average": 1876.8300222926998,
+        "point_count": 3480
+      },
+      "GOMATI": {
+        "average": 1854.5487668567334,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1855.0743379741439,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1850.6966352159711,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1874.2626249997782,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1853.8543578036463,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1850.7859950250686,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1874.3066667293415,
+        "point_count": 929
+      }
+    },
+    "2019_02": {
+      "DHALAI": {
+        "average": 1876.4314554500077,
+        "point_count": 3653
+      },
+      "GOMATI": {
+        "average": 1854.5590583699923,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1854.5689454788912,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1851.2628433172838,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1855.1989733377418,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1855.0736913836004,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1851.3259532620777,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1855.3690734573288,
+        "point_count": 929
+      }
+    },
+    "2019_03": {
+      "DHALAI": {
+        "average": 1885.567047140682,
+        "point_count": 3535
+      },
+      "GOMATI": {
+        "average": 1873.0596905749205,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1869.4595265293678,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1857.137180026402,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1871.9146952084977,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1873.4805855080194,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1858.2408995487897,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1871.3414853219142,
+        "point_count": 929
+      }
+    },
+    "2019_04": {
+      "DHALAI": {
+        "average": 1873.8302249072035,
+        "point_count": 3722
+      },
+      "GOMATI": {
+        "average": 1871.3308797043367,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1874.6015501148613,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1834.4159925553524,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1870.4095841749258,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1871.544429467735,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1843.2860723684714,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1871.2797689361316,
+        "point_count": 929
+      }
+    },
+    "2019_05": {
+      "DHALAI": {
+        "average": 1917.7763476983737,
+        "point_count": 3783
+      },
+      "GOMATI": {
+        "average": 1926.93357389312,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1928.7954037332656,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1919.7369141465635,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1924.9342760152535,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1926.6901672843169,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1920.4252372303724,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1923.4828554174198,
+        "point_count": 929
+      }
+    },
+    "2019_06": {
+      "DHALAI": {
+        "average": 1897.6850386157307,
+        "point_count": 1752
+      },
+      "GOMATI": {
+        "average": 1893.05736623205,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1891.6839583288233,
+        "point_count": 891
+      },
+      "NORTH_TRIPURA": {
+        "average": 1892.5545673542842,
+        "point_count": 435
+      },
+      "SEPAHIJALA": {
+        "average": 1885.1084974629023,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1892.6363444281794,
+        "point_count": 1442
+      },
+      "WEST_TRIPURA": {
+        "average": 1889.8603472549482,
+        "point_count": 929
+      }
+    },
+    "2019_07": {
+      "GOMATI": {
+        "average": 1907.7237102919162,
+        "point_count": 215
+      },
+      "KHOWAI": {
+        "average": 1904.7654379566327,
+        "point_count": 193
+      },
+      "SEPAHIJALA": {
+        "average": 1909.5839231549023,
+        "point_count": 1016
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1888.0557758819618,
+        "point_count": 149
+      },
+      "WEST_TRIPURA": {
+        "average": 1915.4203839327433,
+        "point_count": 915
+      }
+    },
+    "2019_08": {
+      "DHALAI": {
+        "average": 1885.0843808748039,
+        "point_count": 3781
+      },
+      "GOMATI": {
+        "average": 1868.8227695489297,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1877.504751553875,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1867.2365323620493,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1880.2258323955464,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1867.0082139877866,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1869.543110523921,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1879.8343170936296,
+        "point_count": 929
+      }
+    },
+    "2019_09": {
+      "GOMATI": {
+        "average": 1867.1147157033297,
+        "point_count": 245
+      },
+      "KHOWAI": {
+        "average": 1869.087663037463,
+        "point_count": 194
+      },
+      "SEPAHIJALA": {
+        "average": 1873.6368098040446,
+        "point_count": 1022
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1869.4571940592532,
+        "point_count": 193
+      },
+      "WEST_TRIPURA": {
+        "average": 1873.813237545903,
+        "point_count": 907
+      }
+    },
+    "2019_10": {
+      "DHALAI": {
+        "average": 1874.398277483331,
+        "point_count": 3783
+      },
+      "GOMATI": {
+        "average": 1851.9766563808107,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1853.5876570743042,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1850.1820893792694,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1875.6536475752637,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1851.137924451266,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1850.2955048214817,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1874.1335220053672,
+        "point_count": 929
+      }
+    },
+    "2019_11": {
+      "DHALAI": {
+        "average": 1888.6856697761423,
+        "point_count": 3781
+      },
+      "GOMATI": {
+        "average": 1874.6100584729465,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1875.459954646324,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1878.2184013503881,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1872.6438736647772,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1875.0300286351662,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1877.795048010404,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1872.3177773108348,
+        "point_count": 929
+      }
+    },
+    "2019_12": {
+      "DHALAI": {
+        "average": 1892.8417516588966,
+        "point_count": 3781
+      },
+      "GOMATI": {
+        "average": 1880.2982714568923,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1879.9812882085055,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1878.6343170613743,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1875.5939745966705,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1879.547858479813,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1882.2021841751891,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1874.3339180438609,
+        "point_count": 929
+      }
+    },
+    "2020_01": {
+      "DHALAI": {
+        "average": 1889.31862849716,
+        "point_count": 3595
+      },
+      "GOMATI": {
+        "average": 1877.4942148485766,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1872.370545619673,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1858.3167075814704,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1869.4620883507835,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1880.2825040871564,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1850.4265456768164,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1870.3903627383465,
+        "point_count": 929
+      }
+    },
+    "2020_02": {
+      "DHALAI": {
+        "average": 1877.4108806511606,
+        "point_count": 3783
+      },
+      "GOMATI": {
+        "average": 1854.7616533540058,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1855.796177582252,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1853.3672702720623,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1855.3160513486707,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1853.7620202778724,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1855.7101625195685,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1855.5021898556358,
+        "point_count": 929
+      }
+    },
+    "2020_03": {
+      "DHALAI": {
+        "average": 1876.3832337072567,
+        "point_count": 3782
+      },
+      "GOMATI": {
+        "average": 1867.7428823625596,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1870.7541084815414,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1865.4033025237352,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1869.5928072900124,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1866.4630262308383,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1877.8043052660857,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1869.6348101592785,
+        "point_count": 929
+      }
+    },
+    "2020_04": {
+      "DHALAI": {
+        "average": 1878.6042876389586,
+        "point_count": 3771
+      },
+      "GOMATI": {
+        "average": 1867.2127112303547,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1869.8476951444263,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1873.651139805477,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1867.3625964780379,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1867.121676898606,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1877.5883559067497,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1868.4280302028371,
+        "point_count": 929
+      }
+    },
+    "2020_05": {
+      "DHALAI": {
+        "average": 1919.5537424211766,
+        "point_count": 3781
+      },
+      "GOMATI": {
+        "average": 1921.614203108768,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1930.26210295245,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1927.1954722510825,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1924.812395927663,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1919.1051734360283,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1930.2645906886698,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1925.9345291704358,
+        "point_count": 929
+      }
+    },
+    "2020_06": {
+      "DHALAI": {
+        "average": 1888.1692802272876,
+        "point_count": 1757
+      },
+      "GOMATI": {
+        "average": 1882.2426315104053,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1890.1579448425966,
+        "point_count": 896
+      },
+      "NORTH_TRIPURA": {
+        "average": 1886.9414204226266,
+        "point_count": 440
+      },
+      "SEPAHIJALA": {
+        "average": 1892.4079687592425,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1878.0278835570327,
+        "point_count": 1442
+      },
+      "WEST_TRIPURA": {
+        "average": 1899.51509446352,
+        "point_count": 929
+      }
+    },
+    "2020_07": {
+      "GOMATI": {
+        "average": 1891.2476565143174,
+        "point_count": 197
+      },
+      "KHOWAI": {
+        "average": 1894.510072469479,
+        "point_count": 154
+      },
+      "SEPAHIJALA": {
+        "average": 1889.4553908585638,
+        "point_count": 998
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1887.5331230982797,
+        "point_count": 148
+      },
+      "WEST_TRIPURA": {
+        "average": 1891.5238425770544,
+        "point_count": 890
+      }
+    },
+    "2020_08": {
+      "DHALAI": {
+        "average": 1890.0297320688915,
+        "point_count": 3781
+      },
+      "GOMATI": {
+        "average": 1871.6742227074985,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1865.1287788200968,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1881.7227737117835,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1872.1160305113929,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1875.880499484122,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1870.3615117508207,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1867.7091875434762,
+        "point_count": 929
+      }
+    },
+    "2020_09": {
+      "DHALAI": {
+        "average": 1890.3395396754797,
+        "point_count": 3677
+      },
+      "GOMATI": {
+        "average": 1872.9803510495115,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1871.868784275401,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1880.227826245359,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1871.6387676390264,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1872.416267062044,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1876.0881809865125,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1870.775312141351,
+        "point_count": 929
+      }
+    },
+    "2020_10": {
+      "DHALAI": {
+        "average": 1874.7503651306324,
+        "point_count": 3773
+      },
+      "GOMATI": {
+        "average": 1849.7081274583943,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1849.3240092139372,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1850.8880368713374,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1844.2601848601153,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1849.8858821368485,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1850.4582263407985,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1844.2939009904453,
+        "point_count": 929
+      }
+    },
+    "2020_11": {
+      "DHALAI": {
+        "average": 1892.7145202518652,
+        "point_count": 3781
+      },
+      "GOMATI": {
+        "average": 1881.8641259117971,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1879.7288289089797,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1881.7448988680824,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1877.1756323923764,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1881.9461164236172,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1877.560433777745,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1875.4160261802067,
+        "point_count": 929
+      }
+    },
+    "2020_12": {
+      "DHALAI": {
+        "average": 1892.7303623952196,
+        "point_count": 3692
+      },
+      "GOMATI": {
+        "average": 1881.2307186443531,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1879.236966533004,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1878.8546289426076,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1872.3391433354884,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1882.9971151443663,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1882.367009512794,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1870.566252182252,
+        "point_count": 929
+      }
+    },
+    "2021_01": {
+      "DHALAI": {
+        "average": 1893.4462272306018,
+        "point_count": 3783
+      },
+      "GOMATI": {
+        "average": 1883.5112596551776,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1880.8802394223017,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1879.3570672675648,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1877.3820924017346,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1882.219293250488,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1883.3387034411585,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1877.7592918840828,
+        "point_count": 929
+      }
+    },
+    "2021_02": {
+      "DHALAI": {
+        "average": 1877.4529821045774,
+        "point_count": 3440
+      },
+      "GOMATI": {
+        "average": 1852.2630057330932,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1852.4722818375883,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1850.2572767264337,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1847.769687801759,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1855.5637727237959,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1852.0706709444432,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1849.9419428293106,
+        "point_count": 929
+      }
+    },
+    "2021_03": {
+      "DHALAI": {
+        "average": 1884.6411384716173,
+        "point_count": 3783
+      },
+      "GOMATI": {
+        "average": 1872.6640751050975,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1872.416570504326,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1869.0443203384575,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1869.866698899451,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1873.4769196226014,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1875.922388407508,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1868.177596547239,
+        "point_count": 929
+      }
+    },
+    "2021_04": {
+      "DHALAI": {
+        "average": 1890.1271683817151,
+        "point_count": 3771
+      },
+      "GOMATI": {
+        "average": 1873.4061667893786,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1872.126423266015,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1879.6319215246535,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1872.103234383281,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1873.3072639178808,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1877.9374344196733,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1872.3399403264648,
+        "point_count": 929
+      }
+    },
+    "2021_05": {
+      "DHALAI": {
+        "average": 1912.1919077779412,
+        "point_count": 3783
+      },
+      "GOMATI": {
+        "average": 1916.6913818838702,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1921.3690801983682,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1916.8024406019986,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1922.294802283725,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1914.4640170606106,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1917.8679487166453,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1922.2087753660917,
+        "point_count": 929
+      }
+    },
+    "2021_06": {
+      "DHALAI": {
+        "average": 1899.47802951512,
+        "point_count": 3783
+      },
+      "GOMATI": {
+        "average": 1893.499430892779,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1895.437023407296,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1894.6306882898507,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1885.0982285300108,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1897.0928002043806,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1891.4045965870655,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1888.0346330007317,
+        "point_count": 929
+      }
+    },
+    "2021_07": {
+      "DHALAI": {
+        "average": 1906.229980723934,
+        "point_count": 1766
+      },
+      "GOMATI": {
+        "average": 1900.850521152632,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1914.4650202488735,
+        "point_count": 900
+      },
+      "NORTH_TRIPURA": {
+        "average": 1912.7633363328007,
+        "point_count": 444
+      },
+      "SEPAHIJALA": {
+        "average": 1917.9652864761665,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1894.57973381153,
+        "point_count": 1442
+      },
+      "WEST_TRIPURA": {
+        "average": 1928.503150959837,
+        "point_count": 929
+      }
+    },
+    "2021_08": {
+      "GOMATI": {
+        "average": 1884.8284404162764,
+        "point_count": 217
+      },
+      "KHOWAI": {
+        "average": 1876.4778985396583,
+        "point_count": 170
+      },
+      "SEPAHIJALA": {
+        "average": 1875.6580216759426,
+        "point_count": 1008
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1881.994124901923,
+        "point_count": 165
+      },
+      "WEST_TRIPURA": {
+        "average": 1872.0661062600416,
+        "point_count": 897
+      }
+    },
+    "2021_09": {
+      "DHALAI": {
+        "average": 1889.7766206442925,
+        "point_count": 3587
+      },
+      "GOMATI": {
+        "average": 1871.8817367190477,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1872.5779572090175,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1862.1561535744343,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1867.3270373168268,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1872.3093418561612,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1853.1716686718792,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1868.1754380012987,
+        "point_count": 929
+      }
+    },
+    "2021_10": {
+      "DHALAI": {
+        "average": 1874.85232790901,
+        "point_count": 3717
+      },
+      "GOMATI": {
+        "average": 1852.6688921665186,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1853.428320210277,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1850.4038395504547,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1875.016763492417,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1851.9656345178475,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1850.1868641037067,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1872.9053997933604,
+        "point_count": 929
+      }
+    },
+    "2021_11": {
+      "DHALAI": {
+        "average": 1888.201419190359,
+        "point_count": 3768
+      },
+      "GOMATI": {
+        "average": 1874.3420957887063,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1874.2466499502866,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1876.4654644932089,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1874.1217195948,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1874.735978852391,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1874.103656691352,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1873.6485667057957,
+        "point_count": 929
+      }
+    },
+    "2021_12": {
+      "DHALAI": {
+        "average": 1892.490125138569,
+        "point_count": 3682
+      },
+      "GOMATI": {
+        "average": 1879.9579579964534,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1878.9218461956407,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1878.0068913771684,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1869.3529199995503,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1879.801838860439,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1881.8976269517373,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1868.9502961187736,
+        "point_count": 929
+      }
+    },
+    "2022_01": {
+      "DHALAI": {
+        "average": 1892.4417637345475,
+        "point_count": 3782
+      },
+      "GOMATI": {
+        "average": 1853.1188900487068,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1873.4761448847664,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1878.9890318778187,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1845.9010944380732,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1850.3004408341726,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1882.7368524488265,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1849.4649290253742,
+        "point_count": 929
+      }
+    },
+    "2022_02": {
+      "DHALAI": {
+        "average": 1878.3261274732586,
+        "point_count": 3778
+      },
+      "GOMATI": {
+        "average": 1855.590946141758,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1854.7617248521585,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1852.0369970936454,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1847.175933085928,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1855.9270411302011,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1853.8424658424274,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1846.6241044274734,
+        "point_count": 929
+      }
+    },
+    "2022_03": {
+      "DHALAI": {
+        "average": 1890.0541014834553,
+        "point_count": 3757
+      },
+      "GOMATI": {
+        "average": 1874.443501721423,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1872.6428372192736,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1871.202928624557,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1875.0087997990888,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1874.3885727424256,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1870.9289028181286,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1877.3854668642293,
+        "point_count": 929
+      }
+    },
+    "2022_04": {
+      "DHALAI": {
+        "average": 1886.2704713467572,
+        "point_count": 3783
+      },
+      "GOMATI": {
+        "average": 1872.9242552496692,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1879.6944741679745,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1868.5551094294149,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1872.707885364701,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1868.6750068617844,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1874.856537976732,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1870.8714607071358,
+        "point_count": 929
+      }
+    },
+    "2022_05": {
+      "DHALAI": {
+        "average": 1927.6208345774162,
+        "point_count": 1743
+      },
+      "GOMATI": {
+        "average": 1919.9078039487956,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1916.011316194034,
+        "point_count": 890
+      },
+      "NORTH_TRIPURA": {
+        "average": 1925.8762257113442,
+        "point_count": 427
+      },
+      "SEPAHIJALA": {
+        "average": 1925.5099322838335,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1919.6339439184728,
+        "point_count": 1442
+      },
+      "WEST_TRIPURA": {
+        "average": 1926.100531590066,
+        "point_count": 929
+      }
+    },
+    "2022_06": {
+      "DHALAI": {
+        "average": 1899.6791369841583,
+        "point_count": 1752
+      },
+      "GOMATI": {
+        "average": 1896.0252542805488,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1905.5208293420608,
+        "point_count": 892
+      },
+      "NORTH_TRIPURA": {
+        "average": 1900.0823727249815,
+        "point_count": 435
+      },
+      "SEPAHIJALA": {
+        "average": 1896.3944969609752,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1895.6587223653744,
+        "point_count": 1442
+      },
+      "WEST_TRIPURA": {
+        "average": 1905.270628404816,
+        "point_count": 929
+      }
+    },
+    "2022_07": {
+      "DHALAI": {
+        "average": 1908.940726007585,
+        "point_count": 3776
+      },
+      "GOMATI": {
+        "average": 1907.4962859842997,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1907.0972788033998,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1907.8553009659634,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1902.9712367328839,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1900.9608883393234,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1906.2116583586142,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1900.8063354619212,
+        "point_count": 929
+      }
+    },
+    "2022_08": {
+      "DHALAI": {
+        "average": 1884.282952422982,
+        "point_count": 3783
+      },
+      "GOMATI": {
+        "average": 1865.661568826348,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1865.586157075809,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1870.7168105402075,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1867.0239554254563,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1867.1709422651725,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1865.097641628128,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1865.5988294730475,
+        "point_count": 929
+      }
+    },
+    "2022_09": {
+      "DHALAI": {
+        "average": 1882.2527781215776,
+        "point_count": 3768
+      },
+      "GOMATI": {
+        "average": 1866.2475986620007,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1869.7818422162172,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1868.5518289766458,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1867.5412912590841,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1869.6653640533334,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1873.1356214693847,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1866.0521928362484,
+        "point_count": 929
+      }
+    },
+    "2022_10": {
+      "DHALAI": {
+        "average": 1875.8762788824567,
+        "point_count": 3767
+      },
+      "GOMATI": {
+        "average": 1855.3761650902543,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1852.8428787572757,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1850.930157241597,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1846.6410488064935,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1855.5666130265665,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1852.3805455447034,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1845.5367054455076,
+        "point_count": 929
+      }
+    },
+    "2022_11": {
+      "DHALAI": {
+        "average": 1888.2683654028062,
+        "point_count": 3772
+      },
+      "GOMATI": {
+        "average": 1875.3081647564388,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1875.4657333672114,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1877.2179550844178,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1874.1980554358593,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1874.5145393001585,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1876.0629375063854,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1874.7819061521054,
+        "point_count": 929
+      }
+    },
+    "2022_12": {
+      "DHALAI": {
+        "average": 1894.0505648010899,
+        "point_count": 3774
+      },
+      "GOMATI": {
+        "average": 1883.9965548632172,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1882.9229940461107,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1881.950175477091,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1879.270186690873,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1882.9138262742313,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1883.6950957371419,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1878.0869610844636,
+        "point_count": 929
+      }
+    },
+    "2023_01": {
+      "DHALAI": {
+        "average": 1878.8780234999133,
+        "point_count": 3223
+      },
+      "GOMATI": {
+        "average": 1853.115530586467,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1853.5991478115036,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1876.696320858701,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1868.3517995443538,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1852.619879500518,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1865.400799003204,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1867.616206175035,
+        "point_count": 929
+      }
+    },
+    "2023_02": {
+      "DHALAI": {
+        "average": 1878.7464583746862,
+        "point_count": 3783
+      },
+      "GOMATI": {
+        "average": 1856.3734227080015,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1855.4641571142313,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1857.2067334844257,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1851.9224450663703,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1856.3197822444426,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1858.1419540681857,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1846.040683463237,
+        "point_count": 929
+      }
+    },
+    "2023_03": {
+      "DHALAI": {
+        "average": 1890.286082629606,
+        "point_count": 3771
+      },
+      "GOMATI": {
+        "average": 1872.621942694532,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1873.3498403107176,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1879.755151073951,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1868.6079755920327,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1874.0111541038214,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1878.302124434283,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1871.6847015714595,
+        "point_count": 929
+      }
+    },
+    "2023_04": {
+      "DHALAI": {
+        "average": 1874.1018799236301,
+        "point_count": 3762
+      },
+      "GOMATI": {
+        "average": 1867.6686457827302,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1871.0135832648841,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1834.3121318083922,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1868.2500175333012,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1868.668181407466,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1845.0566123450378,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1871.020593121517,
+        "point_count": 929
+      }
+    },
+    "2023_05": {
+      "DHALAI": {
+        "average": 1915.4039151738473,
+        "point_count": 3783
+      },
+      "GOMATI": {
+        "average": 1922.7054797462763,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1921.5689475952468,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1918.246555871171,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1922.6312716190878,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1925.6441212554512,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1917.5874532855476,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1923.8460811503778,
+        "point_count": 929
+      }
+    },
+    "2023_06": {
+      "DHALAI": {
+        "average": 1897.2740120837923,
+        "point_count": 3768
+      },
+      "GOMATI": {
+        "average": 1889.3412924086335,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1892.4462065030116,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1893.3932108041404,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1889.433558701701,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1889.2582175571438,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1895.3085139919838,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1891.2317045764598,
+        "point_count": 929
+      }
+    },
+    "2023_07": {
+      "DHALAI": {
+        "average": 1908.0503724249963,
+        "point_count": 3773
+      },
+      "GOMATI": {
+        "average": 1908.7087608583515,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1910.2845425111007,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1911.3209685740646,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1920.7369192648016,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1908.5341648717279,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1911.4466658582116,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1912.0588558087522,
+        "point_count": 929
+      }
+    },
+    "2023_09": {
+      "DHALAI": {
+        "average": 1890.3701353016681,
+        "point_count": 3743
+      },
+      "GOMATI": {
+        "average": 1873.1681578006844,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1871.1412074550112,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1878.1656581415614,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1872.7232128201301,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1873.0547997086992,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1878.2653667923894,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1871.8420575009732,
+        "point_count": 929
+      }
+    },
+    "2023_10": {
+      "DHALAI": {
+        "average": 1891.1441650039233,
+        "point_count": 3783
+      },
+      "GOMATI": {
+        "average": 1849.4398324536958,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1860.4578445206375,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1880.9259141455207,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1844.3967338965726,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1849.6317603986565,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1882.6135685337933,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1844.2254126119028,
+        "point_count": 929
+      }
+    },
+    "2023_11": {
+      "DHALAI": {
+        "average": 1889.203677600474,
+        "point_count": 3767
+      },
+      "GOMATI": {
+        "average": 1874.6747807722381,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1874.5565783178847,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1880.9065351340646,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1873.5615520698452,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1874.6550391867902,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1878.9572567013172,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1873.7742380820944,
+        "point_count": 929
+      }
+    },
+    "2023_12": {
+      "DHALAI": {
+        "average": 1891.728095881587,
+        "point_count": 3772
+      },
+      "GOMATI": {
+        "average": 1879.9311479611004,
+        "point_count": 1587
+      },
+      "KHOWAI": {
+        "average": 1877.5984069497213,
+        "point_count": 1032
+      },
+      "NORTH_TRIPURA": {
+        "average": 1876.6643413293855,
+        "point_count": 1345
+      },
+      "SEPAHIJALA": {
+        "average": 1869.593955841469,
+        "point_count": 1060
+      },
+      "SOUTH_TRIPURA": {
+        "average": 1879.7379352790529,
+        "point_count": 1442
+      },
+      "UNOKOTI": {
+        "average": 1877.859102265764,
+        "point_count": 700
+      },
+      "WEST_TRIPURA": {
+        "average": 1871.2900915614362,
+        "point_count": 929
+      }
+    }
+  },
+  "statistics": {
+    "mean": 1881.1311791792784,
+    "std": 19.140426192483368,
+    "min": 1834.3121318083922,
+    "max": 1935.7851664242987
+  }
+}

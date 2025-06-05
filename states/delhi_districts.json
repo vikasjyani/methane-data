@@ -1,0 +1,5633 @@
+{
+  "type": "state_districts",
+  "state_name": "DELHI",
+  "data": {
+    "CENTRAL": {
+      "average_methane": 1879.2481365036897,
+      "data_quality": {
+        "total_months": 120,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 148.0
+      },
+      "point_count": 17760
+    },
+    "EAST": {
+      "average_methane": 1880.006650398816,
+      "data_quality": {
+        "total_months": 120,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 44.96666666666667
+      },
+      "point_count": 5396
+    },
+    "NEW_DELHI": {
+      "average_methane": 1879.058226451269,
+      "data_quality": {
+        "total_months": 120,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 188.0
+      },
+      "point_count": 22560
+    },
+    "NORTH_EAST": {
+      "average_methane": 1896.5393050935427,
+      "data_quality": {
+        "total_months": 120,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 110.575
+      },
+      "point_count": 13269
+    },
+    "NORTH_WEST": {
+      "average_methane": 1894.9670792168915,
+      "data_quality": {
+        "total_months": 120,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 412.2083333333333
+      },
+      "point_count": 49465
+    },
+    "NORTH": {
+      "average_methane": 1878.7808164339776,
+      "data_quality": {
+        "total_months": 120,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 324.0
+      },
+      "point_count": 38880
+    },
+    "SHAHADRA": {
+      "average_methane": 1879.02955632967,
+      "data_quality": {
+        "total_months": 120,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 49.0
+      },
+      "point_count": 5880
+    },
+    "SOUTH_EAST": {
+      "average_methane": 1880.056022779575,
+      "data_quality": {
+        "total_months": 120,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 124.825
+      },
+      "point_count": 14979
+    },
+    "SOUTH_WEST": {
+      "average_methane": 1878.926864409276,
+      "data_quality": {
+        "total_months": 120,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 320.89166666666665
+      },
+      "point_count": 38507
+    },
+    "SOUTH": {
+      "average_methane": 1879.4234469873213,
+      "data_quality": {
+        "total_months": 120,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 180.0
+      },
+      "point_count": 21600
+    },
+    "WEST": {
+      "average_methane": 1881.4474406799777,
+      "data_quality": {
+        "total_months": 120,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 1182.4083333333333
+      },
+      "point_count": 141889
+    }
+  },
+  "monthly_data": {
+    "2014_01": {
+      "CENTRAL": {
+        "average": 1866.4811826962693,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1867.8327372495817,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1867.264419261105,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1892.9404547827576,
+        "point_count": 104
+      },
+      "NORTH_WEST": {
+        "average": 1887.8521402935717,
+        "point_count": 423
+      },
+      "NORTH": {
+        "average": 1864.7820220838557,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1865.326263852452,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1869.3781133816478,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1865.5235280037793,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1867.8412122273526,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1877.0593989569907,
+        "point_count": 1191
+      }
+    },
+    "2014_02": {
+      "CENTRAL": {
+        "average": 1848.642028999863,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1851.6616864987443,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1849.7468968281055,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1884.053015213571,
+        "point_count": 106
+      },
+      "NORTH_WEST": {
+        "average": 1878.9442092827608,
+        "point_count": 415
+      },
+      "NORTH": {
+        "average": 1843.2698350578194,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1851.5029247873713,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1851.0493610219826,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1842.141241453716,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1852.1764785774253,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1847.8715094962813,
+        "point_count": 1191
+      }
+    },
+    "2014_03": {
+      "CENTRAL": {
+        "average": 1876.881481626078,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1874.3350709309238,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1877.3382099841288,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1893.335116358919,
+        "point_count": 115
+      },
+      "NORTH_WEST": {
+        "average": 1893.9228662034834,
+        "point_count": 424
+      },
+      "NORTH": {
+        "average": 1879.613517336903,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1875.2171825531452,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1878.4992311738872,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1876.7488781621828,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1877.9624016526648,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1873.726697150111,
+        "point_count": 1191
+      }
+    },
+    "2014_04": {
+      "CENTRAL": {
+        "average": 1877.0610711995585,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1871.3324510859945,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1872.5128127510775,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1892.8814247453784,
+        "point_count": 116
+      },
+      "NORTH_WEST": {
+        "average": 1891.5398413692942,
+        "point_count": 424
+      },
+      "NORTH": {
+        "average": 1874.9294188952513,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1871.137212411941,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1871.114577266746,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1872.7390792333194,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1875.0386095970011,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1853.9101520606905,
+        "point_count": 1191
+      }
+    },
+    "2014_05": {
+      "CENTRAL": {
+        "average": 1921.4303018922624,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1925.006445425624,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1921.5773698834503,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1914.1096825408347,
+        "point_count": 116
+      },
+      "NORTH_WEST": {
+        "average": 1913.6485397827496,
+        "point_count": 424
+      },
+      "NORTH": {
+        "average": 1918.8237616168205,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1924.3818623539983,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1925.4919404577954,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1920.3463616402166,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1922.106612184163,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1894.4379048143626,
+        "point_count": 1191
+      }
+    },
+    "2014_06": {
+      "CENTRAL": {
+        "average": 1912.8425487674556,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1913.298781807713,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1917.5029904026305,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1912.324713799565,
+        "point_count": 116
+      },
+      "NORTH_WEST": {
+        "average": 1909.5072633563989,
+        "point_count": 424
+      },
+      "NORTH": {
+        "average": 1910.3597935463156,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1917.7199520757306,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1912.448029045824,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1913.5567883236706,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1916.229585769633,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1933.1368715780484,
+        "point_count": 1191
+      }
+    },
+    "2014_07": {
+      "CENTRAL": {
+        "average": 1923.5950461982725,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1921.3640118305889,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1925.095100702045,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1914.0176497623447,
+        "point_count": 116
+      },
+      "NORTH_WEST": {
+        "average": 1915.8423122969832,
+        "point_count": 424
+      },
+      "NORTH": {
+        "average": 1927.0062768476107,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1922.2969395876491,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1923.4872115351661,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1922.685631916562,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1922.9830761202159,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1927.1404760064124,
+        "point_count": 1191
+      }
+    },
+    "2014_08": {
+      "CENTRAL": {
+        "average": 1874.3535408875166,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1869.0791812981633,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1873.9735997197586,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1892.5718474019025,
+        "point_count": 115
+      },
+      "NORTH_WEST": {
+        "average": 1891.6727176641602,
+        "point_count": 424
+      },
+      "NORTH": {
+        "average": 1872.5788247602163,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1869.2401574293606,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1871.4741214243168,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1872.6993154297068,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1874.4902555762856,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1866.1843394447055,
+        "point_count": 1191
+      }
+    },
+    "2014_09": {
+      "CENTRAL": {
+        "average": 1849.481827840721,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1857.406579445609,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1850.894951820063,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1881.7267537234789,
+        "point_count": 115
+      },
+      "NORTH_WEST": {
+        "average": 1881.518406080177,
+        "point_count": 424
+      },
+      "NORTH": {
+        "average": 1848.447193298472,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1850.8073036532276,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1854.1034868762772,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1852.0409453965692,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1850.3465891808466,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1875.1549351720857,
+        "point_count": 1191
+      }
+    },
+    "2014_10": {
+      "CENTRAL": {
+        "average": 1874.0907050899523,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1875.1465229210216,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1874.2156825118366,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1902.9646064888495,
+        "point_count": 75
+      },
+      "NORTH_WEST": {
+        "average": 1892.8590683014702,
+        "point_count": 410
+      },
+      "NORTH": {
+        "average": 1874.2658596597812,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1874.3893892592007,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1874.9771209726027,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1874.7034861610084,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1874.128011654279,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1880.3861079264548,
+        "point_count": 1191
+      }
+    },
+    "2014_11": {
+      "CENTRAL": {
+        "average": 1875.0920082380471,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1874.4370220055118,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1874.2001734769806,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1903.604687287764,
+        "point_count": 74
+      },
+      "NORTH_WEST": {
+        "average": 1893.0416266333064,
+        "point_count": 404
+      },
+      "NORTH": {
+        "average": 1874.1339295565433,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1874.2422576203887,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1874.9051276923897,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1874.300553915325,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1874.659177405625,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1878.564594076589,
+        "point_count": 1191
+      }
+    },
+    "2014_12": {
+      "CENTRAL": {
+        "average": 1873.9770927844672,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1873.1835697385134,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1875.096042419533,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1892.9188757175027,
+        "point_count": 116
+      },
+      "NORTH_WEST": {
+        "average": 1892.3771445808607,
+        "point_count": 416
+      },
+      "NORTH": {
+        "average": 1873.8914305320475,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1871.434984450026,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1874.990628422647,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1874.51455446493,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1875.619937957577,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1877.383817379057,
+        "point_count": 1191
+      }
+    },
+    "2015_01": {
+      "CENTRAL": {
+        "average": 1869.9139919420886,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1868.906489290223,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1867.5990035485704,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1891.919063784319,
+        "point_count": 116
+      },
+      "NORTH_WEST": {
+        "average": 1888.3816807748774,
+        "point_count": 422
+      },
+      "NORTH": {
+        "average": 1864.9128766819326,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1867.1389661115206,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1870.9416738410735,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1866.9517618284424,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1873.005921597427,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1875.6787909351065,
+        "point_count": 1191
+      }
+    },
+    "2015_02": {
+      "CENTRAL": {
+        "average": 1850.3556582956494,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1852.430701676433,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1850.8108219434496,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1882.7656686355144,
+        "point_count": 114
+      },
+      "NORTH_WEST": {
+        "average": 1880.4696681378764,
+        "point_count": 423
+      },
+      "NORTH": {
+        "average": 1847.3790205599717,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1851.4264443931836,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1852.0279895952945,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1849.6685745185052,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1850.9643192137023,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1851.664881085064,
+        "point_count": 1191
+      }
+    },
+    "2015_03": {
+      "CENTRAL": {
+        "average": 1847.8867934311593,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1861.8420080679252,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1847.0447787733463,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1883.924889725688,
+        "point_count": 107
+      },
+      "NORTH_WEST": {
+        "average": 1880.5609633895026,
+        "point_count": 413
+      },
+      "NORTH": {
+        "average": 1846.9825567873258,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1854.2958937267124,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1857.3855444766625,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1847.090652402396,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1847.3040946993608,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1876.8032518921016,
+        "point_count": 1191
+      }
+    },
+    "2015_04": {
+      "CENTRAL": {
+        "average": 1875.6739866395812,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1874.1820120585585,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1875.7035727050231,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1893.4739041478972,
+        "point_count": 113
+      },
+      "NORTH_WEST": {
+        "average": 1891.8625015917405,
+        "point_count": 424
+      },
+      "NORTH": {
+        "average": 1874.2067663450248,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1872.736732639748,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1877.1497500908627,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1874.6418707070095,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1875.8892509802997,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1845.0617607008996,
+        "point_count": 1191
+      }
+    },
+    "2015_05": {
+      "CENTRAL": {
+        "average": 1905.5011000418647,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1909.3289779102167,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1910.1377631146418,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1905.2423816099076,
+        "point_count": 116
+      },
+      "NORTH_WEST": {
+        "average": 1905.9883200205854,
+        "point_count": 424
+      },
+      "NORTH": {
+        "average": 1906.220907139704,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1905.7533230284553,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1908.5527273821847,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1903.9932645500842,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1912.6553705004762,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1903.1351743714436,
+        "point_count": 1191
+      }
+    },
+    "2015_06": {
+      "CENTRAL": {
+        "average": 1916.7223210905158,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1915.6422616365949,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1916.5843878935634,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1912.5783893454782,
+        "point_count": 116
+      },
+      "NORTH_WEST": {
+        "average": 1913.2408969810608,
+        "point_count": 424
+      },
+      "NORTH": {
+        "average": 1920.8282457679315,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1918.9937724370682,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1914.4819176137976,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1921.3361117665836,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1917.2320180458805,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1921.4912776685337,
+        "point_count": 1191
+      }
+    },
+    "2015_07": {
+      "CENTRAL": {
+        "average": 1923.6854530838598,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1924.355821719727,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1926.223134469081,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1913.9652587350388,
+        "point_count": 116
+      },
+      "NORTH_WEST": {
+        "average": 1916.3184671465508,
+        "point_count": 424
+      },
+      "NORTH": {
+        "average": 1927.416814140614,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1921.673516369532,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1924.10486516446,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1923.4566924425221,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1922.024996190119,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1929.9649797178079,
+        "point_count": 1191
+      }
+    },
+    "2015_08": {
+      "CENTRAL": {
+        "average": 1865.99943822232,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1861.5763307642515,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1869.9232148076426,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1890.346000911726,
+        "point_count": 116
+      },
+      "NORTH_WEST": {
+        "average": 1890.706509133172,
+        "point_count": 423
+      },
+      "NORTH": {
+        "average": 1871.172870746037,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1861.9606432170615,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1867.5240236981194,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1867.0961647976105,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1869.1900953762731,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1879.7218355975172,
+        "point_count": 1191
+      }
+    },
+    "2015_09": {
+      "CENTRAL": {
+        "average": 1847.6462443523844,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1850.8663061481263,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1846.9998398099074,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1881.1935176298457,
+        "point_count": 115
+      },
+      "NORTH_WEST": {
+        "average": 1882.8856224437247,
+        "point_count": 389
+      },
+      "NORTH": {
+        "average": 1847.4484698814197,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1847.6209609236628,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1850.3260920197372,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1847.8894627841594,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1846.974402468971,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1876.7313571231105,
+        "point_count": 1191
+      }
+    },
+    "2015_10": {
+      "CENTRAL": {
+        "average": 1874.096708453199,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1874.600150795029,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1874.2286999152839,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1907.3911379915357,
+        "point_count": 65
+      },
+      "NORTH_WEST": {
+        "average": 1898.0038011478064,
+        "point_count": 320
+      },
+      "NORTH": {
+        "average": 1874.2768300423193,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1874.0992911852372,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1874.6210447061856,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1874.2089018486179,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1874.0788484607176,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1878.6035842470606,
+        "point_count": 1191
+      }
+    },
+    "2015_11": {
+      "CENTRAL": {
+        "average": 1874.2712529549215,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1874.244851627204,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1874.5975318466976,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1893.6619244735205,
+        "point_count": 112
+      },
+      "NORTH_WEST": {
+        "average": 1892.553384874322,
+        "point_count": 416
+      },
+      "NORTH": {
+        "average": 1874.1927965766376,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1873.8279456375749,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1874.7554387901237,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1874.4573048152633,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1872.356406913038,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1876.5994837897229,
+        "point_count": 1191
+      }
+    },
+    "2015_12": {
+      "CENTRAL": {
+        "average": 1872.222170600001,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1874.641676904508,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1870.7394701947856,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1893.3064213276318,
+        "point_count": 112
+      },
+      "NORTH_WEST": {
+        "average": 1893.2900941319424,
+        "point_count": 380
+      },
+      "NORTH": {
+        "average": 1873.5923142256538,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1871.3263674732957,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1874.6919552564652,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1872.7001103167024,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1873.967095849491,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1876.3450690952413,
+        "point_count": 1191
+      }
+    },
+    "2016_01": {
+      "CENTRAL": {
+        "average": 1871.2558177598726,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1868.2975715650507,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1870.6188663523603,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1892.2566172365973,
+        "point_count": 116
+      },
+      "NORTH_WEST": {
+        "average": 1889.9325887266489,
+        "point_count": 424
+      },
+      "NORTH": {
+        "average": 1868.2212787587232,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1868.816829710191,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1869.5218629545536,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1871.533378875924,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1873.3145972322802,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1874.5842185954568,
+        "point_count": 1191
+      }
+    },
+    "2016_02": {
+      "CENTRAL": {
+        "average": 1846.0759857197204,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1848.1270790222711,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1845.0242606008244,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1881.792189161446,
+        "point_count": 113
+      },
+      "NORTH_WEST": {
+        "average": 1878.537314408783,
+        "point_count": 423
+      },
+      "NORTH": {
+        "average": 1845.3600807932887,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1847.8662783882107,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1849.523896680813,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1844.6232213756973,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1845.7938097882097,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1853.714908292406,
+        "point_count": 1191
+      }
+    },
+    "2016_03": {
+      "CENTRAL": {
+        "average": 1847.5842316751337,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1852.3523122706806,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1858.3987047883431,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1881.0781566088885,
+        "point_count": 115
+      },
+      "NORTH_WEST": {
+        "average": 1885.470158443621,
+        "point_count": 423
+      },
+      "NORTH": {
+        "average": 1850.1862892642002,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1847.5115259854529,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1852.9023097666325,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1867.0026419396247,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1856.7456257958831,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1861.3674096374803,
+        "point_count": 1191
+      }
+    },
+    "2016_04": {
+      "CENTRAL": {
+        "average": 1875.2301575088986,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1871.8253495927647,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1879.5545660949178,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1890.2330649054768,
+        "point_count": 116
+      },
+      "NORTH_WEST": {
+        "average": 1893.6594334613328,
+        "point_count": 424
+      },
+      "NORTH": {
+        "average": 1877.4889509301233,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1865.810773588985,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1869.7697688709454,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1871.7809978026223,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1874.2780441932664,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1870.0810663124842,
+        "point_count": 1191
+      }
+    },
+    "2016_05": {
+      "CENTRAL": {
+        "average": 1906.4219370027283,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1917.2642312899898,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1905.1589412250428,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1910.0292438063009,
+        "point_count": 116
+      },
+      "NORTH_WEST": {
+        "average": 1906.4210042921138,
+        "point_count": 424
+      },
+      "NORTH": {
+        "average": 1903.1695638174679,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1939.6649442861121,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1908.4917172578737,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1901.6601617882086,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1910.9302996475967,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1909.7139636327756,
+        "point_count": 1191
+      }
+    },
+    "2016_06": {
+      "CENTRAL": {
+        "average": 1922.784835763566,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1916.2062943004748,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1922.6686009951982,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1913.4784251187875,
+        "point_count": 116
+      },
+      "NORTH_WEST": {
+        "average": 1913.2385499237303,
+        "point_count": 424
+      },
+      "NORTH": {
+        "average": 1921.514860187259,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1916.206752882399,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1920.2804798207533,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1920.4714175300553,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1923.4957458051238,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1925.775736435008,
+        "point_count": 1191
+      }
+    },
+    "2016_07": {
+      "CENTRAL": {
+        "average": 1923.1924919568548,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1924.4249502925777,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1924.120420196859,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1914.4101025128275,
+        "point_count": 116
+      },
+      "NORTH_WEST": {
+        "average": 1914.4207308336604,
+        "point_count": 424
+      },
+      "NORTH": {
+        "average": 1924.9542733468693,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1925.2206374799475,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1925.2538604664971,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1923.4063255713675,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1923.4103574149744,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1931.9252736981086,
+        "point_count": 1191
+      }
+    },
+    "2016_08": {
+      "CENTRAL": {
+        "average": 1871.7973505770024,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1866.7811209491047,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1870.8288607218858,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1892.9702807825818,
+        "point_count": 116
+      },
+      "NORTH_WEST": {
+        "average": 1890.926035818083,
+        "point_count": 423
+      },
+      "NORTH": {
+        "average": 1869.8690679928231,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1867.3064511116995,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1869.585644528084,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1871.4751952324184,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1871.434267153267,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1869.0124803364777,
+        "point_count": 1191
+      }
+    },
+    "2016_09": {
+      "CENTRAL": {
+        "average": 1846.5025449113273,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1849.4191441407295,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1846.718040777288,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1884.3960407804234,
+        "point_count": 104
+      },
+      "NORTH_WEST": {
+        "average": 1881.0496877601126,
+        "point_count": 405
+      },
+      "NORTH": {
+        "average": 1846.6782429688178,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1846.5468065169543,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1849.4333317749895,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1847.421451892619,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1846.7216280746927,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1873.1925180408546,
+        "point_count": 1191
+      }
+    },
+    "2016_10": {
+      "CENTRAL": {
+        "average": 1874.1915014504118,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1874.6531383547479,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1874.248092638434,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1901.5741924121187,
+        "point_count": 79
+      },
+      "NORTH_WEST": {
+        "average": 1892.1730901853946,
+        "point_count": 424
+      },
+      "NORTH": {
+        "average": 1874.4518639253822,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1874.2523751860465,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1874.7379652115649,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1874.2244443674158,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1874.0745120224685,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1878.1916518384937,
+        "point_count": 1191
+      }
+    },
+    "2016_11": {
+      "CENTRAL": {
+        "average": 1875.0135205715778,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1877.8478432499926,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1874.4091162555337,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1904.7371593141756,
+        "point_count": 71
+      },
+      "NORTH_WEST": {
+        "average": 1896.3159071033547,
+        "point_count": 341
+      },
+      "NORTH": {
+        "average": 1873.7383077328393,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1875.7656017428874,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1876.8374762300787,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1874.2941523434897,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1875.133302584995,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1874.850886697575,
+        "point_count": 1191
+      }
+    },
+    "2016_12": {
+      "CENTRAL": {
+        "average": 1871.3186130095112,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1873.524886279671,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1870.3962536594106,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1894.2948165867924,
+        "point_count": 104
+      },
+      "NORTH_WEST": {
+        "average": 1890.5171549579659,
+        "point_count": 416
+      },
+      "NORTH": {
+        "average": 1869.147561464377,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1869.2130025883234,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1873.745724180374,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1870.9516354206874,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1872.2445537381016,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1877.6524845935635,
+        "point_count": 1191
+      }
+    },
+    "2017_01": {
+      "CENTRAL": {
+        "average": 1870.4683749341198,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1870.092846915485,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1869.8566987015613,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1891.6501073836869,
+        "point_count": 114
+      },
+      "NORTH_WEST": {
+        "average": 1890.521832164107,
+        "point_count": 420
+      },
+      "NORTH": {
+        "average": 1870.620068380762,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1868.1338324298,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1870.838123491552,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1870.71229464307,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1870.1422586142635,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1877.191568617277,
+        "point_count": 1191
+      }
+    },
+    "2017_02": {
+      "CENTRAL": {
+        "average": 1844.712039577995,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1848.203780045781,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1844.0144547148125,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1880.3711501312075,
+        "point_count": 115
+      },
+      "NORTH_WEST": {
+        "average": 1879.6987760660306,
+        "point_count": 407
+      },
+      "NORTH": {
+        "average": 1843.6115922387014,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1845.7511162693904,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1845.3603029584856,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1843.1439326319805,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1844.3824722526226,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1853.3444416457482,
+        "point_count": 1191
+      }
+    },
+    "2017_03": {
+      "CENTRAL": {
+        "average": 1869.8421281790668,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1872.3231329781465,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1868.8719048108478,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1894.5566576367455,
+        "point_count": 112
+      },
+      "NORTH_WEST": {
+        "average": 1889.9765729109408,
+        "point_count": 421
+      },
+      "NORTH": {
+        "average": 1868.903345894095,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1877.0154789575859,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1870.0512939770292,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1873.2422273637483,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1868.8331619432229,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1854.8100900839179,
+        "point_count": 1191
+      }
+    },
+    "2017_04": {
+      "CENTRAL": {
+        "average": 1874.870810942305,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1871.9889039774484,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1873.4384970501403,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1894.3836612089206,
+        "point_count": 109
+      },
+      "NORTH_WEST": {
+        "average": 1891.4225669565874,
+        "point_count": 424
+      },
+      "NORTH": {
+        "average": 1871.5921872182678,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1873.185478636105,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1872.8408721132516,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1879.1659586935966,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1874.8109323438018,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1872.006055729018,
+        "point_count": 1191
+      }
+    },
+    "2017_05": {
+      "CENTRAL": {
+        "average": 1918.953765902109,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1921.418888526127,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1913.996232918022,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1913.4004323798238,
+        "point_count": 116
+      },
+      "NORTH_WEST": {
+        "average": 1909.9925461515795,
+        "point_count": 414
+      },
+      "NORTH": {
+        "average": 1918.2081946260123,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1923.0275178781437,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1918.6042265142346,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1911.2004355815902,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1919.0004092556048,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1910.049753539426,
+        "point_count": 1191
+      }
+    },
+    "2017_06": {
+      "CENTRAL": {
+        "average": 1928.5756679968554,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1921.1322546058484,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1932.0161279289186,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1916.862326615267,
+        "point_count": 115
+      },
+      "NORTH_WEST": {
+        "average": 1916.7974525559696,
+        "point_count": 422
+      },
+      "NORTH": {
+        "average": 1929.3424105423464,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1929.0652853572167,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1917.6132575837437,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1931.3482928941207,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1922.9444766465483,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1933.0383198752156,
+        "point_count": 1191
+      }
+    },
+    "2017_07": {
+      "CENTRAL": {
+        "average": 1924.5082175242708,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1924.3763169125536,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1923.5741446004306,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1914.7918978373038,
+        "point_count": 116
+      },
+      "NORTH_WEST": {
+        "average": 1915.6173277337182,
+        "point_count": 424
+      },
+      "NORTH": {
+        "average": 1927.4813340076635,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1925.05083419134,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1922.5241320585806,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1924.0153505746239,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1922.4353824449076,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1932.0225024378642,
+        "point_count": 1191
+      }
+    },
+    "2017_08": {
+      "CENTRAL": {
+        "average": 1866.487763972862,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1866.5246001248097,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1865.6399586371244,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1891.5132458678706,
+        "point_count": 107
+      },
+      "NORTH_WEST": {
+        "average": 1889.176615393927,
+        "point_count": 405
+      },
+      "NORTH": {
+        "average": 1865.04480648961,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1867.23460546147,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1865.8789130997425,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1866.3047025709802,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1866.9975911246217,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1868.040344688218,
+        "point_count": 1191
+      }
+    },
+    "2017_09": {
+      "CENTRAL": {
+        "average": 1846.853013326358,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1853.5822423659763,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1847.3467024169074,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1883.5643617017927,
+        "point_count": 107
+      },
+      "NORTH_WEST": {
+        "average": 1881.8387182746567,
+        "point_count": 397
+      },
+      "NORTH": {
+        "average": 1846.9135995699455,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1846.983478873022,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1853.3237542850434,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1847.385066093309,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1847.0549966574868,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1856.7990460613732,
+        "point_count": 1191
+      }
+    },
+    "2017_10": {
+      "CENTRAL": {
+        "average": 1874.1438645328938,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1875.4221692964602,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1874.1553533298038,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1906.4057524609493,
+        "point_count": 67
+      },
+      "NORTH_WEST": {
+        "average": 1897.9302090031615,
+        "point_count": 321
+      },
+      "NORTH": {
+        "average": 1874.258207770464,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1874.3598887757942,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1875.21943429781,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1874.207538074169,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1874.1046592370128,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1850.2587657865465,
+        "point_count": 1191
+      }
+    },
+    "2017_11": {
+      "CENTRAL": {
+        "average": 1873.7578558424434,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1872.0132013504594,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1874.0429447961565,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1893.5941289045534,
+        "point_count": 112
+      },
+      "NORTH_WEST": {
+        "average": 1892.3563938406464,
+        "point_count": 421
+      },
+      "NORTH": {
+        "average": 1873.8803426975915,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1869.946854046738,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1873.475534199938,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1874.087931696211,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1874.074967459848,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1875.2100406527913,
+        "point_count": 1191
+      }
+    },
+    "2017_12": {
+      "CENTRAL": {
+        "average": 1871.1643756832857,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1871.4038689375434,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1869.6136745879119,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1892.845072128602,
+        "point_count": 112
+      },
+      "NORTH_WEST": {
+        "average": 1891.2291468816886,
+        "point_count": 407
+      },
+      "NORTH": {
+        "average": 1872.1979382802476,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1868.9104781363205,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1872.2718251217545,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1870.2364141343444,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1872.202107472813,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1876.8324132241155,
+        "point_count": 1191
+      }
+    },
+    "2018_01": {
+      "CENTRAL": {
+        "average": 1870.3074445864315,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1870.7501991606675,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1869.9760161556455,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1890.6469792478133,
+        "point_count": 116
+      },
+      "NORTH_WEST": {
+        "average": 1889.7067237289984,
+        "point_count": 418
+      },
+      "NORTH": {
+        "average": 1868.4785931791096,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1869.462434076277,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1872.474125753743,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1868.221669533535,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1871.9323207129494,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1877.0459371500942,
+        "point_count": 1191
+      }
+    },
+    "2018_02": {
+      "CENTRAL": {
+        "average": 1850.0954563328523,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1850.9978914406202,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1847.9613034302843,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1882.1769185419837,
+        "point_count": 116
+      },
+      "NORTH_WEST": {
+        "average": 1880.4067568198002,
+        "point_count": 424
+      },
+      "NORTH": {
+        "average": 1849.9333397132707,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1851.388266399256,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1850.4615696637143,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1848.9939064402415,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1850.0633381458233,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1850.5654687112342,
+        "point_count": 1191
+      }
+    },
+    "2018_03": {
+      "CENTRAL": {
+        "average": 1868.1192362021916,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1861.4694947993203,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1870.3514997619075,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1893.669314660175,
+        "point_count": 100
+      },
+      "NORTH_WEST": {
+        "average": 1891.2941985063414,
+        "point_count": 424
+      },
+      "NORTH": {
+        "average": 1873.0824964512246,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1860.3596393436915,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1869.9178699178408,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1864.8442948218637,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1867.8093409184796,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1871.7570755950549,
+        "point_count": 1191
+      }
+    },
+    "2018_04": {
+      "CENTRAL": {
+        "average": 1874.685834755395,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1869.4802138672776,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1874.772539397492,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1892.9369146690917,
+        "point_count": 116
+      },
+      "NORTH_WEST": {
+        "average": 1890.634981341833,
+        "point_count": 424
+      },
+      "NORTH": {
+        "average": 1870.9391042189104,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1873.004449610331,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1872.3518994463545,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1882.7895452887606,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1878.1360231428866,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1850.9102943343476,
+        "point_count": 1191
+      }
+    },
+    "2018_05": {
+      "CENTRAL": {
+        "average": 1915.034199498375,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1899.7139395394354,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1885.0447120938495,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1916.677278848315,
+        "point_count": 116
+      },
+      "NORTH_WEST": {
+        "average": 1893.6960124258223,
+        "point_count": 424
+      },
+      "NORTH": {
+        "average": 1890.9504241567759,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1902.3983942383259,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1911.2026967782197,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1865.580286754127,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1884.0386359625797,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1912.8293741969571,
+        "point_count": 1191
+      }
+    },
+    "2018_06": {
+      "CENTRAL": {
+        "average": 1925.8462266511601,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1924.5736828653173,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1930.455579095887,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1915.3401092044253,
+        "point_count": 116
+      },
+      "NORTH_WEST": {
+        "average": 1917.2214221055644,
+        "point_count": 423
+      },
+      "NORTH": {
+        "average": 1930.8675744947836,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1924.4739889887219,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1922.8027594052735,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1927.680980145784,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1926.789831670516,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1924.587278462905,
+        "point_count": 1191
+      }
+    },
+    "2018_07": {
+      "CENTRAL": {
+        "average": 1921.9019573674902,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1919.055447604761,
+        "point_count": 41
+      },
+      "NEW_DELHI": {
+        "average": 1921.013376206611,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1913.8623841242,
+        "point_count": 111
+      },
+      "NORTH_WEST": {
+        "average": 1915.1768844574467,
+        "point_count": 424
+      },
+      "NORTH": {
+        "average": 1923.6657460344964,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1921.5603134404328,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1920.4765890563185,
+        "point_count": 104
+      },
+      "SOUTH_WEST": {
+        "average": 1921.1577131890915,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1920.237988372046,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1926.4176624462816,
+        "point_count": 1191
+      }
+    },
+    "2018_08": {
+      "CENTRAL": {
+        "average": 1873.930833448003,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1869.1350345597923,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1871.742311219494,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1892.411313209114,
+        "point_count": 115
+      },
+      "NORTH_WEST": {
+        "average": 1894.641430768838,
+        "point_count": 422
+      },
+      "NORTH": {
+        "average": 1880.9823857292731,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1871.1902269572172,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1868.3760859419738,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1880.3881127378393,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1869.7503247066174,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1865.6360531565483,
+        "point_count": 1191
+      }
+    },
+    "2018_09": {
+      "CENTRAL": {
+        "average": 1875.4619279075312,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1880.7100337599654,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1872.6618288364057,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1896.0185863793142,
+        "point_count": 116
+      },
+      "NORTH_WEST": {
+        "average": 1892.064669862689,
+        "point_count": 420
+      },
+      "NORTH": {
+        "average": 1873.8245837454897,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1881.9955536907978,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1873.7682326685244,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1874.8150218454214,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1874.2483560357882,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1874.5773368943658,
+        "point_count": 1191
+      }
+    },
+    "2018_10": {
+      "CENTRAL": {
+        "average": 1874.1166390064102,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1874.8467358655491,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1874.247547414939,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1895.3158596987532,
+        "point_count": 102
+      },
+      "NORTH_WEST": {
+        "average": 1897.0756639912738,
+        "point_count": 333
+      },
+      "NORTH": {
+        "average": 1874.3088558058334,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1874.1557005259885,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1874.7804874054098,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1874.1650005792308,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1874.1001037730286,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1875.9103368567858,
+        "point_count": 1191
+      }
+    },
+    "2018_11": {
+      "CENTRAL": {
+        "average": 1875.5713291419945,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1879.9058222202807,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1875.642490150039,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1894.816375668277,
+        "point_count": 112
+      },
+      "NORTH_WEST": {
+        "average": 1892.8653806027226,
+        "point_count": 417
+      },
+      "NORTH": {
+        "average": 1873.880770809787,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1877.773846121692,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1877.654927612831,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1875.2709064228777,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1877.3647584749613,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1876.3566670695732,
+        "point_count": 1191
+      }
+    },
+    "2018_12": {
+      "CENTRAL": {
+        "average": 1870.8055656539314,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1870.9990456411376,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1869.277466983502,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1892.0280008474388,
+        "point_count": 115
+      },
+      "NORTH_WEST": {
+        "average": 1889.839794399156,
+        "point_count": 424
+      },
+      "NORTH": {
+        "average": 1868.668271149398,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1869.9594913582291,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1872.9359310015777,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1870.7031880051352,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1871.7114838636965,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1874.9943876318323,
+        "point_count": 1191
+      }
+    },
+    "2019_01": {
+      "CENTRAL": {
+        "average": 1869.8019067416049,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1868.8108854457719,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1868.6176369547388,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1893.731908786306,
+        "point_count": 104
+      },
+      "NORTH_WEST": {
+        "average": 1890.052934719106,
+        "point_count": 408
+      },
+      "NORTH": {
+        "average": 1866.32651173981,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1869.6684264774142,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1870.6141713992365,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1869.6173580958182,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1871.8615079894487,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1875.7278930389473,
+        "point_count": 1191
+      }
+    },
+    "2019_02": {
+      "CENTRAL": {
+        "average": 1845.7304959259675,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1848.6082621942044,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1845.7894831848612,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1893.044238931885,
+        "point_count": 85
+      },
+      "NORTH_WEST": {
+        "average": 1882.3429109306385,
+        "point_count": 386
+      },
+      "NORTH": {
+        "average": 1846.079126146876,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1845.8156567851536,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1848.9618657404897,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1843.850706475533,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1846.2258714867162,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1849.0251367461901,
+        "point_count": 1191
+      }
+    },
+    "2019_03": {
+      "CENTRAL": {
+        "average": 1878.780124853052,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1883.4909215970667,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1876.1736132094202,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1897.31848635389,
+        "point_count": 116
+      },
+      "NORTH_WEST": {
+        "average": 1893.2006835034358,
+        "point_count": 424
+      },
+      "NORTH": {
+        "average": 1875.9695389120218,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1883.2987911211656,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1879.4069466077633,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1877.4595866794039,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1878.1119311048901,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1846.5769947576484,
+        "point_count": 1191
+      }
+    },
+    "2019_04": {
+      "CENTRAL": {
+        "average": 1881.7192437366762,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1879.4874125992103,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1882.2309012504386,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1895.1696320450528,
+        "point_count": 116
+      },
+      "NORTH_WEST": {
+        "average": 1892.1923483565192,
+        "point_count": 423
+      },
+      "NORTH": {
+        "average": 1874.7479773741109,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1877.0334291904303,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1879.5792021997722,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1874.2422227310296,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1880.9726474208194,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1867.4455113037725,
+        "point_count": 1191
+      }
+    },
+    "2019_05": {
+      "CENTRAL": {
+        "average": 1913.2944627971667,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1912.1239279392598,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1908.5918542853262,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1911.7525421815233,
+        "point_count": 116
+      },
+      "NORTH_WEST": {
+        "average": 1907.837912725078,
+        "point_count": 423
+      },
+      "NORTH": {
+        "average": 1910.527613590945,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1915.9236647977125,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1907.3820159434808,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1913.2092748846558,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1905.8261637156177,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1898.4801327740674,
+        "point_count": 1191
+      }
+    },
+    "2019_06": {
+      "CENTRAL": {
+        "average": 1900.8048175229003,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1901.4169868109402,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1903.0805551331816,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1904.6176087372578,
+        "point_count": 116
+      },
+      "NORTH_WEST": {
+        "average": 1903.4926613778882,
+        "point_count": 424
+      },
+      "NORTH": {
+        "average": 1899.7896212448106,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1893.8610108928572,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1902.720235363169,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1909.5247274586854,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1909.1660776043536,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1930.106049770221,
+        "point_count": 1191
+      }
+    },
+    "2019_07": {
+      "CENTRAL": {
+        "average": 1922.1470108653216,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1925.3567182199859,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1920.924744418281,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1914.4103066200316,
+        "point_count": 116
+      },
+      "NORTH_WEST": {
+        "average": 1914.8155288754322,
+        "point_count": 424
+      },
+      "NORTH": {
+        "average": 1926.3729655614088,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1923.1805906094792,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1923.6788627952235,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1922.3602177410633,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1920.1281644826995,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1929.4044584633796,
+        "point_count": 1191
+      }
+    },
+    "2019_08": {
+      "CENTRAL": {
+        "average": 1874.7999829707,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1892.844108922168,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1874.5967937131602,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1892.93725303964,
+        "point_count": 116
+      },
+      "NORTH_WEST": {
+        "average": 1891.4912431747437,
+        "point_count": 424
+      },
+      "NORTH": {
+        "average": 1871.8431974994767,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1879.8038247968757,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1889.5674650969152,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1871.6928982130582,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1880.4469830097567,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1866.577160901243,
+        "point_count": 1191
+      }
+    },
+    "2019_09": {
+      "CENTRAL": {
+        "average": 1852.2472223901007,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1854.792441472702,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1852.2890735379349,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1884.0503242204034,
+        "point_count": 114
+      },
+      "NORTH_WEST": {
+        "average": 1884.8523409906165,
+        "point_count": 392
+      },
+      "NORTH": {
+        "average": 1853.4361076204452,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1852.3786684978058,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1856.6837068935574,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1853.5966056883894,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1854.7487000770848,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1875.9166903423004,
+        "point_count": 1191
+      }
+    },
+    "2019_10": {
+      "CENTRAL": {
+        "average": 1874.2520349768731,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1875.0031734184035,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1874.6666883802675,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1893.473431825962,
+        "point_count": 112
+      },
+      "NORTH_WEST": {
+        "average": 1896.4802035828427,
+        "point_count": 342
+      },
+      "NORTH": {
+        "average": 1874.3676443636348,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1874.2770533405364,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1875.0851872204641,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1874.2883127804287,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1874.5529799111018,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1873.6670109926285,
+        "point_count": 1191
+      }
+    },
+    "2019_11": {
+      "CENTRAL": {
+        "average": 1876.6906534125076,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1876.8390804469418,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1875.9991435495008,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1894.3036776944982,
+        "point_count": 114
+      },
+      "NORTH_WEST": {
+        "average": 1894.4993625119785,
+        "point_count": 372
+      },
+      "NORTH": {
+        "average": 1874.1977898323514,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1875.7626283116213,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1877.4747165271685,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1874.6503278178625,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1877.096540589724,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1875.6578164468112,
+        "point_count": 1191
+      }
+    },
+    "2019_12": {
+      "CENTRAL": {
+        "average": 1871.035223203363,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1872.4578866208376,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1870.3903363419959,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1891.7471382192302,
+        "point_count": 115
+      },
+      "NORTH_WEST": {
+        "average": 1891.240881501503,
+        "point_count": 398
+      },
+      "NORTH": {
+        "average": 1869.4529787732333,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1871.9093601015709,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1874.067298876633,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1869.5856103284677,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1871.901519621305,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1874.9280144587678,
+        "point_count": 1191
+      }
+    },
+    "2020_01": {
+      "CENTRAL": {
+        "average": 1869.8564955865418,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1877.2294215634436,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1867.2030638005801,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1891.8493435762825,
+        "point_count": 115
+      },
+      "NORTH_WEST": {
+        "average": 1889.5281398434824,
+        "point_count": 412
+      },
+      "NORTH": {
+        "average": 1866.048985909836,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1876.2740690210755,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1877.914404514884,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1868.6397661426222,
+        "point_count": 312
+      },
+      "SOUTH": {
+        "average": 1873.3867260152085,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1873.9620531500175,
+        "point_count": 1191
+      }
+    },
+    "2020_02": {
+      "CENTRAL": {
+        "average": 1849.8363744926519,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1851.571418131537,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1849.5186682304682,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1883.1395556000923,
+        "point_count": 113
+      },
+      "NORTH_WEST": {
+        "average": 1880.3848634523652,
+        "point_count": 424
+      },
+      "NORTH": {
+        "average": 1847.9008239553305,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1851.6849274329954,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1851.2275838774322,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1848.5352110170397,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1850.7561366855775,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1851.4824241386104,
+        "point_count": 1191
+      }
+    },
+    "2020_03": {
+      "CENTRAL": {
+        "average": 1847.5079541813939,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1860.749393690729,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1846.609407261579,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1881.8736558367602,
+        "point_count": 113
+      },
+      "NORTH_WEST": {
+        "average": 1879.9069134237266,
+        "point_count": 422
+      },
+      "NORTH": {
+        "average": 1847.335417003255,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1850.1176084411575,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1856.9688017077099,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1846.1511151450918,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1846.265367423767,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1874.4055552603622,
+        "point_count": 1191
+      }
+    },
+    "2020_04": {
+      "CENTRAL": {
+        "average": 1867.0695337474604,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1868.4364222078682,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1871.0349087559116,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1888.4197762473275,
+        "point_count": 116
+      },
+      "NORTH_WEST": {
+        "average": 1891.653705778874,
+        "point_count": 424
+      },
+      "NORTH": {
+        "average": 1872.6968804092908,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1865.6623524258982,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1868.2109736335156,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1871.556434824101,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1871.3209285975006,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1870.1435752002942,
+        "point_count": 1191
+      }
+    },
+    "2020_05": {
+      "CENTRAL": {
+        "average": 1922.7732918545096,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1937.9184045581083,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1920.204592427462,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1914.1554707052046,
+        "point_count": 116
+      },
+      "NORTH_WEST": {
+        "average": 1912.399239007133,
+        "point_count": 424
+      },
+      "NORTH": {
+        "average": 1917.933271551114,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1925.0630984524034,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1936.1864964902406,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1914.214664223942,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1918.345661956777,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1919.754750797355,
+        "point_count": 1191
+      }
+    },
+    "2020_06": {
+      "CENTRAL": {
+        "average": 1914.4993007518615,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1907.6448013115212,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1919.5392570675913,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1910.3537715092432,
+        "point_count": 116
+      },
+      "NORTH_WEST": {
+        "average": 1913.191669527568,
+        "point_count": 423
+      },
+      "NORTH": {
+        "average": 1920.7480716399682,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1912.7726439269409,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1911.2716708661667,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1921.911318966849,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1913.535613533784,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1920.8803328334936,
+        "point_count": 160
+      }
+    },
+    "2020_07": {
+      "CENTRAL": {
+        "average": 1923.4829801003436,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1926.1094227623503,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1925.2208962265527,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1914.4118210700283,
+        "point_count": 116
+      },
+      "NORTH_WEST": {
+        "average": 1915.3076529826508,
+        "point_count": 424
+      },
+      "NORTH": {
+        "average": 1925.898693650006,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1923.896481016374,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1926.2000755606716,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1924.4821167156279,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1923.9453480133125,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1931.0430280501344,
+        "point_count": 1191
+      }
+    },
+    "2020_08": {
+      "CENTRAL": {
+        "average": 1870.9672706380522,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1872.1889016542345,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1871.909101988331,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1891.199963535564,
+        "point_count": 116
+      },
+      "NORTH_WEST": {
+        "average": 1890.8622432922805,
+        "point_count": 424
+      },
+      "NORTH": {
+        "average": 1871.4607745267288,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1864.716732894305,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1874.009248398136,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1868.5018698435729,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1872.6394882549396,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1866.5019198648508,
+        "point_count": 1191
+      }
+    },
+    "2020_09": {
+      "CENTRAL": {
+        "average": 1848.4214223726296,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1860.095698378855,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1847.7788086129053,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1881.2227770170996,
+        "point_count": 116
+      },
+      "NORTH_WEST": {
+        "average": 1880.5188374749398,
+        "point_count": 424
+      },
+      "NORTH": {
+        "average": 1845.4301155586134,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1852.5040791541321,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1857.2914329755968,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1849.4691476670005,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1848.2242072903764,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1871.1279838530372,
+        "point_count": 1191
+      }
+    },
+    "2020_10": {
+      "CENTRAL": {
+        "average": 1874.1326712803664,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1875.4185380608908,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1874.2019175874668,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1907.3911379915357,
+        "point_count": 65
+      },
+      "NORTH_WEST": {
+        "average": 1898.0778546852073,
+        "point_count": 319
+      },
+      "NORTH": {
+        "average": 1874.2827683240453,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1874.4537135685953,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1874.9855403589065,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1874.1938126738164,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1874.0759971146188,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1878.424185644074,
+        "point_count": 1191
+      }
+    },
+    "2020_11": {
+      "CENTRAL": {
+        "average": 1870.761245827104,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1869.2146685353587,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1870.3361403935978,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1894.19851608539,
+        "point_count": 105
+      },
+      "NORTH_WEST": {
+        "average": 1891.673898245212,
+        "point_count": 401
+      },
+      "NORTH": {
+        "average": 1868.5633491099961,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1869.502892296643,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1872.2937404759125,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1873.850484889412,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1871.589690134748,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1875.965782195999,
+        "point_count": 1191
+      }
+    },
+    "2020_12": {
+      "CENTRAL": {
+        "average": 1871.4250524191868,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1873.945139859068,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1870.025117853077,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1892.3118951417027,
+        "point_count": 115
+      },
+      "NORTH_WEST": {
+        "average": 1890.6750717675077,
+        "point_count": 420
+      },
+      "NORTH": {
+        "average": 1870.4989034140908,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1869.590373462204,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1874.8296311197766,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1871.1770876011085,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1872.813247388201,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1876.396392332114,
+        "point_count": 1191
+      }
+    },
+    "2021_01": {
+      "CENTRAL": {
+        "average": 1870.1411628828823,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1869.4051340272922,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1869.6123506997965,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1892.0247286698045,
+        "point_count": 113
+      },
+      "NORTH_WEST": {
+        "average": 1890.8681936452342,
+        "point_count": 419
+      },
+      "NORTH": {
+        "average": 1869.2137284643163,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1869.8976169214418,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1872.306382664477,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1869.9593234646015,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1870.6941253962416,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1875.744679082028,
+        "point_count": 1191
+      }
+    },
+    "2021_02": {
+      "CENTRAL": {
+        "average": 1849.7193148793358,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1852.1150421943366,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1850.0353282620274,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1882.9003475849613,
+        "point_count": 113
+      },
+      "NORTH_WEST": {
+        "average": 1890.5086937595856,
+        "point_count": 320
+      },
+      "NORTH": {
+        "average": 1844.8910068968787,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1851.749022419304,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1851.8591876317694,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1843.785538146022,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1850.2677131519486,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1851.6204617933479,
+        "point_count": 1191
+      }
+    },
+    "2021_03": {
+      "CENTRAL": {
+        "average": 1846.3903536986484,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1854.038050766413,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1846.4912038790471,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1881.2060783556071,
+        "point_count": 114
+      },
+      "NORTH_WEST": {
+        "average": 1879.7255506094414,
+        "point_count": 421
+      },
+      "NORTH": {
+        "average": 1845.7807199956455,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1847.5878864559866,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1853.3876305232766,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1845.9363088989392,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1846.4746596626135,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1869.326746260182,
+        "point_count": 1191
+      }
+    },
+    "2021_04": {
+      "CENTRAL": {
+        "average": 1874.0649655973139,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1872.167003578926,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1873.0549839135003,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1892.8176543048833,
+        "point_count": 116
+      },
+      "NORTH_WEST": {
+        "average": 1891.4250071473953,
+        "point_count": 424
+      },
+      "NORTH": {
+        "average": 1871.8669579204425,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1872.8419945038286,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1872.6605320258627,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1872.766897304849,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1874.1796649065948,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1849.9252578079893,
+        "point_count": 1191
+      }
+    },
+    "2021_05": {
+      "CENTRAL": {
+        "average": 1911.9758306644815,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1915.2570380720665,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1911.3448986939354,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1909.3463814530212,
+        "point_count": 116
+      },
+      "NORTH_WEST": {
+        "average": 1909.4763685896958,
+        "point_count": 424
+      },
+      "NORTH": {
+        "average": 1911.0778954337131,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1916.4238767337695,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1912.6418354339858,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1909.037198791885,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1911.0955209758915,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1909.1522543440822,
+        "point_count": 1191
+      }
+    },
+    "2021_06": {
+      "CENTRAL": {
+        "average": 1891.3222511496838,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1908.935426280382,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1895.0676491382553,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1901.6285550176594,
+        "point_count": 116
+      },
+      "NORTH_WEST": {
+        "average": 1908.5767643655104,
+        "point_count": 424
+      },
+      "NORTH": {
+        "average": 1908.0981912774082,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1900.7287557222587,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1899.0833962429824,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1917.1133053258948,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1889.0825197274196,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1924.6402358487883,
+        "point_count": 1191
+      }
+    },
+    "2021_07": {
+      "CENTRAL": {
+        "average": 1925.4499666600755,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1923.6726105120554,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1930.4932639054261,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1915.4441886159927,
+        "point_count": 116
+      },
+      "NORTH_WEST": {
+        "average": 1914.6389553496217,
+        "point_count": 405
+      },
+      "NORTH": {
+        "average": 1924.2261442193785,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1923.4051507604893,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1926.1530299353678,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1931.0964280138005,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1932.5413172266235,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1934.08841414495,
+        "point_count": 1191
+      }
+    },
+    "2021_08": {
+      "CENTRAL": {
+        "average": 1872.4379051633346,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1870.1524397853923,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1875.5856022090609,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1892.1761395214446,
+        "point_count": 116
+      },
+      "NORTH_WEST": {
+        "average": 1891.902303319819,
+        "point_count": 424
+      },
+      "NORTH": {
+        "average": 1874.312197076833,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1867.1720857419875,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1868.9499420486452,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1875.039534848618,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1873.345428062043,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1880.2691975738833,
+        "point_count": 1191
+      }
+    },
+    "2021_09": {
+      "CENTRAL": {
+        "average": 1846.8933844862324,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1850.213461666803,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1846.8546529306461,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1881.3929751751896,
+        "point_count": 114
+      },
+      "NORTH_WEST": {
+        "average": 1880.4511263175712,
+        "point_count": 412
+      },
+      "NORTH": {
+        "average": 1846.7522147991638,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1847.1469901720595,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1849.8271042296406,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1847.1188363680892,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1846.9497252406331,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1870.6486754756077,
+        "point_count": 1191
+      }
+    },
+    "2021_10": {
+      "CENTRAL": {
+        "average": 1872.0787012961707,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1875.1014783078087,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1872.793253084957,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1893.373205991201,
+        "point_count": 107
+      },
+      "NORTH_WEST": {
+        "average": 1891.6669882223168,
+        "point_count": 422
+      },
+      "NORTH": {
+        "average": 1872.5955608973331,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1873.46023820118,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1874.4212923048474,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1873.7992518426418,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1871.320862483149,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1875.4113255166628,
+        "point_count": 1191
+      }
+    },
+    "2021_11": {
+      "CENTRAL": {
+        "average": 1876.7049604592655,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1874.0727780762895,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1876.7818076955164,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1894.137527706356,
+        "point_count": 115
+      },
+      "NORTH_WEST": {
+        "average": 1893.2720120590463,
+        "point_count": 413
+      },
+      "NORTH": {
+        "average": 1875.3725472468668,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1875.2568638019477,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1876.0939896609725,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1875.3759664142137,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1877.0963411873336,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1876.7701656664706,
+        "point_count": 1191
+      }
+    },
+    "2021_12": {
+      "CENTRAL": {
+        "average": 1870.9242773136168,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1869.5754478497047,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1869.6173252926083,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1895.3972005434207,
+        "point_count": 99
+      },
+      "NORTH_WEST": {
+        "average": 1890.8749072531389,
+        "point_count": 403
+      },
+      "NORTH": {
+        "average": 1869.238078780774,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1867.6880942556015,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1871.3097894115642,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1870.6553321931192,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1871.951465608078,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1874.4937900169687,
+        "point_count": 1191
+      }
+    },
+    "2022_01": {
+      "CENTRAL": {
+        "average": 1869.4768527300118,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1875.849137999658,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1866.3148524586159,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1892.8570370905356,
+        "point_count": 111
+      },
+      "NORTH_WEST": {
+        "average": 1887.6262527633737,
+        "point_count": 424
+      },
+      "NORTH": {
+        "average": 1864.3003460894417,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1875.3825527894298,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1875.2368180218155,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1866.5067375885185,
+        "point_count": 317
+      },
+      "SOUTH": {
+        "average": 1871.5147522146108,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1876.470921628255,
+        "point_count": 1191
+      }
+    },
+    "2022_02": {
+      "CENTRAL": {
+        "average": 1851.5324345660786,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1854.154386538382,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1851.3116519212344,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1882.7692289400227,
+        "point_count": 116
+      },
+      "NORTH_WEST": {
+        "average": 1881.6214676860584,
+        "point_count": 424
+      },
+      "NORTH": {
+        "average": 1849.6767177121712,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1852.7646784249773,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1853.8255819348944,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1851.4843749037348,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1852.8444521692275,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1853.749983036626,
+        "point_count": 1191
+      }
+    },
+    "2022_03": {
+      "CENTRAL": {
+        "average": 1850.7615544648063,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1855.5459665482,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1862.8384399601755,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1883.5599509906367,
+        "point_count": 109
+      },
+      "NORTH_WEST": {
+        "average": 1888.3149554898173,
+        "point_count": 424
+      },
+      "NORTH": {
+        "average": 1858.7937806777636,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1850.3802036549603,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1859.7763833954882,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1868.3346925344183,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1863.1937658967277,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1870.0520486362536,
+        "point_count": 1191
+      }
+    },
+    "2022_04": {
+      "CENTRAL": {
+        "average": 1878.259675149374,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1872.363619576367,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1877.9072659723727,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1894.6253136805292,
+        "point_count": 116
+      },
+      "NORTH_WEST": {
+        "average": 1895.2659950934965,
+        "point_count": 424
+      },
+      "NORTH": {
+        "average": 1879.0910218033605,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1873.5492623185157,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1873.1445841055267,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1884.332612780923,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1875.5290511118435,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1849.6513824680235,
+        "point_count": 1191
+      }
+    },
+    "2022_05": {
+      "CENTRAL": {
+        "average": 1908.9662989956119,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1910.997413661753,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1907.570058641128,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1909.6417536285849,
+        "point_count": 116
+      },
+      "NORTH_WEST": {
+        "average": 1906.572392892199,
+        "point_count": 424
+      },
+      "NORTH": {
+        "average": 1910.3762245974788,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1914.4604984285465,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1905.788040102992,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1911.1453492167884,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1909.542888604499,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1907.585731557015,
+        "point_count": 1191
+      }
+    },
+    "2022_06": {
+      "CENTRAL": {
+        "average": 1912.3121414642558,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1904.4154470561891,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1915.6443423970538,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1909.8521499878434,
+        "point_count": 116
+      },
+      "NORTH_WEST": {
+        "average": 1911.762089316077,
+        "point_count": 424
+      },
+      "NORTH": {
+        "average": 1916.8009552944025,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1904.7092600212761,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1909.9787626681534,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1920.012020570043,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1917.7343892155475,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1925.9254592084696,
+        "point_count": 1191
+      }
+    },
+    "2022_07": {
+      "CENTRAL": {
+        "average": 1924.463350340587,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1923.008117477744,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1925.9390284383733,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1914.6126580388463,
+        "point_count": 116
+      },
+      "NORTH_WEST": {
+        "average": 1915.896575311865,
+        "point_count": 424
+      },
+      "NORTH": {
+        "average": 1927.697431678088,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1922.6144306711894,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1923.480010202435,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1925.3061335953637,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1924.128360560856,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1929.25770147893,
+        "point_count": 1191
+      }
+    },
+    "2022_08": {
+      "CENTRAL": {
+        "average": 1872.6543101776022,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1870.6221448006957,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1870.8631188012291,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1894.0701867833982,
+        "point_count": 108
+      },
+      "NORTH_WEST": {
+        "average": 1890.083811945004,
+        "point_count": 424
+      },
+      "NORTH": {
+        "average": 1869.9399583062893,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1872.2908023276073,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1872.0599370919474,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1870.2584340542182,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1873.1246110274528,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1872.8425843972864,
+        "point_count": 1191
+      }
+    },
+    "2022_09": {
+      "CENTRAL": {
+        "average": 1853.6891108782988,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1854.3740629536862,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1850.486202869679,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1884.657971763079,
+        "point_count": 113
+      },
+      "NORTH_WEST": {
+        "average": 1880.9565610859358,
+        "point_count": 424
+      },
+      "NORTH": {
+        "average": 1853.5384122884523,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1854.4869277765015,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1854.4747837984758,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1846.8150236941717,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1850.9319927024421,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1857.7257594868672,
+        "point_count": 1191
+      }
+    },
+    "2022_10": {
+      "CENTRAL": {
+        "average": 1874.5995385469394,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1864.3611971221899,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1874.6880384287197,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1894.3793003863884,
+        "point_count": 108
+      },
+      "NORTH_WEST": {
+        "average": 1893.9254018676802,
+        "point_count": 387
+      },
+      "NORTH": {
+        "average": 1874.3871719713602,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1872.5426801311044,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1866.6537728108917,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1874.3931383784034,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1874.9418380949155,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1876.1853598645403,
+        "point_count": 1191
+      }
+    },
+    "2022_11": {
+      "CENTRAL": {
+        "average": 1878.070316081166,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1880.968097621146,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1876.0780613317643,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1894.5440047918908,
+        "point_count": 115
+      },
+      "NORTH_WEST": {
+        "average": 1894.2838536327906,
+        "point_count": 386
+      },
+      "NORTH": {
+        "average": 1875.4547774431185,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1879.5851868260927,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1880.2052474506236,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1874.3048229728624,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1876.7435270092744,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1876.4357269516279,
+        "point_count": 1191
+      }
+    },
+    "2022_12": {
+      "CENTRAL": {
+        "average": 1871.736075374197,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1870.2853823004086,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1869.6029020249143,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1893.0782694168595,
+        "point_count": 110
+      },
+      "NORTH_WEST": {
+        "average": 1890.4852675493867,
+        "point_count": 409
+      },
+      "NORTH": {
+        "average": 1868.8217704898946,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1868.6466763378285,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1872.042356480709,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1869.2342105775747,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1872.1565761119334,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1876.9473233576723,
+        "point_count": 1191
+      }
+    },
+    "2023_01": {
+      "CENTRAL": {
+        "average": 1869.1400200135588,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1872.7679710145292,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1867.8930081347155,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1891.548880209889,
+        "point_count": 113
+      },
+      "NORTH_WEST": {
+        "average": 1888.394910283517,
+        "point_count": 421
+      },
+      "NORTH": {
+        "average": 1865.7942176738275,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1868.9425473333285,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1874.4675188265026,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1866.7074321278478,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1870.6756746937679,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1876.3290593497195,
+        "point_count": 1191
+      }
+    },
+    "2023_02": {
+      "CENTRAL": {
+        "average": 1851.8696731624416,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1851.704131762611,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1851.5543169625435,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1884.4739471618534,
+        "point_count": 111
+      },
+      "NORTH_WEST": {
+        "average": 1880.745519108642,
+        "point_count": 419
+      },
+      "NORTH": {
+        "average": 1848.381555693457,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1852.449506323161,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1852.2062502999127,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1849.2705975316576,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1853.1405275507973,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1851.4728025986863,
+        "point_count": 1191
+      }
+    },
+    "2023_03": {
+      "CENTRAL": {
+        "average": 1865.6075133941642,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1868.3555285339564,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1868.2033140698716,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1889.1186706979054,
+        "point_count": 116
+      },
+      "NORTH_WEST": {
+        "average": 1889.8413932661574,
+        "point_count": 424
+      },
+      "NORTH": {
+        "average": 1868.3262570387146,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1863.2489423129214,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1865.2332176948273,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1871.2116511669285,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1860.3074399327154,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1870.5636812984505,
+        "point_count": 1191
+      }
+    },
+    "2023_04": {
+      "CENTRAL": {
+        "average": 1877.369112265409,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1868.7905636472456,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1876.4875256774224,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1893.3740324323066,
+        "point_count": 116
+      },
+      "NORTH_WEST": {
+        "average": 1892.9482787790728,
+        "point_count": 424
+      },
+      "NORTH": {
+        "average": 1877.4080029273478,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1866.5018177189825,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1867.204167420412,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1873.3086348089325,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1871.9403118404366,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1865.0938741645032,
+        "point_count": 1191
+      }
+    },
+    "2023_05": {
+      "CENTRAL": {
+        "average": 1922.5508825414183,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1911.203054921268,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1915.9523030990463,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1914.1351170762941,
+        "point_count": 116
+      },
+      "NORTH_WEST": {
+        "average": 1912.9331293337075,
+        "point_count": 424
+      },
+      "NORTH": {
+        "average": 1920.5197996470752,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1915.9667971626109,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1913.5648281499816,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1910.61027470658,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1914.3641557403491,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1900.7389963620235,
+        "point_count": 1191
+      }
+    },
+    "2023_06": {
+      "CENTRAL": {
+        "average": 1932.5535432418455,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1931.7669617337415,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1932.1360632013616,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1918.5690268426742,
+        "point_count": 116
+      },
+      "NORTH_WEST": {
+        "average": 1918.484306784541,
+        "point_count": 424
+      },
+      "NORTH": {
+        "average": 1932.186663171284,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1934.7034039073953,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1927.83390214813,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1930.250895614859,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1931.1638441668215,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1926.9353777224549,
+        "point_count": 1191
+      }
+    },
+    "2023_07": {
+      "CENTRAL": {
+        "average": 1922.5953174951483,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1923.8779446574977,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1918.3655567673113,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1914.9053382771372,
+        "point_count": 116
+      },
+      "NORTH_WEST": {
+        "average": 1913.5407271330314,
+        "point_count": 424
+      },
+      "NORTH": {
+        "average": 1920.0032921614802,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1923.13474646599,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1921.4138572473983,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1914.6122407674172,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1921.426853498257,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1926.1493425986164,
+        "point_count": 1191
+      }
+    },
+    "2023_08": {
+      "CENTRAL": {
+        "average": 1866.283858178491,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1864.413476849789,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1865.4574389368497,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1889.4569520877758,
+        "point_count": 116
+      },
+      "NORTH_WEST": {
+        "average": 1888.1794582971108,
+        "point_count": 424
+      },
+      "NORTH": {
+        "average": 1865.112024045674,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1866.0077720846944,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1865.131082955412,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1865.8807484144547,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1866.5798564981271,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1852.2413574191269,
+        "point_count": 1191
+      }
+    },
+    "2023_09": {
+      "CENTRAL": {
+        "average": 1846.8012804086493,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1854.1579930746293,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1846.7420353699545,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1881.0433442153687,
+        "point_count": 115
+      },
+      "NORTH_WEST": {
+        "average": 1881.2002525020146,
+        "point_count": 403
+      },
+      "NORTH": {
+        "average": 1846.7061161811616,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1847.5507990678868,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1853.6404048840968,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1847.0040763438415,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1846.8137988090114,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1875.674494873513,
+        "point_count": 1191
+      }
+    },
+    "2023_10": {
+      "CENTRAL": {
+        "average": 1873.4064878227175,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1870.656294814909,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1874.223945856212,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1895.3297329621814,
+        "point_count": 102
+      },
+      "NORTH_WEST": {
+        "average": 1892.127056475181,
+        "point_count": 424
+      },
+      "NORTH": {
+        "average": 1874.2788369188181,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1869.238834963007,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1870.6130769430376,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1874.249876217079,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1873.2509848757156,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1850.2896810559623,
+        "point_count": 1191
+      }
+    },
+    "2023_11": {
+      "CENTRAL": {
+        "average": 1874.6543894044078,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1874.7814351133604,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1874.6123942487404,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1894.3958368805088,
+        "point_count": 108
+      },
+      "NORTH_WEST": {
+        "average": 1893.0080404095038,
+        "point_count": 405
+      },
+      "NORTH": {
+        "average": 1874.3177863634724,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1874.3339022388159,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1874.8302194595815,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1874.3954603519126,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1874.713563159859,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1878.7858745233734,
+        "point_count": 1191
+      }
+    },
+    "2023_12": {
+      "CENTRAL": {
+        "average": 1870.7953246452403,
+        "point_count": 148
+      },
+      "EAST": {
+        "average": 1870.843457249515,
+        "point_count": 45
+      },
+      "NEW_DELHI": {
+        "average": 1869.5817263861047,
+        "point_count": 188
+      },
+      "NORTH_EAST": {
+        "average": 1891.8044404744342,
+        "point_count": 116
+      },
+      "NORTH_WEST": {
+        "average": 1890.330434704176,
+        "point_count": 406
+      },
+      "NORTH": {
+        "average": 1869.301634710594,
+        "point_count": 324
+      },
+      "SHAHADRA": {
+        "average": 1868.424457159758,
+        "point_count": 49
+      },
+      "SOUTH_EAST": {
+        "average": 1871.632343831667,
+        "point_count": 125
+      },
+      "SOUTH_WEST": {
+        "average": 1868.7092669913216,
+        "point_count": 321
+      },
+      "SOUTH": {
+        "average": 1871.1461470606746,
+        "point_count": 180
+      },
+      "WEST": {
+        "average": 1877.0196797944618,
+        "point_count": 1191
+      }
+    }
+  },
+  "statistics": {
+    "mean": 1882.7677329554413,
+    "std": 23.77166558640831,
+    "min": 1842.141241453716,
+    "max": 1939.6649442861121
+  }
+}

@@ -1,0 +1,7620 @@
+{
+  "type": "state_districts",
+  "state_name": "MANIPUR",
+  "data": {
+    "BISHNUPUR": {
+      "average_methane": 1876.8178324733055,
+      "data_quality": {
+        "total_months": 110,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 510.0
+      },
+      "point_count": 56100
+    },
+    "CHANDEL": {
+      "average_methane": 1877.684263383433,
+      "data_quality": {
+        "total_months": 114,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 1798.359649122807
+      },
+      "point_count": 205013
+    },
+    "CHURACHANDPUR": {
+      "average_methane": 1877.6944474994095,
+      "data_quality": {
+        "total_months": 115,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 2194.5478260869563
+      },
+      "point_count": 252373
+    },
+    "IMPHAL_EAST": {
+      "average_methane": 1878.3080008762813,
+      "data_quality": {
+        "total_months": 110,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 473.0
+      },
+      "point_count": 52030
+    },
+    "IMPHAL_WEST": {
+      "average_methane": 1877.7817485300152,
+      "data_quality": {
+        "total_months": 110,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 546.0
+      },
+      "point_count": 60060
+    },
+    "JIRIBAM": {
+      "average_methane": 1879.0284462852696,
+      "data_quality": {
+        "total_months": 113,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 332.0
+      },
+      "point_count": 37516
+    },
+    "KAKCHING": {
+      "average_methane": 1876.4098428253137,
+      "data_quality": {
+        "total_months": 110,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 345.0
+      },
+      "point_count": 37950
+    },
+    "KAMJONG": {
+      "average_methane": 1879.4075094294092,
+      "data_quality": {
+        "total_months": 115,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 2187.904347826087
+      },
+      "point_count": 251609
+    },
+    "KANGPOKPI": {
+      "average_methane": 1879.3564271201926,
+      "data_quality": {
+        "total_months": 112,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 1767.8392857142858
+      },
+      "point_count": 197998
+    },
+    "NONEI": {
+      "average_methane": 1879.8455634907978,
+      "data_quality": {
+        "total_months": 113,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 1124.424778761062
+      },
+      "point_count": 127060
+    },
+    "PHERZAWL": {
+      "average_methane": 1878.3755253052054,
+      "data_quality": {
+        "total_months": 117,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 1943.974358974359
+      },
+      "point_count": 227445
+    },
+    "SENAPATI": {
+      "average_methane": 1879.142955231087,
+      "data_quality": {
+        "total_months": 112,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 1664.669642857143
+      },
+      "point_count": 186443
+    },
+    "TAMENGLONG": {
+      "average_methane": 1880.5438196112661,
+      "data_quality": {
+        "total_months": 117,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 2722.4700854700855
+      },
+      "point_count": 318529
+    },
+    "TENGNOUPAL": {
+      "average_methane": 1879.1461518703322,
+      "data_quality": {
+        "total_months": 113,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 1157.2212389380531
+      },
+      "point_count": 130766
+    },
+    "THOUBAL": {
+      "average_methane": 1877.3011865591584,
+      "data_quality": {
+        "total_months": 110,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 417.0
+      },
+      "point_count": 45870
+    },
+    "UKHRUL": {
+      "average_methane": 1879.6204694937505,
+      "data_quality": {
+        "total_months": 115,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 1924.4608695652173
+      },
+      "point_count": 221313
+    }
+  },
+  "monthly_data": {
+    "2014_01": {
+      "BISHNUPUR": {
+        "average": 1879.245715261788,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1878.1700641437735,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1878.5413222728102,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1879.7961496261444,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1880.1039634891906,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1869.2578504167127,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1878.737586470062,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1874.5572284045945,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1879.3874677051638,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1879.1411215875926,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1861.792985847176,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1878.225678056091,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1879.1566995556673,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1878.1379291840178,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1878.915452141231,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1876.9438898795465,
+        "point_count": 2021
+      }
+    },
+    "2014_02": {
+      "BISHNUPUR": {
+        "average": 1856.586864579544,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1855.558035170298,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1857.6490206554886,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1853.7683455364777,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1854.3438752691766,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1850.2838726284317,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1854.720923803163,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1853.5643397021852,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1854.433829545294,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1856.1156677475249,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1851.5434902609102,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1854.6895655111311,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1854.2123981982413,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1854.1663029395593,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1852.973295254367,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1854.0965890067048,
+        "point_count": 2021
+      }
+    },
+    "2014_03": {
+      "BISHNUPUR": {
+        "average": 1879.325746053355,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1876.8295692228332,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1877.999567429698,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1879.499761838179,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1879.328529397695,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1876.2169111191179,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1879.4326810170505,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1874.2592303724336,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1878.915225075532,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1874.015682873089,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1874.6365631874314,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1878.3361831616157,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1874.8075123830904,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1875.2399535589725,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1878.2206532756745,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1875.277948653465,
+        "point_count": 2021
+      }
+    },
+    "2014_04": {
+      "BISHNUPUR": {
+        "average": 1876.6008344297466,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1877.0959969760931,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1871.0388815622566,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1876.1757496160658,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1870.9092762811392,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1869.6364204677975,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1878.6603387121334,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1871.6077406653064,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1868.589065329399,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1871.1023695327922,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1872.3678939807414,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1861.082019333508,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1867.2374012834127,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1874.7798240571508,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1878.2610299949863,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1871.7284324466775,
+        "point_count": 2021
+      }
+    },
+    "2014_05": {
+      "BISHNUPUR": {
+        "average": 1916.8608105706742,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1918.7031636264069,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1917.0417887622532,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1916.822578196941,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1916.3437354917965,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1925.4154870923828,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1917.3583611480392,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1921.6415857656464,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1917.4980548692808,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1920.09165948978,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1921.3082921187586,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1912.3029517620018,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1920.6750911128624,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1920.112176358807,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1914.291238592276,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1912.9220575616625,
+        "point_count": 2021
+      }
+    },
+    "2014_06": {
+      "BISHNUPUR": {
+        "average": 1901.0734024107712,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1897.8018881232422,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1902.018756053404,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1907.4995354731436,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1903.6722535432557,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1917.8949736890195,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1896.4733165501732,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1909.8822503438707,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1918.310037005618,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1920.0397654296485,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1903.98560694033,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1921.747916870322,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1928.0680448185822,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1899.8425942965946,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1897.5399480861834,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1914.2141954489605,
+        "point_count": 2021
+      }
+    },
+    "2014_07": {
+      "BISHNUPUR": {
+        "average": 1888.6131877032597,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1890.704965528392,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1890.8498191384042,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1895.773200661492,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1894.1992795462788,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1911.6771991088094,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1887.9695374878197,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1896.9258160575916,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1901.0090410846403,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1899.4790478848283,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1902.0226894729374,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1912.8344507310203,
+        "point_count": 826
+      },
+      "TAMENGLONG": {
+        "average": 1908.9103848211641,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1892.0654614956404,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1896.50384581676,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1910.4656066673836,
+        "point_count": 1403
+      }
+    },
+    "2014_08": {
+      "BISHNUPUR": {
+        "average": 1908.4479268405403,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1920.3444278274749,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1916.9113110446153,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1916.1245296220773,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1911.3450148194893,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1900.6754937160333,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1916.7296395936155,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1920.3468648282937,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1920.868850024448,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1934.1972421049506,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1925.824525211062,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1907.2752559801231,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1927.4264794717908,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1928.6730038659866,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1913.960730324318,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1912.349130288719,
+        "point_count": 2021
+      }
+    },
+    "2014_09": {
+      "BISHNUPUR": {
+        "average": 1880.6810319751246,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1876.0983126507901,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1875.4467928690538,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1879.7601430538139,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1880.979051495458,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1868.9745885344967,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1881.209399321935,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1871.6044349658923,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1876.8057958184215,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1870.5568670027724,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1870.3075326698527,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1876.8685629423844,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1870.4242988670903,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1873.2481988315394,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1880.9314893482244,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1869.920758817322,
+        "point_count": 2021
+      }
+    },
+    "2014_10": {
+      "BISHNUPUR": {
+        "average": 1877.4992179195633,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1877.4044275525002,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1881.6939830475435,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1878.3827984455581,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1875.34943639654,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1876.4730706790403,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1877.9043933795049,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1874.0356685924003,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1874.9956971447227,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1876.545272794952,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1875.0561993386361,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1874.9746615577621,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1876.2905237893492,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1877.7846402553923,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1878.6749238586344,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1876.5931052511448,
+        "point_count": 2021
+      }
+    },
+    "2014_11": {
+      "BISHNUPUR": {
+        "average": 1878.4883173049948,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1876.8545812875072,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1880.1814525082398,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1878.5525365246733,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1878.5726914276163,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1875.4303152851617,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1878.3390967768094,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1875.8288515151337,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1878.0791364671531,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1878.7956200258232,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1876.6980535609096,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1877.3120303017977,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1878.413635417799,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1876.7371714709977,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1878.4191770614882,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1876.2303655677463,
+        "point_count": 2021
+      }
+    },
+    "2014_12": {
+      "BISHNUPUR": {
+        "average": 1875.5600671464074,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1875.6796298818792,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1877.2796244045348,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1876.998779954477,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1877.3924984137682,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1867.717656867435,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1875.2187088091077,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1873.8771280451508,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1877.4482731364349,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1876.9448465007804,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1872.9369702454117,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1876.967062170724,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1875.8880207798222,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1875.6766069752534,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1875.5396475128662,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1874.5211607281838,
+        "point_count": 2021
+      }
+    },
+    "2015_01": {
+      "BISHNUPUR": {
+        "average": 1850.836310424365,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1850.8544705041268,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1850.477597776281,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1855.493819085248,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1850.8676543994957,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1870.4952292505684,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1850.7954540957771,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1872.0071834260866,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1860.7987874543644,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1853.2852466767451,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1858.5056444420186,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1873.7539599236925,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1855.7040820587297,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1861.509595327816,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1851.5793639501564,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1873.880004178351,
+        "point_count": 2021
+      }
+    },
+    "2015_02": {
+      "BISHNUPUR": {
+        "average": 1856.9063280354515,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1856.843382354027,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1857.4322580275416,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1856.8472792746286,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1856.8314410892397,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1853.22838544414,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1856.9402380086765,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1853.154129150132,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1857.0615482715896,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1856.5052111801767,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1854.5707063778173,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1856.1589746627399,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1855.2694269497115,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1855.8176391679783,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1856.9261800676084,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1853.4100559910949,
+        "point_count": 2021
+      }
+    },
+    "2015_03": {
+      "BISHNUPUR": {
+        "average": 1877.9697794426254,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1879.1580521152193,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1877.4045224367899,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1877.2043273134052,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1860.6083992755582,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1873.839514853363,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1878.957377194292,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1875.3139375416993,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1872.4487595875519,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1873.7399470101527,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1872.5978094696395,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1863.788906531246,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1874.1407743386262,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1878.2948682898407,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1878.733385102008,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1872.4005903703896,
+        "point_count": 2021
+      }
+    },
+    "2015_04": {
+      "BISHNUPUR": {
+        "average": 1835.2171628834533,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1862.2230576955697,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1845.6522356280452,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1839.7889326481738,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1833.5426360334134,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1869.8705538153572,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1838.8952811552508,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1871.2604149732044,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1854.3491508432746,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1868.7909929699597,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1869.3607233676917,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1858.7854790827853,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1864.8921153356791,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1871.6557890955844,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1850.6307416121808,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1873.5033129539022,
+        "point_count": 2021
+      }
+    },
+    "2015_05": {
+      "BISHNUPUR": {
+        "average": 1915.276556384034,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1916.4156919285654,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1914.8740706528126,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1916.841110932782,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1918.4031680804753,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1924.6502667372872,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1918.274968768662,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1921.748971283491,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1917.3587826455139,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1921.6097249294223,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1923.6942927765458,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1916.2052955993383,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1920.6463483250786,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1921.8001927329008,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1920.096978852527,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1913.17500970193,
+        "point_count": 2021
+      }
+    },
+    "2015_06": {
+      "BISHNUPUR": {
+        "average": 1896.2555977628047,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1891.8300295508313,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1894.5801771031245,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1892.5419453076972,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1896.247791223285,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1899.8348804325738,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1889.0852898860242,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1901.614009763857,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1906.5043842006942,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1902.8647162015236,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1891.9143496853653,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1908.2164535437084,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1913.6043786066846,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1894.5519107804448,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1890.3241821248314,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1909.7262182545016,
+        "point_count": 2021
+      }
+    },
+    "2015_07": {
+      "BISHNUPUR": {
+        "average": 1927.6151981485666,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1927.2761437005906,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1926.9105915216294,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1924.874529689672,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1926.3318944415453,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1929.0068650337817,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1928.5541496517048,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1925.7124680302932,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1924.1427384795222,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1925.3253197936315,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1926.515178207427,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1922.2073656047871,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1924.1448497248355,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1927.175460381334,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1925.6492849501979,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1919.718677624797,
+        "point_count": 2021
+      }
+    },
+    "2015_08": {
+      "BISHNUPUR": {
+        "average": 1865.222499195869,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1865.3430177618488,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1865.4675662800078,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1865.6353936110422,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1866.2468209438014,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1878.4726502715998,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1863.934729885704,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1865.7188688111946,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1866.9743659640453,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1874.5730856168686,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1873.8737990730533,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1869.3653310472282,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1878.083803341552,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1865.8241896680238,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1865.4054195216322,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1865.6577569012036,
+        "point_count": 2021
+      }
+    },
+    "2015_09": {
+      "BISHNUPUR": {
+        "average": 1838.6595701770839,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1857.7599115454377,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1852.5426573845666,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1847.44603034727,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1857.0740670059047,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1873.928835098095,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1835.8927075247982,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1867.5440997561864,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1863.2734100179798,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1872.1967923511613,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1874.8441714704416,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1867.1709172421993,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1870.8734454567848,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1869.5557150189354,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1842.2000592480595,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1862.6677184095722,
+        "point_count": 2021
+      }
+    },
+    "2015_10": {
+      "BISHNUPUR": {
+        "average": 1872.8640728767957,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1872.1500671474987,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1874.6057242422107,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1872.3290560797575,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1872.5048566064017,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1877.1148978116937,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1872.4134489548312,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1843.9733529202663,
+        "point_count": 933
+      },
+      "KANGPOKPI": {
+        "average": 1850.35608453518,
+        "point_count": 485
+      },
+      "NONEI": {
+        "average": 1878.1911124071898,
+        "point_count": 173
+      },
+      "PHERZAWL": {
+        "average": 1874.9096512229473,
+        "point_count": 945
+      },
+      "SENAPATI": {
+        "average": 1850.7169739332232,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1864.163155557764,
+        "point_count": 1363
+      },
+      "TENGNOUPAL": {
+        "average": 1843.7009715958343,
+        "point_count": 16
+      },
+      "THOUBAL": {
+        "average": 1872.328217445016,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1849.5862501444626,
+        "point_count": 1768
+      }
+    },
+    "2015_11": {
+      "BISHNUPUR": {
+        "average": 1878.573767180185,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1877.199310155591,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1880.2320513007098,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1879.2383810268059,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1879.6317914548538,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1873.3293225459213,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1876.1172121566585,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1874.91965792345,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1878.932313384351,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1879.60283697942,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1875.8807975826346,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1878.3533180270824,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1879.010634917357,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1877.3614820020018,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1877.7096032281502,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1877.345973946009,
+        "point_count": 2021
+      }
+    },
+    "2015_12": {
+      "BISHNUPUR": {
+        "average": 1877.4408671499318,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1876.5505361164378,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1877.4976049126794,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1878.1816787873283,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1877.932945757471,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1867.3212537483673,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1877.018388250547,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1873.8193448641819,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1877.2142205551845,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1876.888864841936,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1873.0771243202746,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1876.1547391378324,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1876.586949579023,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1877.7752776599914,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1877.0394529276928,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1875.1998923120873,
+        "point_count": 2021
+      }
+    },
+    "2016_01": {
+      "BISHNUPUR": {
+        "average": 1877.1771177734465,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1876.9872030517386,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1878.5311479749391,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1877.9477137768913,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1877.8392841112516,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1866.985733833032,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1877.5972320686785,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1874.1337626758286,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1878.134469061526,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1878.9128076016189,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1874.3332203690488,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1877.2679088883306,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1877.9305254363221,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1877.7803995940242,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1877.2403390578665,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1875.5379498131185,
+        "point_count": 2021
+      }
+    },
+    "2016_02": {
+      "BISHNUPUR": {
+        "average": 1851.9017350066626,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1850.855916104265,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1851.1619187023018,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1847.0343591745275,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1849.3279167791034,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1852.7093281207447,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1850.9149467165905,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1847.064006184186,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1847.390279423991,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1852.2844633325828,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1853.614505988176,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1848.2479796548168,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1851.6526274549553,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1850.29371576993,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1849.5111190266125,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1849.2415912386887,
+        "point_count": 2021
+      }
+    },
+    "2016_03": {
+      "BISHNUPUR": {
+        "average": 1836.4821687127496,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1870.1369859082515,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1866.4660505509432,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1847.8798514809976,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1838.0993995422734,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1871.1353684644268,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1848.8617845603244,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1874.4893625347268,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1846.0006712991842,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1866.8556069928482,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1872.6686969228633,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1865.521600378423,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1866.3091309845224,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1870.8795418503607,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1867.3499834498693,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1870.2863658788945,
+        "point_count": 2021
+      }
+    },
+    "2016_04": {
+      "BISHNUPUR": {
+        "average": 1839.6087502678408,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1863.2315031474204,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1859.9994018991924,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1843.230556589154,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1841.7116011042112,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1872.2143775264733,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1836.596714327045,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1870.38881856386,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1845.2124279717668,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1871.8930986326238,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1871.7497543958746,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1846.4989709653946,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1863.897187578566,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1871.794222558683,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1847.4854913614504,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1870.5041703599265,
+        "point_count": 2021
+      }
+    },
+    "2016_05": {
+      "BISHNUPUR": {
+        "average": 1918.011446398454,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1920.1012910220556,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1926.268283278661,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1910.7680446723502,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1915.6345777917195,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1927.7880085016625,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1921.620765280523,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1919.520924125711,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1917.960570787361,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1921.2411170412768,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1925.9844930021015,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1919.415567086005,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1922.634124578086,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1920.2887408377749,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1917.0832009781743,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1915.864749888881,
+        "point_count": 2021
+      }
+    },
+    "2016_06": {
+      "BISHNUPUR": {
+        "average": 1886.9048089876003,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1888.4669613326575,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1892.7299198593828,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1890.0120837059367,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1884.3997953945966,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1891.9804338562524,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1886.962376312892,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1901.3937094967703,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1893.072843248793,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1890.8097575266645,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1891.880036020504,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1909.4918504487864,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1895.2697665882906,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1891.5765463061114,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1890.38244765614,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1910.568755453145,
+        "point_count": 2021
+      }
+    },
+    "2016_07": {
+      "BISHNUPUR": {
+        "average": 1904.7606101007682,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1901.12085086412,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1897.7403126341997,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1931.690942499596,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1919.8840945023594,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1896.4401167437106,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1914.4605355716178,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1925.5715748284297,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1915.2886134756918,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1900.4115361034694,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1897.689734261456,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1904.2159416000663,
+        "point_count": 826
+      },
+      "TAMENGLONG": {
+        "average": 1905.7317076900265,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1917.2680614940582,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1909.0159132017682,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1910.1437320483478,
+        "point_count": 1403
+      }
+    },
+    "2016_08": {
+      "BISHNUPUR": {
+        "average": 1874.2357284051554,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1865.0444554626927,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1873.7727121878374,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1875.240191253652,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1880.128274248864,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1869.9657647512781,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1864.2440829411757,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1866.2915033876193,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1878.7416573465575,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1876.1522282513777,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1876.6826456412482,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1880.0878584802347,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1872.5757404443596,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1866.1019638875846,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1867.0751031375241,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1870.2295906477282,
+        "point_count": 2021
+      }
+    },
+    "2016_09": {
+      "BISHNUPUR": {
+        "average": 1879.9908846090264,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1876.0056389343524,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1876.5495938337574,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1877.1941425466262,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1879.6894391408264,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1871.633507362574,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1878.4191878824286,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1871.8831402218314,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1878.9579599532321,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1872.8471448335238,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1871.1960104843706,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1873.2421131800565,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1872.3052877904865,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1872.6818142562086,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1871.4272756327027,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1872.795709032832,
+        "point_count": 2021
+      }
+    },
+    "2016_10": {
+      "BISHNUPUR": {
+        "average": 1850.4550097235913,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1850.2976960981123,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1850.2636287720713,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1850.3406013299018,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1850.3688050251928,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1873.1900968860432,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1850.4121113865667,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1849.7121248321716,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1850.3448115809128,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1853.186199957826,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1861.8969777254451,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1850.4325612485222,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1855.3583826741813,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1850.1905941698503,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1850.373974431114,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1852.044304433457,
+        "point_count": 2021
+      }
+    },
+    "2016_11": {
+      "BISHNUPUR": {
+        "average": 1877.4975643359448,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1877.8378870175966,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1880.0632041379395,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1879.6024671186306,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1879.4037062368109,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1873.8383503231296,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1875.068051907872,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1875.1626350203378,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1879.499351486668,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1880.1003180144162,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1876.2318749773883,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1878.5184563882867,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1879.786934517056,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1878.1670614278264,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1876.5607447612247,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1877.1279440051767,
+        "point_count": 2021
+      }
+    },
+    "2016_12": {
+      "BISHNUPUR": {
+        "average": 1878.5192722210884,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1877.9063551760971,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1880.3804755877106,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1878.516226927918,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1878.61653634529,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1868.2480274170262,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1878.5584049183594,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1874.0988259133592,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1877.9872771370362,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1879.6890142371744,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1875.1664207950582,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1876.8133368429267,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1878.2319466949361,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1877.9499559897472,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1878.3886516316802,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1875.5692463515147,
+        "point_count": 2021
+      }
+    },
+    "2017_01": {
+      "BISHNUPUR": {
+        "average": 1877.611746789035,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1878.2459245520893,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1879.9727985004693,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1878.3026842264408,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1878.1025335730196,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1868.8760745153322,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1877.8175026777792,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1874.8388951229633,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1878.7342414665175,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1879.0919389700975,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1875.345897855716,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1877.8190624501651,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1878.637310027359,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1878.2294198841896,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1878.4673304692883,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1876.2840859410935,
+        "point_count": 2021
+      }
+    },
+    "2017_02": {
+      "BISHNUPUR": {
+        "average": 1854.4485385337862,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1852.3460930291892,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1854.6114913287963,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1849.619650928691,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1853.1661794270408,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1857.0893951586177,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1850.8491506337132,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1850.5552497033736,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1850.4694345771165,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1854.792867083876,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1854.2494080857007,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1850.7563578244742,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1853.4242673066883,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1850.1947742261775,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1850.5718985988224,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1848.8419670812189,
+        "point_count": 2021
+      }
+    },
+    "2017_03": {
+      "BISHNUPUR": {
+        "average": 1874.5121000456602,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1875.323255376736,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1867.3614962207657,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1879.7606615289199,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1879.879702575574,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1872.9595759924127,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1875.070861295992,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1875.6204222355486,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1879.4744993933996,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1871.8290196381943,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1872.974462709818,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1875.3991227726644,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1873.1429755182508,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1875.4274845230918,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1878.2409356206547,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1876.329196419292,
+        "point_count": 2021
+      }
+    },
+    "2017_04": {
+      "BISHNUPUR": {
+        "average": 1834.1875798817732,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1867.9559402597852,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1860.2009910893057,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1874.9946962807455,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1855.530616629515,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1870.106366114055,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1840.5357627035314,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1873.7146929992489,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1873.791841482534,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1871.7233951890378,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1872.060997815168,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1877.5814727676968,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1870.6565889829285,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1875.9232551919217,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1861.0204766690783,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1874.0745078670957,
+        "point_count": 2021
+      }
+    },
+    "2017_05": {
+      "BISHNUPUR": {
+        "average": 1914.5066896189935,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1911.6042291118204,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1913.462201526354,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1910.7578355798332,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1912.2263849965295,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1922.4420352331306,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1908.8236109147556,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1920.627704064313,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1917.2251479849601,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1918.1065469489076,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1919.7438719871568,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1917.6992046988355,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1924.332820457924,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1915.0257722433582,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1910.2330976694066,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1919.9584416993757,
+        "point_count": 2021
+      }
+    },
+    "2017_06": {
+      "BISHNUPUR": {
+        "average": 1883.5356099716048,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1889.259534399896,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1888.9017167812488,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1883.3880832532943,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1882.0106867056809,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1889.6057336016738,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1887.797939547571,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1901.051399936281,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1891.2150025272776,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1889.202094165649,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1889.5580537669036,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1898.6217597736181,
+        "point_count": 826
+      },
+      "TAMENGLONG": {
+        "average": 1893.358505581025,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1890.7995206162107,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1890.247575311317,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1906.2382810883416,
+        "point_count": 1455
+      }
+    },
+    "2017_07": {
+      "BISHNUPUR": {
+        "average": 1912.1461002081478,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1926.5182119981337,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1922.1517947672967,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1908.0497502792412,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1908.7282292654204,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1917.1689797262093,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1925.1308655172033,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1913.4904499264403,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1910.5589293764308,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1917.8248348189168,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1922.9151935045752,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1909.4314803877087,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1917.4025059945493,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1920.2566742454046,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1923.1103935649935,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1910.598069436226,
+        "point_count": 2021
+      }
+    },
+    "2017_08": {
+      "JIRIBAM": {
+        "average": 1881.1739705951566,
+        "point_count": 332
+      },
+      "KAMJONG": {
+        "average": 1881.5433076249458,
+        "point_count": 907
+      },
+      "NONEI": {
+        "average": 1886.8586426275597,
+        "point_count": 156
+      },
+      "PHERZAWL": {
+        "average": 1885.3687106222487,
+        "point_count": 940
+      },
+      "TAMENGLONG": {
+        "average": 1877.340779041101,
+        "point_count": 665
+      },
+      "TENGNOUPAL": {
+        "average": 1871.939015195899,
+        "point_count": 14
+      },
+      "UKHRUL": {
+        "average": 1878.7888393642008,
+        "point_count": 206
+      }
+    },
+    "2017_09": {
+      "BISHNUPUR": {
+        "average": 1879.758532606309,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1876.7310613036232,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1877.058354918323,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1879.7709616689044,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1879.7492367452605,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1872.4760005517674,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1879.7897791943858,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1875.363088557561,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1879.387324062263,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1873.597984353294,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1873.3106235626174,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1878.506600863724,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1872.4004983963553,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1874.856707948542,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1879.1731979712984,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1874.1158973754493,
+        "point_count": 2021
+      }
+    },
+    "2017_10": {
+      "BISHNUPUR": {
+        "average": 1850.5162956881081,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1850.2627417759852,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1850.5079969517128,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1850.3881946468882,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1850.5744654743535,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1875.3081110443507,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1850.3504915831415,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1862.3328112948154,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1850.6067605433677,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1852.7011237913123,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1857.964344654543,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1852.0002582469886,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1854.6099494162843,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1851.2400288296803,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1850.3183603033665,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1861.5041152425904,
+        "point_count": 2021
+      }
+    },
+    "2017_11": {
+      "BISHNUPUR": {
+        "average": 1878.644058834896,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1878.3578482470475,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1881.3346277118085,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1879.8436841055725,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1879.8318517537145,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1876.8880640488694,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1878.496162394243,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1875.4681409435877,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1879.4491139969784,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1881.1174597095498,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1878.1861423874736,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1878.6151162886003,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1880.676041875915,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1878.5237404954853,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1879.4005012123125,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1877.2855480989467,
+        "point_count": 2021
+      }
+    },
+    "2017_12": {
+      "BISHNUPUR": {
+        "average": 1877.2018075135263,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1875.7477566818793,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1879.3328902695082,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1878.3815552580447,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1878.3371169921322,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1868.1077940329094,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1875.3526783447783,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1874.6462556419085,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1878.3831616623474,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1879.929812570778,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1875.3023033489585,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1876.8337064012312,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1878.4182731362791,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1877.0703936931045,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1878.0396105600787,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1875.5715243809454,
+        "point_count": 2021
+      }
+    },
+    "2018_01": {
+      "BISHNUPUR": {
+        "average": 1876.9999062036472,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1876.2245086360292,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1878.7879613415867,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1878.343555254483,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1878.1936725661676,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1867.5029012202629,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1874.7701711327027,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1874.5900716660722,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1878.3852046895834,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1878.6514633889904,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1874.8338885785327,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1877.5360454238148,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1877.9982616762893,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1877.3510955865581,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1875.191708538026,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1876.0787594695312,
+        "point_count": 2021
+      }
+    },
+    "2018_02": {
+      "BISHNUPUR": {
+        "average": 1852.4721874281142,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1849.478143175551,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1851.8065202005755,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1852.431225146068,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1853.9689694187075,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1855.6918547444461,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1850.43752169598,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1851.1132619405114,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1853.6669097198892,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1853.887512762497,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1852.0653468491319,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1853.039273789454,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1854.2586743725087,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1849.6886049937689,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1850.6328511413617,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1850.844981238062,
+        "point_count": 2021
+      }
+    },
+    "2018_03": {
+      "BISHNUPUR": {
+        "average": 1879.8264266717106,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1875.187653002149,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1877.5478869402418,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1864.2048250086361,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1878.6214215194034,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1869.8979921783075,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1871.7397092558083,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1871.964985015823,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1869.9677462912828,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1873.3070990338267,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1873.5146220217077,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1863.9615816762469,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1872.3936629459627,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1873.0074940199643,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1858.388869277976,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1871.2140929641346,
+        "point_count": 2021
+      }
+    },
+    "2018_04": {
+      "BISHNUPUR": {
+        "average": 1879.8485859155223,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1880.0117031736388,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1877.692565416758,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1879.7541211965456,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1879.8973308606783,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1872.5313108871433,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1879.6714431465452,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1872.1289950440002,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1879.1823752742798,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1872.6695545239238,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1872.917354067241,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1877.7686091084727,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1873.3709792346483,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1880.1612906931757,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1878.399781486752,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1870.821452065375,
+        "point_count": 2021
+      }
+    },
+    "2018_05": {
+      "BISHNUPUR": {
+        "average": 1907.895665920208,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1910.3121892831466,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1913.0506746688147,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1911.0622014757046,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1909.9495916871736,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1926.8589768184402,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1915.2432935815011,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1917.4193365557928,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1916.0338523509245,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1921.192384150303,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1918.8608861522669,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1910.7476025041176,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1925.9735798887427,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1916.1520905935615,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1913.5324170506226,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1910.0865177145968,
+        "point_count": 2021
+      }
+    },
+    "2018_06": {
+      "JIRIBAM": {
+        "average": 1912.5176522617353,
+        "point_count": 332
+      },
+      "KAMJONG": {
+        "average": 1897.3027520741634,
+        "point_count": 792
+      },
+      "NONEI": {
+        "average": 1910.060526681586,
+        "point_count": 203
+      },
+      "PHERZAWL": {
+        "average": 1902.8164595589478,
+        "point_count": 1028
+      },
+      "TAMENGLONG": {
+        "average": 1915.793772846521,
+        "point_count": 774
+      },
+      "UKHRUL": {
+        "average": 1904.7143431904078,
+        "point_count": 138
+      }
+    },
+    "2018_07": {
+      "CHANDEL": {
+        "average": 1905.6024637974258,
+        "point_count": 96
+      },
+      "CHURACHANDPUR": {
+        "average": 1904.812442234536,
+        "point_count": 103
+      },
+      "KAMJONG": {
+        "average": 1926.6618204831868,
+        "point_count": 828
+      },
+      "KANGPOKPI": {
+        "average": 1924.0125998719996,
+        "point_count": 482
+      },
+      "PHERZAWL": {
+        "average": 1910.9292923944781,
+        "point_count": 114
+      },
+      "SENAPATI": {
+        "average": 1925.3006804235843,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1926.3704103374698,
+        "point_count": 696
+      },
+      "UKHRUL": {
+        "average": 1921.2262830777397,
+        "point_count": 1764
+      }
+    },
+    "2018_08": {
+      "BISHNUPUR": {
+        "average": 1865.1780457021102,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1871.815688779604,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1865.1132475061931,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1873.5936314590067,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1863.6483299050137,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1864.765766563835,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1874.2518311617507,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1872.1448822145678,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1867.6555785202274,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1864.2052665392098,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1865.614453491582,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1867.6884739237018,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1865.04928183018,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1870.9968196380876,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1871.4730789834975,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1870.3540923075611,
+        "point_count": 2021
+      }
+    },
+    "2018_09": {
+      "BISHNUPUR": {
+        "average": 1872.7521017370614,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1869.6852665729423,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1875.6091603712127,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1865.944569362649,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1862.7342254827772,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1868.749280124982,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1858.5198676358268,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1868.8438099405014,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1854.698467836266,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1871.293967867942,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1870.7116816270811,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1865.9927107496374,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1868.0624790751483,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1872.3550822539341,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1863.1427031220942,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1869.0472227017078,
+        "point_count": 2021
+      }
+    },
+    "2018_10": {
+      "BISHNUPUR": {
+        "average": 1850.4217041802076,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1850.512148086955,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1850.2787321868163,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1857.482514372544,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1850.3985483880167,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1848.739464572282,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1850.6496057017048,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1875.500905976831,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1863.9628263730115,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1850.1346047868733,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1849.6433241055563,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1879.5345327279226,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1853.811108567923,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1862.9213538552724,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1850.786023377166,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1878.424066012919,
+        "point_count": 2021
+      }
+    },
+    "2018_11": {
+      "BISHNUPUR": {
+        "average": 1878.4335046959154,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1878.3731332546342,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1880.3972546641323,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1878.195657487779,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1877.9783663158446,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1872.4389162340963,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1878.4431023123698,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1874.9424013201335,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1878.1727040032617,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1879.9850514089414,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1875.3256797099325,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1877.030737479312,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1878.5027786335106,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1878.3198568325472,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1878.441302221586,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1875.532837310695,
+        "point_count": 2021
+      }
+    },
+    "2018_12": {
+      "BISHNUPUR": {
+        "average": 1877.0898429898828,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1876.0474818948317,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1878.8454467912427,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1878.39721430008,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1878.358752012373,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1867.7234843696165,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1875.1252362489809,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1874.94108270922,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1878.5924881419483,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1879.17103718394,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1874.9197897041117,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1877.3094923187575,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1877.8316228152746,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1877.3452479860414,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1877.0236380039264,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1876.0522941937288,
+        "point_count": 2021
+      }
+    },
+    "2019_01": {
+      "BISHNUPUR": {
+        "average": 1878.6832801388034,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1878.3116224309445,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1880.4028403669693,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1878.4927343487323,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1878.537065581743,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1866.1615501694944,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1878.53913881247,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1875.3793933900897,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1879.2967041707827,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1879.025401083307,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1861.8141330526432,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1878.131438705717,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1877.9252004229368,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1878.462467234239,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1878.4476856690708,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1876.5705309205107,
+        "point_count": 2021
+      }
+    },
+    "2019_02": {
+      "BISHNUPUR": {
+        "average": 1855.0433390106352,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1854.8598075596344,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1856.3105505578824,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1853.9717605864525,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1854.1033226111888,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1843.2970950363494,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1854.96681458868,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1854.7293692925732,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1853.5022546768087,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1853.373254313054,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1850.012000286334,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1855.287847410609,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1851.3911264933877,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1854.2969173145184,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1854.462817493234,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1855.2724678644422,
+        "point_count": 2021
+      }
+    },
+    "2019_03": {
+      "BISHNUPUR": {
+        "average": 1879.7497540009358,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1877.2256920592683,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1877.4575885157767,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1879.7670046409228,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1879.7646626318162,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1866.1479429741544,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1879.7403028373715,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1874.1218655042535,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1879.4079758987937,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1871.8459722107489,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1869.9374509865613,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1878.567611225468,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1872.4071487886388,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1875.0936732021012,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1879.10650779545,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1875.1595291971612,
+        "point_count": 2021
+      }
+    },
+    "2019_04": {
+      "BISHNUPUR": {
+        "average": 1869.5445369938768,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1864.3759157063812,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1870.1173448299558,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1868.7237150445694,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1874.697208706239,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1874.415090349979,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1865.3180613943903,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1868.212311333569,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1876.7785112591143,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1879.9024008186657,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1877.8302758247444,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1874.6386212619698,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1876.79573416651,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1864.4114556222855,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1866.5013541438336,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1866.4530760191656,
+        "point_count": 2021
+      }
+    },
+    "2019_05": {
+      "BISHNUPUR": {
+        "average": 1916.51661379051,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1904.3965455064047,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1914.4371519937354,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1910.5723546240943,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1913.7800632214742,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1925.5194437224206,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1917.4181261763952,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1911.079611937592,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1909.7763187318087,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1919.9889698661832,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1922.1023100932562,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1908.0949270845404,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1915.4763187508843,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1917.1878877789154,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1916.2882158596535,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1908.260970973775,
+        "point_count": 2021
+      }
+    },
+    "2019_06": {
+      "BISHNUPUR": {
+        "average": 1903.393345969431,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1902.0579499295427,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1902.7900990971839,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1910.6378094251904,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1907.9957802485455,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1904.223946298734,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1896.01328232823,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1911.5074115399905,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1915.2372423808602,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1909.0135619264558,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1899.0669375851387,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1925.656795548585,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1912.074787434672,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1906.026051331195,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1906.5255565118648,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1914.9777411268535,
+        "point_count": 2021
+      }
+    },
+    "2019_07": {
+      "BISHNUPUR": {
+        "average": 1927.7147994506533,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1907.6316699546478,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1915.9404614884115,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1929.8959090892286,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1932.5616121924365,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1929.0228924313471,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1926.1981845816267,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1920.9580516313727,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1930.20085651821,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1932.423805699102,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1913.9171426036182,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1928.1522637332118,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1932.8622191852687,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1917.1202079141567,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1927.6573257981534,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1927.6193458608248,
+        "point_count": 2021
+      }
+    },
+    "2019_08": {
+      "BISHNUPUR": {
+        "average": 1865.9259571186763,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1872.216837872548,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1866.2439128759015,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1864.2164589732995,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1866.5333090947086,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1867.2259646562052,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1873.6074075491465,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1868.1050037849304,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1866.4143011222277,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1865.8246948066273,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1866.636959436826,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1865.7092291981746,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1866.010772141717,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1870.699850478272,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1867.4789969958588,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1868.0422433952533,
+        "point_count": 2021
+      }
+    },
+    "2019_09": {
+      "BISHNUPUR": {
+        "average": 1856.5844626199994,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1857.8009351398603,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1867.4981154624809,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1862.9905633818507,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1854.1543077032318,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1871.9963305341662,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1850.1367134021102,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1873.7012763560897,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1873.153949005632,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1871.4300068276393,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1872.423461348204,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1872.6495838106064,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1872.2572660431265,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1872.760775590559,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1848.9527318400505,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1872.1819673500243,
+        "point_count": 2021
+      }
+    },
+    "2019_10": {
+      "BISHNUPUR": {
+        "average": 1871.8518416446616,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1876.181463974533,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1867.9961203760379,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1871.074645602611,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1870.7468262653454,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1843.6118498936496,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1874.3781942019577,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1871.262093138878,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1871.5088116678444,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1865.443730814921,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1847.5749330430313,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1871.0492081850675,
+        "point_count": 820
+      },
+      "TAMENGLONG": {
+        "average": 1869.926290921787,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1873.5190007192036,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1873.1159733727527,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1869.446257580262,
+        "point_count": 1466
+      }
+    },
+    "2019_11": {
+      "BISHNUPUR": {
+        "average": 1877.7853175026848,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1875.6259122364327,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1879.758797167511,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1877.9861746875492,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1877.9492628320938,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1872.8884901558883,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1876.0592854103347,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1875.2977049206725,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1877.569974959733,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1878.3325258169075,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1874.9039756762447,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1875.649240382652,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1877.468710968261,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1874.9963479806506,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1877.193988254897,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1875.3070707082304,
+        "point_count": 2021
+      }
+    },
+    "2019_12": {
+      "BISHNUPUR": {
+        "average": 1875.3209233644702,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1875.733676732561,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1877.2797352387809,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1876.0793464192993,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1875.259966849334,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1866.5342189394835,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1875.9078003073885,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1873.8482846756922,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1875.5584158453164,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1876.3446065977744,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1872.8235917154634,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1872.8696021234614,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1874.9983787281633,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1876.4677440812109,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1875.3635787852745,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1873.0262839750178,
+        "point_count": 2021
+      }
+    },
+    "2020_01": {
+      "BISHNUPUR": {
+        "average": 1876.4328264131593,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1874.2341864006485,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1853.3275280172752,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1878.2142559302004,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1878.1028801647699,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1848.2954839924396,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1875.6866567116856,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1874.125634279238,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1877.7823261441827,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1852.679267121451,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1849.1436644736464,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1876.3354287876707,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1866.3266621289335,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1877.7185592181224,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1878.1683938206186,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1875.27286833866,
+        "point_count": 2021
+      }
+    },
+    "2020_02": {
+      "BISHNUPUR": {
+        "average": 1856.7426535604845,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1856.5649506561958,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1857.2215815922198,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1854.5879628358678,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1856.6666154574086,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1850.4961728307017,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1856.6375401189123,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1850.9065253289743,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1853.5584229032431,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1856.0631394926793,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1853.4588423723872,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1851.3409665863076,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1855.5737295031154,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1853.725517926548,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1856.6104111034983,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1850.3840614697322,
+        "point_count": 2021
+      }
+    },
+    "2020_03": {
+      "BISHNUPUR": {
+        "average": 1879.4412520485496,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1877.1094797637684,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1877.2937682615448,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1879.234140813376,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1873.7709696410632,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1873.4126763129677,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1879.6378736583947,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1874.9749263238934,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1870.1423182780886,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1872.9041921906417,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1873.986228363413,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1860.267919823812,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1871.647257161415,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1874.5245497965032,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1877.6237847935793,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1873.6913652879416,
+        "point_count": 2021
+      }
+    },
+    "2020_04": {
+      "BISHNUPUR": {
+        "average": 1878.5849091256732,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1876.062014317406,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1875.8103716473192,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1877.708841052386,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1878.1103175352068,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1874.6200752346497,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1878.3444689128228,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1874.6764820004446,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1866.355357650029,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1873.3646345573777,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1871.8044780025725,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1847.6644775317106,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1870.7515272553687,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1875.5120791452384,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1877.3741464063392,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1868.6079689259989,
+        "point_count": 2021
+      }
+    },
+    "2020_05": {
+      "BISHNUPUR": {
+        "average": 1917.127359326923,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1919.1868169916452,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1917.6550229187728,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1916.5346903167158,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1916.3803668051517,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1925.1670975307984,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1916.2473996722233,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1921.6837782501777,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1916.879590355081,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1919.5356372700596,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1920.5742986625744,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1917.0119962304914,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1919.9109785645783,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1917.93788714574,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1916.54170100064,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1918.0927131305762,
+        "point_count": 2021
+      }
+    },
+    "2020_06": {
+      "CHANDEL": {
+        "average": 1893.123264362825,
+        "point_count": 93
+      },
+      "CHURACHANDPUR": {
+        "average": 1886.0815500863634,
+        "point_count": 101
+      },
+      "PHERZAWL": {
+        "average": 1888.5689201859916,
+        "point_count": 111
+      },
+      "TAMENGLONG": {
+        "average": 1908.3501436532651,
+        "point_count": 318
+      }
+    },
+    "2020_07": {
+      "CHANDEL": {
+        "average": 1929.1045726151576,
+        "point_count": 88
+      },
+      "CHURACHANDPUR": {
+        "average": 1926.4766544141683,
+        "point_count": 105
+      },
+      "PHERZAWL": {
+        "average": 1926.116946723295,
+        "point_count": 109
+      }
+    },
+    "2020_08": {
+      "BISHNUPUR": {
+        "average": 1865.0232317383484,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1865.8079315297373,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1864.3845500594052,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1866.011582976289,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1865.9696679849876,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1866.61963253728,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1864.2926898153735,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1864.30270181224,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1866.042790689534,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1865.1547950057618,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1864.4936743565302,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1865.8439039790696,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1866.3640827575207,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1862.920930446093,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1865.5588326544769,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1866.1698549200405,
+        "point_count": 2021
+      }
+    },
+    "2020_09": {
+      "BISHNUPUR": {
+        "average": 1871.6388838080002,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1861.423156870403,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1852.8570186496627,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1880.0026741553277,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1880.874439939971,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1870.930823163763,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1855.649196861571,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1870.2997666069184,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1880.5450674219696,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1872.1771053170696,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1872.872638396677,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1878.1763228332725,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1872.9359152533812,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1874.1074445073775,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1876.873900819251,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1871.1788902415649,
+        "point_count": 2021
+      }
+    },
+    "2020_10": {
+      "BISHNUPUR": {
+        "average": 1878.2034995987663,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1879.4649227330308,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1880.0015843077538,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1880.6930601200615,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1878.815508581483,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1880.0265322293108,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1881.1674695009315,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1877.0649338569715,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1878.2836731348332,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1880.5623134669022,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1876.377576680477,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1878.480888954509,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1880.5786095165236,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1879.7410487950065,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1881.179541404455,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1877.4751118512336,
+        "point_count": 2021
+      }
+    },
+    "2020_11": {
+      "BISHNUPUR": {
+        "average": 1881.4723211211679,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1878.866473318297,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1881.9836444370974,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1882.190621481031,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1882.246131397043,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1875.415426374036,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1879.7812561543908,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1876.4603910651317,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1881.3016078593073,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1882.5676415906826,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1879.343411883204,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1879.1832280725464,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1881.2009883265835,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1880.3643979862165,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1882.6113063917078,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1877.7308975762696,
+        "point_count": 2021
+      }
+    },
+    "2020_12": {
+      "BISHNUPUR": {
+        "average": 1873.556431575629,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1876.491251139455,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1877.3570913763813,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1872.1731540137741,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1872.6422376984199,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1868.049655993044,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1874.153802411989,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1872.4432209575855,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1875.0827735798966,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1874.7538142580295,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1873.3138166742456,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1876.4171147935626,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1875.9534412466403,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1876.7079679101419,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1873.9006507105228,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1873.9077691574776,
+        "point_count": 2021
+      }
+    },
+    "2021_01": {
+      "BISHNUPUR": {
+        "average": 1850.566392220366,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1850.6521243430554,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1850.705450589805,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1850.7936970926241,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1849.830722577337,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1867.6600056039304,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1850.6086360864244,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1874.542895811475,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1854.7277368223563,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1853.3120649527107,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1858.8472666341581,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1871.8482415162223,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1855.3976979676675,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1858.3802348780225,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1849.7427175676758,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1875.332584986028,
+        "point_count": 2021
+      }
+    },
+    "2021_02": {
+      "BISHNUPUR": {
+        "average": 1856.7255419874223,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1856.568519816666,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1857.200338488429,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1856.6509244032197,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1856.704487600183,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1852.548005569879,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1856.6377518822594,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1852.4375323879203,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1856.9740115743869,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1856.4419510743467,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1854.0354168307547,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1856.431161361611,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1855.9601064477122,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1855.7300557668011,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1856.662117298875,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1853.5159815296483,
+        "point_count": 2021
+      }
+    },
+    "2021_03": {
+      "BISHNUPUR": {
+        "average": 1877.259972106163,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1874.2781892932692,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1858.500274834927,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1876.361698223017,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1874.2335025230047,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1869.0945111710107,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1879.7320863361726,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1878.6817640218276,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1867.2044551881197,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1871.8565489313062,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1869.4352979815142,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1869.9955191496758,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1871.3885169040223,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1881.3183662234223,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1879.4501541021684,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1874.178255379712,
+        "point_count": 2021
+      }
+    },
+    "2021_04": {
+      "BISHNUPUR": {
+        "average": 1862.7016553773974,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1868.8611084121876,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1867.8590123486238,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1868.4950599061945,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1874.9737190410506,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1874.7281015323656,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1861.2612495276323,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1876.4618879443249,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1863.9614504694466,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1875.427434936383,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1875.8257996744248,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1854.831449617288,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1872.785549523761,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1877.886234139938,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1861.774248943741,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1875.6882242976335,
+        "point_count": 2021
+      }
+    },
+    "2021_05": {
+      "BISHNUPUR": {
+        "average": 1912.3448270217305,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1913.8869070073138,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1914.883016827549,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1918.8438016318105,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1918.6614204496132,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1923.0964147632153,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1909.8218247539141,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1914.9459424614697,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1917.7504287053978,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1921.9446808397495,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1915.9699290206327,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1916.8677199308706,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1919.4831297482956,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1900.2208218404649,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1910.5733601491875,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1920.2377784291505,
+        "point_count": 2021
+      }
+    },
+    "2021_06": {
+      "BISHNUPUR": {
+        "average": 1910.9429660861988,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1897.0128814233237,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1890.1565379233382,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1910.4083865926248,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1911.5536988933613,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1898.6425377536364,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1906.746589184489,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1908.068309858602,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1910.8229043406316,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1899.2560913530765,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1893.45834291972,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1908.6122825573877,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1904.0102059764365,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1903.9927816081254,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1906.7540176364237,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1909.130433364909,
+        "point_count": 2021
+      }
+    },
+    "2021_07": {
+      "TAMENGLONG": {
+        "average": 1919.7934727557003,
+        "point_count": 355
+      }
+    },
+    "2021_08": {
+      "BISHNUPUR": {
+        "average": 1865.7094416622817,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1867.300817071534,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1866.7205968919698,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1865.8412273941776,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1866.0336702071763,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1879.2509328920394,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1865.1849567883742,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1866.6331073635197,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1868.817820921061,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1875.9377520230285,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1874.044469144723,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1871.257055670968,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1879.83219733138,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1866.4995174807534,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1865.0255163158024,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1867.1865219748934,
+        "point_count": 2021
+      }
+    },
+    "2021_09": {
+      "BISHNUPUR": {
+        "average": 1844.8472500734842,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1858.6308108142637,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1848.5715122677161,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1871.7725518029981,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1861.2033136647544,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1870.6869595838439,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1841.4667570929862,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1863.0728750616772,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1871.770946814196,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1869.2578654446797,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1871.5104390520876,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1871.5412558314842,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1870.199245496372,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1872.0556178096253,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1860.0916293716991,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1860.8637730256055,
+        "point_count": 2021
+      }
+    },
+    "2021_10": {
+      "BISHNUPUR": {
+        "average": 1850.4430287211212,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1850.3499495840383,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1850.2334336872998,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1850.3879158172779,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1850.3782065084433,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1864.785984766209,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1850.424324990807,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1848.5325772120484,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1850.327890191311,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1852.5940678828938,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1856.5311737283826,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1850.3670703288562,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1854.1181033110774,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1850.1418980658423,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1850.4044801029584,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1849.4600357079728,
+        "point_count": 2021
+      }
+    },
+    "2021_11": {
+      "BISHNUPUR": {
+        "average": 1878.0065154666484,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1873.8122984069553,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1877.4295999022004,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1876.7637380571778,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1877.1949352605825,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1873.9760731838003,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1877.9442535774415,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1874.7807339570031,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1877.6517259533255,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1878.7733059248985,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1874.4741077964188,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1878.2571422773515,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1877.5946614361317,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1875.740920951653,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1877.444216347411,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1877.0498113395215,
+        "point_count": 2021
+      }
+    },
+    "2021_12": {
+      "BISHNUPUR": {
+        "average": 1876.32788668876,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1876.3397868344314,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1878.3326479516425,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1877.5224533632197,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1878.2717879867005,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1867.4149488463993,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1874.121619492996,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1875.0924013514912,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1878.13854349372,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1879.1302014091104,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1874.8928638075613,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1877.0639001171792,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1877.9288171127776,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1876.8262103590346,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1874.8160204742953,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1875.8894964555493,
+        "point_count": 2021
+      }
+    },
+    "2022_01": {
+      "BISHNUPUR": {
+        "average": 1877.551091255218,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1876.5708690077845,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1878.542108896982,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1878.4323108395674,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1878.3000568613027,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1868.4922522811187,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1876.705034065303,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1874.1236436578254,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1878.153844287863,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1878.636987511065,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1874.2672436375356,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1876.6048254372083,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1877.290561054907,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1877.535929167762,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1878.0282029012794,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1875.5486757898614,
+        "point_count": 2021
+      }
+    },
+    "2022_02": {
+      "BISHNUPUR": {
+        "average": 1850.5447017181632,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1850.877246397866,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1851.2221200969095,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1849.8141651993333,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1850.885167182572,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1854.6948833091126,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1850.87445629091,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1850.0034868730481,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1850.067030212731,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1852.4035661840403,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1853.6020548492054,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1850.087635907608,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1852.100504263291,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1848.801474772605,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1850.28376952428,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1850.730957929158,
+        "point_count": 2021
+      }
+    },
+    "2022_03": {
+      "BISHNUPUR": {
+        "average": 1878.9466825853137,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1876.851810142076,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1877.650336797639,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1878.417604695337,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1878.638108260407,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1875.0714487811235,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1878.8973212360868,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1876.8289287351681,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1878.772909041566,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1874.1026769391747,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1873.6993217238721,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1879.2262660811496,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1874.9149746702938,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1875.2376972359773,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1877.8638190633212,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1878.0216646170716,
+        "point_count": 2021
+      }
+    },
+    "2022_04": {
+      "BISHNUPUR": {
+        "average": 1877.73698952873,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1876.3412657299532,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1877.5583849556292,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1877.9431860264806,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1878.8269165515628,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1869.5860907947167,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1879.1440590107875,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1873.1272214096273,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1872.4445068448915,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1873.3814795932592,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1872.872397938514,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1852.9761094508247,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1871.5077527970222,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1874.8034046771847,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1877.9011269512705,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1871.7597293243182,
+        "point_count": 2021
+      }
+    },
+    "2022_05": {
+      "KAMJONG": {
+        "average": 1924.5058386307978,
+        "point_count": 1016
+      },
+      "KANGPOKPI": {
+        "average": 1923.0873854468916,
+        "point_count": 504
+      },
+      "SENAPATI": {
+        "average": 1923.1030896349178,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1924.6627446888865,
+        "point_count": 723
+      },
+      "TENGNOUPAL": {
+        "average": 1921.853765067792,
+        "point_count": 31
+      },
+      "UKHRUL": {
+        "average": 1919.2697627705143,
+        "point_count": 1789
+      }
+    },
+    "2022_06": {
+      "CHANDEL": {
+        "average": 1891.0199540751896,
+        "point_count": 73
+      },
+      "CHURACHANDPUR": {
+        "average": 1884.26351860005,
+        "point_count": 90
+      },
+      "PHERZAWL": {
+        "average": 1889.6077407169998,
+        "point_count": 89
+      }
+    },
+    "2022_07": {
+      "BISHNUPUR": {
+        "average": 1928.7248139977853,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1928.8009363244653,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1928.4236279036381,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1929.244304931022,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1928.0757397995185,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1925.7154121154924,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1929.706576592652,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1928.4325771415024,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1928.5462321180207,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1927.8535833135857,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1926.1883548326016,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1920.7086393671145,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1927.2374947274263,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1929.570526177516,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1930.7871861025544,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1924.822066820305,
+        "point_count": 2021
+      }
+    },
+    "2022_08": {
+      "BISHNUPUR": {
+        "average": 1875.4462523880393,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1920.3783268995662,
+        "point_count": 70
+      },
+      "CHURACHANDPUR": {
+        "average": 1932.930186917688,
+        "point_count": 88
+      },
+      "IMPHAL_EAST": {
+        "average": 1875.4396566816856,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1879.420883577613,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1892.4846370031335,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1865.9214623901405,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1865.1234051995561,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1877.9628907426338,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1909.6650971287256,
+        "point_count": 108
+      },
+      "PHERZAWL": {
+        "average": 1904.355993752108,
+        "point_count": 862
+      },
+      "SENAPATI": {
+        "average": 1880.0692329762562,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1891.3761537415437,
+        "point_count": 513
+      },
+      "TENGNOUPAL": {
+        "average": 1865.777016324981,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1867.7887647953828,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1873.0490926699586,
+        "point_count": 106
+      }
+    },
+    "2022_09": {
+      "BISHNUPUR": {
+        "average": 1878.8556544067346,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1871.6679809333662,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1876.0028313256364,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1874.9773275497441,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1879.4693224002656,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1872.6399408322527,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1874.7304845352985,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1872.2931565362276,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1878.6244742396177,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1873.3329500712055,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1872.2496942217997,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1878.485839478069,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1873.0794840746573,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1873.8282809935042,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1872.9911959499207,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1873.8112008931037,
+        "point_count": 2021
+      }
+    },
+    "2022_10": {
+      "BISHNUPUR": {
+        "average": 1850.596022016696,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1850.3343525273265,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1850.221279604109,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1850.6046770916848,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1850.614232078556,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1847.0588814263613,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1850.379059390332,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1848.5129707905817,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1850.270157114645,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1850.107935971136,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1848.9481301382198,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1850.3869708580928,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1849.7938486849262,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1850.2355563429867,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1850.5542441870089,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1849.8890551890092,
+        "point_count": 2021
+      }
+    },
+    "2022_11": {
+      "BISHNUPUR": {
+        "average": 1880.8083688684994,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1881.5230060513873,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1883.6094080710727,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1879.6102898282923,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1879.7361412158648,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1873.3524397443875,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1882.7209446466093,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1878.0450731628343,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1881.743750852262,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1881.2525717339915,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1877.9250572199714,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1880.318236780679,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1881.4895749871696,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1881.9874594508142,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1881.2531536343206,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1878.2659083003878,
+        "point_count": 2021
+      }
+    },
+    "2022_12": {
+      "BISHNUPUR": {
+        "average": 1881.1267185736936,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1878.1777927890532,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1880.640117025406,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1880.4201663562976,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1881.0670106522364,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1876.1275844428358,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1879.5197500720965,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1873.594658432471,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1877.525464300567,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1879.933019829089,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1877.8690499907534,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1875.5597069643482,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1877.1092875857257,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1878.215186205559,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1878.9171261019162,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1874.4912947922612,
+        "point_count": 2021
+      }
+    },
+    "2023_01": {
+      "BISHNUPUR": {
+        "average": 1877.543079048156,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1877.1557539506564,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1878.4506931244155,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1878.1715427964923,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1878.1256085887624,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1867.265252809577,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1877.5187919014857,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1874.033336053003,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1877.8317075464854,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1878.2490420940742,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1873.7696968090017,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1876.971953016196,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1877.531041411881,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1877.7355409662446,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1878.22477961443,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1875.6712543757833,
+        "point_count": 2021
+      }
+    },
+    "2023_02": {
+      "BISHNUPUR": {
+        "average": 1852.3582405184227,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1850.1647794078738,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1852.2295638095377,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1849.6067970677811,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1849.8521239981176,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1854.7593654075501,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1850.3911877473172,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1850.2108851800494,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1851.5927909500633,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1853.5269489331579,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1853.1078364849611,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1854.412049534713,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1853.6893677486842,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1849.6990563199083,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1849.694892756977,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1846.8142586791455,
+        "point_count": 2021
+      }
+    },
+    "2023_03": {
+      "BISHNUPUR": {
+        "average": 1854.8406997957245,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1874.6254879091066,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1872.3234832718476,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1860.0791487394922,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1871.576786651314,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1873.7366671216253,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1856.25252029074,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1872.43818902973,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1877.2660036271436,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1874.2134847422883,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1872.0130298371434,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1878.8202735294687,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1874.613157999815,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1877.4581691121646,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1850.52262544813,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1877.521383016583,
+        "point_count": 2021
+      }
+    },
+    "2023_04": {
+      "BISHNUPUR": {
+        "average": 1879.1261322964988,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1876.3779858206638,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1876.9651959107907,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1878.2593809321888,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1878.765099077069,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1877.025658253013,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1878.3150371770412,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1871.740469995492,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1878.6437753307246,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1872.1826989670608,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1871.947449741895,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1877.6137573568726,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1873.0629064634131,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1874.488918787611,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1877.0962764706564,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1874.0170220871476,
+        "point_count": 2021
+      }
+    },
+    "2023_05": {
+      "BISHNUPUR": {
+        "average": 1913.7211298909158,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1915.0325755649812,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1916.0243633015566,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1914.9736851400253,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1912.841064020416,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1925.0625432372515,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1912.9113238225602,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1921.0740090462348,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1918.5257674732563,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1918.701819364577,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1920.608407791709,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1918.461624898556,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1926.6311143282298,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1912.0367734093597,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1913.8461152710329,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1925.6797946143033,
+        "point_count": 2021
+      }
+    },
+    "2023_06": {
+      "CHURACHANDPUR": {
+        "average": 1898.2486495725836,
+        "point_count": 96
+      },
+      "JIRIBAM": {
+        "average": 1912.0950844993392,
+        "point_count": 332
+      },
+      "KAMJONG": {
+        "average": 1900.6278367157543,
+        "point_count": 902
+      },
+      "NONEI": {
+        "average": 1903.7929477101616,
+        "point_count": 168
+      },
+      "PHERZAWL": {
+        "average": 1898.5178112069118,
+        "point_count": 983
+      },
+      "TAMENGLONG": {
+        "average": 1917.262967648114,
+        "point_count": 678
+      },
+      "TENGNOUPAL": {
+        "average": 1896.8140453582157,
+        "point_count": 14
+      },
+      "UKHRUL": {
+        "average": 1909.0671457418423,
+        "point_count": 202
+      }
+    },
+    "2023_07": {
+      "BISHNUPUR": {
+        "average": 1902.2666788392503,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1904.9094707428737,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1905.0272019096492,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1905.8091728566224,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1904.2706930953686,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1932.4964826995222,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1909.4136517009995,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1913.770390426845,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1913.4209354732916,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1909.8524625471866,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1915.8169558112731,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1928.6479302942041,
+        "point_count": 817
+      },
+      "TAMENGLONG": {
+        "average": 1922.5124611715041,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1908.6061761159108,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1904.9186325137434,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1921.3384787857035,
+        "point_count": 1450
+      }
+    },
+    "2023_09": {
+      "BISHNUPUR": {
+        "average": 1876.6019127252353,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1875.718248720773,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1871.3297103555453,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1879.8220039995886,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1873.8162289233496,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1869.9324821674568,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1872.058366069978,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1872.1108544355257,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1879.8221177645742,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1873.5182978190055,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1871.312193475293,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1878.538503008545,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1872.3853966421204,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1872.8623864499725,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1875.1182996908144,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1873.5107091354369,
+        "point_count": 2021
+      }
+    },
+    "2023_10": {
+      "BISHNUPUR": {
+        "average": 1850.2458736776146,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1850.0527979087349,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1850.1983164507649,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1850.4681143091866,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1850.3263340931244,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1878.1354063857552,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1849.8346983048782,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1861.7141294704306,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1850.1811647034967,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1853.5885729390457,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1862.1008665272032,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1854.443200963234,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1855.7233630153626,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1851.1545837444041,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1850.0880440335661,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1867.4712415000172,
+        "point_count": 2021
+      }
+    },
+    "2023_11": {
+      "BISHNUPUR": {
+        "average": 1878.398373663101,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1877.2726458265695,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1880.2635017679368,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1880.7463393853543,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1879.317861378322,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1874.1170504367742,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1878.5714489895017,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1875.6499364756191,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1878.5420594155432,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1880.1563856707444,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1876.409023634715,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1877.8225952239113,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1879.6325042565986,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1877.4423336084005,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1879.910309732159,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1877.2370493659973,
+        "point_count": 2021
+      }
+    },
+    "2023_12": {
+      "BISHNUPUR": {
+        "average": 1876.9561794007398,
+        "point_count": 510
+      },
+      "CHANDEL": {
+        "average": 1876.2506426041443,
+        "point_count": 1877
+      },
+      "CHURACHANDPUR": {
+        "average": 1878.0057990359123,
+        "point_count": 2310
+      },
+      "IMPHAL_EAST": {
+        "average": 1877.7382606124731,
+        "point_count": 473
+      },
+      "IMPHAL_WEST": {
+        "average": 1877.6122576403259,
+        "point_count": 546
+      },
+      "JIRIBAM": {
+        "average": 1867.9066904366987,
+        "point_count": 332
+      },
+      "KAKCHING": {
+        "average": 1875.1688122712098,
+        "point_count": 345
+      },
+      "KAMJONG": {
+        "average": 1873.6735717897213,
+        "point_count": 2259
+      },
+      "KANGPOKPI": {
+        "average": 1877.420988753971,
+        "point_count": 1803
+      },
+      "NONEI": {
+        "average": 1878.3423116881468,
+        "point_count": 1169
+      },
+      "PHERZAWL": {
+        "average": 1874.3033639964688,
+        "point_count": 2058
+      },
+      "SENAPATI": {
+        "average": 1875.964992486621,
+        "point_count": 1704
+      },
+      "TAMENGLONG": {
+        "average": 1877.0024544305954,
+        "point_count": 2893
+      },
+      "TENGNOUPAL": {
+        "average": 1877.0000052920145,
+        "point_count": 1199
+      },
+      "THOUBAL": {
+        "average": 1876.4817810524169,
+        "point_count": 417
+      },
+      "UKHRUL": {
+        "average": 1873.7739720932839,
+        "point_count": 2021
+      }
+    }
+  },
+  "statistics": {
+    "mean": 1878.9200053454251,
+    "std": 20.87009683257099,
+    "min": 1833.5426360334134,
+    "max": 1934.1972421049506
+  }
+}

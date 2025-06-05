@@ -1,0 +1,5963 @@
+{
+  "type": "state_districts",
+  "state_name": "UTTARAKHAND",
+  "data": {
+    "ALMORA": {
+      "average_methane": 1881.4022741155422,
+      "data_quality": {
+        "total_months": 108,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 3145.9814814814813
+      },
+      "point_count": 339766
+    },
+    "BAGESHWAR": {
+      "average_methane": 1880.3518513057618,
+      "data_quality": {
+        "total_months": 108,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 2255.0
+      },
+      "point_count": 243540
+    },
+    "CHAMOLI": {
+      "average_methane": 1879.565505694108,
+      "data_quality": {
+        "total_months": 108,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 7637.0
+      },
+      "point_count": 824796
+    },
+    "CHAMPAWAT": {
+      "average_methane": 1880.998196823541,
+      "data_quality": {
+        "total_months": 108,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 1742.1203703703704
+      },
+      "point_count": 188149
+    },
+    "DEHRADUN": {
+      "average_methane": 1882.356683241529,
+      "data_quality": {
+        "total_months": 108,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 3167.0
+      },
+      "point_count": 342036
+    },
+    "HARIDWAR": {
+      "average_methane": 1883.3728926766812,
+      "data_quality": {
+        "total_months": 108,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 2289.0
+      },
+      "point_count": 247212
+    },
+    "NAINITAL": {
+      "average_methane": 1882.0031885063595,
+      "data_quality": {
+        "total_months": 108,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 3761.972222222222
+      },
+      "point_count": 406293
+    },
+    "PAURI_GARHWAL": {
+      "average_methane": 1881.082219642832,
+      "data_quality": {
+        "total_months": 108,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 5153.0
+      },
+      "point_count": 556524
+    },
+    "PITHORAGARH": {
+      "average_methane": 1879.6583853711336,
+      "data_quality": {
+        "total_months": 108,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 7097.0
+      },
+      "point_count": 766476
+    },
+    "RUDRAPRAYAG": {
+      "average_methane": 1878.523203896375,
+      "data_quality": {
+        "total_months": 108,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 2000.0
+      },
+      "point_count": 216000
+    },
+    "TEHRI_GARHWAL": {
+      "average_methane": 1882.6906856429687,
+      "data_quality": {
+        "total_months": 108,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 3959.0
+      },
+      "point_count": 427572
+    },
+    "UDHAM_SINGH_NAGAR": {
+      "average_methane": 1882.1783229781254,
+      "data_quality": {
+        "total_months": 108,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 2636.4814814814813
+      },
+      "point_count": 284740
+    },
+    "UTTARKASHI": {
+      "average_methane": 1880.7605016410057,
+      "data_quality": {
+        "total_months": 108,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 7896.259259259259
+      },
+      "point_count": 852796
+    }
+  },
+  "monthly_data": {
+    "2014_01": {
+      "ALMORA": {
+        "average": 1875.7128849328712,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1875.017152658793,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1873.157495167643,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1872.2666316353514,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1874.0195983252363,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1875.7307955766103,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1876.1365521878017,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1870.0600294291999,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1869.9978736495527,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1865.195058545466,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1875.4240541744691,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1876.0758719211847,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1872.1613277486083,
+        "point_count": 7903
+      }
+    },
+    "2014_02": {
+      "ALMORA": {
+        "average": 1852.2861699796726,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1851.4908978251665,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1850.2799259223182,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1849.8520468738786,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1849.4478537830805,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1850.4745072031885,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1851.4687849000652,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1851.576585675329,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1851.3159991555408,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1850.2796448966608,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1851.1552518046387,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1849.0111253847501,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1848.728673802482,
+        "point_count": 7903
+      }
+    },
+    "2014_03": {
+      "ALMORA": {
+        "average": 1857.1231161741207,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1857.326113476237,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1855.191220636435,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1852.0787463715806,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1870.437900081979,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1870.2783577965256,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1856.39499845237,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1854.1197463914216,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1853.90542567172,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1846.0697932601324,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1860.226715347103,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1856.126686718053,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1855.0694145832863,
+        "point_count": 7903
+      }
+    },
+    "2014_04": {
+      "ALMORA": {
+        "average": 1872.4864988477584,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1846.5110297495587,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1857.4587655069442,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1874.7231610787053,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1875.6408106449787,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1874.3669251102215,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1873.0365010093599,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1875.3207559591995,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1869.5845298301952,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1874.3861626220876,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1876.6690499781405,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1875.1575425081016,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1872.1734284246822,
+        "point_count": 7903
+      }
+    },
+    "2014_05": {
+      "ALMORA": {
+        "average": 1906.762113739661,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1896.1980718613324,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1929.2761683043548,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1903.4360248405007,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1899.4209476559972,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1895.3544922754504,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1906.9183488023536,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1886.0402933813775,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1902.9040526622791,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1896.4423413622858,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1876.2299284206774,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1914.4308990831069,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1905.7932025269129,
+        "point_count": 7903
+      }
+    },
+    "2014_06": {
+      "ALMORA": {
+        "average": 1913.0961646664757,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1914.2034281328229,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1919.755051575961,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1910.53587578617,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1931.7662504260215,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1936.133874883949,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1913.8603104287652,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1923.8582914210967,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1921.920740211289,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1924.6785660410665,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1927.552332561473,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1916.4561544144817,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1926.132893105944,
+        "point_count": 7903
+      }
+    },
+    "2014_07": {
+      "ALMORA": {
+        "average": 1916.1189918158518,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1907.5617793954648,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1909.087936411466,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1928.1096969773769,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1916.4517570267362,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1921.2675609648352,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1927.6688986325355,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1919.5577273144045,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1908.5656261545978,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1915.7115959871103,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1913.629600142754,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1923.9067233340268,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1910.315988608589,
+        "point_count": 7903
+      }
+    },
+    "2014_08": {
+      "ALMORA": {
+        "average": 1865.0261390455162,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1865.0953967784978,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1870.8257922851608,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1867.00661687831,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1873.5126045709885,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1873.1134964304163,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1865.6403399933276,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1876.5244599087841,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1867.5969844074034,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1873.1133537508942,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1876.6824521125407,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1865.424081497259,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1875.3774906585595,
+        "point_count": 7903
+      }
+    },
+    "2014_09": {
+      "ALMORA": {
+        "average": 1874.9098419409336,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1874.9993273120035,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1866.6440855426426,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1863.4456592724362,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1853.8541501367235,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1857.616503830139,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1875.508405565816,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1853.4887803996792,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1859.1360683019366,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1853.7578505858507,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1852.383382179366,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1872.3089533024984,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1853.5568208580387,
+        "point_count": 7903
+      }
+    },
+    "2014_10": {
+      "ALMORA": {
+        "average": 1879.2368550442995,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1877.0672661382423,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1873.9755775141211,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1876.5996398034808,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1879.9009127342579,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1882.105506228899,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1879.9525680659485,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1876.3214005032635,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1872.2249118758912,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1868.8239350921615,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1879.1952344766576,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1878.7631144274394,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1874.8551969826585,
+        "point_count": 7903
+      }
+    },
+    "2014_11": {
+      "ALMORA": {
+        "average": 1877.5112552142837,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1874.7809178674415,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1873.0935703968094,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1874.8123716888983,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1876.9248487343834,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1882.613261476472,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1877.473576967637,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1873.8871121583609,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1871.3295860080163,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1868.1308667455933,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1877.082515905404,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1876.650396043384,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1871.9750728545175,
+        "point_count": 7903
+      }
+    },
+    "2014_12": {
+      "ALMORA": {
+        "average": 1876.6162341170698,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1874.444383610405,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1872.3469876022764,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1873.8843578395238,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1876.097854650141,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1880.7555311422766,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1876.5044372570121,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1873.1359133002277,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1870.5690244658092,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1867.8677475550112,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1876.013392271113,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1876.1632088166295,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1872.5152957151718,
+        "point_count": 7903
+      }
+    },
+    "2015_01": {
+      "ALMORA": {
+        "average": 1875.4652364971666,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1874.0390177447878,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1872.4446812137182,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1872.2037502997202,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1870.891793198256,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1872.9547184223118,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1875.326467253059,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1868.9681960477783,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1870.0318914017105,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1866.5456333034085,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1872.2919785815543,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1873.7664059004462,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1870.839448606603,
+        "point_count": 7903
+      }
+    },
+    "2015_02": {
+      "ALMORA": {
+        "average": 1851.4183526889842,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1850.7739664209128,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1849.8596112156677,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1851.568835297902,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1854.3683961975346,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1851.0954281361933,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1850.5188891137343,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1851.9230344352318,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1849.2151366127225,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1849.8423982641066,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1852.3500544149172,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1848.9251387887946,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1849.2026669047716,
+        "point_count": 7903
+      }
+    },
+    "2015_03": {
+      "ALMORA": {
+        "average": 1864.2769721438767,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1857.2663313277628,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1854.9575039920387,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1853.1268479740074,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1870.1165540678971,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1876.2940587384912,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1870.3382030715438,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1870.3295671063554,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1849.7910034927183,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1852.7816854257712,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1874.2273538139386,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1872.7244187716824,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1857.7011018790893,
+        "point_count": 7903
+      }
+    },
+    "2015_04": {
+      "ALMORA": {
+        "average": 1874.3128214096218,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1871.2957169572094,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1863.9117472587575,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1872.0261083926598,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1873.3446992771653,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1876.329224549963,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1869.3043590104348,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1874.094194693687,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1870.7610902012248,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1874.7852613498867,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1874.2989444823506,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1869.192216648733,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1865.794819071826,
+        "point_count": 7903
+      }
+    },
+    "2015_05": {
+      "ALMORA": {
+        "average": 1908.4174811170826,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1907.9761173967916,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1918.6470539484383,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1906.7780945980626,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1939.0457434524985,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 2005.6941130206455,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1910.4488566531973,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1979.0029899768572,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1934.884589760159,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1978.071645542639,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1999.6845344604285,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1912.0868926899325,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1963.873207992159,
+        "point_count": 7903
+      }
+    },
+    "2015_06": {
+      "ALMORA": {
+        "average": 1920.0989470925185,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1916.4293445667388,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1922.1122984142078,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1918.9881110563372,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1901.727581463647,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1904.5864851087472,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1921.088393069408,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1923.3007103835423,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1919.5778372757457,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1920.1188369213955,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1909.7982534913608,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1922.4951097889495,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1927.179905442335,
+        "point_count": 7903
+      }
+    },
+    "2015_07": {
+      "ALMORA": {
+        "average": 1916.3076690805417,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1915.2069898693746,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1915.197233728225,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1919.7789618402378,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1920.1995746506616,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1918.3357562614206,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1924.8408742796137,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1923.1224000301002,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1913.6239744072034,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1918.8895247878388,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1916.3161954784093,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1922.0051827579891,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1911.3329716831436,
+        "point_count": 7903
+      }
+    },
+    "2015_08": {
+      "ALMORA": {
+        "average": 1872.8337588082668,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1871.9498935331271,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1874.4098002466194,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1870.2696528868908,
+        "point_count": 1097
+      },
+      "DEHRADUN": {
+        "average": 1874.537600549438,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1870.7422805770914,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1871.0906471689516,
+        "point_count": 1000
+      },
+      "PAURI_GARHWAL": {
+        "average": 1873.5100364013294,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1870.6992243534382,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1871.621299099645,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1875.8428604464823,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1874.3205626904085,
+        "point_count": 611
+      },
+      "UTTARKASHI": {
+        "average": 1866.6629975258006,
+        "point_count": 7903
+      }
+    },
+    "2015_09": {
+      "ALMORA": {
+        "average": 1874.7129255053237,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1869.4397039494104,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1861.876954379144,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1862.6352058352734,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1852.5494616087215,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1852.8018716460663,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1873.5553931605014,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1852.954384427115,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1856.5914409531317,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1850.4423100648228,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1851.3358968909135,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1870.298767416872,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1850.9172076624354,
+        "point_count": 7903
+      }
+    },
+    "2015_10": {
+      "ALMORA": {
+        "average": 1876.9491171839009,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1878.2908266117156,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1875.9589211810871,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1875.8335773511988,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1875.7590141594399,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1874.7928366575557,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1876.4516980031055,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1874.821066060808,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1873.9691174371544,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1871.2981368040862,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1876.0872546900052,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1875.6603455134593,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1873.7689915389415,
+        "point_count": 7903
+      }
+    },
+    "2015_11": {
+      "ALMORA": {
+        "average": 1880.0065370843777,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1878.0683715770745,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1874.157704553132,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1877.201160976025,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1878.204401219327,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1878.241234376247,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1879.6465166518587,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1874.5986204334015,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1872.8870368814423,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1868.7867597627219,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1877.8724457240821,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1877.1589977134156,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1872.5750611463782,
+        "point_count": 7903
+      }
+    },
+    "2015_12": {
+      "ALMORA": {
+        "average": 1877.0321788646613,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1874.1766901912724,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1872.9002351559586,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1874.0699758440023,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1873.9689158679428,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1876.1358434910958,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1877.8761044313583,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1870.955703542833,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1870.6728207999818,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1866.2109096114114,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1875.3890986325127,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1877.438995204173,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1872.4244209093454,
+        "point_count": 7903
+      }
+    },
+    "2016_01": {
+      "ALMORA": {
+        "average": 1875.1084162581017,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1874.582314243361,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1872.9014299481005,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1873.3886051479567,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1871.4801283385227,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1872.9419261463406,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1875.838497504004,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1868.9122840275375,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1870.4612807135752,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1865.3505385276735,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1872.1459171914084,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1875.2520532169672,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1870.4936797851417,
+        "point_count": 7903
+      }
+    },
+    "2016_02": {
+      "ALMORA": {
+        "average": 1850.8249837644712,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1850.5050375415688,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1849.6166176215734,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1851.8262467280376,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1851.7918689521211,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1850.4801939263746,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1850.05801294192,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1850.619759322542,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1849.0320090457135,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1847.6967448143955,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1851.905457123365,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1849.100953241162,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1849.6160669890685,
+        "point_count": 7903
+      }
+    },
+    "2016_03": {
+      "ALMORA": {
+        "average": 1861.2328999559463,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1852.6624744261246,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1859.6430750178808,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1869.3307760255516,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1853.987110318712,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1857.1835133236218,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1855.2955243997803,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1854.5071309259458,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1851.2657617320126,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1854.6055784887135,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1854.4705795412747,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1856.7381755081053,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1854.6991916900151,
+        "point_count": 7903
+      }
+    },
+    "2016_04": {
+      "ALMORA": {
+        "average": 1875.18679578604,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1872.7867606775335,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1864.0533606139988,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1875.6911847053186,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1868.0230559839642,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1866.8170323224413,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1875.8405483188953,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1873.8735538194703,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1873.527873811367,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1876.5891750211417,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1860.5002058640819,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1875.4197487904032,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1861.7156643074504,
+        "point_count": 7903
+      }
+    },
+    "2016_05": {
+      "ALMORA": {
+        "average": 1883.7570241171168,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1878.1284368926026,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1907.484443934497,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1883.423816768554,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1989.6563760779152,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1962.2421625521638,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1888.8402954770036,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1959.1007405493272,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1898.0812369600449,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1974.6970086746528,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1978.4291739464904,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1913.770950245278,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1981.952248873066,
+        "point_count": 7903
+      }
+    },
+    "2016_06": {
+      "ALMORA": {
+        "average": 1916.9567862799772,
+        "point_count": 3145
+      },
+      "BAGESHWAR": {
+        "average": 1914.116462868818,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1920.8232557678607,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1919.4415741918635,
+        "point_count": 1121
+      },
+      "DEHRADUN": {
+        "average": 1922.5258047198868,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1919.9967195311046,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1917.924508226569,
+        "point_count": 988
+      },
+      "PAURI_GARHWAL": {
+        "average": 1925.9224535039857,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1919.3415709554927,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1924.7759290460856,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1932.865351714132,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1914.7068909511408,
+        "point_count": 603
+      },
+      "UTTARKASHI": {
+        "average": 1927.8722630838906,
+        "point_count": 7903
+      }
+    },
+    "2016_07": {
+      "ALMORA": {
+        "average": 1927.721404054352,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1922.1235822361348,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1922.6186748158393,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1919.788658239296,
+        "point_count": 1137
+      },
+      "DEHRADUN": {
+        "average": 1916.2746259136632,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1920.3154618300082,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1923.8773109140802,
+        "point_count": 978
+      },
+      "PAURI_GARHWAL": {
+        "average": 1920.977961010553,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1921.2374734412238,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1910.114417598817,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1913.6457951281927,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1917.5060039885168,
+        "point_count": 606
+      },
+      "UTTARKASHI": {
+        "average": 1907.2586131248006,
+        "point_count": 7903
+      }
+    },
+    "2016_08": {
+      "ALMORA": {
+        "average": 1874.7370439759982,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1880.017689216094,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1872.9346162478798,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1868.5554868578718,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1873.7017638326406,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1874.617192169074,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1874.8963940639974,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1873.0054043849748,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1875.0904825698365,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1870.3673804649527,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1872.590933032252,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1872.070267166526,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1874.0312450344982,
+        "point_count": 7903
+      }
+    },
+    "2016_09": {
+      "ALMORA": {
+        "average": 1856.3014076727725,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1857.2547637887308,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1854.4872521392535,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1856.1302990142663,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1851.6666333072915,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1852.4340456951288,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1858.771658639402,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1846.0597417041613,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1855.224868741217,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1846.1162137732363,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1848.8266981683023,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1861.985904895928,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1849.7728215554744,
+        "point_count": 7903
+      }
+    },
+    "2016_10": {
+      "ALMORA": {
+        "average": 1877.4361486834878,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1875.628926076987,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1873.9108861253012,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1877.8131476035642,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1876.5678601452123,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1876.0807257226747,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1877.900501680366,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1875.9548251562755,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1873.1787169851273,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1870.8280357626484,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1879.0061131412326,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1874.2899091681581,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1874.7183729654355,
+        "point_count": 7903
+      }
+    },
+    "2016_11": {
+      "ALMORA": {
+        "average": 1879.8193938623244,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1877.960305502046,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1874.707957693659,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1876.9148885562943,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1878.2885160343874,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1880.9262159832062,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1879.5281676855611,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1874.3378178984633,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1872.237740467481,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1868.395380047513,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1877.6357972506494,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1876.777435588549,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1873.5641414528498,
+        "point_count": 7903
+      }
+    },
+    "2016_12": {
+      "ALMORA": {
+        "average": 1878.6422741737226,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1876.9492503996269,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1874.0345107515425,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1875.077474616186,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1875.959519426347,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1876.5153820827277,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1878.6022846409653,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1871.9488660878226,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1871.6898264661772,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1867.1147323164762,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1876.4036989851595,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1877.6962896372606,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1872.9617991913424,
+        "point_count": 7903
+      }
+    },
+    "2017_01": {
+      "ALMORA": {
+        "average": 1873.6835230754875,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1872.5225583075337,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1872.1212906345313,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1872.00588698704,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1871.1680043049278,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1874.4360298016456,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1874.1434319507164,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1869.337737677739,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1869.5854371208372,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1867.8349482271396,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1871.7465139780888,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1873.6082042194005,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1870.8616907474823,
+        "point_count": 7175
+      }
+    },
+    "2017_02": {
+      "ALMORA": {
+        "average": 1850.7069640658804,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1851.144567933525,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1854.2139242114615,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1851.7750993455238,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1851.2555703891062,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1850.901998407779,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1850.2469711986748,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1850.7446949139057,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1848.5315528676372,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1857.9594152365635,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1852.9591271019615,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1849.0866233906343,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1856.1885370672646,
+        "point_count": 7903
+      }
+    },
+    "2017_03": {
+      "ALMORA": {
+        "average": 1872.3711308678885,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1871.9890115059086,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1861.5523352060575,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1872.6742540397906,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1854.0527460010946,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1856.9627370458388,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1872.9229823150908,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1850.5703665975586,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1860.9081468613606,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1853.8896139609753,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1856.4231144744733,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1870.8429177324615,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1855.4453482541805,
+        "point_count": 7903
+      }
+    },
+    "2017_04": {
+      "ALMORA": {
+        "average": 1875.9907810768213,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1876.0113953621992,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1867.4481639398175,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1874.9275174568554,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1871.0527929306998,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1869.4268628237598,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1876.746105248379,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1877.366819011919,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1873.3123717204717,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1874.9577313999312,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1873.5163989428377,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1875.7183650480063,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1863.9007397106102,
+        "point_count": 7903
+      }
+    },
+    "2017_05": {
+      "ALMORA": {
+        "average": 1960.4924526978732,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 2009.0314571977274,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1883.8648843464737,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1982.8325028793163,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1924.499667346427,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1916.9880690200869,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1982.0641448943531,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1881.149856272111,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1983.4703469897001,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1876.206889797031,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1950.9869893844384,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1966.6565909561004,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1954.6045834602626,
+        "point_count": 7903
+      }
+    },
+    "2017_06": {
+      "ALMORA": {
+        "average": 1909.2485078432042,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1908.5701919141889,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1919.0721050648099,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1915.8037128610204,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1918.9746453971995,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1921.5323110319675,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1915.8381949907798,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1925.6573323057464,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1916.1817299995848,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1924.7118342077467,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1932.3394020621236,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1914.049412850795,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1925.6705604891165,
+        "point_count": 7903
+      }
+    },
+    "2017_07": {
+      "ALMORA": {
+        "average": 1918.4863277515785,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1917.4684559744826,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1915.414065524667,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1921.4515928984624,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1909.6507593664355,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1915.3759604443424,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1921.675626575174,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1910.53058109411,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1921.853287225669,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1910.6922781225974,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1909.1365970809397,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1922.1278768274315,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1907.4024951551662,
+        "point_count": 7903
+      }
+    },
+    "2017_08": {
+      "ALMORA": {
+        "average": 1861.4082671322788,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1876.162678567503,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1873.42326301954,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1877.9123298748395,
+        "point_count": 1133
+      },
+      "DEHRADUN": {
+        "average": 1871.6910608529004,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1865.5492050548744,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1860.5554720837304,
+        "point_count": 977
+      },
+      "PAURI_GARHWAL": {
+        "average": 1867.9951528868276,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1873.2569035410297,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1870.041609996842,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1865.4643327892077,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1875.386194100529,
+        "point_count": 611
+      },
+      "UTTARKASHI": {
+        "average": 1869.0466023580204,
+        "point_count": 7903
+      }
+    },
+    "2017_09": {
+      "ALMORA": {
+        "average": 1875.820418522692,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1877.870576828875,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1866.9959295983126,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1875.6793755042452,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1868.6390545077127,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1878.4115492976102,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1876.6843827088085,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1873.011104111462,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1871.2345604163277,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1869.7689335233356,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1875.560826911891,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1875.1116409405433,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1867.7342505737058,
+        "point_count": 7903
+      }
+    },
+    "2017_10": {
+      "ALMORA": {
+        "average": 1877.6674379971341,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1878.7498465162473,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1876.1584848425264,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1877.6498823787792,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1876.0863109938832,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1876.113239146245,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1877.0580865853124,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1875.4997949172425,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1873.9765476015752,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1870.8484768528706,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1878.9483076432105,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1876.045541859134,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1874.62472050073,
+        "point_count": 7903
+      }
+    },
+    "2017_11": {
+      "ALMORA": {
+        "average": 1880.069284526988,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1877.1397271794958,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1874.1928684119775,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1875.9922578336787,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1876.2926064535513,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1880.6104145012193,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1879.667046638134,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1873.030939945608,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1872.0446762590987,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1867.3976893696636,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1876.311488279806,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1877.5281190879296,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1872.2749507778067,
+        "point_count": 7903
+      }
+    },
+    "2017_12": {
+      "ALMORA": {
+        "average": 1876.9025282680975,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1874.9807787137565,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1872.0122705763813,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1875.2492978943328,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1876.4421851578595,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1880.9759699013018,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1876.7056132274524,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1872.1209256545994,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1870.7855205369442,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1865.897203910355,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1876.6051816076067,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1876.701828192662,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1872.7072407474964,
+        "point_count": 7903
+      }
+    },
+    "2018_01": {
+      "ALMORA": {
+        "average": 1873.1790347324804,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1871.6869054954182,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1871.5459289615096,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1864.0253534749168,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1875.767851321114,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1880.9507155312936,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1856.0492227126203,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1872.1075339353404,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1869.7145425570016,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1867.1912407847087,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1876.5162559682524,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1855.1119401346032,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1872.8421662123956,
+        "point_count": 7903
+      }
+    },
+    "2018_02": {
+      "ALMORA": {
+        "average": 1851.0264997881434,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1850.493372656739,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1849.957829184985,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1851.2042113921498,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1851.0456712155908,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1850.4945878409844,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1851.132314455052,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1851.7492729700898,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1847.84892256988,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1848.820357073254,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1852.102010309338,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1851.4214067118223,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1850.175934428199,
+        "point_count": 7903
+      }
+    },
+    "2018_03": {
+      "ALMORA": {
+        "average": 1856.1057272269481,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1854.6026933622234,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1854.5901634545178,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1853.2276623234898,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1853.9127264730248,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1859.0987303286634,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1855.6000629870698,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1850.1051184427527,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1854.0288901729489,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1845.5936623716866,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1856.592273676252,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1854.3538249544042,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1855.238037704437,
+        "point_count": 7903
+      }
+    },
+    "2018_04": {
+      "ALMORA": {
+        "average": 1875.1900639083324,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1867.2210664518666,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1862.1676221346806,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1874.6206769909134,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1861.3921281606451,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1851.215569672587,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1875.6062169287154,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1869.5366117010446,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1871.2263227840167,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1868.9465241321238,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1857.5655335025992,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1874.9689810254054,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1858.092465136204,
+        "point_count": 7903
+      }
+    },
+    "2018_05": {
+      "ALMORA": {
+        "average": 1975.9158169741017,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1982.2995753858,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1993.7197261952895,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1975.1181914850995,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1925.4450799202389,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1917.0039239657194,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1923.6551925955291,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1931.0030580056261,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1979.0920580351778,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1905.2608018214296,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1914.4249964763337,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1916.5409718043736,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1917.303628444469,
+        "point_count": 7903
+      }
+    },
+    "2018_06": {
+      "ALMORA": {
+        "average": 1919.9143114612068,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1925.9537622753837,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1918.519928246113,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1921.623062056003,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1916.204034478174,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1910.1045302719854,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1917.3834755137439,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1919.728400000714,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1920.7204169800004,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1922.9808095942444,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1914.4265771463088,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1911.0969812545245,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1913.574153755767,
+        "point_count": 7903
+      }
+    },
+    "2018_07": {
+      "ALMORA": {
+        "average": 1914.4834882348748,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1917.8495984208078,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1918.5484482203476,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1918.0515269332625,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1918.3508465842276,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1925.5957403762789,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1916.0495141354454,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1924.5253040082264,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1920.3805047793585,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1924.472913245726,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1914.9995136604043,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1918.5365705328693,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1914.9751473137107,
+        "point_count": 7903
+      }
+    },
+    "2018_08": {
+      "ALMORA": {
+        "average": 1874.6086286325221,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1874.7676070648342,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1874.0009624648849,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1868.9662501071539,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1874.0518698561837,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1876.0524313472208,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1868.0461624708387,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1867.8332228796394,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1872.0537342711732,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1872.7569686441584,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1872.1472981334568,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1867.595840264319,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1876.261714082148,
+        "point_count": 7903
+      }
+    },
+    "2018_09": {
+      "ALMORA": {
+        "average": 1852.533868495705,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1853.0654596633153,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1853.0011193271093,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1854.3249596726564,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1874.9112074135573,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1876.3100604935,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1851.273621191,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1860.5469601589086,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1851.326430683525,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1853.8151004895083,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1866.453775016048,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1852.273820381351,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1860.5569807515303,
+        "point_count": 7903
+      }
+    },
+    "2018_10": {
+      "ALMORA": {
+        "average": 1878.3815640567104,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1874.5293914849099,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1872.4004411642936,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1877.804363015659,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1876.7664412999823,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1875.784667895121,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1879.4600972949606,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1875.896480196874,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1871.6675858719534,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1870.4385357443584,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1879.379236819667,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1877.3071608718749,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1874.105220694316,
+        "point_count": 7903
+      }
+    },
+    "2018_11": {
+      "ALMORA": {
+        "average": 1876.3416649950775,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1873.566797448823,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1872.5060669967622,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1874.1537356330002,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1873.806715748359,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1876.8623681030936,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1877.1814765878564,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1872.2072099748002,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1870.1666141575624,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1869.0732432941752,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1872.6248421889477,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1879.9965933851854,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1870.941842282392,
+        "point_count": 7903
+      }
+    },
+    "2018_12": {
+      "ALMORA": {
+        "average": 1875.5577384355026,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1874.7532733867379,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1872.5605878881122,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1873.5179977977366,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1874.77442201372,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1880.4663191106827,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1876.5616752924614,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1871.2163810727554,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1870.347828405343,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1866.3959462925907,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1875.5127663726148,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1877.4361841465325,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1871.7380279535057,
+        "point_count": 7903
+      }
+    },
+    "2019_01": {
+      "ALMORA": {
+        "average": 1872.590594290931,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1872.5336164711368,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1871.6759147300943,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1871.3109370349896,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1870.7807586130712,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1873.0629129668155,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1872.526190836021,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1869.208380256208,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1869.5541386698042,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1866.2955519785996,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1872.0238072515776,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1871.7788341367334,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1870.4800725704563,
+        "point_count": 7903
+      }
+    },
+    "2019_02": {
+      "ALMORA": {
+        "average": 1849.8703335506486,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1845.7352003353917,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1847.3005275609837,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1842.9886723674379,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1850.8178633523128,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1851.7066836298795,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1852.9543760172785,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1852.8204267868941,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1847.358999756013,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1850.6457903696964,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1850.4546926617247,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1851.8157121031804,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1849.316627684513,
+        "point_count": 7903
+      }
+    },
+    "2019_03": {
+      "ALMORA": {
+        "average": 1855.5470559748637,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1856.9938441960635,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1853.8972645147524,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1851.764132564917,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1858.66716225935,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1859.0946439163677,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1855.7236706260971,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1850.4014294761482,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1854.3389701355552,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1845.091101971697,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1857.0656069964946,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1854.416183117052,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1853.8153837242683,
+        "point_count": 7903
+      }
+    },
+    "2019_04": {
+      "ALMORA": {
+        "average": 1870.6658351719254,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1866.387362038138,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1869.6310978906556,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1874.248052534756,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1871.9405000005636,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1874.7478608871281,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1874.890991207801,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1870.620470757091,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1872.0483505432383,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1873.0623680999297,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1873.0940495646587,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1874.5348261439817,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1871.7663382504836,
+        "point_count": 7903
+      }
+    },
+    "2019_05": {
+      "ALMORA": {
+        "average": 1905.7886728320675,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1950.3353680191271,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1960.7749720045938,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1915.651485778397,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1928.681424183132,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1913.995554711861,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1909.8632470777977,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1908.6646770390303,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1950.229662695132,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1950.0841839720795,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1911.3303786539248,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1923.7560265861541,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1934.8014906404792,
+        "point_count": 7903
+      }
+    },
+    "2019_06": {
+      "ALMORA": {
+        "average": 1921.5738046836216,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1927.5253615248635,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1924.2582969664966,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1913.6435542862105,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1906.6307004380649,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1900.1931769319344,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1903.8335070189314,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1909.9477715045412,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1927.8394005621628,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1912.2826381352093,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1898.5867812490067,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1906.1574750376733,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1909.4003666821006,
+        "point_count": 7903
+      }
+    },
+    "2019_07": {
+      "ALMORA": {
+        "average": 1918.638590336225,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1916.465684004679,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1922.1821482269272,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1923.3362396329212,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1908.58601741279,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1911.7102296654225,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1921.744569687734,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1918.8359620220956,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1922.6678167593589,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1923.5281521882273,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1907.8984432956672,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1924.8832453412547,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1910.4362690360083,
+        "point_count": 7903
+      }
+    },
+    "2019_08": {
+      "ALMORA": {
+        "average": 1873.8297709560165,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1876.1817015093316,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1871.7235403042496,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1873.63517473238,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1883.9255602866833,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1912.3310031664878,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1876.5054463859537,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1886.8296525818657,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1873.0886593313064,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1873.8918538155401,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1901.7673565718753,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1876.1328685048275,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1880.2887637715803,
+        "point_count": 7903
+      }
+    },
+    "2019_09": {
+      "ALMORA": {
+        "average": 1852.2547399995037,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1847.64250991062,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1848.3289375763688,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1856.163179712696,
+        "point_count": 1138
+      },
+      "DEHRADUN": {
+        "average": 1853.8670588087691,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1858.2607656589976,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1851.9841536513436,
+        "point_count": 1015
+      },
+      "PAURI_GARHWAL": {
+        "average": 1855.0319500586777,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1847.2535541956968,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1854.392561554599,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1857.495222484966,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1853.1531945740878,
+        "point_count": 619
+      },
+      "UTTARKASHI": {
+        "average": 1853.8864086841459,
+        "point_count": 7903
+      }
+    },
+    "2019_10": {
+      "ALMORA": {
+        "average": 1880.8104463814434,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1877.7580472886293,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1874.3568268342458,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1877.662825689956,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1876.8831749633894,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1875.6355237911202,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1879.9269501821602,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1875.644738379245,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1872.5197037845744,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1868.3449736857535,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1876.6688043174427,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1876.1541138754797,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1872.557629730753,
+        "point_count": 7903
+      }
+    },
+    "2019_11": {
+      "ALMORA": {
+        "average": 1876.7705158744313,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1874.5590586330081,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1871.4202708562561,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1876.6512242640197,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1877.0744259296757,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1880.617533545973,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1878.9628957256452,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1873.2613243315252,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1870.6355596932524,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1867.9383334275153,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1875.8138342165232,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1877.362029326284,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1871.7578602865283,
+        "point_count": 7903
+      }
+    },
+    "2019_12": {
+      "ALMORA": {
+        "average": 1876.7833826095045,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1875.2876586191435,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1872.3853700230427,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1874.5029286222211,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1876.0021885318522,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1880.6391687606827,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1877.8713431210906,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1871.7557309692,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1870.5341534264367,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1866.0861205302922,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1875.9741760330505,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1877.1088673684776,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1872.4728180934028,
+        "point_count": 7903
+      }
+    },
+    "2020_01": {
+      "ALMORA": {
+        "average": 1871.7728890394544,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1870.9113795462554,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1870.981784148712,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1870.9867783549105,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1872.1175007402196,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1873.4921095464044,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1872.1131863098512,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1869.8466461737974,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1870.1363941070592,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1867.7715726255617,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1874.6297875343541,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1871.9307273585334,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1872.1081456386937,
+        "point_count": 7903
+      }
+    },
+    "2020_02": {
+      "ALMORA": {
+        "average": 1851.8779667504557,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1850.1966416541352,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1848.0804340565517,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1850.03497604247,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1855.9002593683463,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1849.8504404031332,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1851.2280559150277,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1848.4564964252359,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1847.009772604804,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1844.6776886740508,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1850.7980833676002,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1849.9619208034921,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1850.1660654201216,
+        "point_count": 7903
+      }
+    },
+    "2020_03": {
+      "ALMORA": {
+        "average": 1856.0951382907049,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1856.959475957268,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1853.7928496334623,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1868.0831959859065,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1860.1918730773643,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1854.10094311453,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1872.1332461193488,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1856.908666490547,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1851.5691704451854,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1842.7891075529128,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1854.6338499115259,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1875.5849547142655,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1853.6765084364267,
+        "point_count": 7903
+      }
+    },
+    "2020_04": {
+      "ALMORA": {
+        "average": 1876.6039899158484,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1858.5587497048637,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1859.533100740612,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1876.1930537546807,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1875.7596749607621,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1877.850158579751,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1877.6377188268104,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1877.4099555832822,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1872.237187207887,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1874.3226583643577,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1875.5731071812577,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1876.7752222090855,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1869.4632444427216,
+        "point_count": 7903
+      }
+    },
+    "2020_05": {
+      "ALMORA": {
+        "average": 1895.3250062670145,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1895.9429099141907,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1914.3616886833327,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1915.2458010146786,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1896.888235416881,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1894.061543322929,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1898.2727480215785,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1890.0423218561193,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1903.5102173305688,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1895.2170377640164,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1878.0948416520184,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1916.387551994728,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1902.143606646998,
+        "point_count": 7903
+      }
+    },
+    "2020_06": {
+      "ALMORA": {
+        "average": 1914.9183450445569,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1914.8861669728449,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1918.0134592498605,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1913.628426344,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1928.7862437170184,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1918.6813529283675,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1916.497598596624,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1919.9022097324112,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1925.1030633328962,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1924.953278885087,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1925.0336671946338,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1921.9590396589522,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1928.8064705510878,
+        "point_count": 7903
+      }
+    },
+    "2020_07": {
+      "ALMORA": {
+        "average": 1914.0461363934435,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1907.0899910064707,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1911.545848525467,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1917.6241377115578,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1916.5095746334407,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1920.413184841264,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1918.3881832938243,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1920.8481658285095,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1909.305323004971,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1898.1360697902262,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1918.6709703222289,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1920.2613493505837,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1909.6590192130127,
+        "point_count": 7903
+      }
+    },
+    "2020_08": {
+      "ALMORA": {
+        "average": 1866.0319981501714,
+        "point_count": 3145
+      },
+      "BAGESHWAR": {
+        "average": 1865.4214545987068,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1872.9436141540477,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1867.0272845324125,
+        "point_count": 1065
+      },
+      "DEHRADUN": {
+        "average": 1866.3600376821562,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1866.704721484374,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1887.8470098199423,
+        "point_count": 985
+      },
+      "PAURI_GARHWAL": {
+        "average": 1888.6579656429803,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1868.6291958888462,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1874.3889792797704,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1873.3358044710685,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1902.1206490119723,
+        "point_count": 578
+      },
+      "UTTARKASHI": {
+        "average": 1861.860519714782,
+        "point_count": 7903
+      }
+    },
+    "2020_09": {
+      "ALMORA": {
+        "average": 1874.5482740940333,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1878.6209350638628,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1870.3640331491952,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1869.0345457509902,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1853.7351324000565,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1857.6948203092202,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1865.9060166057252,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1854.0816379286643,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1861.3158871143862,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1854.1609132127203,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1852.8664954703097,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1868.2156937283394,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1852.5359921438753,
+        "point_count": 7903
+      }
+    },
+    "2020_10": {
+      "ALMORA": {
+        "average": 1877.1572919059693,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1878.3878990600285,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1875.8778626185335,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1876.8107892574797,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1875.9206368238388,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1876.2792827223604,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1876.9136093634106,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1875.1193165855912,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1874.2052012547424,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1871.8817438655599,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1877.5717714445964,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1875.9491297538266,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1875.1843476119516,
+        "point_count": 7903
+      }
+    },
+    "2020_11": {
+      "ALMORA": {
+        "average": 1878.5600059558237,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1874.1499411573443,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1874.1433947218204,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1875.2656321403015,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1871.632557247575,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1875.0845077895262,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1879.4762048664575,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1873.8853903851973,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1871.1551061205016,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1870.2932826844649,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1872.910322744443,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1876.4268480365972,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1870.969423338673,
+        "point_count": 7903
+      }
+    },
+    "2020_12": {
+      "ALMORA": {
+        "average": 1878.1562106334547,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1875.6269065710628,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1873.1385473575776,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1874.6979413468284,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1877.012400274754,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1881.3834963375657,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1878.626544616734,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1872.8771431663004,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1871.1154911050007,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1866.7622176423733,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1877.0012457232554,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1878.7829916020235,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1872.6796778633684,
+        "point_count": 7903
+      }
+    },
+    "2021_01": {
+      "ALMORA": {
+        "average": 1872.8971906703728,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1872.4999949364872,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1871.4842027273564,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1871.8315519949376,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1874.5468937979138,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1876.2627292311608,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1872.441738928803,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1870.9839630895112,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1870.4765180216984,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1866.0464484514403,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1875.5570846856863,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1870.6567408275923,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1872.0464334974115,
+        "point_count": 7903
+      }
+    },
+    "2021_02": {
+      "ALMORA": {
+        "average": 1851.26767445571,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1850.397702162415,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1849.2445726956403,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1851.1802039647762,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1853.9264477235865,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1850.0979758713536,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1850.5888984394292,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1851.2721344805077,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1848.1364348526652,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1848.8732252358832,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1851.68190649107,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1849.7598378740577,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1850.3443486239985,
+        "point_count": 7903
+      }
+    },
+    "2021_03": {
+      "ALMORA": {
+        "average": 1869.064288311401,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1858.0828753814362,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1856.1622299612172,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1853.63005221574,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1868.7096141449163,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1876.0454506151445,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1872.7967604090582,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1873.4021002447944,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1851.3615626727096,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1856.4793712848848,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1875.586306594507,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1874.0506261926664,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1864.031537577889,
+        "point_count": 7903
+      }
+    },
+    "2021_04": {
+      "ALMORA": {
+        "average": 1875.9967698732803,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1873.5268455182609,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1866.0622428909328,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1875.1919964498534,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1873.2058832835537,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1860.3177359574725,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1876.40352260118,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1875.4146580252134,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1872.6517004857576,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1873.8207094304269,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1872.5177377401567,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1875.8809901529053,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1860.240741466875,
+        "point_count": 7903
+      }
+    },
+    "2021_05": {
+      "ALMORA": {
+        "average": 1914.3616471947187,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1910.1422175408813,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1920.1244793026901,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1910.1000004915861,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1972.0513806555136,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1997.5146441645002,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1915.1222568916369,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1987.0662129188302,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1935.064046703777,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1983.1726786154447,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1996.435242084169,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1924.8196626469262,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1982.929384387604,
+        "point_count": 7903
+      }
+    },
+    "2021_06": {
+      "ALMORA": {
+        "average": 1908.5642334879012,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1904.0302005755811,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1919.3676354824356,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1911.9857078337986,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1927.2957828843757,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1931.9003483275324,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1911.930068916726,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1923.245710418357,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1914.8650671360663,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1920.4818904803333,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1929.9515047715915,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1908.427160179139,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1927.7335440893028,
+        "point_count": 7903
+      }
+    },
+    "2021_07": {
+      "ALMORA": {
+        "average": 1913.7143498967237,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1913.7795757890103,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1913.2192390968212,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1925.9907985297089,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1915.8861541223766,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1914.290059260405,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1923.620118931874,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1917.2194905806493,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1920.228699809776,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1911.405383253756,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1906.7089652946818,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1921.8786159806698,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1905.3901853681448,
+        "point_count": 7903
+      }
+    },
+    "2021_08": {
+      "ALMORA": {
+        "average": 1873.8117763607295,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1872.9656189282955,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1873.5730568948434,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1865.899741603505,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1869.6726883801066,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1865.4510046300304,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1871.0956741197554,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1867.3350645379028,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1870.1671301893543,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1871.1439557284696,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1870.2214794134238,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1869.741568785069,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1875.5349284577123,
+        "point_count": 7903
+      }
+    },
+    "2021_09": {
+      "ALMORA": {
+        "average": 1862.6132753028985,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1854.5032247241365,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1855.2952753626885,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1861.4414882161243,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1855.0090852602011,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1853.1166408348063,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1874.100327583212,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1853.7181577669955,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1855.466212904436,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1844.7880369843635,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1852.9951188269858,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1870.705709108853,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1849.5059215195981,
+        "point_count": 7903
+      }
+    },
+    "2021_10": {
+      "ALMORA": {
+        "average": 1871.90948073934,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1850.7607617134584,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1854.9828619109471,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1876.5665539070112,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1876.0347371526623,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1875.7689492185184,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1879.4595242726134,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1875.3731235607602,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1861.992220579839,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1869.951953337519,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1878.4815439596143,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1878.81538400789,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1875.1071832661053,
+        "point_count": 7903
+      }
+    },
+    "2021_11": {
+      "ALMORA": {
+        "average": 1876.3037404589963,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1873.8619683067957,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1872.3722903976743,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1875.5453827686363,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1877.5573940568888,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1881.3908291233438,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1877.1600704992425,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1873.1312250245758,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1870.9031983295215,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1866.6998630395458,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1877.24933696601,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1875.5944698342573,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1873.1020295601854,
+        "point_count": 7903
+      }
+    },
+    "2021_12": {
+      "ALMORA": {
+        "average": 1871.3124808423051,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1871.176139262402,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1871.1786276419934,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1870.669577588536,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1871.6951500490052,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1873.6791100784374,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1873.6795245584196,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1869.0520146781444,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1869.6232518841014,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1866.2645864076305,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1872.445837630173,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1875.5846195907213,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1871.2243865401656,
+        "point_count": 7903
+      }
+    },
+    "2022_01": {
+      "ALMORA": {
+        "average": 1871.4277304780799,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1871.1879107295458,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1871.218309361444,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1871.7407190816239,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1873.925950879124,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1875.6885614578555,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1874.6336082153373,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1870.6586287447592,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1869.4728316910841,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1867.0161293407969,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1875.4611538733413,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1874.3813686350486,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1872.6983939120591,
+        "point_count": 7903
+      }
+    },
+    "2022_02": {
+      "ALMORA": {
+        "average": 1852.1146599848655,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1851.6594502412725,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1849.314523946693,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1851.5558793387434,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1850.4717097794855,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1850.4838962828753,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1851.752219094401,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1850.7242389194914,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1848.5324142691748,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1847.205151508017,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1850.4800743546532,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1850.0808928144927,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1849.06854136866,
+        "point_count": 7903
+      }
+    },
+    "2022_03": {
+      "ALMORA": {
+        "average": 1875.342580575341,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1869.471856739553,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1863.0255226240165,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1875.346512597838,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1853.5595258243236,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1857.1656649545228,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1873.3534934125817,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1854.610508230306,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1853.032042790458,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1854.5953788725967,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1854.851664719951,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1869.4455122271088,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1854.8831323924508,
+        "point_count": 7903
+      }
+    },
+    "2022_04": {
+      "ALMORA": {
+        "average": 1876.0018152099253,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1873.0591104575653,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1869.2568406713585,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1874.9046532912614,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1875.1165168005762,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1876.1202480046193,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1876.6468909726598,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1874.7491259349154,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1872.2085216965847,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1873.1202018912225,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1876.1748665469977,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1875.6028608730571,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1872.0539101988434,
+        "point_count": 7903
+      }
+    },
+    "2022_05": {
+      "ALMORA": {
+        "average": 1882.393689456354,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1880.9892714767896,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1906.7108362841552,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1900.264206651279,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1986.896734101115,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1955.8947969739309,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1900.6952983894787,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1953.3518028537424,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1899.8573060669253,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1973.3347082877501,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1979.7161669223242,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1916.975262818681,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1980.7532647054209,
+        "point_count": 7903
+      }
+    },
+    "2022_06": {
+      "ALMORA": {
+        "average": 1909.6868990617759,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1908.6359162895826,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1922.7074948441818,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1913.7560788636504,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1902.6880302201469,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1907.4785285256328,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1910.6003913931122,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1913.1372997347912,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1918.7441554682746,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1925.1382535346936,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1897.5099100766543,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1918.4855729901258,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1918.368945873632,
+        "point_count": 7903
+      }
+    },
+    "2022_07": {
+      "ALMORA": {
+        "average": 1915.8984114445961,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1918.3119329971528,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1914.7997176835743,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1916.3738906496887,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1912.535955803037,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1899.245108736732,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1919.7616633978755,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1915.8066811458154,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1921.2529477615576,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1910.6455358259082,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1908.167203091048,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1916.9227911316318,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1908.6685662275363,
+        "point_count": 7903
+      }
+    },
+    "2022_08": {
+      "ALMORA": {
+        "average": 1873.8828592975608,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1877.7497294421755,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1864.0509396154096,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1869.5576362463569,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1874.6836094537248,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1870.8719007354807,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1872.9113729571807,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1872.4151357161256,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1871.6441945196773,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1872.1816463148587,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1875.970150607919,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1872.044653694237,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1875.646227004686,
+        "point_count": 7903
+      }
+    },
+    "2022_09": {
+      "ALMORA": {
+        "average": 1856.749486507386,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1857.0575960184137,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1853.729105930293,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1852.6502264971045,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1849.7860643802624,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1851.2426910680495,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1856.2263358123055,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1846.0766546756652,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1855.5528702742506,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1843.6094119239924,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1848.7687318987992,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1855.9758124714774,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1848.7335087454044,
+        "point_count": 7903
+      }
+    },
+    "2022_10": {
+      "ALMORA": {
+        "average": 1879.1396014439422,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1876.183823319105,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1874.0171048477637,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1876.0951800414996,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1879.119956117124,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1878.9518651070025,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1878.6911005699626,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1874.9843361125118,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1872.0842490543703,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1868.5607014462532,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1877.7528483330427,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1874.6740295948966,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1873.8731094647455,
+        "point_count": 7903
+      }
+    },
+    "2022_11": {
+      "ALMORA": {
+        "average": 1876.9530147196012,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1874.2989738521549,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1872.5667760905237,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1874.6975207285616,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1871.9962709870335,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1873.989118505908,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1877.7343943455758,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1870.796425952902,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1870.4355212653006,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1867.1350029080286,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1871.4689395476507,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1877.141078615428,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1870.2282790025724,
+        "point_count": 7903
+      }
+    },
+    "2022_12": {
+      "ALMORA": {
+        "average": 1877.298497097118,
+        "point_count": 3146
+      },
+      "BAGESHWAR": {
+        "average": 1874.7538929425998,
+        "point_count": 2255
+      },
+      "CHAMOLI": {
+        "average": 1873.1681317254029,
+        "point_count": 7637
+      },
+      "CHAMPAWAT": {
+        "average": 1873.8623149619405,
+        "point_count": 1779
+      },
+      "DEHRADUN": {
+        "average": 1875.1324073857159,
+        "point_count": 3167
+      },
+      "HARIDWAR": {
+        "average": 1878.123705800634,
+        "point_count": 2289
+      },
+      "NAINITAL": {
+        "average": 1878.5800448418952,
+        "point_count": 3925
+      },
+      "PAURI_GARHWAL": {
+        "average": 1871.133201609352,
+        "point_count": 5153
+      },
+      "PITHORAGARH": {
+        "average": 1870.1517823174238,
+        "point_count": 7097
+      },
+      "RUDRAPRAYAG": {
+        "average": 1865.3824366230428,
+        "point_count": 2000
+      },
+      "TEHRI_GARHWAL": {
+        "average": 1876.239313601313,
+        "point_count": 3959
+      },
+      "UDHAM_SINGH_NAGAR": {
+        "average": 1879.4612445535577,
+        "point_count": 2756
+      },
+      "UTTARKASHI": {
+        "average": 1872.9720229673505,
+        "point_count": 7903
+      }
+    }
+  },
+  "statistics": {
+    "mean": 1880.9280484453716,
+    "std": 27.671062791502294,
+    "min": 1842.7891075529128,
+    "max": 2009.0314571977274
+  }
+}

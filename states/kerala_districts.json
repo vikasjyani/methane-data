@@ -1,0 +1,7048 @@
+{
+  "type": "state_districts",
+  "state_name": "KERALA",
+  "data": {
+    "ALAPPUZHA": {
+      "average_methane": 1864.4551375976405,
+      "data_quality": {
+        "total_months": 119,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 1296.1344537815125
+      },
+      "point_count": 154240
+    },
+    "ERNAKULAM": {
+      "average_methane": 1865.7374005452914,
+      "data_quality": {
+        "total_months": 118,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 2709.0
+      },
+      "point_count": 319662
+    },
+    "IDUKKI": {
+      "average_methane": 1868.2865227080738,
+      "data_quality": {
+        "total_months": 120,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 3716.6833333333334
+      },
+      "point_count": 446002
+    },
+    "KANNUR": {
+      "average_methane": 1866.7592375354177,
+      "data_quality": {
+        "total_months": 116,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 2563.4741379310344
+      },
+      "point_count": 297363
+    },
+    "KASARAGOD": {
+      "average_methane": 1866.6897363345922,
+      "data_quality": {
+        "total_months": 120,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 1735.6
+      },
+      "point_count": 208272
+    },
+    "KOLLAM": {
+      "average_methane": 1869.2523356895956,
+      "data_quality": {
+        "total_months": 120,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 2099.6916666666666
+      },
+      "point_count": 251963
+    },
+    "KOTTAYAM": {
+      "average_methane": 1866.1863616833987,
+      "data_quality": {
+        "total_months": 119,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 1958.3949579831933
+      },
+      "point_count": 233049
+    },
+    "KOZHIKODE": {
+      "average_methane": 1867.8606159301457,
+      "data_quality": {
+        "total_months": 119,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 1967.638655462185
+      },
+      "point_count": 234149
+    },
+    "MALAPPURAM": {
+      "average_methane": 1866.0853359087616,
+      "data_quality": {
+        "total_months": 119,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 3095.436974789916
+      },
+      "point_count": 368357
+    },
+    "PALAKKAD": {
+      "average_methane": 1865.4914297731627,
+      "data_quality": {
+        "total_months": 119,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 3900.9495798319326
+      },
+      "point_count": 464213
+    },
+    "PATTANAMTHITTA": {
+      "average_methane": 1868.851017412966,
+      "data_quality": {
+        "total_months": 120,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 2292.8333333333335
+      },
+      "point_count": 275140
+    },
+    "THIRUVANANTHAPURAM": {
+      "average_methane": 1868.5504021931345,
+      "data_quality": {
+        "total_months": 120,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 1895.925
+      },
+      "point_count": 227511
+    },
+    "TRISSUR": {
+      "average_methane": 1866.8810241322115,
+      "data_quality": {
+        "total_months": 119,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 2629.2100840336134
+      },
+      "point_count": 312876
+    },
+    "WAYANAD": {
+      "average_methane": 1866.990651822352,
+      "data_quality": {
+        "total_months": 119,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 1839.218487394958
+      },
+      "point_count": 218867
+    }
+  },
+  "monthly_data": {
+    "2014_01": {
+      "ALAPPUZHA": {
+        "average": 1877.4456573347536,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1872.5163622716886,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1856.7823143910734,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1854.6710905795387,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1854.0841211166526,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1874.6719624544871,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1878.271406828749,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1853.9721917740305,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1853.3770974099496,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1859.1284493971286,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1874.1241889141907,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1872.1327674309923,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1871.0194947441482,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1852.8994644383808,
+        "point_count": 1904
+      }
+    },
+    "2014_02": {
+      "ALAPPUZHA": {
+        "average": 1878.7407524189318,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1877.5949029834965,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1875.2384245647434,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1877.5869767195882,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1873.6433701497817,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1875.6049222759732,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1878.3164923077456,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1873.9891788199839,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1872.8244015235875,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1876.5403158063102,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1875.5962024883852,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1873.9305647150836,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1874.470101696308,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1872.5761555528895,
+        "point_count": 1904
+      }
+    },
+    "2014_03": {
+      "ALAPPUZHA": {
+        "average": 1864.8120446034525,
+        "point_count": 1066
+      },
+      "ERNAKULAM": {
+        "average": 1851.1996380240323,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1874.6780938327252,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1877.8888829186888,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1872.1448382627643,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1874.4681824730221,
+        "point_count": 531
+      },
+      "KOTTAYAM": {
+        "average": 1876.5706434230235,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1873.9605002556616,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1873.050748865695,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1854.183244636541,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1874.394148612634,
+        "point_count": 2132
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1873.5925713896256,
+        "point_count": 1232
+      },
+      "TRISSUR": {
+        "average": 1868.9459843698141,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1875.0802714827607,
+        "point_count": 1904
+      }
+    },
+    "2014_04": {
+      "ALAPPUZHA": {
+        "average": 1865.4278943303743,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1872.4946765823352,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1883.9216078611123,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1865.9744548375975,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1865.0750425187866,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1875.2549241719823,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1873.7769576944802,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1866.3893886458056,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1863.7065490479683,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1868.2838097143028,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1875.511265297052,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1872.883815428754,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1866.3720605290684,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1868.3647083558951,
+        "point_count": 1904
+      }
+    },
+    "2014_05": {
+      "ALAPPUZHA": {
+        "average": 1864.63514500738,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1864.5408480923627,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1863.6681289774779,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1871.9441479600575,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1872.638400875654,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1866.5503900574704,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1865.9891000083119,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1873.2792556321867,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1866.1670195080353,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1865.0853705124916,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1866.2491358481266,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1869.4910240447086,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1864.989015856838,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1873.7448787066603,
+        "point_count": 1904
+      }
+    },
+    "2014_06": {
+      "ALAPPUZHA": {
+        "average": 1843.702020703002,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1850.8780794793227,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1869.126727463866,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1872.438764782,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1874.8591478946623,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1867.4999701506574,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1848.1042109824905,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1875.3847846243045,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1871.185114322802,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1853.665677107407,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1867.979115529839,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1868.8040734135748,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1865.9091127127772,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1870.9085505876903,
+        "point_count": 1904
+      }
+    },
+    "2014_07": {
+      "ALAPPUZHA": {
+        "average": 1843.287206845712,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1849.3146072312554,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1867.9715506444231,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1859.1190729831885,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1873.1263211202138,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1868.622206865991,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1846.3336830284547,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1873.4420133626347,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1869.7745794793839,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1856.3422909453607,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1866.0593759985088,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1873.2315987747513,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1866.8233666840792,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1872.7655698062042,
+        "point_count": 1904
+      }
+    },
+    "2014_08": {
+      "ALAPPUZHA": {
+        "average": 1876.5180689430892,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1877.0616714461742,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1869.8455632443238,
+        "point_count": 3856
+      },
+      "KASARAGOD": {
+        "average": 1891.3971544523276,
+        "point_count": 257
+      },
+      "KOLLAM": {
+        "average": 1872.6104398543368,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1879.4401092587411,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1873.771201802502,
+        "point_count": 228
+      },
+      "MALAPPURAM": {
+        "average": 1876.3167826248116,
+        "point_count": 2751
+      },
+      "PALAKKAD": {
+        "average": 1873.5348210809198,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1875.6590891558265,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1873.778031387446,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1876.7087533203714,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1879.0215219755037,
+        "point_count": 937
+      }
+    },
+    "2014_09": {
+      "ALAPPUZHA": {
+        "average": 1868.0736167656173,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1867.1773932847202,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1876.1938110554038,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1871.057821052724,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1867.326622330123,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1891.7045760414417,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1871.0253471068654,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1899.1090179649098,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1871.5140468226898,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1866.0350852552117,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1883.433005413711,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1884.7074955744251,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1866.2722729493653,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1893.008240958931,
+        "point_count": 1904
+      }
+    },
+    "2014_10": {
+      "ALAPPUZHA": {
+        "average": 1878.9515456365368,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1877.257099176518,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1872.5675858823947,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1853.7522223885103,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1871.3521447597611,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1873.1747348393762,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1878.1111007530073,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1871.7095254859923,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1871.8806193947064,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1875.2789673536936,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1873.013836944856,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1871.2413354479922,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1872.9943073831619,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1872.4064030662666,
+        "point_count": 1904
+      }
+    },
+    "2014_11": {
+      "ALAPPUZHA": {
+        "average": 1855.1932829412988,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1853.1985058162545,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1852.9405235758584,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1851.0958781252448,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1851.6755404221917,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1854.248558630672,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1855.5646185478868,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1849.5090672589529,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1850.6805958929826,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1851.641561516451,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1855.325844922069,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1852.9993021742532,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1852.9776986184938,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1849.5925671821303,
+        "point_count": 1904
+      }
+    },
+    "2014_12": {
+      "ALAPPUZHA": {
+        "average": 1855.3570926842726,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1852.1728440957136,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1849.5342639968467,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1852.484958580875,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1849.81223785385,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1852.4655725319271,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1851.508851349849,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1850.1205146118753,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1847.598912744941,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1851.355504890356,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1851.4241611626494,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1853.655445536469,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1851.911490415254,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1847.1263776078358,
+        "point_count": 1904
+      }
+    },
+    "2015_01": {
+      "ALAPPUZHA": {
+        "average": 1878.0075245768892,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1876.4890945222755,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1872.6794707795164,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1854.3025338723075,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1853.690756106676,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1871.8233903467874,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1877.25120739664,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1851.560904256679,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1859.3403438641674,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1874.6566028664215,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1873.0980399927146,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1872.5785104180695,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1871.915250498261,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1853.89958701943,
+        "point_count": 1904
+      }
+    },
+    "2015_02": {
+      "ALAPPUZHA": {
+        "average": 1878.520280004474,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1877.6214735657911,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1875.5768954719,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1877.5290966200635,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1873.8359602617625,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1875.8832051139618,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1878.4903057228928,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1875.4531159411317,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1874.4535656132557,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1876.4188923071308,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1875.83124118219,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1874.6053057564582,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1874.6497351390476,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1875.004548564884,
+        "point_count": 1904
+      }
+    },
+    "2015_03": {
+      "ALAPPUZHA": {
+        "average": 1867.9608805566947,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1873.0418852865246,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1874.68447182784,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1876.7880088373513,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1871.5911998413255,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1870.8433985218344,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1875.836204871818,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1875.7454621966735,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1872.549149049994,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1875.3215872091282,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1874.1528848980647,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1873.6890319583251,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1873.6697140732967,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1874.2140965916724,
+        "point_count": 1904
+      }
+    },
+    "2015_04": {
+      "ALAPPUZHA": {
+        "average": 1868.2581386628865,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1869.6706309204392,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1864.4996044596032,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1867.0938238922006,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1865.0241336132879,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1864.4453704908458,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1864.8772525693905,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1869.8903044078818,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1873.4350628454401,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1873.2148066006625,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1864.0777334876277,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1864.8098419007272,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1876.2184164445553,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1871.7742870562456,
+        "point_count": 1904
+      }
+    },
+    "2015_05": {
+      "ALAPPUZHA": {
+        "average": 1865.2063355385708,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1866.6805971926963,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1865.5451906837839,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1869.7000084669517,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1868.3878174656463,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1866.1838460296915,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1865.9400504277976,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1869.6287129621026,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1866.9428226088735,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1866.9615592296818,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1865.9436741235604,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1872.7497423023126,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1865.5294799058422,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1873.4028458605592,
+        "point_count": 1904
+      }
+    },
+    "2015_06": {
+      "ALAPPUZHA": {
+        "average": 1863.4524719767437,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1851.4376907994806,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1870.065113083626,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1863.6314884558358,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1865.1535926831727,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1874.744520818728,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1849.6239614839112,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1863.62462425206,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1872.139658954863,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1855.6348394285362,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1870.633559426756,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1872.4291820806754,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1869.5881314913115,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1866.760301084892,
+        "point_count": 1904
+      }
+    },
+    "2015_07": {
+      "ALAPPUZHA": {
+        "average": 1874.9411726483634,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1872.0053655313336,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1873.1752745660342,
+        "point_count": 3856
+      },
+      "KASARAGOD": {
+        "average": 1867.0732631876513,
+        "point_count": 257
+      },
+      "KOLLAM": {
+        "average": 1873.716107781978,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1864.9108735799557,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1873.6380657270477,
+        "point_count": 239
+      },
+      "MALAPPURAM": {
+        "average": 1872.8186491561378,
+        "point_count": 2776
+      },
+      "PALAKKAD": {
+        "average": 1874.9552667046646,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1873.3699940817016,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1871.772494983701,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1871.2482311233366,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1873.3309025951344,
+        "point_count": 960
+      }
+    },
+    "2015_08": {
+      "ALAPPUZHA": {
+        "average": 1874.0119927125936,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1874.9329281170558,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1866.8640766415263,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1869.09494022763,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1867.097017749897,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1875.2986580554584,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1876.2061697496215,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1869.88703844787,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1876.0639944914788,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1870.4302186435252,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1872.9601594522376,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1875.5289614714245,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1876.2034812935146,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1875.3857544471882,
+        "point_count": 1904
+      }
+    },
+    "2015_09": {
+      "ALAPPUZHA": {
+        "average": 1866.2683708165669,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1866.2250783685615,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1869.187328420479,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1868.6553421872086,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1866.028123188394,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1873.613051423667,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1869.345082753941,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1884.0089548236192,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1873.930890041949,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1865.1107759983581,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1870.8882487069811,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1875.9151054421532,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1865.076100959754,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1881.7821484466858,
+        "point_count": 1904
+      }
+    },
+    "2015_10": {
+      "ALAPPUZHA": {
+        "average": 1863.3122121874956,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1871.9936032807354,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1871.0777184191245,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1852.1906497899233,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1873.0214378925086,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1872.9914616103686,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1871.009267328507,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1870.9132282512933,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1871.9423518862025,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1870.9069402996506,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1870.7421510326608,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1869.8397162904573,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1871.2589850893837,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1871.6491793692817,
+        "point_count": 1904
+      }
+    },
+    "2015_11": {
+      "ALAPPUZHA": {
+        "average": 1856.902851335322,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1856.8855034390797,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1852.843466485766,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1846.7258542132213,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1846.4902427723068,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1851.0731013804107,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1856.792002777271,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1846.2630855118541,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1848.3833634572097,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1854.7814695585496,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1851.33166986903,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1846.2791192638695,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1853.460029672902,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1847.3612097757668,
+        "point_count": 1904
+      }
+    },
+    "2015_12": {
+      "ALAPPUZHA": {
+        "average": 1851.6785355757352,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1851.2227132348733,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1850.1083598710463,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1850.4169155395234,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1849.4001228016425,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1850.7448717414718,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1850.6879105272374,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1850.4759056649668,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1850.7046467347923,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1851.1909543769302,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1850.5088433297174,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1851.4359159806775,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1851.152950149661,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1847.889656765803,
+        "point_count": 1904
+      }
+    },
+    "2016_01": {
+      "ALAPPUZHA": {
+        "average": 1879.4634175111528,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1878.143886527181,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1871.0441243494183,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1856.6056816404898,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1852.8963977911021,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1877.3085867850652,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1878.1199615698033,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1852.8903825662048,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1855.4197592037438,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1873.9833322680472,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1875.178704740093,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1876.1595073166366,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1871.2281393119677,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1853.8958076833312,
+        "point_count": 1904
+      }
+    },
+    "2016_02": {
+      "ALAPPUZHA": {
+        "average": 1878.6661954633191,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1877.0654581596407,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1874.21981440639,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1877.9587365338725,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1872.535363271953,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1874.7509333988712,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1872.628807237719,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1874.5123898464105,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1870.4850324663666,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1873.2710863094928,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1874.5976733234586,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1873.9187951242936,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1875.3313583869867,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1875.7865545026978,
+        "point_count": 1904
+      }
+    },
+    "2016_03": {
+      "ALAPPUZHA": {
+        "average": 1875.6240897422203,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1876.8453277908689,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1876.5175934270417,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1876.814980578467,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1873.5807024936064,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1875.8890453859942,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1876.8249930443558,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1875.3750900237285,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1874.3062615319557,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1871.1623595572567,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1875.393952237929,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1873.4064076542127,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1873.4304862203055,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1875.307179923607,
+        "point_count": 1904
+      }
+    },
+    "2016_04": {
+      "ALAPPUZHA": {
+        "average": 1865.0638202065898,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1865.1824977060737,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1864.8670596171314,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1865.9002942593572,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1865.9103237638,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1865.1523629532148,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1865.1043144102032,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1892.1686445631499,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1876.6958244371256,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1865.3034123075033,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1864.8648862904254,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1866.1016257164274,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1866.6238983698902,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1894.7839585967408,
+        "point_count": 1904
+      }
+    },
+    "2016_05": {
+      "ALAPPUZHA": {
+        "average": 1864.4411072155585,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1864.8768105882998,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1864.2751081935285,
+        "point_count": 3842
+      },
+      "KANNUR": {
+        "average": 1870.0916992593557,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1870.9972264819596,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1862.136510328186,
+        "point_count": 2194
+      },
+      "KOTTAYAM": {
+        "average": 1864.7817460081435,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1871.0675740447887,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1864.8750175579537,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1863.8253181048278,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1864.6999367802428,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1857.3975458698105,
+        "point_count": 1754
+      },
+      "TRISSUR": {
+        "average": 1865.0269797054136,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1870.5880023178154,
+        "point_count": 1904
+      }
+    },
+    "2016_06": {
+      "ALAPPUZHA": {
+        "average": 1872.281954392459,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1876.2440751060506,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1873.140325875763,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1866.9543478623025,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1867.6002910018378,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1873.9582431099402,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1876.0705684174864,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1865.9624196062293,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1869.7501753090469,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1866.6294865038847,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1873.7260927645941,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1872.0639989445167,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1873.0011212413756,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1864.5036380903418,
+        "point_count": 1904
+      }
+    },
+    "2016_07": {
+      "ALAPPUZHA": {
+        "average": 1845.8728229096196,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1849.8311009474862,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1868.7654964470098,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1867.0598694483044,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1873.0359514464628,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1872.335860477578,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1846.3136251428166,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1873.9967850871499,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1870.2615294969823,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1854.6615257959634,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1867.2408053569436,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1871.8254992855198,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1866.6693676108387,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1871.5297276373362,
+        "point_count": 1904
+      }
+    },
+    "2016_08": {
+      "ALAPPUZHA": {
+        "average": 1873.0564433246843,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1868.7116071011988,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1866.1853230336767,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1865.7072375899122,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1866.3983591730039,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1867.4055685715437,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1867.328815921564,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1866.2471029232067,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1871.2389181966894,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1867.3498963464183,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1866.2936856061922,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1867.1511638835793,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1872.0607487750642,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1867.390032284559,
+        "point_count": 1904
+      }
+    },
+    "2016_09": {
+      "ALAPPUZHA": {
+        "average": 1868.4253809278628,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1866.084429751777,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1866.7618558229578,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1868.5959889957264,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1866.2414577860081,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1868.8820734177464,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1867.4937534019366,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1874.1418026572815,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1881.0037262210847,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1866.5806244595058,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1866.4276189606692,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1867.8460348851063,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1866.2040541822867,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1873.9531275786874,
+        "point_count": 1904
+      }
+    },
+    "2016_10": {
+      "ALAPPUZHA": {
+        "average": 1877.909277824767,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1877.1591040588246,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1873.2440890663456,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1877.9687909193765,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1868.291555682184,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1875.0996017133675,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1878.0474260197336,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1876.305725115917,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1872.1250180577101,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1875.8041930591485,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1874.7955684837652,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1874.537171976889,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1874.0079427322194,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1873.7669401068013,
+        "point_count": 1904
+      }
+    },
+    "2016_11": {
+      "ALAPPUZHA": {
+        "average": 1857.184482579216,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1855.715145282317,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1854.5503648079048,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1850.7880405083083,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1850.399237352921,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1852.4782645039345,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1855.8683189565688,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1850.4765801722428,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1849.4184978314884,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1855.0143986115897,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1855.3332840994456,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1846.1782470726403,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1853.7731321417702,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1849.7664886904527,
+        "point_count": 1904
+      }
+    },
+    "2016_12": {
+      "ALAPPUZHA": {
+        "average": 1854.9976216474345,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1850.6664838003387,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1849.6724528954467,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1852.50108017661,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1852.3250003166247,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1852.793495255882,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1852.73198008194,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1851.8247306962285,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1847.7352723711929,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1848.231415472579,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1853.9553395960404,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1853.287697644562,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1850.5670005786585,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1848.7423780065956,
+        "point_count": 1904
+      }
+    },
+    "2017_01": {
+      "ALAPPUZHA": {
+        "average": 1857.4259084375335,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1856.7764789098046,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1851.4811718665335,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1857.45515612962,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1853.8424361155821,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1850.9813173679006,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1857.0745411077369,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1853.5737739979938,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1847.7004702790027,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1855.879991640188,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1851.5212678366634,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1849.2058323709832,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1853.8875004809706,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1847.8140800356373,
+        "point_count": 1904
+      }
+    },
+    "2017_02": {
+      "ALAPPUZHA": {
+        "average": 1877.5363597484252,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1876.4827924802667,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1875.8810072696024,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1874.104820113573,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1872.3525120291872,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1874.1976213760124,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1876.875223149171,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1875.0739160272517,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1874.8324851152609,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1870.5735183830504,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1875.0102609000487,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1872.1402504222078,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1875.0716949776565,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1876.7368305895836,
+        "point_count": 1904
+      }
+    },
+    "2017_03": {
+      "ALAPPUZHA": {
+        "average": 1878.406070696463,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1877.0362237100092,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1874.492314589231,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1877.727614061919,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1873.260241587637,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1874.3034952146845,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1878.146417721877,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1875.0699350695081,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1872.9207530361775,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1875.5820641539678,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1874.4252402242723,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1872.966033509608,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1873.4698523056823,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1873.2999250860692,
+        "point_count": 1904
+      }
+    },
+    "2017_04": {
+      "ALAPPUZHA": {
+        "average": 1866.3138409032063,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1867.213630310241,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1866.1304468758674,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1887.1001729516672,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1866.7092251748422,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1866.431628140202,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1867.6095841197962,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1891.8382493235981,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1868.3783642694452,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1866.4491303972852,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1867.052373987375,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1869.4102439407845,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1866.9512710395152,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1879.3679294449869,
+        "point_count": 1904
+      }
+    },
+    "2017_05": {
+      "ALAPPUZHA": {
+        "average": 1865.976302807897,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1865.3270609932988,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1864.387540623274,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1886.0231918490626,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1899.4745820082933,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1865.4300506786947,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1863.0611998113675,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1880.5095936235643,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1866.3633195486905,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1865.5877824093752,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1862.7286311194841,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1871.3088472984482,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1865.5770438179832,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1875.9569002004148,
+        "point_count": 1904
+      }
+    },
+    "2017_06": {
+      "ALAPPUZHA": {
+        "average": 1846.3454506120747,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1849.212832974922,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1871.6509250584518,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1869.647375068069,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1873.6310226498265,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1873.3914728584205,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1860.1236496725796,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1868.1704877190768,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1870.113092647385,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1856.153278316941,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1871.1404321084556,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1871.2276432959834,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1866.5942376480546,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1865.1072452403469,
+        "point_count": 1904
+      }
+    },
+    "2017_07": {
+      "ALAPPUZHA": {
+        "average": 1846.884919386006,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1868.2231257889437,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1871.0091321482714,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1862.1844076056993,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1872.7024200757799,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1867.948077354244,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1854.3846378449562,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1871.6367605012583,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1873.2061284054976,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1875.4170436197785,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1868.3112796619164,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1871.1858824850704,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1872.7249532371434,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1873.42326429489,
+        "point_count": 1904
+      }
+    },
+    "2017_08": {
+      "ALAPPUZHA": {
+        "average": 1864.8946956292245,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1863.9698553894887,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1864.4861657726244,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1867.2857979638325,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1865.7600763581559,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1865.7066434266305,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1865.0586176654956,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1873.1777333678401,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1868.7459447928202,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1865.5070880686064,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1866.1536872755312,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1868.132095999464,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1865.9343056068294,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1875.412168158399,
+        "point_count": 1904
+      }
+    },
+    "2017_09": {
+      "ALAPPUZHA": {
+        "average": 1885.9774990678964,
+        "point_count": 984
+      },
+      "IDUKKI": {
+        "average": 1870.3389138039468,
+        "point_count": 550
+      },
+      "KANNUR": {
+        "average": 1865.6596962437893,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1866.1710794218645,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1900.8800111490434,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1898.0760631777935,
+        "point_count": 353
+      },
+      "KOZHIKODE": {
+        "average": 1867.6047452798432,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1868.7945895711455,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1870.57161172004,
+        "point_count": 2459
+      },
+      "PATTANAMTHITTA": {
+        "average": 1909.745716777232,
+        "point_count": 2313
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1884.9881414638478,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1907.1095939778481,
+        "point_count": 274
+      },
+      "WAYANAD": {
+        "average": 1866.693551343717,
+        "point_count": 1904
+      }
+    },
+    "2017_10": {
+      "ALAPPUZHA": {
+        "average": 1845.4364480605523,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1849.0231053149191,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1869.2419662275397,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1879.4971794218495,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1877.1879797156982,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1867.715785252496,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1849.4112833779134,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1877.9512084607065,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1868.0084308103833,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1851.9613676691397,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1866.0152179425718,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1868.3444540943997,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1865.633577440274,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1870.9020727340999,
+        "point_count": 1904
+      }
+    },
+    "2017_11": {
+      "ALAPPUZHA": {
+        "average": 1854.71051839349,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1853.1550829479029,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1853.6609216145305,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1850.5182581000377,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1849.4076820082091,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1854.6829087238852,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1852.0625030545732,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1849.3787933834294,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1849.1346713075384,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1853.211370168491,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1853.3032161668764,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1854.7062206610299,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1852.4406442756324,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1847.3603508382475,
+        "point_count": 1904
+      }
+    },
+    "2017_12": {
+      "ALAPPUZHA": {
+        "average": 1852.5483620784257,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1851.4403953135643,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1848.6217895057523,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1850.0821194491039,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1850.4111951245595,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1852.2387547626793,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1853.7277264139618,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1849.5937166830852,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1846.3271724982296,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1848.5250557669249,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1852.494332057046,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1851.7948542237323,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1850.8617291902874,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1846.6232110547933,
+        "point_count": 1904
+      }
+    },
+    "2018_01": {
+      "ALAPPUZHA": {
+        "average": 1859.9772754974788,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1857.0251495694572,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1851.8224256235612,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1858.2495527533456,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1854.4804045936287,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1853.2479198533765,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1857.1200857197807,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1854.2639222142125,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1847.9311315535451,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1856.1160852434139,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1852.0851982293075,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1851.9227374514135,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1853.7623315484059,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1848.8051617554356,
+        "point_count": 1904
+      }
+    },
+    "2018_02": {
+      "ALAPPUZHA": {
+        "average": 1878.467083706481,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1877.445174610935,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1875.570263269852,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1872.9908818720091,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1872.993591743334,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1875.59986819756,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1878.4697202094865,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1876.680820830526,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1876.0116451112883,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1875.826825933929,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1876.211616174063,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1874.5598016966733,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1875.181686170046,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1875.2174594993444,
+        "point_count": 1904
+      }
+    },
+    "2018_03": {
+      "ALAPPUZHA": {
+        "average": 1849.0510837828615,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1861.9232017580105,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1870.7990649534304,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1877.3009878264493,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1872.141769667778,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1873.0363544480008,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1864.86177017204,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1875.3251968042148,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1875.67352892288,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1867.900390130164,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1875.2514183945834,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1871.7617454986462,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1873.7524131118344,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1875.0489110526587,
+        "point_count": 1904
+      }
+    },
+    "2018_04": {
+      "ALAPPUZHA": {
+        "average": 1866.4542059265661,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1865.0992861711027,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1871.897712956961,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1872.7292257782074,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1876.2901927895557,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1871.4552750875766,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1868.2317970850777,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1865.124378766048,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1865.7246741095391,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1865.1530550189618,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1871.5509249783365,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1871.9774706082653,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1864.0234445672427,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1865.3265881654552,
+        "point_count": 1904
+      }
+    },
+    "2018_05": {
+      "ALAPPUZHA": {
+        "average": 1862.1932023502873,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1867.7815638785007,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1874.047154877109,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1887.8502968837809,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1898.754833900069,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1867.714173316598,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1869.8692552771647,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1875.443551909406,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1869.1152809158655,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1871.610757362921,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1871.4278238211675,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1869.9400768514824,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1865.4481512735522,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1877.0464999833098,
+        "point_count": 1904
+      }
+    },
+    "2018_06": {
+      "ALAPPUZHA": {
+        "average": 1878.7378481829617,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1877.4465920172843,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1871.7092211248423,
+        "point_count": 494
+      },
+      "KANNUR": {
+        "average": 1863.437659802971,
+        "point_count": 363
+      },
+      "KASARAGOD": {
+        "average": 1860.2083061635087,
+        "point_count": 1728
+      },
+      "KOLLAM": {
+        "average": 1872.6691725657665,
+        "point_count": 464
+      },
+      "KOTTAYAM": {
+        "average": 1878.1607890992298,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1874.46282443113,
+        "point_count": 205
+      },
+      "MALAPPURAM": {
+        "average": 1873.0005241762246,
+        "point_count": 2704
+      },
+      "PALAKKAD": {
+        "average": 1876.061286630435,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1871.4761622487927,
+        "point_count": 493
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1872.9301761242828,
+        "point_count": 1188
+      },
+      "TRISSUR": {
+        "average": 1873.8131982583702,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1874.3059824287698,
+        "point_count": 904
+      }
+    },
+    "2018_07": {
+      "IDUKKI": {
+        "average": 1871.196597717926,
+        "point_count": 497
+      },
+      "KASARAGOD": {
+        "average": 1864.5475739424908,
+        "point_count": 307
+      },
+      "KOLLAM": {
+        "average": 1868.5638994751416,
+        "point_count": 460
+      },
+      "PATTANAMTHITTA": {
+        "average": 1871.8787506773497,
+        "point_count": 493
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1871.5865772462546,
+        "point_count": 1183
+      }
+    },
+    "2018_08": {
+      "ALAPPUZHA": {
+        "average": 1843.992770712041,
+        "point_count": 1052
+      },
+      "ERNAKULAM": {
+        "average": 1862.2591849321993,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1872.4603843667237,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1865.9383657534995,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1868.2893809452455,
+        "point_count": 1206
+      },
+      "KOLLAM": {
+        "average": 1872.6400464030028,
+        "point_count": 487
+      },
+      "KOTTAYAM": {
+        "average": 1854.4624414955315,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1867.9457217204865,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1870.7059134710698,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1873.2325122287696,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1865.4145720996016,
+        "point_count": 2114
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1873.6294817929797,
+        "point_count": 1183
+      },
+      "TRISSUR": {
+        "average": 1869.5710604300923,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1875.9288801108466,
+        "point_count": 1904
+      }
+    },
+    "2018_09": {
+      "ALAPPUZHA": {
+        "average": 1869.0168149615376,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1868.7866634135983,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1894.6046598466226,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1863.2966183115043,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1872.8739919655875,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1884.902113042447,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1872.2039093891551,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1863.8662658132214,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1866.3170087708481,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1866.9292283765863,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1884.4403686087896,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1879.8604881271394,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1865.8212889956976,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1864.0255279142903,
+        "point_count": 1904
+      }
+    },
+    "2018_10": {
+      "ALAPPUZHA": {
+        "average": 1850.53010557087,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1868.704118394875,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1872.991357532378,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1877.2913007492969,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1870.6143546139501,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1866.1937900307444,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1862.0057099821443,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1870.2569262825539,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1868.5136488296914,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1862.9322389121176,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1869.5661647089717,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1869.2915954177076,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1866.430067393837,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1867.9787305440257,
+        "point_count": 1904
+      }
+    },
+    "2018_11": {
+      "ALAPPUZHA": {
+        "average": 1853.5488279983322,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1853.6233146909126,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1852.7822777529022,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1850.7973873660778,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1849.6496689721753,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1852.886263368046,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1853.392074212182,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1850.0745847546775,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1850.0073729895041,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1852.4536569590991,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1853.814631158894,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1855.6231363354682,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1853.1123189757052,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1849.1067030727886,
+        "point_count": 1904
+      }
+    },
+    "2018_12": {
+      "ALAPPUZHA": {
+        "average": 1853.7833919099721,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1850.441792288656,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1848.8425959538272,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1849.9689493395267,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1850.3781420228138,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1851.6750948392028,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1849.8298913210476,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1849.2405297101852,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1849.1030427638034,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1849.0796285011882,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1851.2223555387259,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1852.50536663786,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1851.3284561263117,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1847.3235638883643,
+        "point_count": 1904
+      }
+    },
+    "2019_01": {
+      "ALAPPUZHA": {
+        "average": 1879.7791988178703,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1867.6405365591943,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1853.1786268365731,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1869.6986858692228,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1869.7029696977363,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1874.4993158926288,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1873.3943182824578,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1866.1552043942897,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1853.212319414552,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1856.657199802532,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1867.8129358787255,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1873.1213384310597,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1864.020863249292,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1848.1325585781758,
+        "point_count": 1904
+      }
+    },
+    "2019_02": {
+      "ALAPPUZHA": {
+        "average": 1869.1209679857407,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1855.1397843455072,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1874.7768801791537,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1878.1829187417163,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1873.5558904490993,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1874.1534498941467,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1874.7893999535754,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1875.7618117890647,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1873.873165511847,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1869.693420100983,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1875.4145638404286,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1873.274395891821,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1867.5294762374695,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1874.893443969343,
+        "point_count": 1904
+      }
+    },
+    "2019_03": {
+      "ALAPPUZHA": {
+        "average": 1877.653122592184,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1876.7627116815627,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1875.4899760615556,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1865.3850058106711,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1874.0457780104311,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1875.5002008043527,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1877.698527565336,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1875.1907391225454,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1873.7955597388982,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1875.5870073322778,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1875.609609089694,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1874.5263975000844,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1874.3608320014398,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1874.6861309976505,
+        "point_count": 1904
+      }
+    },
+    "2019_04": {
+      "ALAPPUZHA": {
+        "average": 1869.3151701859113,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1868.1350746397864,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1880.371737983238,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1863.0560622184166,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1868.760742138271,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1876.0589337893307,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1870.9650135017134,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1863.6384434084239,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1864.8110646121422,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1866.9564122543711,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1878.0036771595703,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1873.4008237576572,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1865.697904105008,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1863.0379449074271,
+        "point_count": 1904
+      }
+    },
+    "2019_05": {
+      "ALAPPUZHA": {
+        "average": 1862.3555750180046,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1864.0913079943964,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1865.7093339142687,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1884.9595952281818,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1895.7607085367952,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1867.7152051231042,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1866.9184112742814,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1874.9114097859408,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1868.0083259835972,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1869.4194590144346,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1868.135364569804,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1870.8855893708196,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1864.6771759565327,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1876.340023803161,
+        "point_count": 1904
+      }
+    },
+    "2019_06": {
+      "ALAPPUZHA": {
+        "average": 1855.4558620230841,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1873.9463442239976,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1875.0752620600545,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1875.9735352784182,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1876.9867256906423,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1869.5893520807663,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1865.055327758768,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1875.8176321293668,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1871.7829865793312,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1856.6535895669203,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1867.5076264309937,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1869.7751781076404,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1871.134678785163,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1868.9490421947123,
+        "point_count": 1904
+      }
+    },
+    "2019_07": {
+      "ALAPPUZHA": {
+        "average": 1843.139496321014,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1850.3396685542928,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1870.070666078111,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1865.7996315142577,
+        "point_count": 376
+      },
+      "KASARAGOD": {
+        "average": 1873.2114052440593,
+        "point_count": 1732
+      },
+      "KOLLAM": {
+        "average": 1868.489239484752,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1847.9336875592126,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1870.1096553831171,
+        "point_count": 224
+      },
+      "MALAPPURAM": {
+        "average": 1873.27117886361,
+        "point_count": 2749
+      },
+      "PALAKKAD": {
+        "average": 1857.3744427220831,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1868.6725043391073,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1871.37577628829,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1866.841284173167,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1872.7187704998255,
+        "point_count": 931
+      }
+    },
+    "2019_08": {
+      "ALAPPUZHA": {
+        "average": 1850.3496736459292,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1867.5008136653682,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1872.8270805583195,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1875.718347700215,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1864.6693278444022,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1870.8212800490426,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1860.8756587918465,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1890.2898213286344,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1877.4542573373753,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1877.8735961893158,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1870.2754146534805,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1871.9339089635046,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1874.6371895747432,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1890.7460079972877,
+        "point_count": 1904
+      }
+    },
+    "2019_09": {
+      "ALAPPUZHA": {
+        "average": 1869.8024444452676,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1868.3912374461427,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1896.5381981914181,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1864.713848670807,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1877.1962364971337,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1901.5004735072714,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1876.5585038104746,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1863.0635214422666,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1865.0335752211488,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1866.3758983612138,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1898.613841608566,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1885.853827756925,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1865.9817288690883,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1864.8358403310633,
+        "point_count": 1904
+      }
+    },
+    "2019_10": {
+      "ALAPPUZHA": {
+        "average": 1879.7608196853942,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1878.1623560786495,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1874.0474744988617,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1878.2106018992054,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1873.7581298347745,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1874.4365715265656,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1875.3268224849428,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1875.3200042018975,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1874.5526554680107,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1876.3941924305805,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1874.5658764814543,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1873.165287258653,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1873.870898408076,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1874.4871837395167,
+        "point_count": 1904
+      }
+    },
+    "2019_11": {
+      "ALAPPUZHA": {
+        "average": 1854.6815870480084,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1853.6305925614352,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1851.001966214951,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1850.1864663065971,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1850.6270340311235,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1852.4436528878653,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1854.940531533467,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1849.8885825607047,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1851.1174959644172,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1851.0210113154913,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1852.8486025044076,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1853.4006310336335,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1853.4730439032753,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1848.1922604801991,
+        "point_count": 1904
+      }
+    },
+    "2019_12": {
+      "ALAPPUZHA": {
+        "average": 1852.1349259386664,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1850.7015953081584,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1849.2956679012468,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1850.778898485745,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1848.0180487882656,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1850.2718774911245,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1849.5403142690845,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1850.873585333066,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1851.7759077856163,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1849.4202828798325,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1849.9391953671443,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1851.01517276247,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1851.6941430682539,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1847.2242315909527,
+        "point_count": 1904
+      }
+    },
+    "2020_01": {
+      "ALAPPUZHA": {
+        "average": 1877.8427613068895,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1874.5055926771481,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1872.2174657381809,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1852.4753868650241,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1852.7889876016131,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1873.9307102515377,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1876.2788860861622,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1851.789466352815,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1858.2922908274404,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1868.9565055897938,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1873.7370878917366,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1872.1280239744879,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1869.2481155321805,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1852.959784891535,
+        "point_count": 1904
+      }
+    },
+    "2020_02": {
+      "ALAPPUZHA": {
+        "average": 1878.5186514007528,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1877.257050814232,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1875.421700362562,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1878.0585696725511,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1875.5720060057795,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1876.0960108467928,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1878.169289630749,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1875.5415358418163,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1874.4840333031004,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1876.3419429445687,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1876.0790114783579,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1875.9295947560017,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1874.5241293539725,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1876.7775722002414,
+        "point_count": 1904
+      }
+    },
+    "2020_03": {
+      "ALAPPUZHA": {
+        "average": 1878.749026862701,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1877.5730462952356,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1875.5025872082215,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1878.0955226718497,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1872.9138123232347,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1875.4026603668874,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1878.2993820007182,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1875.0373649917815,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1873.6995148638835,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1876.3704050378092,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1875.4872783235992,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1873.732651644721,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1874.413848287759,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1874.449142136623,
+        "point_count": 1904
+      }
+    },
+    "2020_04": {
+      "ALAPPUZHA": {
+        "average": 1861.9393731144332,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1865.488575559212,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1881.9160792222042,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1866.1057065100192,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1864.7333155545386,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1874.5853622380898,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1867.9677898796979,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1865.6718325329628,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1864.1035100528206,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1865.3755821412014,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1875.2636563381836,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1872.6788766748814,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1863.6962126039211,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1866.0587668073126,
+        "point_count": 1904
+      }
+    },
+    "2020_05": {
+      "ALAPPUZHA": {
+        "average": 1868.8383070173163,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1868.1391588030056,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1869.0500787563044,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1864.558790044088,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1862.1502562023725,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1871.5677593835892,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1866.7268210315199,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1873.2915847309262,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1868.6512097538175,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1868.7680910510699,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1866.4930973938256,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1873.5678490233072,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1866.8634248068279,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1873.8786049984938,
+        "point_count": 1904
+      }
+    },
+    "2020_06": {
+      "ALAPPUZHA": {
+        "average": 1852.401379196608,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1854.5410232138595,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1869.3923538373929,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1875.9856617809023,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1873.9271552797363,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1868.8132459041788,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1852.8175580836069,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1875.758715222023,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1870.6435849451027,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1863.66419803077,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1868.2910194158214,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1872.1725205504015,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1868.0373806941188,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1869.3938830969869,
+        "point_count": 1904
+      }
+    },
+    "2020_07": {
+      "ALAPPUZHA": {
+        "average": 1844.9850724014727,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1876.314589603622,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1873.2920091120814,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1859.3166693045225,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1872.1202899789785,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1870.875728151564,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1848.699389808039,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1873.4600792083722,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1871.9642619424958,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1861.781331919456,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1870.7811268360513,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1874.1275737309072,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1873.1265307639376,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1873.065983017597,
+        "point_count": 1904
+      }
+    },
+    "2020_08": {
+      "ALAPPUZHA": {
+        "average": 1855.6026853929402,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1876.6934330693218,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1868.3941583932035,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1867.2455965385996,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1865.9808350898743,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1870.8852028850133,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1873.5480530088314,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1868.4316041851623,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1875.1557225896295,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1873.326214564722,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1873.9350148821916,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1873.668443165113,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1875.8433693351335,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1873.3235044333323,
+        "point_count": 1904
+      }
+    },
+    "2020_09": {
+      "ALAPPUZHA": {
+        "average": 1867.9737956790718,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1867.5777494527156,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1876.9857717479417,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1874.4457011075326,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1914.5963579457443,
+        "point_count": 275
+      },
+      "KOLLAM": {
+        "average": 1889.5305877923986,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1871.3971097126469,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1868.9143973673672,
+        "point_count": 238
+      },
+      "MALAPPURAM": {
+        "average": 1866.594873473423,
+        "point_count": 2763
+      },
+      "PALAKKAD": {
+        "average": 1867.0496430931846,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1881.3613233873791,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1885.4391753165569,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1866.7566041036075,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1867.1737220768987,
+        "point_count": 948
+      }
+    },
+    "2020_10": {
+      "ALAPPUZHA": {
+        "average": 1864.3510960967706,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1862.9519056935735,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1872.511775080808,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1878.201607023418,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1872.2441719624137,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1876.2207228799643,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1867.6360505738728,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1874.0439807833716,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1871.8626064363332,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1869.2950026280123,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1871.2782108859885,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1874.9669117416922,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1873.6056085087282,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1873.2708867977444,
+        "point_count": 1904
+      }
+    },
+    "2020_11": {
+      "ALAPPUZHA": {
+        "average": 1855.7440913663443,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1852.714825948562,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1851.4082263546481,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1848.5316728873677,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1850.8231584439757,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1853.9485118652533,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1852.9302514890492,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1849.013508307309,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1849.6781827853229,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1850.9326264206197,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1853.1822459503692,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1853.4372183029877,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1852.5898843125017,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1845.6550640136843,
+        "point_count": 1904
+      }
+    },
+    "2020_12": {
+      "ALAPPUZHA": {
+        "average": 1854.7353599365288,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1852.6291666374702,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1853.4619383401564,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1850.971603045744,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1848.8994978873316,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1852.1475814933108,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1853.521470346424,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1849.329212988047,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1846.8015798002534,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1849.4556219897902,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1852.2230866231969,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1853.0811001419847,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1851.218757129203,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1846.8541309560253,
+        "point_count": 1904
+      }
+    },
+    "2021_01": {
+      "ALAPPUZHA": {
+        "average": 1872.938512678693,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1877.5223138526703,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1869.3589108362582,
+        "point_count": 493
+      },
+      "KANNUR": {
+        "average": 1852.9169355402958,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1852.487675176993,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1868.9401767275265,
+        "point_count": 462
+      },
+      "KOTTAYAM": {
+        "average": 1878.3895405716057,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1851.9902469720923,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1859.560309907506,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1870.0040597049215,
+        "point_count": 2477
+      },
+      "PATTANAMTHITTA": {
+        "average": 1873.24375370631,
+        "point_count": 492
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1867.8546882469948,
+        "point_count": 1184
+      },
+      "TRISSUR": {
+        "average": 1850.7600315605014,
+        "point_count": 324
+      },
+      "WAYANAD": {
+        "average": 1852.964197966431,
+        "point_count": 1904
+      }
+    },
+    "2021_02": {
+      "ALAPPUZHA": {
+        "average": 1878.6332811247137,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1877.532978475273,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1875.6348534271408,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1877.726052681812,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1873.2020142954125,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1875.8387463813885,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1878.4191862693358,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1874.3527634607813,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1870.374368600184,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1876.1109850242817,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1875.9430578113788,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1875.4779526217335,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1874.9283415933821,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1869.991959230445,
+        "point_count": 1904
+      }
+    },
+    "2021_03": {
+      "ALAPPUZHA": {
+        "average": 1877.1919427082428,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1876.873610714754,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1875.5894227505494,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1848.2917830588951,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1875.5011963468746,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1874.5659141313126,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1875.0845094986068,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1872.9328692206159,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1874.2388513941996,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1875.8567274331353,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1876.0064750488323,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1873.554286226692,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1874.6899136317409,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1878.30248878321,
+        "point_count": 1904
+      }
+    },
+    "2021_04": {
+      "ALAPPUZHA": {
+        "average": 1865.768297472537,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1867.6516612153384,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1865.7862989145378,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1865.4644893153607,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1865.435826035904,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1864.757345412836,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1865.9363272235125,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1871.6988753010737,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1878.8022227572574,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1869.9191664394166,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1865.3583172330111,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1865.5622474221157,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1875.1745933497637,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1881.4066082659529,
+        "point_count": 1904
+      }
+    },
+    "2021_05": {
+      "ALAPPUZHA": {
+        "average": 1865.5378210632816,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1866.7933596000319,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1866.4644333181682,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1870.184728862368,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1867.1418523463715,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1866.0368248107497,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1866.006460085252,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1870.0483993647126,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1866.4558165330075,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1867.3840335757761,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1865.6722691719642,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1869.9228280312168,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1866.1590091881187,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1870.9075982333184,
+        "point_count": 1904
+      }
+    },
+    "2021_06": {
+      "ALAPPUZHA": {
+        "average": 1841.7202662604936,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1857.8851414665019,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1870.8245783179364,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1877.5040442662264,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1863.150744820181,
+        "point_count": 226
+      },
+      "KOLLAM": {
+        "average": 1869.2342575467167,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1848.853683370638,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1871.5602103319345,
+        "point_count": 287
+      },
+      "MALAPPURAM": {
+        "average": 1874.1692920449743,
+        "point_count": 2843
+      },
+      "PALAKKAD": {
+        "average": 1872.9343890701098,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1869.6249523875238,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1870.3293374855964,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1874.987327132619,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1872.5618341805198,
+        "point_count": 1021
+      }
+    },
+    "2021_07": {
+      "ALAPPUZHA": {
+        "average": 1848.3868589040317,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1869.5276862029302,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1870.829193524647,
+        "point_count": 3856
+      },
+      "KASARAGOD": {
+        "average": 1860.024138020634,
+        "point_count": 263
+      },
+      "KOLLAM": {
+        "average": 1868.3740962457252,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1856.2908617914086,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1871.9855372423579,
+        "point_count": 212
+      },
+      "MALAPPURAM": {
+        "average": 1872.2572530291247,
+        "point_count": 2729
+      },
+      "PALAKKAD": {
+        "average": 1873.0593321445797,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1868.900166200619,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1872.6772014950657,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1875.2348361894929,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1872.4095227411274,
+        "point_count": 921
+      }
+    },
+    "2021_08": {
+      "ALAPPUZHA": {
+        "average": 1880.1827141579818,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1871.4322365965372,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1865.3041333430124,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1868.1530291703136,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1871.173726155689,
+        "point_count": 1455
+      },
+      "KOLLAM": {
+        "average": 1871.3568318768994,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1871.2455236853018,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1870.9347012487617,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1875.2992597480254,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1868.192849013646,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1868.586326388213,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1868.5591402599002,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1876.144463659618,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1873.4522375576096,
+        "point_count": 1904
+      }
+    },
+    "2021_09": {
+      "ALAPPUZHA": {
+        "average": 1867.801660771946,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1867.6449069752557,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1870.593804579239,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1868.706009703052,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1865.8836473110478,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1877.054215056606,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1869.6339466192644,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1879.5043576467494,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1872.162457945227,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1866.4193885323832,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1872.8599600839448,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1878.704784763432,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1865.738777746312,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1883.5604764163566,
+        "point_count": 1904
+      }
+    },
+    "2021_10": {
+      "ALAPPUZHA": {
+        "average": 1863.5772196102766,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1854.7444245537483,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1871.303146184002,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1862.8823654928835,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1871.7717493201972,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1874.1395615292008,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1862.9347391313856,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1872.7086666846126,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1873.43325388315,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1866.3787770512977,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1869.0187868992532,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1872.4684473799366,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1869.9449611891262,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1868.406074046682,
+        "point_count": 1904
+      }
+    },
+    "2021_11": {
+      "ALAPPUZHA": {
+        "average": 1855.7822968335333,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1850.9599003472993,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1850.7891554119997,
+        "point_count": 542
+      },
+      "KANNUR": {
+        "average": 1857.3165739740969,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1853.7633070351078,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1849.1216405722066,
+        "point_count": 508
+      },
+      "KOTTAYAM": {
+        "average": 1850.8679274674528,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1852.9388104539532,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1845.093261686101,
+        "point_count": 1978
+      },
+      "PALAKKAD": {
+        "average": 1844.5906739852933,
+        "point_count": 149
+      },
+      "PATTANAMTHITTA": {
+        "average": 1849.0433648279281,
+        "point_count": 540
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1847.6369690368997,
+        "point_count": 1236
+      },
+      "TRISSUR": {
+        "average": 1844.5402708910742,
+        "point_count": 238
+      },
+      "WAYANAD": {
+        "average": 1849.265419696381,
+        "point_count": 1749
+      }
+    },
+    "2021_12": {
+      "ALAPPUZHA": {
+        "average": 1854.5482280254616,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1850.9943826262534,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1850.0066722206568,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1850.5253604723046,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1850.0049139904393,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1854.3488633746044,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1851.6126716929327,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1850.5647538416392,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1848.452625840113,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1850.8333993167098,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1852.9081102327136,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1853.3730668116457,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1850.908579983232,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1848.2574219913201,
+        "point_count": 1904
+      }
+    },
+    "2022_01": {
+      "ALAPPUZHA": {
+        "average": 1879.6422902760905,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1878.1732562040286,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1870.6129238915555,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1857.9592698882418,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1853.621204143892,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1878.330086720186,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1879.072267271669,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1854.2102874110067,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1854.8164432505428,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1873.074810336662,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1875.8957610582902,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1877.562887398434,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1875.127962731739,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1853.6334259845282,
+        "point_count": 1904
+      }
+    },
+    "2022_02": {
+      "ALAPPUZHA": {
+        "average": 1873.8450882186025,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1877.4676638681638,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1875.9343054104359,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1877.307366922234,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1873.8906012520567,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1877.3185942432565,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1878.452106868836,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1876.1897531130576,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1876.1620532844445,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1876.410151187546,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1876.4997680978684,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1874.3378724133638,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1874.2128956532702,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1874.957964701848,
+        "point_count": 1904
+      }
+    },
+    "2022_03": {
+      "ALAPPUZHA": {
+        "average": 1868.7626508360656,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1877.9477286651888,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1876.174584214736,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1877.86347921444,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1873.0183659440145,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1875.3799608064428,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1876.396290170856,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1875.336843064622,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1873.5209031638512,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1876.1461126035144,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1874.919698479711,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1873.9687466238977,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1874.1565705480969,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1874.461702215736,
+        "point_count": 1904
+      }
+    },
+    "2022_04": {
+      "ALAPPUZHA": {
+        "average": 1865.9856208292233,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1865.7699985972906,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1865.1121218095623,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1869.79418967998,
+        "point_count": 451
+      },
+      "KASARAGOD": {
+        "average": 1864.7123112316983,
+        "point_count": 1750
+      },
+      "KOLLAM": {
+        "average": 1864.96041810051,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1865.9255658635868,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1876.376691958088,
+        "point_count": 304
+      },
+      "MALAPPURAM": {
+        "average": 1868.13963794554,
+        "point_count": 2874
+      },
+      "PALAKKAD": {
+        "average": 1865.232150970235,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1865.2681083803352,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1865.2760359919007,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1866.1244079650853,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1871.0523788346868,
+        "point_count": 1056
+      }
+    },
+    "2022_05": {
+      "ALAPPUZHA": {
+        "average": 1866.5562713052964,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1867.03388850713,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1865.3407622090829,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1874.0036592634128,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1871.2534618970117,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1863.1943768744618,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1865.6518136584507,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1875.1541908383533,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1866.773011204431,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1865.1364705380995,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1865.8127081861837,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1871.840077986478,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1864.8542499455266,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1872.4193657428752,
+        "point_count": 1904
+      }
+    },
+    "2022_06": {
+      "ALAPPUZHA": {
+        "average": 1847.106825102107,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1877.771378031613,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1876.4076432822585,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1864.0800164980442,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1865.4272491641268,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1866.4126978153274,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1873.3591888822855,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1864.9331357021492,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1875.2460834660135,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1877.4559680491832,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1866.841245066856,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1871.9108369229855,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1873.76215191339,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1869.177081004007,
+        "point_count": 1904
+      }
+    },
+    "2022_07": {
+      "ALAPPUZHA": {
+        "average": 1878.1252425996056,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1852.6264350800461,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1869.105142187674,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1870.7458629868775,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1874.1378971135732,
+        "point_count": 1176
+      },
+      "KOLLAM": {
+        "average": 1869.288724982232,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1864.6983778333947,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1876.1421354663703,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1872.237514184402,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1861.1428962267084,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1870.7744649739636,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1869.6066067945335,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1869.0717270167918,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1873.1798451149648,
+        "point_count": 1904
+      }
+    },
+    "2022_08": {
+      "ALAPPUZHA": {
+        "average": 1865.814568898811,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1866.1584536989649,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1865.7694903312579,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1870.5852629743883,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1865.3487222822341,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1865.809071738075,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1865.2352814040116,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1874.5596366255675,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1869.5755069014367,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1866.6892424353505,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1865.759983509356,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1866.6869919979836,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1868.3922434430451,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1875.671107420146,
+        "point_count": 1904
+      }
+    },
+    "2022_09": {
+      "ALAPPUZHA": {
+        "average": 1890.4960027447341,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1885.4193764488855,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1906.9430180158538,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1867.2605835488002,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1865.2126849662884,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1904.41605986133,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1906.2315865376952,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1872.9110377822276,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1868.061171893753,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1869.5078006069416,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1905.6867012632865,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1881.3611491507127,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1867.5383809606826,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1869.922359920536,
+        "point_count": 1904
+      }
+    },
+    "2022_10": {
+      "ALAPPUZHA": {
+        "average": 1877.8034510363893,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1877.243623347031,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1874.9709101289095,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1878.0423233718907,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1873.622955574904,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1875.0788834185616,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1877.0527470488414,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1874.6389446401,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1873.4545321573985,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1875.3808807953772,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1875.4471209255496,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1872.3268034853588,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1873.7547305577534,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1874.793323584789,
+        "point_count": 1904
+      }
+    },
+    "2022_11": {
+      "ALAPPUZHA": {
+        "average": 1857.0996963180253,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1854.9208316105487,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1853.7402205052463,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1850.508718450547,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1850.663617020877,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1854.4313291347826,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1854.9005398414092,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1849.4652881747656,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1848.6161149368952,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1854.6523545669363,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1854.683838332217,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1847.262143513682,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1853.7189137277494,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1847.621284749082,
+        "point_count": 1904
+      }
+    },
+    "2022_12": {
+      "ALAPPUZHA": {
+        "average": 1851.7569515246591,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1850.3794061271917,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1847.1435776396388,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1849.9822532520493,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1850.1676417940903,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1851.6789385949908,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1850.2593037203662,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1848.6720482858163,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1846.732937596401,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1848.373739803012,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1850.2773617771693,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1852.3975919945553,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1850.8315362193778,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1845.9558672084145,
+        "point_count": 1904
+      }
+    },
+    "2023_01": {
+      "ALAPPUZHA": {
+        "average": 1856.8371024022542,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1856.6732503777478,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1851.8789957444471,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1856.6599225247974,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1854.1679525062543,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1851.218246239348,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1856.4140328821263,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1852.69710889038,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1847.3790890217713,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1855.881661924773,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1851.4449300373794,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1850.24724345505,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1853.3738080748267,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1847.6720012855085,
+        "point_count": 1904
+      }
+    },
+    "2023_02": {
+      "ALAPPUZHA": {
+        "average": 1848.888713153635,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1870.6397237931262,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1872.1749196885594,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1878.0924715827518,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1880.320009488589,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1871.0856212805786,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1872.220943613412,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1877.2814802112403,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1873.910367266432,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1875.267650064832,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1872.55140925731,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1874.1314401835473,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1873.3594329854377,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1875.6797222305133,
+        "point_count": 1904
+      }
+    },
+    "2023_03": {
+      "ALAPPUZHA": {
+        "average": 1877.891275197629,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1872.1448896528232,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1877.3086895229453,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1878.220987068279,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1874.754996499705,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1873.2711354995022,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1877.318092186784,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1875.5562634976854,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1876.1457382382519,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1863.8863871582028,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1874.4057220903023,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1869.9599104527952,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1873.2287672391858,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1876.7471384583055,
+        "point_count": 1904
+      }
+    },
+    "2023_04": {
+      "ALAPPUZHA": {
+        "average": 1863.581327289734,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1865.003360844424,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1868.3043376926992,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1890.4214438587044,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1862.0710591581096,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1867.754992990442,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1864.7455082226961,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1890.2985550208016,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1868.0713015658628,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1865.1220668322487,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1867.1989626301865,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1868.366570813829,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1864.6249921378571,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1879.6975387748446,
+        "point_count": 1904
+      }
+    },
+    "2023_05": {
+      "ALAPPUZHA": {
+        "average": 1869.0650179333982,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1865.4440303035233,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1863.4693618158099,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1886.643957622559,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1908.873576715211,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1868.9670405887098,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1862.0477407150008,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1877.7865243817678,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1865.4922059222845,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1864.542907677257,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1865.4527864749916,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1872.0254921481708,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1865.2166509921396,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1877.0516928060713,
+        "point_count": 1904
+      }
+    },
+    "2023_06": {
+      "ALAPPUZHA": {
+        "average": 1855.5771597593127,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1879.5613282037443,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1873.4390791231258,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1872.8751828993593,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1876.3005301919252,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1872.9171524325525,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1870.606912386782,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1871.2143816008027,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1870.5668607078321,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1876.1008344877716,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1866.905850679171,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1870.6790099481725,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1873.5047267317584,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1866.6913527688585,
+        "point_count": 1904
+      }
+    },
+    "2023_07": {
+      "ALAPPUZHA": {
+        "average": 1877.9297240744147,
+        "point_count": 1063
+      },
+      "ERNAKULAM": {
+        "average": 1876.8833671862726,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1874.0750730963273,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1874.6189894822583,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1874.6864108535324,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1867.2459902802339,
+        "point_count": 569
+      },
+      "KOTTAYAM": {
+        "average": 1878.3005500934114,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1874.8341161880016,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1872.9423541609524,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1875.6965236147867,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1873.9129332782486,
+        "point_count": 2131
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1866.9169898053435,
+        "point_count": 1271
+      },
+      "TRISSUR": {
+        "average": 1874.1856445494645,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1869.1423767910314,
+        "point_count": 1904
+      }
+    },
+    "2023_08": {
+      "ALAPPUZHA": {
+        "average": 1865.0043385361353,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1865.18984421816,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1866.435741263968,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1865.109291429896,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1865.33276292612,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1867.6673716668236,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1865.3371091426857,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1865.4598102488578,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1866.3623564301658,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1865.0202461177034,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1866.506052532909,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1870.8846482195459,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1865.412820369773,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1865.948496751519,
+        "point_count": 1904
+      }
+    },
+    "2023_09": {
+      "ALAPPUZHA": {
+        "average": 1873.5864705046843,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1871.0433556894036,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1908.5015589139311,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1866.59075647882,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1866.7470314379116,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1905.866213913095,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1888.2977741406598,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1867.8826597752,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1867.2983785399827,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1868.8067750797097,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1903.899374057862,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1885.5472434983094,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1866.2828381101092,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1866.9897652912034,
+        "point_count": 1904
+      }
+    },
+    "2023_10": {
+      "ALAPPUZHA": {
+        "average": 1853.5478301637017,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1858.4224516755096,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1869.4167412279137,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1878.851777224016,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1876.6374191285747,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1869.262953655666,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1857.1012470729568,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1877.3739739818268,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1871.9071818366856,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1873.7124097852084,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1868.2568613130359,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1870.1418101565844,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1874.8521139383313,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1873.2804646972595,
+        "point_count": 1904
+      }
+    },
+    "2023_11": {
+      "ALAPPUZHA": {
+        "average": 1855.312008987332,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1855.314024164348,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1854.2740289984054,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1851.4497237675844,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1848.7674305224307,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1854.356156860266,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1854.6382002488128,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1850.9414267612258,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1850.1732848969248,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1855.0492716005053,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1854.3190797561006,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1852.557886923272,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1854.8292933990244,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1848.103789613719,
+        "point_count": 1904
+      }
+    },
+    "2023_12": {
+      "ALAPPUZHA": {
+        "average": 1854.6765810943054,
+        "point_count": 1305
+      },
+      "ERNAKULAM": {
+        "average": 1850.855109174517,
+        "point_count": 2709
+      },
+      "IDUKKI": {
+        "average": 1848.4643304991464,
+        "point_count": 3856
+      },
+      "KANNUR": {
+        "average": 1850.6791387917272,
+        "point_count": 2621
+      },
+      "KASARAGOD": {
+        "average": 1849.8857516233159,
+        "point_count": 1830
+      },
+      "KOLLAM": {
+        "average": 1851.7115310104516,
+        "point_count": 2199
+      },
+      "KOTTAYAM": {
+        "average": 1851.3151537755496,
+        "point_count": 1972
+      },
+      "KOZHIKODE": {
+        "average": 1849.4729073631793,
+        "point_count": 2092
+      },
+      "MALAPPURAM": {
+        "average": 1846.7664904237186,
+        "point_count": 3129
+      },
+      "PALAKKAD": {
+        "average": 1847.070933936159,
+        "point_count": 3958
+      },
+      "PATTANAMTHITTA": {
+        "average": 1853.8428864323746,
+        "point_count": 2361
+      },
+      "THIRUVANANTHAPURAM": {
+        "average": 1851.5308494567867,
+        "point_count": 1940
+      },
+      "TRISSUR": {
+        "average": 1851.169127631855,
+        "point_count": 2690
+      },
+      "WAYANAD": {
+        "average": 1846.5349348785137,
+        "point_count": 1904
+      }
+    }
+  },
+  "statistics": {
+    "mean": 1867.0015915955767,
+    "std": 10.437198298228912,
+    "min": 1841.7202662604936,
+    "max": 1914.5963579457443
+  }
+}

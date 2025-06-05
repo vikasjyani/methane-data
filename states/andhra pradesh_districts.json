@@ -1,0 +1,6579 @@
+{
+  "type": "state_districts",
+  "state_name": "ANDHRA PRADESH",
+  "data": {
+    "ANANTAPUR": {
+      "average_methane": 1867.2290592623103,
+      "data_quality": {
+        "total_months": 120,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 16666.075
+      },
+      "point_count": 1999929
+    },
+    "CHITTOOR": {
+      "average_methane": 1866.5941835800465,
+      "data_quality": {
+        "total_months": 120,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 12939.241666666667
+      },
+      "point_count": 1552709
+    },
+    "EAST_GODAVARI": {
+      "average_methane": 1872.3842078786693,
+      "data_quality": {
+        "total_months": 119,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 11104.142857142857
+      },
+      "point_count": 1321393
+    },
+    "GUNTUR": {
+      "average_methane": 1871.8110354935538,
+      "data_quality": {
+        "total_months": 120,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 9880.616666666667
+      },
+      "point_count": 1185674
+    },
+    "KRISHNA": {
+      "average_methane": 1870.030279546575,
+      "data_quality": {
+        "total_months": 120,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 7670.175
+      },
+      "point_count": 920421
+    },
+    "KURNOOL": {
+      "average_methane": 1869.7717798725228,
+      "data_quality": {
+        "total_months": 120,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 14700.491666666667
+      },
+      "point_count": 1764059
+    },
+    "POTTI_SRIRAMULU_NELLORE": {
+      "average_methane": 1866.816091980434,
+      "data_quality": {
+        "total_months": 119,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 11244.596638655463
+      },
+      "point_count": 1338107
+    },
+    "PRAKASAM": {
+      "average_methane": 1869.7513430533363,
+      "data_quality": {
+        "total_months": 119,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 14962.403361344537
+      },
+      "point_count": 1780526
+    },
+    "SRIKAKULAM": {
+      "average_methane": 1873.6777645116495,
+      "data_quality": {
+        "total_months": 119,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 5256.983193277311
+      },
+      "point_count": 625581
+    },
+    "VISAKHAPATNAM": {
+      "average_methane": 1874.2147080186357,
+      "data_quality": {
+        "total_months": 120,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 10064.166666666666
+      },
+      "point_count": 1207700
+    },
+    "VIZIANAGARAM": {
+      "average_methane": 1877.0175549602247,
+      "data_quality": {
+        "total_months": 117,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 5665.393162393162
+      },
+      "point_count": 662851
+    },
+    "WEST_GODAVARI": {
+      "average_methane": 1873.9194810055112,
+      "data_quality": {
+        "total_months": 119,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 7095.697478991597
+      },
+      "point_count": 844388
+    },
+    "Y_S_R_KADAPA": {
+      "average_methane": 1866.6731789413536,
+      "data_quality": {
+        "total_months": 120,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 12980.725
+      },
+      "point_count": 1557687
+    }
+  },
+  "monthly_data": {
+    "2014_01": {
+      "ANANTAPUR": {
+        "average": 1851.7340289110036,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1850.1646770402601,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1849.3287876119798,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1850.8414012967417,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1851.1411400258762,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1850.5770479415603,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1847.8450086802243,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1848.9275056503022,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1850.7044289648086,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1850.4148128968627,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1850.475131258335,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1849.722339707903,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1849.4734655574055,
+        "point_count": 13251
+      }
+    },
+    "2014_02": {
+      "ANANTAPUR": {
+        "average": 1874.1995015831926,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1873.7725016669085,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1876.065326318668,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1873.8837786571594,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1875.008738719122,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1874.4242092130455,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1875.2006639443644,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1875.7692952452915,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1868.339305676847,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1874.957478227248,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1875.2507181865283,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1876.6152138904395,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1873.9807230905724,
+        "point_count": 13251
+      }
+    },
+    "2014_03": {
+      "ANANTAPUR": {
+        "average": 1873.9515834181584,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1874.199388572469,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1873.728206598499,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1867.7430449700976,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1875.5272096916392,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1873.788136541716,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1872.1876054849727,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1870.2543256927747,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1871.9643647024045,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1873.4580163371054,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1876.654221613328,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1876.4807527363728,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1873.8952016039786,
+        "point_count": 13251
+      }
+    },
+    "2014_04": {
+      "ANANTAPUR": {
+        "average": 1896.9569779207893,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1872.8212836962437,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1872.48893540342,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1868.665561039016,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1874.4407514715554,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1887.2313069101979,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1871.4547204718813,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1868.3553777616892,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1872.5631421548135,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1866.298103558164,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1866.1516222256944,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1870.1389879005173,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1878.4566358300356,
+        "point_count": 13251
+      }
+    },
+    "2014_05": {
+      "ANANTAPUR": {
+        "average": 1897.5588339232822,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1882.2013309573417,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1891.0399460600552,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1894.174358540013,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1891.47440712312,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1892.1917399609913,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1890.1280035739198,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1894.7573535333697,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1901.884914503011,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1895.9926556066202,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1889.2176338220836,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1891.8746309482426,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1886.1253507761808,
+        "point_count": 13251
+      }
+    },
+    "2014_06": {
+      "ANANTAPUR": {
+        "average": 1869.0388566233312,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1864.901307127748,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1885.703787904604,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1886.9045263651244,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1884.4637341751452,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1883.1728858955694,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1864.789821514002,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1876.0820909463432,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1867.434263131649,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1875.3036491996495,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1875.2847242404966,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1880.6530715055553,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1862.7467785687218,
+        "point_count": 13251
+      }
+    },
+    "2014_07": {
+      "ANANTAPUR": {
+        "average": 1867.7049433437548,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1871.3085111792855,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1876.2152892502604,
+        "point_count": 10131
+      },
+      "GUNTUR": {
+        "average": 1864.1462842231454,
+        "point_count": 4206
+      },
+      "KRISHNA": {
+        "average": 1869.422921069866,
+        "point_count": 7023
+      },
+      "KURNOOL": {
+        "average": 1870.8129832819213,
+        "point_count": 14973
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1868.141373626263,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1867.1565036895809,
+        "point_count": 5246
+      },
+      "SRIKAKULAM": {
+        "average": 1886.502022056651,
+        "point_count": 4062
+      },
+      "VISAKHAPATNAM": {
+        "average": 1875.4729515629663,
+        "point_count": 2411
+      },
+      "WEST_GODAVARI": {
+        "average": 1884.0739439270224,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1866.8620053566372,
+        "point_count": 13251
+      }
+    },
+    "2014_08": {
+      "ANANTAPUR": {
+        "average": 1870.5794002638615,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1870.1832264608622,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1890.5807308070946,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1888.0277224911554,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1883.179232134361,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1882.5273393122707,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1877.0981860094944,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1881.7214984969185,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1878.7557798527548,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1904.249509657266,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1924.6515035657487,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1907.5164874655038,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1873.499034012182,
+        "point_count": 13251
+      }
+    },
+    "2014_09": {
+      "ANANTAPUR": {
+        "average": 1870.2638662720772,
+        "point_count": 16979
+      },
+      "CHITTOOR": {
+        "average": 1868.5120367197671,
+        "point_count": 12831
+      },
+      "EAST_GODAVARI": {
+        "average": 1874.167262317751,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1869.056476600056,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1865.3037177223166,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1872.685954246946,
+        "point_count": 14910
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1871.6801106102603,
+        "point_count": 6200
+      },
+      "PRAKASAM": {
+        "average": 1868.3841888537174,
+        "point_count": 15262
+      },
+      "SRIKAKULAM": {
+        "average": 1873.612376440457,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1866.9341327591032,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1877.3078308260556,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1877.0974351508437,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1867.007069277499,
+        "point_count": 4368
+      }
+    },
+    "2014_10": {
+      "ANANTAPUR": {
+        "average": 1857.1343795396324,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1872.4951945769674,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1856.4392074131956,
+        "point_count": 6039
+      },
+      "GUNTUR": {
+        "average": 1865.3552347553664,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1851.0650999797826,
+        "point_count": 7099
+      },
+      "KURNOOL": {
+        "average": 1870.232121946808,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1864.7136983855228,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1871.5474018304774,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1848.7962689093522,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1853.41281686406,
+        "point_count": 9989
+      },
+      "VIZIANAGARAM": {
+        "average": 1850.5923565692117,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1860.4310173299932,
+        "point_count": 2180
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1867.7470821886543,
+        "point_count": 13251
+      }
+    },
+    "2014_11": {
+      "ANANTAPUR": {
+        "average": 1849.3800116566863,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1848.1476038980593,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1866.7613862834419,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1857.8500486479377,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1867.0372936839685,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1857.4223912383518,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1848.5516034484206,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1850.9036250238046,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1868.2862369927852,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1853.5985141013427,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1850.4875635821434,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1874.73741484584,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1848.8486584729606,
+        "point_count": 13251
+      }
+    },
+    "2014_12": {
+      "ANANTAPUR": {
+        "average": 1850.870345386253,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1849.1307536531033,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1874.463599402666,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1869.1814927046598,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1857.3651929005594,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1851.702437566627,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1849.423340497359,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1859.3158810106138,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1874.7379638334985,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1877.026305430559,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1876.8894547686755,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1874.295253315473,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1849.4225498037033,
+        "point_count": 13251
+      }
+    },
+    "2015_01": {
+      "ANANTAPUR": {
+        "average": 1853.2946077064378,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1852.1262917696379,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1851.1608794948365,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1850.6358293661049,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1851.6597330556517,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1851.3575850410039,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1851.2070490847393,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1849.553063510261,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1851.1600024428092,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1850.9268292354523,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1850.3870591831476,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1850.8536257112614,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1852.5020051687343,
+        "point_count": 13251
+      }
+    },
+    "2015_02": {
+      "ANANTAPUR": {
+        "average": 1874.3202805602389,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1874.1615072701397,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1874.7227593744758,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1875.560562206509,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1875.482373398851,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1873.9366784146766,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1875.2356936561214,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1875.3242390662663,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1871.413964584117,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1877.3733985651988,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1874.064526764511,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1877.0039362282455,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1873.7587929831593,
+        "point_count": 13251
+      }
+    },
+    "2015_03": {
+      "ANANTAPUR": {
+        "average": 1874.2733678762609,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1873.7262634860306,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1874.3181637523608,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1874.1806600168723,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1874.6265465720435,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1873.94836177095,
+        "point_count": 15088
+      },
+      "SRIKAKULAM": {
+        "average": 1872.959036908732,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1875.775441346427,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1876.4468049376144,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1876.5704555416226,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1873.7405444808976,
+        "point_count": 13251
+      }
+    },
+    "2015_04": {
+      "ANANTAPUR": {
+        "average": 1871.3409842253918,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1876.830736592865,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1869.294808256782,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1888.23152005015,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1877.2400474116646,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1869.9613364487957,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1883.9128213968309,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1885.8477695733657,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1875.5285093864234,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1867.0586666425927,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1875.7503538531746,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1873.5360640340825,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1871.7836404504253,
+        "point_count": 13251
+      }
+    },
+    "2015_05": {
+      "ANANTAPUR": {
+        "average": 1889.8660761685962,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1886.4026557722875,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1889.5580262128142,
+        "point_count": 11320
+      },
+      "GUNTUR": {
+        "average": 1891.262777317157,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1890.6688439729464,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1891.6845856234195,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1883.2681316555156,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1884.5150083851381,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1889.9358946759269,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1895.314026684027,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1893.627978702667,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1891.424055837377,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1887.611183921758,
+        "point_count": 13251
+      }
+    },
+    "2015_06": {
+      "ANANTAPUR": {
+        "average": 1865.5191722837305,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1866.1936465208323,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1876.1814566554565,
+        "point_count": 11336
+      },
+      "GUNTUR": {
+        "average": 1876.0549689403044,
+        "point_count": 9911
+      },
+      "KRISHNA": {
+        "average": 1888.6292310455008,
+        "point_count": 7047
+      },
+      "KURNOOL": {
+        "average": 1875.9530610883899,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1868.39822378838,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1878.4770385799206,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1870.6417155882727,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1875.4354489938883,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1884.4084006262453,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1878.9939777368602,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1868.1460508637765,
+        "point_count": 13251
+      }
+    },
+    "2015_07": {
+      "ANANTAPUR": {
+        "average": 1867.6820943872701,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1869.358091355477,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1878.992842630153,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1868.9978092859124,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1868.4138030460842,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1869.3070445017233,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1868.0780955717842,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1868.8278550036737,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1885.8168571650792,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1882.2614214799316,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1881.8023300914635,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1880.9725783602298,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1865.2419614416822,
+        "point_count": 13251
+      }
+    },
+    "2015_08": {
+      "ANANTAPUR": {
+        "average": 1871.252883728414,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1866.254300184729,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1877.725624504871,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1883.9935124298447,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1881.0444540354783,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1883.8497538712672,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1870.1419892295448,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1873.0684440161597,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1880.612461158912,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1890.2422018355664,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1921.850389831372,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1893.5239317485227,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1871.6741180523436,
+        "point_count": 13251
+      }
+    },
+    "2015_09": {
+      "ANANTAPUR": {
+        "average": 1869.7375789495504,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1865.8304341209168,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1873.1328428809234,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1869.9129401724758,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1858.8088024601836,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1865.2241634732684,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1867.4979715303393,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1870.982588336105,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1870.0642164594112,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1860.378871017453,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1860.3809355234023,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1871.3554241943941,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1869.8333195336802,
+        "point_count": 13251
+      }
+    },
+    "2015_10": {
+      "ANANTAPUR": {
+        "average": 1854.6048134356965,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1867.9546262553283,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1848.3674066877995,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1855.6144312524214,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1853.006611702902,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1853.9864573808286,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1862.1049455572725,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1865.0364889543328,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1852.5672212867182,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1852.7173708151781,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1852.777706672733,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1848.9229652267786,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1869.4023947275969,
+        "point_count": 13251
+      }
+    },
+    "2015_11": {
+      "ANANTAPUR": {
+        "average": 1849.0998746937805,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1851.6266482921453,
+        "point_count": 12504
+      },
+      "EAST_GODAVARI": {
+        "average": 1867.3690267634838,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1860.4281461105904,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1855.9525608769652,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1860.2606262872246,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1847.8877934899465,
+        "point_count": 10984
+      },
+      "PRAKASAM": {
+        "average": 1852.9555012330225,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1875.2908567893592,
+        "point_count": 3274
+      },
+      "VISAKHAPATNAM": {
+        "average": 1878.263954494357,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1877.3872816900932,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1852.1253258786078,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1850.7736210981564,
+        "point_count": 13251
+      }
+    },
+    "2015_12": {
+      "ANANTAPUR": {
+        "average": 1851.6259327358387,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1850.5535501819284,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1873.7292135021153,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1866.715135393293,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1869.4092131705268,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1854.4055761892696,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1849.7530396015654,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1857.6125346173694,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1878.1112364484077,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1875.9493886529356,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1876.6022717716733,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1880.4803566088362,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1850.69162982058,
+        "point_count": 13251
+      }
+    },
+    "2016_01": {
+      "ANANTAPUR": {
+        "average": 1854.3182077607246,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1853.6884064188548,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1849.5939533647495,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1849.5259002519426,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1849.9067500827298,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1853.6794486904655,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1853.0069917572548,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1850.7055802228747,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1848.6074177210314,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1850.6814151751682,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1850.0369919226148,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1849.930740677307,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1854.4118877336052,
+        "point_count": 13251
+      }
+    },
+    "2016_02": {
+      "ANANTAPUR": {
+        "average": 1871.148850035195,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1874.020750398681,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1871.4461228635237,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1874.9779846094973,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1875.731057022392,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1871.7574542322232,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1874.184264917125,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1875.1815207646266,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1870.7685339738596,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1872.6792013492015,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1878.8050665735043,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1874.7514767168168,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1873.883210687837,
+        "point_count": 13251
+      }
+    },
+    "2016_03": {
+      "ANANTAPUR": {
+        "average": 1872.4257405764122,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1866.3272001736284,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1874.5584408603904,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1874.8660592471824,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1875.179290512932,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1873.7007669132759,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1866.3127980474871,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1871.9240483629917,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1873.301282865665,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1875.5101782333097,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1876.369964078004,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1875.7680776084933,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1864.042431969563,
+        "point_count": 13251
+      }
+    },
+    "2016_04": {
+      "ANANTAPUR": {
+        "average": 1875.8583515611413,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1882.361447858032,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1865.7757887614812,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1884.2685285097018,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1875.3532485914575,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1876.0142401405471,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1885.6679726643767,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1883.6397575092485,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1872.9401385641243,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1881.4798164085921,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1894.1596462961354,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1865.4324574251336,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1876.9136625007352,
+        "point_count": 13251
+      }
+    },
+    "2016_05": {
+      "ANANTAPUR": {
+        "average": 1893.3648724137242,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1885.0978400833415,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1889.9382445066872,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1886.3650499839034,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1888.9838139277736,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1895.5536273919913,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1881.2163796678758,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1884.5045924328306,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1909.1997229181195,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1902.416557272621,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1920.3982827924087,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1886.2559320317237,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1878.5732607266948,
+        "point_count": 13251
+      }
+    },
+    "2016_06": {
+      "ANANTAPUR": {
+        "average": 1865.7190777239373,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1864.3846742573471,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1871.693661660543,
+        "point_count": 9285
+      },
+      "GUNTUR": {
+        "average": 1870.2649135970544,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1871.257767507691,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1873.4014037203117,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1867.6692484997768,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1883.3970233651871,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1872.2609888784873,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1874.6256354703703,
+        "point_count": 5593
+      },
+      "VIZIANAGARAM": {
+        "average": 1881.9017335053168,
+        "point_count": 5629
+      },
+      "WEST_GODAVARI": {
+        "average": 1878.0817384813886,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1867.9708184545848,
+        "point_count": 13251
+      }
+    },
+    "2016_07": {
+      "ANANTAPUR": {
+        "average": 1867.3029688629035,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1869.929650129327,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1876.0003736728754,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1874.8071757121897,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1871.7049144665757,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1869.61643040655,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1867.7251310048823,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1869.7979230780581,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1895.4993301369557,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1891.478055079122,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1888.5230523776158,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1884.5324009341446,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1866.8729929101028,
+        "point_count": 13251
+      }
+    },
+    "2016_08": {
+      "ANANTAPUR": {
+        "average": 1877.2249748560816,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1866.504739376691,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1881.177852854728,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1897.04727576208,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1873.3395064265944,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1886.2400142416489,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1873.6490023184135,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1883.485950611233,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1904.43526746999,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1890.4418896248453,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1924.1968501363294,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1889.2767900781248,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1874.0453419897387,
+        "point_count": 13251
+      }
+    },
+    "2016_09": {
+      "ANANTAPUR": {
+        "average": 1867.5365931718252,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1868.8957161845672,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1867.3346084716113,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1870.9312078106964,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1859.0709312714862,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1864.485796650595,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1879.179924579178,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1870.290261857939,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1873.5789951551608,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1864.4887398642923,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1868.0440110435727,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1855.2320346804447,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1872.1751972837783,
+        "point_count": 13251
+      }
+    },
+    "2016_10": {
+      "ANANTAPUR": {
+        "average": 1853.2518314715003,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1866.6743337723112,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1853.815561993513,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1860.373690199614,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1870.5315155546473,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1852.2792191284484,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1856.0256676674428,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1854.811720286157,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1849.755429984144,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1852.2761624243224,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1848.8140249098929,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1872.1180625003597,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1861.0038466167837,
+        "point_count": 13251
+      }
+    },
+    "2016_11": {
+      "ANANTAPUR": {
+        "average": 1851.0326476475489,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1849.611968112498,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1873.6110708998463,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1865.4346148049196,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1855.833606154965,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1851.7350360116536,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1848.472616962982,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1855.8285470362166,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1874.1832310441748,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1875.7196947794878,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1876.448201301172,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1864.2207870721338,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1850.6062160214162,
+        "point_count": 13251
+      }
+    },
+    "2016_12": {
+      "ANANTAPUR": {
+        "average": 1850.9854486238435,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1849.2555018967648,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1871.3226709839857,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1864.1672453299332,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1868.4605856023202,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1861.5909528700606,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1849.4848726397663,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1856.3561323205304,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1875.515463729274,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1874.6169055200824,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1875.5613452473344,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1875.988216989176,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1851.3981911510273,
+        "point_count": 13251
+      }
+    },
+    "2017_01": {
+      "ANANTAPUR": {
+        "average": 1851.1927542492506,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1854.6960098629154,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1850.3445846610123,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1849.5442748035312,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1848.7290840429296,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1849.7553339642773,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1852.5949930604859,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1853.3843356037364,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1850.6616577328198,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1851.2773184391165,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1849.7735290615858,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1849.8320233411794,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1852.1316293780567,
+        "point_count": 13251
+      }
+    },
+    "2017_02": {
+      "ANANTAPUR": {
+        "average": 1871.298709567536,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1872.7607890842273,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1873.3780699372023,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1875.2631942265411,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1877.8261153593435,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1875.4743833151615,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1874.150498577042,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1875.136038353155,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1875.3677874801656,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1875.1324281435284,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1877.9903326799072,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1876.4288176834348,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1871.7601640931894,
+        "point_count": 13251
+      }
+    },
+    "2017_03": {
+      "ANANTAPUR": {
+        "average": 1874.7588545895294,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1874.6291519447782,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1874.782352386737,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1872.1643938875202,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1874.1322698644728,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1874.3612795476863,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1871.9359099797264,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1873.567487106869,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1873.2790095403539,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1875.638330092004,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1877.047866433299,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1876.3373103091585,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1874.5855684385779,
+        "point_count": 13251
+      }
+    },
+    "2017_04": {
+      "ANANTAPUR": {
+        "average": 1872.8888336526084,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1870.0145850056142,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1869.798931918444,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1870.3547291067425,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1866.9216974045212,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1873.575777412667,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1867.9811815109822,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1870.2713305671755,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1878.865571235423,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1874.7945513170737,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1876.238726863668,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1865.4122898473258,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1870.8974219358174,
+        "point_count": 13251
+      }
+    },
+    "2017_05": {
+      "ANANTAPUR": {
+        "average": 1887.6593932589246,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1894.3898145247042,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1886.2070223559099,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1887.2117751090318,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1875.362449188179,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1891.9228266441585,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1893.1627727806022,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1892.7037296937451,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1894.6969894767067,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1889.7573159930325,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1896.1883193038718,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1871.7829986791496,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1893.7146453424825,
+        "point_count": 13251
+      }
+    },
+    "2017_06": {
+      "ANANTAPUR": {
+        "average": 1864.8660453415232,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1864.6090739190681,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1885.6587794254774,
+        "point_count": 5964
+      },
+      "GUNTUR": {
+        "average": 1875.0623420207128,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1883.8808090596651,
+        "point_count": 7082
+      },
+      "KURNOOL": {
+        "average": 1869.0381301233037,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1868.9826105049178,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1876.4460013969424,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1871.4804501623153,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1872.2319320197084,
+        "point_count": 9950
+      },
+      "VIZIANAGARAM": {
+        "average": 1882.1639935525914,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1877.1696632241299,
+        "point_count": 2181
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1866.3551652479462,
+        "point_count": 13251
+      }
+    },
+    "2017_07": {
+      "ANANTAPUR": {
+        "average": 1866.9839821611752,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1869.6491456394433,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1869.6286621934375,
+        "point_count": 5881
+      },
+      "GUNTUR": {
+        "average": 1870.524705301886,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1872.6710812026959,
+        "point_count": 7125
+      },
+      "KURNOOL": {
+        "average": 1869.8596927804463,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1868.072147279825,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1869.4532493433453,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1875.3354129723132,
+        "point_count": 3335
+      },
+      "VISAKHAPATNAM": {
+        "average": 1888.6566791794125,
+        "point_count": 9907
+      },
+      "VIZIANAGARAM": {
+        "average": 1875.4081065244782,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1879.966673879136,
+        "point_count": 2202
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1866.4426613253438,
+        "point_count": 13251
+      }
+    },
+    "2017_08": {
+      "ANANTAPUR": {
+        "average": 1880.2282177486265,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1868.5655582716058,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1894.783782734698,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1895.733158343924,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1893.4829468999883,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1884.9891661547524,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1887.4869922561509,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1882.7397584180164,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1902.7775777071022,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1877.2874767746218,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1899.0011889175921,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1915.7638526904746,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1876.5350720663307,
+        "point_count": 13251
+      }
+    },
+    "2017_09": {
+      "ANANTAPUR": {
+        "average": 1867.517603541731,
+        "point_count": 3803
+      },
+      "CHITTOOR": {
+        "average": 1869.36603635542,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1873.609627415392,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1873.8909737350878,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1866.5668233929468,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1872.7155872139695,
+        "point_count": 4707
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1869.085327643029,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1876.9722820667093,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1871.0134081226702,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1875.3085986723079,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1877.0737228538458,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1869.5663505552925,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1873.586205024399,
+        "point_count": 11841
+      }
+    },
+    "2017_10": {
+      "ANANTAPUR": {
+        "average": 1859.416055129561,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1864.106391574199,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1853.8030902897442,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1857.2814396620886,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1856.1264579033868,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1859.665723807124,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1856.961512129461,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1855.1138997599292,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1849.579069346395,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1849.91875736649,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1850.1439506791469,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1855.8991637914326,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1858.1082914703784,
+        "point_count": 13251
+      }
+    },
+    "2017_11": {
+      "ANANTAPUR": {
+        "average": 1849.6518133598836,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1849.632179112061,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1874.221401091938,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1865.144948191518,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1856.7407130527558,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1851.5590039072445,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1848.3938472561597,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1856.493494371365,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1875.2103246354707,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1875.764415811221,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1876.9796324925326,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1872.1818480223442,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1848.5080361701916,
+        "point_count": 13251
+      }
+    },
+    "2017_12": {
+      "ANANTAPUR": {
+        "average": 1850.2404560398982,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1849.4258965840484,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1871.261317915961,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1860.7204324740712,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1865.802850491898,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1861.5126345791853,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1848.6642838162345,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1853.0397508986523,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1866.6037942891417,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1874.8343505502762,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1877.2708762282373,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1876.12021621778,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1851.0035123667683,
+        "point_count": 13251
+      }
+    },
+    "2018_01": {
+      "ANANTAPUR": {
+        "average": 1851.651635612876,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1854.4114594138653,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1850.677233560898,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1852.6465772169845,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1849.8644055632344,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1850.884100765611,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1853.5981593216434,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1852.7793592989422,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1850.412901114315,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1851.6886792934056,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1850.7365823598254,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1849.7303549240185,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1854.6417438769524,
+        "point_count": 13251
+      }
+    },
+    "2018_02": {
+      "ANANTAPUR": {
+        "average": 1873.637215703472,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1869.8632960305792,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1864.0134480728652,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1873.8493801919078,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1865.5111023194227,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1876.0914324973578,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1872.0190957504128,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1871.030884712184,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1858.8143042629963,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1867.6011480924726,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1857.2522035583472,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1853.0987763432463,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1875.2283211764766,
+        "point_count": 13251
+      }
+    },
+    "2018_03": {
+      "ANANTAPUR": {
+        "average": 1874.343464999495,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1874.5061009110798,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1875.0879265420979,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1875.6706451528305,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1876.3329180189332,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1874.2635079605218,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1875.0304714502852,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1875.0814689720455,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1874.9109742219302,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1875.0017093415581,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1876.3496994347806,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1876.7172869199371,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1874.6649558878007,
+        "point_count": 13251
+      }
+    },
+    "2018_04": {
+      "ANANTAPUR": {
+        "average": 1871.4065435818109,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1867.7159612309683,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1876.6893108667389,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1868.917299327837,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1868.545456972333,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1872.4621297133863,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1863.9401132966718,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1869.1843067546722,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1864.6031127587225,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1874.1132121250334,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1873.8176020570304,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1877.7959474592683,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1872.4500820493884,
+        "point_count": 13251
+      }
+    },
+    "2018_05": {
+      "ANANTAPUR": {
+        "average": 1885.9411446356514,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1887.7901245561739,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1889.5872359582897,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1888.3987804933422,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1893.9476690065999,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1891.14292773596,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1879.0685751666192,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1883.0397059985842,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1893.9147060286505,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1890.1586795960745,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1893.0156551300365,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1896.9807196473103,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1890.7169746537118,
+        "point_count": 13251
+      }
+    },
+    "2018_06": {
+      "ANANTAPUR": {
+        "average": 1862.9053486389223,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1864.311058058763,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1882.8924970549144,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1887.6429152009327,
+        "point_count": 9916
+      },
+      "KRISHNA": {
+        "average": 1878.0388006722887,
+        "point_count": 7041
+      },
+      "KURNOOL": {
+        "average": 1868.4835203118134,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1866.1759242083237,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1873.26380907853,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1872.8646606346038,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1878.63737857683,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1881.1569317548426,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1875.3397533190607,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1862.2996808115774,
+        "point_count": 13251
+      }
+    },
+    "2018_07": {
+      "ANANTAPUR": {
+        "average": 1867.677863405908,
+        "point_count": 16936
+      },
+      "CHITTOOR": {
+        "average": 1871.6902587401805,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1876.5324370114279,
+        "point_count": 10138
+      },
+      "GUNTUR": {
+        "average": 1871.1312992583908,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1868.4577025541264,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1867.430660299465,
+        "point_count": 6185
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1868.8984572202119,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1869.0914805717618,
+        "point_count": 15267
+      },
+      "VISAKHAPATNAM": {
+        "average": 1874.8170356492951,
+        "point_count": 2376
+      },
+      "WEST_GODAVARI": {
+        "average": 1874.9288556592594,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1867.3135053102635,
+        "point_count": 13251
+      }
+    },
+    "2018_08": {
+      "ANANTAPUR": {
+        "average": 1868.3693240614589,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1868.9503220308227,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1878.2604593843032,
+        "point_count": 11341
+      },
+      "GUNTUR": {
+        "average": 1885.20978101677,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1874.8771175934046,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1878.2770854755365,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1887.279122658931,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1884.7701426771093,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1880.0733444070663,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1891.5184065443448,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1915.6076017717608,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1884.3935390526335,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1871.0501263331819,
+        "point_count": 13251
+      }
+    },
+    "2018_09": {
+      "ANANTAPUR": {
+        "average": 1868.6348873821912,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1874.3411525113258,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1868.2627921991595,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1873.0684488198901,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1868.284083461212,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1870.7716761395054,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1875.3442534794285,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1874.5475836742237,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1873.1847317430402,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1873.8544466084463,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1877.1065250151396,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1866.9792537926621,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1873.1786813639483,
+        "point_count": 13251
+      }
+    },
+    "2018_10": {
+      "ANANTAPUR": {
+        "average": 1864.503400369195,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1856.5838063385827,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1856.3423479264547,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1853.2784466160042,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1854.125463305935,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1860.0754869520606,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1858.2339160178046,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1853.7309553821428,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1853.0121076024864,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1866.8048436146082,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1857.1523739420445,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1855.2143615782497,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1855.1821661230701,
+        "point_count": 13251
+      }
+    },
+    "2018_11": {
+      "ANANTAPUR": {
+        "average": 1850.2876741919263,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1849.5427178202056,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1870.6583783464412,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1866.4338218471555,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1858.6122273118488,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1854.2367087456373,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1849.6519557133045,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1857.7072983495898,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1874.96772855423,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1867.903391478195,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1881.0951690774307,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1874.728442011775,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1849.771067094702,
+        "point_count": 13251
+      }
+    },
+    "2018_12": {
+      "ANANTAPUR": {
+        "average": 1849.3711253185302,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1848.4179370646902,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1875.1372433965275,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1855.7922163948392,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1861.1969213340742,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1858.85094192427,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1848.104958459509,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1849.3522893105396,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1876.8101095860545,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1876.254211854847,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1876.9546781169606,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1878.010164314913,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1849.242278350382,
+        "point_count": 13251
+      }
+    },
+    "2019_01": {
+      "ANANTAPUR": {
+        "average": 1852.3968051337931,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1850.594927197076,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1850.2223390149447,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1849.7121760669177,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1849.9482129222488,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1851.4282254623301,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1849.1626339287811,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1849.163790322243,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1850.169713801587,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1851.089225500638,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1849.9235741273437,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1849.634303114374,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1851.0701673973397,
+        "point_count": 13251
+      }
+    },
+    "2019_02": {
+      "ANANTAPUR": {
+        "average": 1874.6535134695564,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1874.635841757527,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1875.9475293085989,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1873.9744482168749,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1869.463470606933,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1874.8121831998335,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1873.485457362059,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1874.196676507769,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1860.3833030302333,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1874.4361954010694,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1873.2471928704833,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1876.903040856957,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1874.6649658702784,
+        "point_count": 13251
+      }
+    },
+    "2019_03": {
+      "ANANTAPUR": {
+        "average": 1874.3875140969442,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1873.9275938659878,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1874.3572973203923,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1874.5696271652491,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1875.1018399913185,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1874.0708228042947,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1873.9624831169158,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1874.5193890102576,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1873.1253490564516,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1874.9000562459833,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1875.9539292432917,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1876.8403139205973,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1873.9170963065635,
+        "point_count": 13251
+      }
+    },
+    "2019_04": {
+      "ANANTAPUR": {
+        "average": 1881.5901960090441,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1871.8541854417988,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1877.2876020820322,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1872.2157817952586,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1883.6874861145702,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1886.2087758699913,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1870.0780863715486,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1870.303086384935,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1870.8108242170022,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1865.378159976458,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1862.8653310309103,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1888.3586658959043,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1879.0129760165278,
+        "point_count": 13251
+      }
+    },
+    "2019_05": {
+      "ANANTAPUR": {
+        "average": 1873.6593952555888,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1883.6687719451081,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1907.141155805832,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1893.5006345458128,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1891.6110756475568,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1890.424419264042,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1885.5606926462244,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1896.7484795241576,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1900.3961899344122,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1895.1171102777348,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1887.8841978444455,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1904.6175025080433,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1888.8933719103393,
+        "point_count": 13251
+      }
+    },
+    "2019_06": {
+      "ANANTAPUR": {
+        "average": 1870.88335779304,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1863.8573721015882,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1887.7102570355103,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1888.4481828030212,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1879.4157426287,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1881.543988747816,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1866.1844359485174,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1876.6692935537283,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1868.6835070868542,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1875.521647816317,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1883.283271748083,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1887.2850641061566,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1863.2578484273013,
+        "point_count": 13251
+      }
+    },
+    "2019_07": {
+      "ANANTAPUR": {
+        "average": 1867.3667995754622,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1870.8632964116186,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1880.1283719936216,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1868.6379445824423,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1864.6178160981203,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1869.715848456366,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1867.6261964086807,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1868.5700846852073,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1895.9882604032034,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1890.8996832269063,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1884.5119447219479,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1884.0436022682725,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1866.673997117316,
+        "point_count": 13251
+      }
+    },
+    "2019_08": {
+      "ANANTAPUR": {
+        "average": 1869.5913621288082,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1872.7518678572837,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1894.0047681749013,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1890.317972046007,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1897.3410306802552,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1875.7275176064345,
+        "point_count": 7270
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1887.4168800893972,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1887.4256437273111,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1879.497929787157,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1910.3300903420727,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1918.614371653894,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1913.556268621406,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1870.9716072663177,
+        "point_count": 13251
+      }
+    },
+    "2019_09": {
+      "ANANTAPUR": {
+        "average": 1870.0195147085185,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1874.9804874273998,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1875.470843643013,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1869.1138524957705,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1873.2598311021718,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1871.9246088331995,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1874.2563531816263,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1872.2831796121018,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1875.2467721221547,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1875.3444185844635,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1879.1697173518576,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1877.1441534157723,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1872.7767366199187,
+        "point_count": 13251
+      }
+    },
+    "2019_10": {
+      "ANANTAPUR": {
+        "average": 1861.0467143027793,
+        "point_count": 16924
+      },
+      "CHITTOOR": {
+        "average": 1869.0577632794636,
+        "point_count": 2735
+      },
+      "EAST_GODAVARI": {
+        "average": 1855.6457866393052,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1853.8866469159623,
+        "point_count": 6513
+      },
+      "KRISHNA": {
+        "average": 1855.3428631720055,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1853.859873604383,
+        "point_count": 14509
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1867.7044404151393,
+        "point_count": 5579
+      },
+      "PRAKASAM": {
+        "average": 1847.118315290369,
+        "point_count": 2349
+      },
+      "SRIKAKULAM": {
+        "average": 1851.1057470265923,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1854.3511271912894,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1855.5131812904947,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1854.670134298135,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1847.1823697243092,
+        "point_count": 3392
+      }
+    },
+    "2019_11": {
+      "ANANTAPUR": {
+        "average": 1849.3788674507282,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1848.8952582802438,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1872.1137752692082,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1855.536854495877,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1864.9862505257743,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1857.0588663056767,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1849.2774362982586,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1850.3247550422234,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1874.95518379327,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1875.1066260017694,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1876.4368903074078,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1876.5045722754344,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1849.5366452073629,
+        "point_count": 13251
+      }
+    },
+    "2019_12": {
+      "ANANTAPUR": {
+        "average": 1850.207334603465,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1849.4900039981592,
+        "point_count": 13125
+      },
+      "GUNTUR": {
+        "average": 1859.6023073775611,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1861.3065808629206,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1858.8710130724191,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1849.3018241429975,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1849.9188705887748,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1879.9207800432412,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1876.4264860745254,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1875.5020503864787,
+        "point_count": 5666
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1850.5145752581948,
+        "point_count": 13251
+      }
+    },
+    "2020_01": {
+      "ANANTAPUR": {
+        "average": 1852.6659040141224,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1851.759940414981,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1848.537412010251,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1850.2828483682438,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1853.4151445640825,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1851.5916253641917,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1849.016368048914,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1848.4003941237784,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1849.892797579817,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1850.8661628251766,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1850.044724525889,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1850.7112468904925,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1852.0595419875242,
+        "point_count": 13251
+      }
+    },
+    "2020_02": {
+      "ANANTAPUR": {
+        "average": 1874.2317324959145,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1874.2073817836258,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1875.586588881288,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1874.4264327323754,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1875.0236567833438,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1873.6635255180922,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1875.2973306501492,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1876.2163083898238,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1873.243615755457,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1876.0862005219246,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1876.3284668773988,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1876.5238619044972,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1874.2448411585733,
+        "point_count": 13251
+      }
+    },
+    "2020_03": {
+      "ANANTAPUR": {
+        "average": 1873.9972082329136,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1873.792150799561,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1874.0431469130765,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1874.3231226898286,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1874.9056984694685,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1873.8689451563641,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1873.679042628938,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1874.1726116158043,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1876.382735060597,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1875.3177276681308,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1876.4495018330044,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1876.7982317652877,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1873.9430190660955,
+        "point_count": 13251
+      }
+    },
+    "2020_04": {
+      "ANANTAPUR": {
+        "average": 1894.3384082427292,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1867.480436961603,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1872.6667414486358,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1867.9795598051624,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1873.8067480696066,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1886.286861554964,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1871.9443017285662,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1867.4296939436595,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1870.8636370265544,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1868.5554116684175,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1866.571830828866,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1878.2635481717384,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1869.2487494298878,
+        "point_count": 13251
+      }
+    },
+    "2020_05": {
+      "ANANTAPUR": {
+        "average": 1891.8021387940748,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1883.9872076903375,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1889.965977358649,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1892.2835403675922,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1890.513328015904,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1891.9214854741624,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1888.6522277190782,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1892.9163088634984,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1895.967648046709,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1885.2552172715623,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1887.3519840989834,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1890.3808421730091,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1884.6386042119598,
+        "point_count": 13251
+      }
+    },
+    "2020_06": {
+      "ANANTAPUR": {
+        "average": 1868.4797889423317,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1865.4541526182543,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1882.5228947140806,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1887.451864606706,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1882.3931794447358,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1876.0639956998436,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1864.7555730185436,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1870.5381849604291,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1868.0050928115118,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1879.3723993915926,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1878.3061239453782,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1875.7185077064757,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1862.3750418647917,
+        "point_count": 13251
+      }
+    },
+    "2020_07": {
+      "ANANTAPUR": {
+        "average": 1867.432474825979,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1871.15590794333,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1876.9940335894091,
+        "point_count": 9179
+      },
+      "GUNTUR": {
+        "average": 1876.1916073443833,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1874.049476903229,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1868.6159202947154,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1868.7320823335021,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1871.717289135604,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1888.8503664367906,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1884.5606982918855,
+        "point_count": 5579
+      },
+      "VIZIANAGARAM": {
+        "average": 1884.232727123617,
+        "point_count": 5632
+      },
+      "WEST_GODAVARI": {
+        "average": 1883.2064690543418,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1866.2030187202065,
+        "point_count": 13251
+      }
+    },
+    "2020_08": {
+      "ANANTAPUR": {
+        "average": 1886.9007507881256,
+        "point_count": 16948
+      },
+      "CHITTOOR": {
+        "average": 1875.7016786077766,
+        "point_count": 2719
+      },
+      "EAST_GODAVARI": {
+        "average": 1894.044039458139,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1866.7383171823894,
+        "point_count": 4153
+      },
+      "KRISHNA": {
+        "average": 1878.9989374969143,
+        "point_count": 6996
+      },
+      "KURNOOL": {
+        "average": 1897.575561229993,
+        "point_count": 14682
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1867.0072840457992,
+        "point_count": 5414
+      },
+      "PRAKASAM": {
+        "average": 1867.0278741488532,
+        "point_count": 2259
+      },
+      "SRIKAKULAM": {
+        "average": 1888.8835713944854,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1893.9293030169335,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1888.9327473624214,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1904.1716100079652,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1914.0088006661508,
+        "point_count": 3532
+      }
+    },
+    "2020_09": {
+      "ANANTAPUR": {
+        "average": 1871.8488678034446,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1867.8165474036487,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1873.6943308586042,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1869.536711681647,
+        "point_count": 9910
+      },
+      "KRISHNA": {
+        "average": 1876.4745246737593,
+        "point_count": 7083
+      },
+      "KURNOOL": {
+        "average": 1876.7580073214308,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1868.7582364746127,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1867.939137639909,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1874.407365778213,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1867.306179254395,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1872.817510430637,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1869.7318552269537,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1866.7382106565558,
+        "point_count": 13251
+      }
+    },
+    "2020_10": {
+      "ANANTAPUR": {
+        "average": 1857.892872464724,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1868.9851069748204,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1849.074685675277,
+        "point_count": 11331
+      },
+      "GUNTUR": {
+        "average": 1855.981277337533,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1852.1517432975015,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1855.316729979278,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1860.766225632949,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1865.319670728465,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1848.208865101151,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1852.6536331476025,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1852.6878103410502,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1850.5246697354373,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1864.0334815557608,
+        "point_count": 13251
+      }
+    },
+    "2020_11": {
+      "ANANTAPUR": {
+        "average": 1849.4580500369134,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1849.8411997006394,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1870.3720153532363,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1860.6659611479863,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1867.8011260812486,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1850.1127879759924,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1849.4619091746174,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1852.1573855167776,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1875.4468961779085,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1876.8259977143484,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1878.5239349643175,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1872.7786796057344,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1850.8156802788997,
+        "point_count": 13251
+      }
+    },
+    "2020_12": {
+      "ANANTAPUR": {
+        "average": 1851.0950141860153,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1849.6606414922403,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1874.9152142539804,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1867.8409092498043,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1856.9716818071702,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1856.2343458555083,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1849.8581866537756,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1860.540187060686,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1876.6915183100277,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1875.8777232387665,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1875.9623695968164,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1871.6662509212579,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1849.613314832074,
+        "point_count": 13251
+      }
+    },
+    "2021_01": {
+      "ANANTAPUR": {
+        "average": 1853.858583511215,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1869.7122546972448,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1851.3123299708705,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1854.8791165669716,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1853.6828176354916,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1854.3662897455047,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1852.416946557916,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1854.2450952633149,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1850.0304474482953,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1850.9144819710036,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1849.9467411409996,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1852.108349061522,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1867.75285615572,
+        "point_count": 13251
+      }
+    },
+    "2021_02": {
+      "ANANTAPUR": {
+        "average": 1874.7738726265288,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1874.872127858316,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1874.9780104523768,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1876.7136590339178,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1876.1743838079626,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1873.9174929780133,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1874.9372790152618,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1875.796444943171,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1871.6465649828108,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1877.1599523153632,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1874.257103514539,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1877.3206227222968,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1875.0873943507875,
+        "point_count": 13251
+      }
+    },
+    "2021_03": {
+      "ANANTAPUR": {
+        "average": 1871.450592951958,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1875.1725325613206,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1875.7070007185464,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1875.5508906262419,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1876.0547357820221,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1876.5565018375496,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1873.6075216101199,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1874.9980710293294,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1873.142219351766,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1874.950664990437,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1876.2040290891464,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1877.0238080166887,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1876.2224443757148,
+        "point_count": 13251
+      }
+    },
+    "2021_04": {
+      "ANANTAPUR": {
+        "average": 1872.8018529138574,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1877.675530583785,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1867.6206650754045,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1873.342709905081,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1873.531681385253,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1870.4856484101006,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1886.1640790556314,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1876.1936643297215,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1881.5440551117188,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1869.7408741506315,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1882.5161881501415,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1870.5191081512075,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1868.6502955601804,
+        "point_count": 13251
+      }
+    },
+    "2021_05": {
+      "ANANTAPUR": {
+        "average": 1888.490984954841,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1880.414766769127,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1888.2737982621165,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1892.5927446419653,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1884.1691662782457,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1880.8027680251582,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1880.6985755809874,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1887.3352006837117,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1891.6138309918672,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1885.7797749916622,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1891.479980678156,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1883.3430746751571,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1874.7553860444602,
+        "point_count": 13251
+      }
+    },
+    "2021_06": {
+      "ANANTAPUR": {
+        "average": 1866.254671003428,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1866.2418960019754,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1874.0208887853626,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1879.5846346691615,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1887.4718787323889,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1877.981671209297,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1872.261929996986,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1880.1772793002704,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1873.669288144751,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1877.3929823546687,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1883.573897621999,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1875.4926946133894,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1869.2696231851419,
+        "point_count": 13251
+      }
+    },
+    "2021_07": {
+      "ANANTAPUR": {
+        "average": 1867.538598681517,
+        "point_count": 16949
+      },
+      "CHITTOOR": {
+        "average": 1868.7261521698183,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1882.0546224110215,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1870.4368701579083,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1871.3410036705116,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1870.3359236975205,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1867.9766655576009,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1868.7787842510054,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1892.4450963033325,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1892.4622161756765,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1882.4786563454984,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1889.4794527533945,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1867.8519027960785,
+        "point_count": 13251
+      }
+    },
+    "2021_08": {
+      "ANANTAPUR": {
+        "average": 1874.4553659791636,
+        "point_count": 16947
+      },
+      "CHITTOOR": {
+        "average": 1865.871110367676,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1886.943824696662,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1893.5012149172132,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1883.426517724662,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1886.4577295623862,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1871.4321030902931,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1879.7644219643125,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1896.6830872570827,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1896.106593294192,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1889.8896004508922,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1900.0200115608682,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1873.094807878239,
+        "point_count": 13251
+      }
+    },
+    "2021_09": {
+      "ANANTAPUR": {
+        "average": 1871.0759872014276,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1865.0609584795543,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1869.2789336724309,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1870.693441645671,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1857.9722490493766,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1867.4420271309498,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1866.4879220044647,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1871.1087665015548,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1871.3109208107583,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1861.6210064820582,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1868.7607180712487,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1863.930159376611,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1869.301100481117,
+        "point_count": 13251
+      }
+    },
+    "2021_10": {
+      "ANANTAPUR": {
+        "average": 1854.4430665545756,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1869.6260659857633,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1848.4528629127299,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1855.6766727299412,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1851.8449950553643,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1854.0358298519845,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1866.888713795216,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1861.0948248606123,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1848.0784661943258,
+        "point_count": 3286
+      },
+      "VISAKHAPATNAM": {
+        "average": 1852.4782387182445,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1850.4143479713118,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1848.1730250531366,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1861.4723981764175,
+        "point_count": 13251
+      }
+    },
+    "2021_11": {
+      "ANANTAPUR": {
+        "average": 1845.8644380971061,
+        "point_count": 2674
+      },
+      "CHITTOOR": {
+        "average": 1849.6660232247552,
+        "point_count": 12545
+      },
+      "EAST_GODAVARI": {
+        "average": 1870.8634833043,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1862.9301719513267,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1856.1382219058355,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1845.955359663535,
+        "point_count": 4658
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1849.3518799703118,
+        "point_count": 9076
+      },
+      "PRAKASAM": {
+        "average": 1853.6002625307945,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1879.9503490077434,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1880.2273193094393,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1879.365368138009,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1854.4045647413857,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1849.9126555233242,
+        "point_count": 11783
+      }
+    },
+    "2021_12": {
+      "ANANTAPUR": {
+        "average": 1850.9480891831392,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1849.334366113477,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1875.1475303662437,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1866.9034406796154,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1871.9528549898916,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1853.5437661048968,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1849.1366800442509,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1858.1404545008272,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1878.0630196325908,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1880.0286835392872,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1881.3899588584982,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1878.722015298359,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1849.555878246267,
+        "point_count": 13251
+      }
+    },
+    "2022_01": {
+      "ANANTAPUR": {
+        "average": 1854.9261827591333,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1853.7865071398612,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1850.2503639888407,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1848.3341136423007,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1849.324053577569,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1853.4935718362185,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1853.255894365879,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1850.8621261735118,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1849.5645473954012,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1851.1753915021627,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1850.1005691438074,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1849.8016578004665,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1853.6786095242728,
+        "point_count": 13251
+      }
+    },
+    "2022_02": {
+      "ANANTAPUR": {
+        "average": 1876.599911971781,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1874.7188461002897,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1873.7206317382083,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1875.9145069749825,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1876.1244305439313,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1874.1777079964204,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1873.9314602588915,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1875.0636377287208,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1873.581569271737,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1870.824799009672,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1877.9499075851993,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1875.78824821424,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1874.933635913876,
+        "point_count": 13251
+      }
+    },
+    "2022_03": {
+      "ANANTAPUR": {
+        "average": 1875.81665170393,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1875.5155722236516,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1874.5768522898318,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1874.4153032789989,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1875.6493565975522,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1874.3491721314074,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1874.0528861206692,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1874.7587073953184,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1874.0385744787868,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1875.1083094363614,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1876.2118269861708,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1876.9097053971352,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1875.9516325786726,
+        "point_count": 13251
+      }
+    },
+    "2022_04": {
+      "ANANTAPUR": {
+        "average": 1874.7075044920443,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1879.8390129535528,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1867.6565083993878,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1897.668408359733,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1870.8957468973547,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1873.466721180832,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1885.7811470920678,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1905.865669867031,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1867.7972935919515,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1874.5432348300162,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1875.6599439225624,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1864.7594482275874,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1882.174720449471,
+        "point_count": 13251
+      }
+    },
+    "2022_05": {
+      "ANANTAPUR": {
+        "average": 1890.8722007670483,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1892.5285144632169,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1892.2842515725101,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1885.3119339556442,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1877.447381123007,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1891.4325718693624,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1882.9266370043665,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1892.601129397856,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1904.6679861664675,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1905.023328661792,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1909.2922345527238,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1873.4879120243133,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1886.034851687647,
+        "point_count": 13251
+      }
+    },
+    "2022_06": {
+      "ANANTAPUR": {
+        "average": 1865.919660183996,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1864.4927705721054,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1875.3433995501623,
+        "point_count": 11293
+      },
+      "GUNTUR": {
+        "average": 1877.1017300913375,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1870.7937850078656,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1874.282993036179,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1870.8849023146709,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1884.2408885429154,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1871.1079687899235,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1872.977349697541,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1882.3004086972371,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1873.6581977980538,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1867.032401490386,
+        "point_count": 13251
+      }
+    },
+    "2022_07": {
+      "ANANTAPUR": {
+        "average": 1869.1947894126224,
+        "point_count": 4146
+      },
+      "CHITTOOR": {
+        "average": 1869.265034230808,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1865.981225121939,
+        "point_count": 2365
+      },
+      "GUNTUR": {
+        "average": 1873.9527695487616,
+        "point_count": 7492
+      },
+      "KRISHNA": {
+        "average": 1871.2615666890547,
+        "point_count": 1969
+      },
+      "KURNOOL": {
+        "average": 1870.6553352180742,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1867.3811746833821,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1869.388520720591,
+        "point_count": 15154
+      },
+      "SRIKAKULAM": {
+        "average": 1890.513093196317,
+        "point_count": 4004
+      },
+      "VISAKHAPATNAM": {
+        "average": 1887.7049560640783,
+        "point_count": 2113
+      },
+      "WEST_GODAVARI": {
+        "average": 1864.0566176179418,
+        "point_count": 144
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1866.5457812633665,
+        "point_count": 12157
+      }
+    },
+    "2022_08": {
+      "ANANTAPUR": {
+        "average": 1872.6370085017516,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1873.769270758043,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1868.7871289349853,
+        "point_count": 6188
+      },
+      "GUNTUR": {
+        "average": 1915.6682904112552,
+        "point_count": 7339
+      },
+      "KRISHNA": {
+        "average": 1910.9091203616545,
+        "point_count": 1837
+      },
+      "KURNOOL": {
+        "average": 1891.5663171167091,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1886.4645394716063,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1906.9970505125432,
+        "point_count": 15085
+      },
+      "SRIKAKULAM": {
+        "average": 1893.3890884178686,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1886.6747671773792,
+        "point_count": 10063
+      },
+      "VIZIANAGARAM": {
+        "average": 1911.9762583994893,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1865.5418952368138,
+        "point_count": 211
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1879.9397279788186,
+        "point_count": 13251
+      }
+    },
+    "2022_09": {
+      "ANANTAPUR": {
+        "average": 1869.0554713290132,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1865.0236043918133,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1871.4813345240873,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1866.8219808254516,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1870.5786259375448,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1869.179618117136,
+        "point_count": 7397
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1865.8517101243071,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1868.9951902795833,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1872.740325713488,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1868.2026376101062,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1876.6521249845573,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1867.3486141902008,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1870.8743457114906,
+        "point_count": 13251
+      }
+    },
+    "2022_10": {
+      "ANANTAPUR": {
+        "average": 1870.1577752636683,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1864.2048063804982,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1853.6302142849424,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1859.4665546781687,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1870.9867428526509,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1864.7085329251001,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1856.57439310829,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1855.475397261006,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1848.8126974120328,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1851.0967076405668,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1848.6679986783622,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1865.793345274041,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1868.306962940299,
+        "point_count": 13251
+      }
+    },
+    "2022_11": {
+      "ANANTAPUR": {
+        "average": 1849.5583349062201,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1849.5955143988258,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1874.1517462797128,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1865.6595489146655,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1855.3258169085282,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1851.4625137071982,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1849.653846327671,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1856.9825987278177,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1876.532175351529,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1876.8875074008379,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1876.6653108148632,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1869.0437232025176,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1849.584618093988,
+        "point_count": 13251
+      }
+    },
+    "2022_12": {
+      "ANANTAPUR": {
+        "average": 1850.3313904406707,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1848.5701542225884,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1874.0500067572445,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1857.8121874699646,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1871.5778903262153,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1864.2758553514825,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1849.028935899729,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1849.554243423305,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1877.5833267439366,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1881.1367087488927,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1882.5679497858612,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1876.0683098250968,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1851.963713255746,
+        "point_count": 13251
+      }
+    },
+    "2023_01": {
+      "ANANTAPUR": {
+        "average": 1851.142767191489,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1854.836650324394,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1848.7700155474893,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1849.284072514405,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1848.8968645013592,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1850.6889944546974,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1852.1747015476144,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1851.3098830746344,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1849.8689967575312,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1850.2288892646118,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1849.6397353522348,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1850.2085281362706,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1851.683394542506,
+        "point_count": 13251
+      }
+    },
+    "2023_02": {
+      "ANANTAPUR": {
+        "average": 1874.727496367972,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1874.9691926168969,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1873.3336074620904,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1875.4484464664713,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1877.655363649002,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1875.6073215101032,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1874.509030023002,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1875.1473058627166,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1874.760011203682,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1875.0500241272819,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1877.262974888436,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1876.3880813934284,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1875.6128223005574,
+        "point_count": 13251
+      }
+    },
+    "2023_03": {
+      "ANANTAPUR": {
+        "average": 1873.5037264356226,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1874.202349991754,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1873.060342288155,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1874.734232963865,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1862.673425339816,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1875.755323260856,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1870.942029567224,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1874.5996111268385,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1873.8231748572937,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1875.4792680484645,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1876.541134979693,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1871.3205411293081,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1874.0624476432554,
+        "point_count": 13251
+      }
+    },
+    "2023_04": {
+      "ANANTAPUR": {
+        "average": 1874.1666303954266,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1870.6159641540096,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1868.6527761783352,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1873.576161630315,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1867.8158515141006,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1870.821033132249,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1870.1908790435948,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1873.288750579415,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1870.3236498575811,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1877.2185366268939,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1874.790630020552,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1864.8510222055277,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1872.1859366621136,
+        "point_count": 13251
+      }
+    },
+    "2023_05": {
+      "ANANTAPUR": {
+        "average": 1885.4772907920328,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1880.5860956339293,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1890.2560869279398,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1887.5896552541226,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1890.2980211667907,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1891.0702798206523,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1875.72227822095,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1884.9209812679019,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1894.9895242511916,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1895.2141831504237,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1901.0046950766364,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1888.683940797594,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1880.74637733971,
+        "point_count": 13251
+      }
+    },
+    "2023_06": {
+      "ANANTAPUR": {
+        "average": 1863.320465152497,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1862.5701706320729,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1867.9730356004031,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1882.3070677703672,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1870.3270328704634,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1870.1313337155666,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1867.3063339953003,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1881.4309768386129,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1868.0688278021,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1864.9628929622518,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1869.5933375555858,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1870.5326812196038,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1864.0200435480147,
+        "point_count": 13251
+      }
+    },
+    "2023_07": {
+      "ANANTAPUR": {
+        "average": 1866.5161439457495,
+        "point_count": 16963
+      },
+      "CHITTOOR": {
+        "average": 1867.9375116089861,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1866.1586649136032,
+        "point_count": 6098
+      },
+      "GUNTUR": {
+        "average": 1871.4562307675296,
+        "point_count": 9907
+      },
+      "KRISHNA": {
+        "average": 1868.3841918778396,
+        "point_count": 5886
+      },
+      "KURNOOL": {
+        "average": 1866.7831169455549,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1867.4395510934403,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1869.5560500645402,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1880.3256036420016,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1884.257075902514,
+        "point_count": 10009
+      },
+      "VIZIANAGARAM": {
+        "average": 1883.2048161894447,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1874.2790770120191,
+        "point_count": 2174
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1862.848738731662,
+        "point_count": 13251
+      }
+    },
+    "2023_08": {
+      "ANANTAPUR": {
+        "average": 1869.0990837907004,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1867.9383730486973,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1896.2101446990632,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1887.7408861484291,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1878.5694509127338,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1874.469825051075,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1878.327433994053,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1883.167731435278,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1882.927473998343,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1889.058642927146,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1902.674270168691,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1917.0526526728756,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1869.2486688282804,
+        "point_count": 13251
+      }
+    },
+    "2023_09": {
+      "ANANTAPUR": {
+        "average": 1866.3397515301951,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1869.0935472639073,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1871.4319314619006,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1867.3903105285679,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1871.821664250226,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1866.9682977538382,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1872.0692359169673,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1870.104631528532,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1870.2879690866257,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1875.2943836716506,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1876.9981627304585,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1870.318118936799,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1872.4386825942865,
+        "point_count": 13251
+      }
+    },
+    "2023_10": {
+      "ANANTAPUR": {
+        "average": 1873.4195024920748,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1863.7668116460864,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1857.0860052243922,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1857.2572699951447,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1858.891195050379,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1866.0951957403308,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1857.7433096890552,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1854.4320697389237,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1853.384528916369,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1870.7107567706073,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1871.2193066600623,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1856.5595911219148,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1856.7371471909717,
+        "point_count": 13251
+      }
+    },
+    "2023_11": {
+      "ANANTAPUR": {
+        "average": 1849.670435021934,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1849.5705328439528,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1849.8826082032647,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1869.1394822138616,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1856.9954250618803,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1851.9393138231899,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1849.8094254098878,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1859.2923464875266,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1878.4751164088032,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1859.6609876468583,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1879.5070561744599,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1850.512743436645,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1849.2765554173234,
+        "point_count": 13251
+      }
+    },
+    "2023_12": {
+      "ANANTAPUR": {
+        "average": 1849.227426116683,
+        "point_count": 17006
+      },
+      "CHITTOOR": {
+        "average": 1849.2917964678038,
+        "point_count": 13125
+      },
+      "EAST_GODAVARI": {
+        "average": 1872.1131126913438,
+        "point_count": 11476
+      },
+      "GUNTUR": {
+        "average": 1860.7556539800937,
+        "point_count": 10057
+      },
+      "KRISHNA": {
+        "average": 1868.1256760610388,
+        "point_count": 7837
+      },
+      "KURNOOL": {
+        "average": 1852.7420810735025,
+        "point_count": 15088
+      },
+      "POTTI_SRIRAMULU_NELLORE": {
+        "average": 1848.1691637905824,
+        "point_count": 11411
+      },
+      "PRAKASAM": {
+        "average": 1852.591666026582,
+        "point_count": 15267
+      },
+      "SRIKAKULAM": {
+        "average": 1877.2816588313765,
+        "point_count": 5330
+      },
+      "VISAKHAPATNAM": {
+        "average": 1876.3575908497555,
+        "point_count": 10361
+      },
+      "VIZIANAGARAM": {
+        "average": 1882.0232548563154,
+        "point_count": 5666
+      },
+      "WEST_GODAVARI": {
+        "average": 1880.9878200967246,
+        "point_count": 7392
+      },
+      "Y_S_R_KADAPA": {
+        "average": 1850.3984939032628,
+        "point_count": 13251
+      }
+    }
+  },
+  "statistics": {
+    "mean": 1869.9737382264912,
+    "std": 12.995874810164125,
+    "min": 1845.8644380971061,
+    "max": 1924.6515035657487
+  }
+}

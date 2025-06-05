@@ -1,0 +1,4120 @@
+{
+  "type": "state_districts",
+  "state_name": "MIZORAM",
+  "data": {
+    "AIZAWL": {
+      "average_methane": 1877.2839281981471,
+      "data_quality": {
+        "total_months": 119,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 3033.3529411764707
+      },
+      "point_count": 360969
+    },
+    "CHAMPHAI": {
+      "average_methane": 1878.4608128475668,
+      "data_quality": {
+        "total_months": 119,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 3036.6974789915967
+      },
+      "point_count": 361367
+    },
+    "KOLASIB": {
+      "average_methane": 1877.1062443171788,
+      "data_quality": {
+        "total_months": 119,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 1297.8823529411766
+      },
+      "point_count": 154448
+    },
+    "LAWNGTLAI": {
+      "average_methane": 1876.5990352972474,
+      "data_quality": {
+        "total_months": 119,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 2328.5126050420167
+      },
+      "point_count": 277093
+    },
+    "LUNGLEI": {
+      "average_methane": 1876.8332559577527,
+      "data_quality": {
+        "total_months": 119,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 4058.8571428571427
+      },
+      "point_count": 483004
+    },
+    "MAMIT": {
+      "average_methane": 1878.1363939665287,
+      "data_quality": {
+        "total_months": 118,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 2645.7542372881358
+      },
+      "point_count": 312199
+    },
+    "SAIHA": {
+      "average_methane": 1878.4530100570619,
+      "data_quality": {
+        "total_months": 117,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 1473.076923076923
+      },
+      "point_count": 172350
+    },
+    "SERCHHIP": {
+      "average_methane": 1877.2016523183884,
+      "data_quality": {
+        "total_months": 119,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 1395.638655462185
+      },
+      "point_count": 166081
+    }
+  },
+  "monthly_data": {
+    "2014_01": {
+      "AIZAWL": {
+        "average": 1867.6584945301886,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1851.6232201067944,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1876.2432063091353,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1857.6564585659842,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1865.202113225541,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1878.3415656036032,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1851.129930962821,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1859.739842723626,
+        "point_count": 1433
+      }
+    },
+    "2014_02": {
+      "AIZAWL": {
+        "average": 1848.759840236157,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1857.1205147488108,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1849.6324288857545,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1858.372551021741,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1852.3262555495655,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1849.7380977177486,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1859.13663105938,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1853.645610032629,
+        "point_count": 1433
+      }
+    },
+    "2014_03": {
+      "AIZAWL": {
+        "average": 1874.3546064094194,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1874.5142203921957,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1875.4759935867141,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1871.9110751339488,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1874.2955113378364,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1875.8969384153866,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1875.7940436619144,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1873.7002504243192,
+        "point_count": 1433
+      }
+    },
+    "2014_04": {
+      "AIZAWL": {
+        "average": 1871.89137357034,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1873.584295657517,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1873.798678205234,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1873.2730478338144,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1873.4362997708593,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1875.0865046628576,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1875.2824982830302,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1872.5643726337466,
+        "point_count": 1433
+      }
+    },
+    "2014_05": {
+      "AIZAWL": {
+        "average": 1923.0668591440099,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1914.7613846367894,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1920.0110117190932,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1927.7580209766113,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1926.1943245730574,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1915.0478591841756,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1923.0167808248234,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1919.5774952850388,
+        "point_count": 1433
+      }
+    },
+    "2014_06": {
+      "AIZAWL": {
+        "average": 1893.0132241382062,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1897.4382019564423,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1893.7910537753028,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1892.6309298616459,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1891.9379167896643,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1892.3547499854774,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1896.6192820938788,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1892.6607982988442,
+        "point_count": 1433
+      }
+    },
+    "2014_07": {
+      "AIZAWL": {
+        "average": 1913.0164445893943,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1910.7302944880532,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1894.8806866466807,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1897.978603462522,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1899.2478917261335,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1888.2953297992792,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1894.8572271355044,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1905.5610542102813,
+        "point_count": 1433
+      }
+    },
+    "2014_08": {
+      "AIZAWL": {
+        "average": 1869.9940632026464,
+        "point_count": 2918
+      },
+      "CHAMPHAI": {
+        "average": 1866.7473408364754,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1874.4985873118271,
+        "point_count": 452
+      },
+      "LAWNGTLAI": {
+        "average": 1866.6508628884162,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1866.7349189043155,
+        "point_count": 3434
+      },
+      "MAMIT": {
+        "average": 1869.9413073282035,
+        "point_count": 89
+      },
+      "SAIHA": {
+        "average": 1864.9313008025417,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1866.542544166768,
+        "point_count": 1433
+      }
+    },
+    "2014_09": {
+      "AIZAWL": {
+        "average": 1871.6438494617494,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1872.5929868027777,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1873.2206041020559,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1871.9200583642612,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1873.0332734581834,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1875.16877881596,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1873.490377090692,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1872.276960275402,
+        "point_count": 1433
+      }
+    },
+    "2014_10": {
+      "AIZAWL": {
+        "average": 1846.7223967065984,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1857.9027645585666,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1848.73364594854,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1847.86574527543,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1848.4761978953886,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1850.0519739771614,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1850.7932032851993,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1848.7645410500625,
+        "point_count": 1433
+      }
+    },
+    "2014_11": {
+      "AIZAWL": {
+        "average": 1873.391806165083,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1881.4402602504656,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1880.1714312196607,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1880.5443530475716,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1878.0956860949568,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1881.7468450232748,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1882.7266585067296,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1875.205744212395,
+        "point_count": 1433
+      }
+    },
+    "2014_12": {
+      "AIZAWL": {
+        "average": 1870.793016445223,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1878.0595057971013,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1877.0785360919397,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1873.1978123581202,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1873.361528648577,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1878.5142699287212,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1878.0228330301422,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1872.2575039980934,
+        "point_count": 1433
+      }
+    },
+    "2015_01": {
+      "AIZAWL": {
+        "average": 1868.4192884290856,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1851.5032174651928,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1874.4996233617078,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1859.0941516462399,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1866.1916001165523,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1877.7805852374047,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1850.93140470942,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1860.6463708128842,
+        "point_count": 1433
+      }
+    },
+    "2015_02": {
+      "AIZAWL": {
+        "average": 1852.9647684857448,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1861.318426444098,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1854.8031278174356,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1865.8833212218644,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1860.7690902853633,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1854.579934491404,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1873.6708175736521,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1863.276327568765,
+        "point_count": 1433
+      }
+    },
+    "2015_03": {
+      "AIZAWL": {
+        "average": 1872.5479848181794,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1873.4125226233934,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1874.414168974623,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1873.4335827856682,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1874.0759874895493,
+        "point_count": 4217
+      },
+      "SAIHA": {
+        "average": 1875.474129688602,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1872.6631627397278,
+        "point_count": 1433
+      }
+    },
+    "2015_04": {
+      "AIZAWL": {
+        "average": 1869.9968143772687,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1871.9532916786084,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1870.9030726037495,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1870.6760454411506,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1872.5358935289119,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1874.1637033664892,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1872.6581818474344,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1870.6300682119722,
+        "point_count": 1433
+      }
+    },
+    "2015_05": {
+      "AIZAWL": {
+        "average": 1922.2775938305945,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1918.0552376443052,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1918.93676247491,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1917.9560445648629,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1914.5063921761705,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1907.2786485309286,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1915.1817000792134,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1916.3265297697455,
+        "point_count": 1433
+      }
+    },
+    "2015_06": {
+      "AIZAWL": {
+        "average": 1889.952038158757,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1894.464301931487,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1890.5580770629222,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1895.944749806979,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1895.1580813168823,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1895.0063163684483,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1895.9492163635057,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1894.8131173714717,
+        "point_count": 1433
+      }
+    },
+    "2015_07": {
+      "AIZAWL": {
+        "average": 1915.5939257007446,
+        "point_count": 2971
+      },
+      "CHAMPHAI": {
+        "average": 1923.6649660536577,
+        "point_count": 783
+      },
+      "KOLASIB": {
+        "average": 1926.698046176334,
+        "point_count": 456
+      },
+      "LAWNGTLAI": {
+        "average": 1889.0865323005123,
+        "point_count": 992
+      },
+      "LUNGLEI": {
+        "average": 1890.1030017011758,
+        "point_count": 2990
+      },
+      "MAMIT": {
+        "average": 1902.2419014274121,
+        "point_count": 2067
+      },
+      "SERCHHIP": {
+        "average": 1898.045437198618,
+        "point_count": 766
+      }
+    },
+    "2015_08": {
+      "AIZAWL": {
+        "average": 1878.356181981054,
+        "point_count": 3017
+      },
+      "CHAMPHAI": {
+        "average": 1863.8842337689025,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1881.684427759924,
+        "point_count": 418
+      },
+      "LAWNGTLAI": {
+        "average": 1865.4032439459916,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1878.9406497603377,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1928.8482432480346,
+        "point_count": 2078
+      },
+      "SAIHA": {
+        "average": 1866.0086469736548,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1865.755536149664,
+        "point_count": 1433
+      }
+    },
+    "2015_09": {
+      "AIZAWL": {
+        "average": 1874.3502336393742,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1872.8726384228933,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1874.6023432150105,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1874.950133172728,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1874.6364677486956,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1875.0172191771458,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1873.6979879283788,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1873.5628755487012,
+        "point_count": 1433
+      }
+    },
+    "2015_10": {
+      "AIZAWL": {
+        "average": 1849.4362705778444,
+        "point_count": 2931
+      },
+      "CHAMPHAI": {
+        "average": 1848.6131353584317,
+        "point_count": 77
+      },
+      "KOLASIB": {
+        "average": 1850.0199095362527,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1849.6947025874429,
+        "point_count": 2046
+      },
+      "LUNGLEI": {
+        "average": 1848.8856784896398,
+        "point_count": 3182
+      },
+      "MAMIT": {
+        "average": 1850.29273625144,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1854.135438787375,
+        "point_count": 1472
+      },
+      "SERCHHIP": {
+        "average": 1847.9025881986008,
+        "point_count": 807
+      }
+    },
+    "2015_11": {
+      "AIZAWL": {
+        "average": 1872.696631364978,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1881.1248013225063,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1879.5231192633107,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1878.7515564620053,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1876.4250322520802,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1878.0810159766856,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1883.6285829100104,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1874.7091513801547,
+        "point_count": 1433
+      }
+    },
+    "2015_12": {
+      "AIZAWL": {
+        "average": 1869.2675170790983,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1877.4737035017606,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1875.1578801016437,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1875.3706238790378,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1873.7867670439564,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1876.0678424891603,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1880.8853764176242,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1871.9093409491727,
+        "point_count": 1433
+      }
+    },
+    "2016_01": {
+      "AIZAWL": {
+        "average": 1870.1271875582418,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1879.7859938263884,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1876.7736687821778,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1875.237673163514,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1873.5026993008657,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1878.2887619428896,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1880.7231735763776,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1872.7930946513047,
+        "point_count": 1433
+      }
+    },
+    "2016_02": {
+      "AIZAWL": {
+        "average": 1855.9445557323818,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1852.6265332034347,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1854.3959767728477,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1852.9576390417328,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1853.9112576872753,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1852.577063453656,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1851.732814386718,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1854.5914020696948,
+        "point_count": 1433
+      }
+    },
+    "2016_03": {
+      "AIZAWL": {
+        "average": 1870.6334331141534,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1873.7924080437363,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1871.0460507627417,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1873.6611732120698,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1872.8063002625968,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1871.665646822677,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1875.6911631442922,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1872.3761886054258,
+        "point_count": 1433
+      }
+    },
+    "2016_04": {
+      "AIZAWL": {
+        "average": 1871.2355852681044,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1871.274676293998,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1868.2973531743564,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1870.2718164765308,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1870.6168251267964,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1866.583075095043,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1872.7659617573697,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1870.6873927456986,
+        "point_count": 1433
+      }
+    },
+    "2016_05": {
+      "AIZAWL": {
+        "average": 1922.5259626033692,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1920.4349746979449,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1918.4855108574382,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1920.2965109943466,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1918.732070883765,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1915.5025190097854,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1918.5683238563893,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1920.6967679764937,
+        "point_count": 1433
+      }
+    },
+    "2016_06": {
+      "AIZAWL": {
+        "average": 1882.3524185753902,
+        "point_count": 3018
+      },
+      "CHAMPHAI": {
+        "average": 1893.4026957884098,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1892.6872922756058,
+        "point_count": 419
+      },
+      "LAWNGTLAI": {
+        "average": 1890.8540491293597,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1881.0048554796215,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1891.4098145992905,
+        "point_count": 2085
+      },
+      "SAIHA": {
+        "average": 1894.8814548483974,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1876.890087107239,
+        "point_count": 1433
+      }
+    },
+    "2016_07": {
+      "AIZAWL": {
+        "average": 1923.4008309513956,
+        "point_count": 3097
+      },
+      "CHAMPHAI": {
+        "average": 1926.0912117087246,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1896.8859841840588,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1918.83338875314,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1925.1934966536119,
+        "point_count": 3412
+      },
+      "MAMIT": {
+        "average": 1890.844159764041,
+        "point_count": 2113
+      },
+      "SAIHA": {
+        "average": 1922.6561080966453,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1928.2929406449632,
+        "point_count": 1433
+      }
+    },
+    "2016_08": {
+      "AIZAWL": {
+        "average": 1876.910191399611,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1871.452669714384,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1871.036143598066,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1866.5693288599816,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1878.4584059085462,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1873.634429850422,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1864.8464064075035,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1875.8700224671795,
+        "point_count": 1433
+      }
+    },
+    "2016_09": {
+      "AIZAWL": {
+        "average": 1870.026945052016,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1872.724037157591,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1873.6408351981427,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1871.8742710781748,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1871.1412964915432,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1870.4971189229968,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1872.2196664777882,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1870.818772042295,
+        "point_count": 1433
+      }
+    },
+    "2016_10": {
+      "AIZAWL": {
+        "average": 1874.8307216389353,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1850.1066279186898,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1874.8687744146025,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1849.391871243444,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1852.3750007595527,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1863.1455743322267,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1851.8366909910485,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1862.6850647408764,
+        "point_count": 1433
+      }
+    },
+    "2016_11": {
+      "AIZAWL": {
+        "average": 1871.6061734206467,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1880.8788483934775,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1876.813818406974,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1877.3573904250559,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1875.1357955144663,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1879.010858941049,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1882.7093941448647,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1874.1935029355766,
+        "point_count": 1433
+      }
+    },
+    "2016_12": {
+      "AIZAWL": {
+        "average": 1870.729102556887,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1880.432360485769,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1877.2834638779455,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1876.385948940586,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1874.5468560072557,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1879.7105027710322,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1881.1977736417216,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1874.130285046419,
+        "point_count": 1433
+      }
+    },
+    "2017_01": {
+      "AIZAWL": {
+        "average": 1870.9295720835032,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1880.6576217288948,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1878.550227885275,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1866.6350500250219,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1874.3524028004517,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1881.0480818073252,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1877.7936833563613,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1874.0274492910025,
+        "point_count": 1433
+      }
+    },
+    "2017_02": {
+      "AIZAWL": {
+        "average": 1853.6923016220298,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1853.3684746638212,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1851.237225933023,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1851.5565351683858,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1849.8753619821866,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1855.522420201804,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1857.754089839341,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1853.2759856453993,
+        "point_count": 1433
+      }
+    },
+    "2017_03": {
+      "AIZAWL": {
+        "average": 1874.4384568626608,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1874.4994278861116,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1875.3081891818667,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1873.0277192825788,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1874.42991838618,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1876.1964075993235,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1875.5211692686032,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1874.2032893590301,
+        "point_count": 1433
+      }
+    },
+    "2017_04": {
+      "AIZAWL": {
+        "average": 1870.4169223339534,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1871.9769984113475,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1868.4183665541707,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1869.3589107362518,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1870.2748775062744,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1865.8031516169997,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1868.4015795193236,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1870.016905834373,
+        "point_count": 1433
+      }
+    },
+    "2017_05": {
+      "AIZAWL": {
+        "average": 1904.2723008957046,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1910.579025141646,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1897.5782557831317,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1909.853290188598,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1897.659204720827,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1898.1300143960163,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1912.0797575279698,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1902.2338108406364,
+        "point_count": 1433
+      }
+    },
+    "2017_06": {
+      "AIZAWL": {
+        "average": 1889.871289893938,
+        "point_count": 3022
+      },
+      "CHAMPHAI": {
+        "average": 1890.9780453783824,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1887.1987061796558,
+        "point_count": 442
+      },
+      "LAWNGTLAI": {
+        "average": 1885.2181406467178,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1889.6145602725671,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1897.1257350657222,
+        "point_count": 2070
+      },
+      "SAIHA": {
+        "average": 1890.5315337656584,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1883.3830920250837,
+        "point_count": 1433
+      }
+    },
+    "2017_07": {
+      "AIZAWL": {
+        "average": 1926.906143998078,
+        "point_count": 2889
+      },
+      "CHAMPHAI": {
+        "average": 1924.0746328570644,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1919.256407716162,
+        "point_count": 422
+      },
+      "LAWNGTLAI": {
+        "average": 1891.6819989298626,
+        "point_count": 1988
+      },
+      "LUNGLEI": {
+        "average": 1889.9567186219826,
+        "point_count": 280
+      },
+      "MAMIT": {
+        "average": 1928.2143596461076,
+        "point_count": 78
+      },
+      "SAIHA": {
+        "average": 1889.9649886993082,
+        "point_count": 1472
+      },
+      "SERCHHIP": {
+        "average": 1927.9227652750583,
+        "point_count": 1433
+      }
+    },
+    "2017_08": {
+      "AIZAWL": {
+        "average": 1875.445164059227,
+        "point_count": 2907
+      },
+      "CHAMPHAI": {
+        "average": 1878.5875966511212,
+        "point_count": 76
+      },
+      "KOLASIB": {
+        "average": 1866.8953326045416,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1873.0607018634362,
+        "point_count": 2042
+      },
+      "LUNGLEI": {
+        "average": 1885.240572032084,
+        "point_count": 3166
+      },
+      "MAMIT": {
+        "average": 1869.0935637768737,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1896.155537729808,
+        "point_count": 1472
+      },
+      "SERCHHIP": {
+        "average": 1891.2274544138077,
+        "point_count": 791
+      }
+    },
+    "2017_09": {
+      "AIZAWL": {
+        "average": 1871.3616873861945,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1873.4812718933092,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1873.5805604153645,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1871.738404635016,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1869.5353748086986,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1866.8849172785042,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1874.5347212987574,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1870.2391504018917,
+        "point_count": 1433
+      }
+    },
+    "2017_10": {
+      "AIZAWL": {
+        "average": 1867.7416049565163,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1851.0099708816938,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1878.7424987850584,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1856.4183725756016,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1865.3017132951538,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1879.3221387152055,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1849.687421771393,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1859.2890274442968,
+        "point_count": 1433
+      }
+    },
+    "2017_11": {
+      "AIZAWL": {
+        "average": 1872.8120366688192,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1881.3647554549457,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1880.0776188261038,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1880.0345039583824,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1877.7759886619117,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1880.1210251933408,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1883.468700021553,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1874.7340483620999,
+        "point_count": 1433
+      }
+    },
+    "2017_12": {
+      "AIZAWL": {
+        "average": 1870.3817581250696,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1880.077089575111,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1876.4034741041855,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1875.3652388880403,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1873.7085298325294,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1878.2375962212216,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1881.3291299671755,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1872.9448486032236,
+        "point_count": 1433
+      }
+    },
+    "2018_01": {
+      "AIZAWL": {
+        "average": 1864.2502637430164,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1878.8051363176598,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1871.1032192315233,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1848.0166466803416,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1848.177464636429,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1849.6619275595583,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1851.30752519756,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1859.8287035677256,
+        "point_count": 1433
+      }
+    },
+    "2018_02": {
+      "AIZAWL": {
+        "average": 1845.8653218924285,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1855.441899198232,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1852.3502084549095,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1850.9270062280732,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1849.5165090916785,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1856.03209074859,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1856.94556217372,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1849.3325587557295,
+        "point_count": 1433
+      }
+    },
+    "2018_03": {
+      "AIZAWL": {
+        "average": 1876.2684168965297,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1873.898658292065,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1877.2606232861472,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1872.5660774377616,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1874.2516616270836,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1878.346998910601,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1874.2779845696934,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1874.937142032974,
+        "point_count": 1433
+      }
+    },
+    "2018_04": {
+      "AIZAWL": {
+        "average": 1873.6494685290866,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1874.5991492676467,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1875.1624642360143,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1876.6662465771994,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1872.4952710591551,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1873.839812733495,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1878.481548366219,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1871.9431819846263,
+        "point_count": 1433
+      }
+    },
+    "2018_05": {
+      "AIZAWL": {
+        "average": 1923.5787754669386,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1914.4592973036467,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1917.1514171559795,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1926.294959155394,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1925.756677558096,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1924.4802756113909,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1921.6593262691329,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1924.5863347272639,
+        "point_count": 1433
+      }
+    },
+    "2018_06": {
+      "AIZAWL": {
+        "average": 1896.1033559216824,
+        "point_count": 2981
+      },
+      "CHAMPHAI": {
+        "average": 1893.727151339421,
+        "point_count": 132
+      },
+      "KOLASIB": {
+        "average": 1899.2584842976808,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1878.2743730415762,
+        "point_count": 2047
+      },
+      "LUNGLEI": {
+        "average": 1889.5558068661924,
+        "point_count": 3264
+      },
+      "MAMIT": {
+        "average": 1889.771264390627,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1890.5830553619737,
+        "point_count": 1472
+      },
+      "SERCHHIP": {
+        "average": 1895.0636932680382,
+        "point_count": 838
+      }
+    },
+    "2018_07": {
+      "AIZAWL": {
+        "average": 1906.2022726370237,
+        "point_count": 2411
+      },
+      "CHAMPHAI": {
+        "average": 1900.885694381859,
+        "point_count": 3202
+      },
+      "KOLASIB": {
+        "average": 1909.6727448412432,
+        "point_count": 252
+      },
+      "LAWNGTLAI": {
+        "average": 1888.7782560725964,
+        "point_count": 1572
+      },
+      "LUNGLEI": {
+        "average": 1891.6488733159717,
+        "point_count": 3320
+      },
+      "MAMIT": {
+        "average": 1899.7005041703428,
+        "point_count": 59
+      },
+      "SAIHA": {
+        "average": 1888.1304419879268,
+        "point_count": 718
+      },
+      "SERCHHIP": {
+        "average": 1898.019438912322,
+        "point_count": 1433
+      }
+    },
+    "2018_08": {
+      "AIZAWL": {
+        "average": 1867.0118789540486,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1865.2292259689639,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1865.8159817939252,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1864.9789708638007,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1865.890912461938,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1865.3621920341832,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1865.4824613917235,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1866.620119485275,
+        "point_count": 1433
+      }
+    },
+    "2018_09": {
+      "AIZAWL": {
+        "average": 1868.2543389786954,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1871.4913281732584,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1872.5531371844475,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1873.083532984894,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1871.6702690868924,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1874.1923300814312,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1874.3892951321413,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1871.0712575262805,
+        "point_count": 1433
+      }
+    },
+    "2018_10": {
+      "AIZAWL": {
+        "average": 1847.879551369675,
+        "point_count": 2931
+      },
+      "CHAMPHAI": {
+        "average": 1850.211613486612,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1848.7285839752944,
+        "point_count": 489
+      },
+      "LAWNGTLAI": {
+        "average": 1849.489585208081,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1848.785634354956,
+        "point_count": 3466
+      },
+      "MAMIT": {
+        "average": 1846.2097885342414,
+        "point_count": 116
+      },
+      "SAIHA": {
+        "average": 1851.0370824687245,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1849.156358947183,
+        "point_count": 1433
+      }
+    },
+    "2018_11": {
+      "AIZAWL": {
+        "average": 1870.7810218113398,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1880.4619815025726,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1878.4390626869122,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1876.4767587141787,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1874.4163032079894,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1879.3922439412665,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1881.5418653783502,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1873.7637445726589,
+        "point_count": 1433
+      }
+    },
+    "2018_12": {
+      "AIZAWL": {
+        "average": 1871.0632021280464,
+        "point_count": 3093
+      },
+      "CHAMPHAI": {
+        "average": 1879.8234050988137,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1872.7049747295348,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1875.5393576162317,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1873.4637389554375,
+        "point_count": 3372
+      },
+      "MAMIT": {
+        "average": 1871.9766750187741,
+        "point_count": 2091
+      },
+      "SAIHA": {
+        "average": 1880.5179446548304,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1873.888299133266,
+        "point_count": 1433
+      }
+    },
+    "2019_01": {
+      "AIZAWL": {
+        "average": 1850.9749108950334,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1850.959011331044,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1851.252630372611,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1850.726516861204,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1850.5248375894748,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1850.6032689982512,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1850.6597136871221,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1850.992861376116,
+        "point_count": 1433
+      }
+    },
+    "2019_02": {
+      "AIZAWL": {
+        "average": 1844.853470503415,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1855.5837859585583,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1845.1256161562674,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1853.5784344412793,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1853.4390979013642,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1852.78271452023,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1856.351286901403,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1849.1979282553257,
+        "point_count": 1433
+      }
+    },
+    "2019_03": {
+      "AIZAWL": {
+        "average": 1869.7424700024944,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1873.6411474145852,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1871.9140584108513,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1872.0659827296372,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1874.1120421119324,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1870.846656980185,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1874.8828937993153,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1873.0823990106674,
+        "point_count": 1433
+      }
+    },
+    "2019_04": {
+      "AIZAWL": {
+        "average": 1870.7334029986682,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1867.6581384016868,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1868.0878977159898,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1870.2811361802667,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1870.3861036803162,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1863.409915811522,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1864.788870239683,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1869.326389440067,
+        "point_count": 1433
+      }
+    },
+    "2019_05": {
+      "AIZAWL": {
+        "average": 1919.801235160889,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1914.3133152763085,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1909.7310382366072,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1921.2051791435995,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1920.8101623753937,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1920.8944923132735,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1916.5297920586106,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1918.9725800487113,
+        "point_count": 1433
+      }
+    },
+    "2019_06": {
+      "AIZAWL": {
+        "average": 1894.0795767783195,
+        "point_count": 3033
+      },
+      "CHAMPHAI": {
+        "average": 1892.2650915368476,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1896.2529506989029,
+        "point_count": 510
+      },
+      "LAWNGTLAI": {
+        "average": 1890.8743432249482,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1891.385937907757,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1894.0622122606824,
+        "point_count": 2068
+      },
+      "SAIHA": {
+        "average": 1894.7764721432593,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1889.5602901258985,
+        "point_count": 1433
+      }
+    },
+    "2019_07": {
+      "AIZAWL": {
+        "average": 1907.6293497981706,
+        "point_count": 2879
+      },
+      "CHAMPHAI": {
+        "average": 1903.3724934971724,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1904.830035096711,
+        "point_count": 418
+      },
+      "LAWNGTLAI": {
+        "average": 1894.6567862105856,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1900.607950692438,
+        "point_count": 3412
+      },
+      "MAMIT": {
+        "average": 1910.3277534762074,
+        "point_count": 86
+      },
+      "SAIHA": {
+        "average": 1892.7555113991775,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1912.287154512988,
+        "point_count": 1433
+      }
+    },
+    "2019_08": {
+      "AIZAWL": {
+        "average": 1867.8132558150423,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1904.529004922939,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1866.898353601373,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1906.0390583058768,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1881.3213633654705,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1866.687387876249,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1919.524783065765,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1886.2915521406478,
+        "point_count": 1433
+      }
+    },
+    "2019_09": {
+      "AIZAWL": {
+        "average": 1872.6350745791874,
+        "point_count": 2897
+      },
+      "CHAMPHAI": {
+        "average": 1867.9355260608888,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1873.4491501133011,
+        "point_count": 435
+      },
+      "LAWNGTLAI": {
+        "average": 1873.3345069345949,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1872.9286187432563,
+        "point_count": 3396
+      },
+      "MAMIT": {
+        "average": 1874.354064104537,
+        "point_count": 84
+      },
+      "SAIHA": {
+        "average": 1875.153172158419,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1871.8300523491764,
+        "point_count": 1433
+      }
+    },
+    "2019_10": {
+      "AIZAWL": {
+        "average": 1845.706414928053,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1850.141977027487,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1848.6128464482597,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1847.3989157115723,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1846.8093790646792,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1849.9081917126016,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1850.2124278391573,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1846.8602080956489,
+        "point_count": 1433
+      }
+    },
+    "2019_11": {
+      "AIZAWL": {
+        "average": 1872.3691542973993,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1880.468621780615,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1880.0765527037236,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1878.0980202713738,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1877.276612109601,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1879.0704044079134,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1878.9368858791365,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1873.8538905125695,
+        "point_count": 1433
+      }
+    },
+    "2019_12": {
+      "AIZAWL": {
+        "average": 1870.0952076516573,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1875.9119311850347,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1876.5273714214359,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1873.7052539495928,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1872.4263101587142,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1877.091167764292,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1878.5816073941432,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1870.4670248738205,
+        "point_count": 1433
+      }
+    },
+    "2020_01": {
+      "AIZAWL": {
+        "average": 1859.9530003867594,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1851.4252541417595,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1850.9083618974573,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1859.6302619186702,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1866.1450350724494,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1868.279435431202,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1850.7615894245027,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1860.711659283823,
+        "point_count": 1433
+      }
+    },
+    "2020_02": {
+      "AIZAWL": {
+        "average": 1851.8625043570662,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1856.9168285932012,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1850.4849260416631,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1862.2854451781234,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1853.7933613285381,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1850.1596190864775,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1871.7806714536648,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1853.1372666185805,
+        "point_count": 1433
+      }
+    },
+    "2020_03": {
+      "AIZAWL": {
+        "average": 1871.3103760412357,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1874.5073316782364,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1875.1091102511562,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1874.3909286579144,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1872.6252467064005,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1869.4810567902846,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1875.8485151118068,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1870.5267697457316,
+        "point_count": 1433
+      }
+    },
+    "2020_04": {
+      "AIZAWL": {
+        "average": 1869.2004405262576,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1870.130636467741,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1871.1306099168978,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1873.3936150934449,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1869.949312338943,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1871.7100459280969,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1872.2656866247,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1869.402445331996,
+        "point_count": 1433
+      }
+    },
+    "2020_05": {
+      "AIZAWL": {
+        "average": 1922.8983917742844,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1924.5594649981817,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1915.7649949812119,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1932.845782526115,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1930.6692416269834,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1917.1833768598547,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1935.1418282943525,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1930.2767304968186,
+        "point_count": 1433
+      }
+    },
+    "2020_06": {
+      "AIZAWL": {
+        "average": 1889.1703560396597,
+        "point_count": 2577
+      },
+      "CHAMPHAI": {
+        "average": 1887.5096113089785,
+        "point_count": 3201
+      },
+      "KOLASIB": {
+        "average": 1889.2873727918786,
+        "point_count": 310
+      },
+      "LAWNGTLAI": {
+        "average": 1877.84235308089,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1882.9596350096037,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1892.3762246445476,
+        "point_count": 2076
+      },
+      "SAIHA": {
+        "average": 1886.7485290189136,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1888.363782018439,
+        "point_count": 1433
+      }
+    },
+    "2020_07": {
+      "AIZAWL": {
+        "average": 1909.8173679629285,
+        "point_count": 2434
+      },
+      "CHAMPHAI": {
+        "average": 1906.4324848272533,
+        "point_count": 3202
+      },
+      "KOLASIB": {
+        "average": 1916.036570091707,
+        "point_count": 277
+      },
+      "LAWNGTLAI": {
+        "average": 1900.1665547064665,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1904.3288600890426,
+        "point_count": 3379
+      },
+      "MAMIT": {
+        "average": 1902.656235015182,
+        "point_count": 67
+      },
+      "SAIHA": {
+        "average": 1896.3687963322302,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1903.3733092987259,
+        "point_count": 1433
+      }
+    },
+    "2020_08": {
+      "AIZAWL": {
+        "average": 1868.7251991943117,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1865.0234477293136,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1897.801776752198,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1866.278059639079,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1874.5643723582573,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1905.1035259679084,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1864.9365991586492,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1864.6689911555636,
+        "point_count": 1433
+      }
+    },
+    "2020_09": {
+      "AIZAWL": {
+        "average": 1872.2014604772314,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1868.129841219402,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1873.6123900970802,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1873.2311742104382,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1873.3557438049838,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1875.0896788639748,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1864.7381379124533,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1872.2249014624688,
+        "point_count": 1433
+      }
+    },
+    "2020_10": {
+      "AIZAWL": {
+        "average": 1850.8650185759077,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1866.691101216163,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1848.9461796832747,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1847.6105777268676,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1847.6049734016146,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1851.0080866344433,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1850.2070907742925,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1848.1500962093048,
+        "point_count": 1433
+      }
+    },
+    "2020_11": {
+      "AIZAWL": {
+        "average": 1874.589701264091,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1881.8274315245471,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1880.4002993526508,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1880.22895694336,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1877.9873753910126,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1880.3052001805731,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1883.5984015187512,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1875.4784222278668,
+        "point_count": 1433
+      }
+    },
+    "2020_12": {
+      "AIZAWL": {
+        "average": 1870.441225081251,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1879.1417338717763,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1876.574729332548,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1874.8307167692146,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1873.8951584439226,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1878.3225415011002,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1880.7421651637799,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1872.9521795481542,
+        "point_count": 1433
+      }
+    },
+    "2021_01": {
+      "AIZAWL": {
+        "average": 1869.6872423173581,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1850.9288049831414,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1877.1534134942892,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1858.321836217454,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1866.090705558378,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1878.6075280395755,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1850.553181644753,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1860.666994329713,
+        "point_count": 1433
+      }
+    },
+    "2021_02": {
+      "AIZAWL": {
+        "average": 1852.1820907907806,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1863.968542954251,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1850.6206653672386,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1863.6479771836293,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1857.7728284608854,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1849.5166761744576,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1874.015404550935,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1864.3525435530094,
+        "point_count": 1433
+      }
+    },
+    "2021_03": {
+      "AIZAWL": {
+        "average": 1871.4931450112042,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1868.3313178171288,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1877.1658581552635,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1876.1958817432774,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1877.7163165829354,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1874.3003744565606,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1878.3139050398786,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1875.3968305567785,
+        "point_count": 1433
+      }
+    },
+    "2021_04": {
+      "AIZAWL": {
+        "average": 1875.0560108382576,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1878.2097489506978,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1878.9646692038998,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1874.353892369822,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1872.824083373756,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1878.9483428056242,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1874.346291130834,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1874.4940282117395,
+        "point_count": 1433
+      }
+    },
+    "2021_05": {
+      "AIZAWL": {
+        "average": 1925.7526420828592,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1918.1971083985686,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1918.2896374640452,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1917.403381126658,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1923.589187062635,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1920.307447513328,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1914.2734474685278,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1928.0408484236827,
+        "point_count": 1433
+      }
+    },
+    "2021_06": {
+      "AIZAWL": {
+        "average": 1890.5900508217,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1890.1901186212892,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1891.749373482388,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1880.9389859411438,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1878.2178169206043,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1892.999587587825,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1888.8381153732134,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1885.972301864397,
+        "point_count": 1433
+      }
+    },
+    "2021_07": {
+      "AIZAWL": {
+        "average": 1904.3374251751427,
+        "point_count": 1550
+      },
+      "CHAMPHAI": {
+        "average": 1909.0800249937233,
+        "point_count": 101
+      },
+      "KOLASIB": {
+        "average": 1913.0702916573464,
+        "point_count": 26
+      },
+      "LAWNGTLAI": {
+        "average": 1888.1367727299216,
+        "point_count": 1069
+      },
+      "LUNGLEI": {
+        "average": 1890.9918447600294,
+        "point_count": 3144
+      },
+      "MAMIT": {
+        "average": 1900.8647518026778,
+        "point_count": 2082
+      },
+      "SERCHHIP": {
+        "average": 1893.8186584416671,
+        "point_count": 839
+      }
+    },
+    "2021_08": {
+      "AIZAWL": {
+        "average": 1875.7024259340756,
+        "point_count": 2895
+      },
+      "CHAMPHAI": {
+        "average": 1866.970697759064,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1880.9788059270454,
+        "point_count": 426
+      },
+      "LAWNGTLAI": {
+        "average": 1865.9812042367764,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1867.5331042593043,
+        "point_count": 3391
+      },
+      "MAMIT": {
+        "average": 1880.4384875926626,
+        "point_count": 80
+      },
+      "SAIHA": {
+        "average": 1866.9854281710197,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1867.3668506881002,
+        "point_count": 1433
+      }
+    },
+    "2021_09": {
+      "AIZAWL": {
+        "average": 1870.616031654471,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1867.2896661565542,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1876.512410675682,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1869.806739613777,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1869.8703531095052,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1876.2966842472356,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1864.59071411595,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1872.139205991139,
+        "point_count": 1433
+      }
+    },
+    "2021_10": {
+      "AIZAWL": {
+        "average": 1854.7721792984592,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1850.78209976401,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1853.9568511698903,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1849.6876733644954,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1847.4998222884565,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1850.087874257132,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1853.0217454755762,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1847.2971984983005,
+        "point_count": 1433
+      }
+    },
+    "2021_11": {
+      "AIZAWL": {
+        "average": 1872.1337779075002,
+        "point_count": 3082
+      },
+      "CHAMPHAI": {
+        "average": 1874.3390498393007,
+        "point_count": 810
+      },
+      "KOLASIB": {
+        "average": 1879.618762801581,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1872.8329065611845,
+        "point_count": 2045
+      },
+      "LUNGLEI": {
+        "average": 1873.887408540931,
+        "point_count": 3198
+      },
+      "MAMIT": {
+        "average": 1881.1239908755274,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1877.1638067685797,
+        "point_count": 1472
+      },
+      "SERCHHIP": {
+        "average": 1871.423012471863,
+        "point_count": 808
+      }
+    },
+    "2021_12": {
+      "AIZAWL": {
+        "average": 1870.2015796696314,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1879.3401464563085,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1874.5853289180304,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1875.4541720806917,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1873.577277013468,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1876.848967022373,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1880.986922166635,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1872.824950217604,
+        "point_count": 1433
+      }
+    },
+    "2022_01": {
+      "AIZAWL": {
+        "average": 1870.28040698869,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1878.5417549033202,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1876.4795394787996,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1875.0032960907652,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1874.1176678348834,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1878.2985508276656,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1880.784484797559,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1872.426333408724,
+        "point_count": 1433
+      }
+    },
+    "2022_02": {
+      "AIZAWL": {
+        "average": 1853.6924083838167,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1853.6010891592243,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1851.602979220369,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1851.342532384885,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1852.5056392576691,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1850.1441405603637,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1852.92407273936,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1853.5581730332672,
+        "point_count": 1433
+      }
+    },
+    "2022_03": {
+      "AIZAWL": {
+        "average": 1874.8020604154851,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1874.4101225467828,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1875.44375800125,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1874.1043572865356,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1874.8632844824235,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1875.9348223212098,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1876.1036921176385,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1873.8460092700557,
+        "point_count": 1433
+      }
+    },
+    "2022_04": {
+      "AIZAWL": {
+        "average": 1873.2978660139493,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1874.22751290823,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1868.5284595944158,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1872.677374559833,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1872.3592100020326,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1866.3767423055317,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1875.6966791511118,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1874.4793950819246,
+        "point_count": 1433
+      }
+    },
+    "2022_05": {
+      "AIZAWL": {
+        "average": 1904.800974600564,
+        "point_count": 1461
+      },
+      "CHAMPHAI": {
+        "average": 1899.0887471879653,
+        "point_count": 29
+      },
+      "KOLASIB": {
+        "average": 1909.9798944140275,
+        "point_count": 19
+      },
+      "LAWNGTLAI": {
+        "average": 1910.7439857785814,
+        "point_count": 2042
+      },
+      "LUNGLEI": {
+        "average": 1908.853107907578,
+        "point_count": 3064
+      },
+      "MAMIT": {
+        "average": 1915.3458924755012,
+        "point_count": 2058
+      },
+      "SAIHA": {
+        "average": 1897.1264332638495,
+        "point_count": 1472
+      },
+      "SERCHHIP": {
+        "average": 1904.109011622512,
+        "point_count": 736
+      }
+    },
+    "2022_06": {
+      "AIZAWL": {
+        "average": 1894.6774949813218,
+        "point_count": 2569
+      },
+      "CHAMPHAI": {
+        "average": 1891.3097704928691,
+        "point_count": 3200
+      },
+      "KOLASIB": {
+        "average": 1891.0719946290985,
+        "point_count": 369
+      },
+      "LAWNGTLAI": {
+        "average": 1878.2499037412742,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1887.8579816158024,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1899.6636982285409,
+        "point_count": 2068
+      },
+      "SAIHA": {
+        "average": 1881.1125144414416,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1891.7437784759882,
+        "point_count": 1433
+      }
+    },
+    "2022_07": {
+      "AIZAWL": {
+        "average": 1928.447750050255,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1925.701005154841,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1913.0536590497688,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1915.616119417769,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1923.4153605989518,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1907.9438169567595,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1904.327153352183,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1929.41925162343,
+        "point_count": 1433
+      }
+    },
+    "2022_08": {
+      "AIZAWL": {
+        "average": 1883.9201582942924,
+        "point_count": 3096
+      },
+      "CHAMPHAI": {
+        "average": 1907.2809267522885,
+        "point_count": 3200
+      },
+      "KOLASIB": {
+        "average": 1872.1456431701506,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1908.9247696178352,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1895.46369057602,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1874.1554711055112,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1931.3110021839777,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1895.6365889697527,
+        "point_count": 1433
+      }
+    },
+    "2022_09": {
+      "AIZAWL": {
+        "average": 1870.766389345071,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1874.0360927341956,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1872.9482193490364,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1872.882637430169,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1870.571646907631,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1871.8651799883269,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1873.777086704915,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1869.9236000697183,
+        "point_count": 1433
+      }
+    },
+    "2022_10": {
+      "AIZAWL": {
+        "average": 1847.5049946169604,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1850.3827471553966,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1849.5093519871061,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1851.0514022750338,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1849.9444380211235,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1850.0442217909574,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1850.77522913662,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1848.2514955488882,
+        "point_count": 1433
+      }
+    },
+    "2022_11": {
+      "AIZAWL": {
+        "average": 1875.9418589743714,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1883.6038344995334,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1878.7267590992085,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1880.2423791767287,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1878.9905296459856,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1879.9383727968989,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1883.320128074328,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1879.5901736637857,
+        "point_count": 1433
+      }
+    },
+    "2022_12": {
+      "AIZAWL": {
+        "average": 1873.863003282137,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1882.3193734812774,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1877.663632097298,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1876.8080235461118,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1877.4601045832926,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1880.046096011555,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1883.0325593545692,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1875.5228277505346,
+        "point_count": 1433
+      }
+    },
+    "2023_01": {
+      "AIZAWL": {
+        "average": 1869.8367505349415,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1879.7865332086237,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1876.3991464203636,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1863.8005734944304,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1872.1696144956009,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1878.1973760922606,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1875.2783885737667,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1872.9486882793422,
+        "point_count": 1433
+      }
+    },
+    "2023_02": {
+      "AIZAWL": {
+        "average": 1852.554004933836,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1852.6663477223415,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1851.6976988417975,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1852.0543568067528,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1849.3236122551023,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1854.930145968731,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1857.1037476350944,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1851.5749182348834,
+        "point_count": 1433
+      }
+    },
+    "2023_03": {
+      "AIZAWL": {
+        "average": 1870.428934494168,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1870.1899332934472,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1872.366212136047,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1872.8664192625645,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1874.4813573694955,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1876.7702899114345,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1873.7147170894314,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1874.9027095407687,
+        "point_count": 1433
+      }
+    },
+    "2023_04": {
+      "AIZAWL": {
+        "average": 1869.7849981734028,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1873.4487258928045,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1870.6081187935854,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1872.8024664649445,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1872.669964938966,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1865.6583129772966,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1874.7157045405663,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1872.5431695188972,
+        "point_count": 1433
+      }
+    },
+    "2023_05": {
+      "AIZAWL": {
+        "average": 1923.7375706459054,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1917.2771664904155,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1923.4258830976978,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1922.8965693929545,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1919.283522927254,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1921.4933007949917,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1921.1178538574177,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1920.4210613644661,
+        "point_count": 1433
+      }
+    },
+    "2023_06": {
+      "AIZAWL": {
+        "average": 1893.0789966023178,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1893.700176346,
+        "point_count": 3200
+      },
+      "KOLASIB": {
+        "average": 1898.4612899256904,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1889.5018101115736,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1889.779040054622,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1895.7726346355057,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1894.5273545313253,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1890.7207188356579,
+        "point_count": 1433
+      }
+    },
+    "2023_07": {
+      "AIZAWL": {
+        "average": 1922.0553050440083,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1897.1574283923308,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1916.8790707943258,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1899.5236489090717,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1909.2575221675809,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1916.0057765278057,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1895.5789556484574,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1908.3511904595382,
+        "point_count": 1433
+      }
+    },
+    "2023_09": {
+      "AIZAWL": {
+        "average": 1869.7235420400955,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1872.3643427573652,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1871.707810763275,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1871.8872355900241,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1871.7296784367873,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1873.36952791644,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1874.5861227141068,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1871.986538559696,
+        "point_count": 1433
+      }
+    },
+    "2023_10": {
+      "AIZAWL": {
+        "average": 1874.5339318779575,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1850.4631392294896,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1879.4273748783662,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1859.0170664855839,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1869.109200044344,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1881.690820191251,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1850.0721996688426,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1863.5074979474684,
+        "point_count": 1433
+      }
+    },
+    "2023_11": {
+      "AIZAWL": {
+        "average": 1871.6867351187027,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1880.6157999265406,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1880.132001719624,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1877.928780140705,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1876.1504070886333,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1881.8850862625648,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1879.0067072987279,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1874.3081857412274,
+        "point_count": 1433
+      }
+    },
+    "2023_12": {
+      "AIZAWL": {
+        "average": 1868.6739554845042,
+        "point_count": 3098
+      },
+      "CHAMPHAI": {
+        "average": 1877.5263679053019,
+        "point_count": 3209
+      },
+      "KOLASIB": {
+        "average": 1874.172059792721,
+        "point_count": 1454
+      },
+      "LAWNGTLAI": {
+        "average": 1873.6278901453543,
+        "point_count": 2375
+      },
+      "LUNGLEI": {
+        "average": 1872.3159561085145,
+        "point_count": 4217
+      },
+      "MAMIT": {
+        "average": 1875.544786306234,
+        "point_count": 2916
+      },
+      "SAIHA": {
+        "average": 1879.369989651069,
+        "point_count": 1480
+      },
+      "SERCHHIP": {
+        "average": 1871.0297621332684,
+        "point_count": 1433
+      }
+    }
+  },
+  "statistics": {
+    "mean": 1877.4781806367555,
+    "std": 19.573259237784978,
+    "min": 1844.853470503415,
+    "max": 1935.1418282943525
+  }
+}

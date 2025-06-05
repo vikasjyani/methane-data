@@ -1,0 +1,2198 @@
+{
+  "type": "state_districts",
+  "state_name": "SIKKIM",
+  "data": {
+    "EAST": {
+      "average_methane": 1881.4940323679443,
+      "data_quality": {
+        "total_months": 120,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 918.375
+      },
+      "point_count": 110205
+    },
+    "NORTH": {
+      "average_methane": 1878.716144908254,
+      "data_quality": {
+        "total_months": 119,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 4050.0
+      },
+      "point_count": 481950
+    },
+    "SOUTH": {
+      "average_methane": 1880.7043076893913,
+      "data_quality": {
+        "total_months": 119,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 758.0
+      },
+      "point_count": 90202
+    },
+    "WEST": {
+      "average_methane": 1881.4029242948725,
+      "data_quality": {
+        "total_months": 119,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 1191.0
+      },
+      "point_count": 141729
+    }
+  },
+  "monthly_data": {
+    "2014_01": {
+      "EAST": {
+        "average": 1875.1363558830728,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1873.5435987636079,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1875.5152221228195,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1877.0593989569907,
+        "point_count": 1191
+      }
+    },
+    "2014_02": {
+      "EAST": {
+        "average": 1851.0648899732328,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1849.75854564284,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1849.605533796695,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1847.8715094962813,
+        "point_count": 1191
+      }
+    },
+    "2014_03": {
+      "EAST": {
+        "average": 1875.8930656093003,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1860.8363921337539,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1874.6475345862355,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1873.726697150111,
+        "point_count": 1191
+      }
+    },
+    "2014_04": {
+      "EAST": {
+        "average": 1873.315445920552,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1850.6966093336002,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1864.5513907565262,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1853.9101520606905,
+        "point_count": 1191
+      }
+    },
+    "2014_05": {
+      "EAST": {
+        "average": 1882.9937199233493,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1913.2869792139145,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1884.4935425560427,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1894.4379048143626,
+        "point_count": 1191
+      }
+    },
+    "2014_06": {
+      "EAST": {
+        "average": 1914.0364553385436,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1920.913695792687,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1918.9851910916777,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1933.1368715780484,
+        "point_count": 1191
+      }
+    },
+    "2014_07": {
+      "EAST": {
+        "average": 1927.29348234652,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1929.8837993295651,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1928.3000612643389,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1927.1404760064124,
+        "point_count": 1191
+      }
+    },
+    "2014_08": {
+      "EAST": {
+        "average": 1866.1478500787962,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1866.129367725386,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1865.7903512304315,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1866.1843394447055,
+        "point_count": 1191
+      }
+    },
+    "2014_09": {
+      "EAST": {
+        "average": 1872.8236341528307,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1877.2402811899228,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1882.344413575274,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1875.1549351720857,
+        "point_count": 1191
+      }
+    },
+    "2014_10": {
+      "EAST": {
+        "average": 1879.0769543498598,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1875.9466110171168,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1879.8072822065003,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1880.3861079264548,
+        "point_count": 1191
+      }
+    },
+    "2014_11": {
+      "EAST": {
+        "average": 1876.777923424951,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1874.4514722625072,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1877.6639375964369,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1878.564594076589,
+        "point_count": 1191
+      }
+    },
+    "2014_12": {
+      "EAST": {
+        "average": 1875.7554595576946,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1873.7748191435537,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1876.0790428671864,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1877.383817379057,
+        "point_count": 1191
+      }
+    },
+    "2015_01": {
+      "EAST": {
+        "average": 1873.9479758945693,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1872.3862210820582,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1874.0316875355084,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1875.6787909351065,
+        "point_count": 1191
+      }
+    },
+    "2015_02": {
+      "EAST": {
+        "average": 1850.977614894636,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1850.781733685723,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1852.231450851126,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1851.664881085064,
+        "point_count": 1191
+      }
+    },
+    "2015_03": {
+      "EAST": {
+        "average": 1875.763886238489,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1870.20491024547,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1878.7758664249063,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1876.8032518921016,
+        "point_count": 1191
+      }
+    },
+    "2015_04": {
+      "EAST": {
+        "average": 1867.1480985677013,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1852.1907971914773,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1836.943137956244,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1845.0617607008996,
+        "point_count": 1191
+      }
+    },
+    "2015_05": {
+      "EAST": {
+        "average": 1902.4045237072162,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1904.3283384225465,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1897.9969306124583,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1903.1351743714436,
+        "point_count": 1191
+      }
+    },
+    "2015_06": {
+      "EAST": {
+        "average": 1918.2352385092727,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1921.2323743859185,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1923.2332309157764,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1921.4912776685337,
+        "point_count": 1191
+      }
+    },
+    "2015_07": {
+      "EAST": {
+        "average": 1931.4542166721208,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1929.0422834627177,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1929.6637895508716,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1929.9649797178079,
+        "point_count": 1191
+      }
+    },
+    "2015_08": {
+      "EAST": {
+        "average": 1866.1920610427758,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1875.002600132391,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1871.9437669626388,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1879.7218355975172,
+        "point_count": 1191
+      }
+    },
+    "2015_09": {
+      "EAST": {
+        "average": 1864.9688198190504,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1862.7012435247377,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1879.5389707077786,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1876.7313571231105,
+        "point_count": 1191
+      }
+    },
+    "2015_10": {
+      "EAST": {
+        "average": 1877.6381774212537,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1874.8276554731337,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1878.3208271172518,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1878.6035842470606,
+        "point_count": 1191
+      }
+    },
+    "2015_11": {
+      "EAST": {
+        "average": 1874.3787153948322,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1873.7535373555932,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1875.4766326318063,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1876.5994837897229,
+        "point_count": 1191
+      }
+    },
+    "2015_12": {
+      "EAST": {
+        "average": 1873.5992397827124,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1872.609249256919,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1874.230092601455,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1876.3450690952413,
+        "point_count": 1191
+      }
+    },
+    "2016_01": {
+      "EAST": {
+        "average": 1872.92848588306,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1872.6124725358611,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1873.3073553848571,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1874.5842185954568,
+        "point_count": 1191
+      }
+    },
+    "2016_02": {
+      "EAST": {
+        "average": 1849.8075207719291,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1851.3512809121826,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1851.7444902762197,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1853.714908292406,
+        "point_count": 1191
+      }
+    },
+    "2016_03": {
+      "EAST": {
+        "average": 1857.8423986156067,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1856.2657071497492,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1861.7718745134027,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1861.3674096374803,
+        "point_count": 1191
+      }
+    },
+    "2016_04": {
+      "EAST": {
+        "average": 1874.0881243447254,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1855.4412610016827,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1871.6830454471265,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1870.0810663124842,
+        "point_count": 1191
+      }
+    },
+    "2016_05": {
+      "EAST": {
+        "average": 1911.2098235086248,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1905.6942563031525,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1909.2166332355343,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1909.7139636327756,
+        "point_count": 1191
+      }
+    },
+    "2016_06": {
+      "EAST": {
+        "average": 1924.8437496421861,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1924.9295976115825,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1927.980318812838,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1925.775736435008,
+        "point_count": 1191
+      }
+    },
+    "2016_07": {
+      "EAST": {
+        "average": 1931.6525845267124,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1930.0156270170999,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1929.9554813623836,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1931.9252736981086,
+        "point_count": 1191
+      }
+    },
+    "2016_08": {
+      "EAST": {
+        "average": 1880.351438630242,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1865.641272240411,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1874.4912241970756,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1869.0124803364777,
+        "point_count": 1191
+      }
+    },
+    "2016_09": {
+      "EAST": {
+        "average": 1874.7732904810407,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1861.4138379694537,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1875.999210187715,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1873.1925180408546,
+        "point_count": 1191
+      }
+    },
+    "2016_10": {
+      "EAST": {
+        "average": 1876.77856447141,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1872.945493356783,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1878.0498495974398,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1878.1916518384937,
+        "point_count": 1191
+      }
+    },
+    "2016_11": {
+      "EAST": {
+        "average": 1872.2344123977805,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1873.0275199063626,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1873.406935784739,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1874.850886697575,
+        "point_count": 1191
+      }
+    },
+    "2016_12": {
+      "EAST": {
+        "average": 1875.7407862985829,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1874.3162075817888,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1876.4175763734356,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1877.6524845935635,
+        "point_count": 1191
+      }
+    },
+    "2017_01": {
+      "EAST": {
+        "average": 1875.1418676104574,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1873.7372534791948,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1875.5925642617128,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1877.191568617277,
+        "point_count": 1191
+      }
+    },
+    "2017_02": {
+      "EAST": {
+        "average": 1849.839701739171,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1853.774514548423,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1850.5458060114786,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1853.3444416457482,
+        "point_count": 1191
+      }
+    },
+    "2017_03": {
+      "EAST": {
+        "average": 1870.4711513802017,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1857.4618720051978,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1858.6897408021546,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1854.8100900839179,
+        "point_count": 1191
+      }
+    },
+    "2017_04": {
+      "EAST": {
+        "average": 1871.4763443378433,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1870.6329537573113,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1877.3200161408918,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1872.006055729018,
+        "point_count": 1191
+      }
+    },
+    "2017_05": {
+      "EAST": {
+        "average": 1910.5814435656714,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1903.6395747748713,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1913.395303077662,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1910.049753539426,
+        "point_count": 1191
+      }
+    },
+    "2017_06": {
+      "EAST": {
+        "average": 1927.6039530292483,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1923.197564229172,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1931.1209512646521,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1933.0383198752156,
+        "point_count": 1191
+      }
+    },
+    "2017_07": {
+      "EAST": {
+        "average": 1929.8226003092855,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1924.0056963985676,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1931.8359657503445,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1932.0225024378642,
+        "point_count": 1191
+      }
+    },
+    "2017_08": {
+      "EAST": {
+        "average": 1874.0682381911565,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1868.4679995189372,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1872.8447902030312,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1868.040344688218,
+        "point_count": 1191
+      }
+    },
+    "2017_09": {
+      "EAST": {
+        "average": 1851.7268046400511,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1854.0224346444186,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1853.6741244358288,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1856.7990460613732,
+        "point_count": 1191
+      }
+    },
+    "2017_10": {
+      "EAST": {
+        "average": 1872.8423632903675,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1867.5872657592065,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1850.8391657225905,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1850.2587657865465,
+        "point_count": 1191
+      }
+    },
+    "2017_11": {
+      "EAST": {
+        "average": 1873.058901011441,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1873.300809736965,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1872.7850640088457,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1875.2100406527913,
+        "point_count": 1191
+      }
+    },
+    "2017_12": {
+      "EAST": {
+        "average": 1875.0831067144827,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1873.7577765416884,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1875.6152532937153,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1876.8324132241155,
+        "point_count": 1191
+      }
+    },
+    "2018_01": {
+      "EAST": {
+        "average": 1875.2253938245904,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1874.0805835085566,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1875.549299700983,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1877.0459371500942,
+        "point_count": 1191
+      }
+    },
+    "2018_02": {
+      "EAST": {
+        "average": 1850.8752431351559,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1850.2502942843735,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1850.3536240348672,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1850.5654687112342,
+        "point_count": 1191
+      }
+    },
+    "2018_03": {
+      "EAST": {
+        "average": 1874.4867151823,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1853.8590403301475,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1871.301407818166,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1871.7570755950549,
+        "point_count": 1191
+      }
+    },
+    "2018_04": {
+      "EAST": {
+        "average": 1870.8345795272273,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1848.3129260629223,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1860.093129033533,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1850.9102943343476,
+        "point_count": 1191
+      }
+    },
+    "2018_05": {
+      "EAST": {
+        "average": 1910.681808057206,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1906.7523296094423,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1911.7265933689027,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1912.8293741969571,
+        "point_count": 1191
+      }
+    },
+    "2018_06": {
+      "EAST": {
+        "average": 1927.1054471055234,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1921.7565084183695,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1922.3522910774627,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1924.587278462905,
+        "point_count": 1191
+      }
+    },
+    "2018_07": {
+      "EAST": {
+        "average": 1927.6038975494494,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1927.426126074793,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1925.9455912934607,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1926.4176624462816,
+        "point_count": 1191
+      }
+    },
+    "2018_08": {
+      "EAST": {
+        "average": 1867.194459079197,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1867.370181819038,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1868.1662806187023,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1865.6360531565483,
+        "point_count": 1191
+      }
+    },
+    "2018_09": {
+      "EAST": {
+        "average": 1869.5231517436491,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1872.923864400264,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1877.9976618638702,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1874.5773368943658,
+        "point_count": 1191
+      }
+    },
+    "2018_10": {
+      "EAST": {
+        "average": 1874.3936208089433,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1872.642152758949,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1875.1264053228044,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1875.9103368567858,
+        "point_count": 1191
+      }
+    },
+    "2018_11": {
+      "EAST": {
+        "average": 1873.8678957884488,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1872.0605998943083,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1875.2971795770231,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1876.3566670695732,
+        "point_count": 1191
+      }
+    },
+    "2018_12": {
+      "EAST": {
+        "average": 1872.784961629502,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1873.0909264395018,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1873.5219553719467,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1874.9943876318323,
+        "point_count": 1191
+      }
+    },
+    "2019_01": {
+      "EAST": {
+        "average": 1874.2027945464752,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1873.2602022243655,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1874.529800570578,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1875.7278930389473,
+        "point_count": 1191
+      }
+    },
+    "2019_02": {
+      "EAST": {
+        "average": 1850.5650670430757,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1849.838216827514,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1850.153136120625,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1849.0251367461901,
+        "point_count": 1191
+      }
+    },
+    "2019_03": {
+      "EAST": {
+        "average": 1864.2852814455077,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1848.2796757570686,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1834.6289966475572,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1846.5769947576484,
+        "point_count": 1191
+      }
+    },
+    "2019_04": {
+      "EAST": {
+        "average": 1869.262670059199,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1861.4995104967393,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1869.5779432775805,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1867.4455113037725,
+        "point_count": 1191
+      }
+    },
+    "2019_05": {
+      "EAST": {
+        "average": 1890.2645053718652,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1913.111924702027,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1889.870213070234,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1898.4801327740674,
+        "point_count": 1191
+      }
+    },
+    "2019_06": {
+      "EAST": {
+        "average": 1910.732999466092,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1918.1264184469924,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1917.7807509387544,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1930.106049770221,
+        "point_count": 1191
+      }
+    },
+    "2019_07": {
+      "EAST": {
+        "average": 1929.4594322082035,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1926.8285854198489,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1929.19160767829,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1929.4044584633796,
+        "point_count": 1191
+      }
+    },
+    "2019_08": {
+      "EAST": {
+        "average": 1866.6552512875335,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1866.7421036549342,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1867.1533701920287,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1866.577160901243,
+        "point_count": 1191
+      }
+    },
+    "2019_09": {
+      "EAST": {
+        "average": 1875.4116409974054,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1871.1160150817418,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1880.1097306022305,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1875.9166903423004,
+        "point_count": 1191
+      }
+    },
+    "2019_10": {
+      "EAST": {
+        "average": 1871.45349863136,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1872.225886707583,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1872.6889323443856,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1873.6670109926285,
+        "point_count": 1191
+      }
+    },
+    "2019_11": {
+      "EAST": {
+        "average": 1874.8269968243728,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1873.3453673920972,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1874.9446213549963,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1875.6578164468112,
+        "point_count": 1191
+      }
+    },
+    "2019_12": {
+      "EAST": {
+        "average": 1873.2442384754527,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1872.660418894852,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1873.5009658253214,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1874.9280144587678,
+        "point_count": 1191
+      }
+    },
+    "2020_01": {
+      "EAST": {
+        "average": 1872.8345773206274,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1872.1547618335605,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1872.71956249756,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1873.9620531500175,
+        "point_count": 1191
+      }
+    },
+    "2020_02": {
+      "EAST": {
+        "average": 1847.001357275783,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1847.6963879370073,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1845.5855991106148,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1851.4824241386104,
+        "point_count": 1191
+      }
+    },
+    "2020_03": {
+      "EAST": {
+        "average": 1876.5427503798576,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1861.242057766896,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1878.6672568851445,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1874.4055552603622,
+        "point_count": 1191
+      }
+    },
+    "2020_04": {
+      "EAST": {
+        "average": 1873.3008071915735,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1869.09560377337,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1862.3958257675033,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1870.1435752002942,
+        "point_count": 1191
+      }
+    },
+    "2020_05": {
+      "EAST": {
+        "average": 1927.5967049595336,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1915.139473234163,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1912.3401906811941,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1919.754750797355,
+        "point_count": 1191
+      }
+    },
+    "2020_06": {
+      "EAST": {
+        "average": 1904.0414859417363,
+        "point_count": 11
+      }
+    },
+    "2020_07": {
+      "EAST": {
+        "average": 1933.272066789456,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1926.66840559664,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1935.8625135090751,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1931.0430280501344,
+        "point_count": 1191
+      }
+    },
+    "2020_08": {
+      "EAST": {
+        "average": 1865.8249661743298,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1866.939436472056,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1865.9128617363356,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1866.5019198648508,
+        "point_count": 1191
+      }
+    },
+    "2020_09": {
+      "EAST": {
+        "average": 1870.821913247743,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1872.5013610722804,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1849.4928379875557,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1871.1279838530372,
+        "point_count": 1191
+      }
+    },
+    "2020_10": {
+      "EAST": {
+        "average": 1877.344126582716,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1873.9946686812646,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1878.065297017907,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1878.424185644074,
+        "point_count": 1191
+      }
+    },
+    "2020_11": {
+      "EAST": {
+        "average": 1875.074780628208,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1873.3591506918606,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1874.678292375712,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1875.965782195999,
+        "point_count": 1191
+      }
+    },
+    "2020_12": {
+      "EAST": {
+        "average": 1875.0354671939117,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1873.5762113974827,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1875.4995326915612,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1876.396392332114,
+        "point_count": 1191
+      }
+    },
+    "2021_01": {
+      "EAST": {
+        "average": 1874.0450653830983,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1873.6936968018156,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1874.1642427267986,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1875.744679082028,
+        "point_count": 1191
+      }
+    },
+    "2021_02": {
+      "EAST": {
+        "average": 1854.961151078203,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1852.2868870655016,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1854.3189035878434,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1851.6204617933479,
+        "point_count": 1191
+      }
+    },
+    "2021_03": {
+      "EAST": {
+        "average": 1872.5356324446752,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1865.475921521458,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1872.190178094592,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1869.326746260182,
+        "point_count": 1191
+      }
+    },
+    "2021_04": {
+      "EAST": {
+        "average": 1876.9109806731906,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1853.3498230545085,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1853.023074581944,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1849.9252578079893,
+        "point_count": 1191
+      }
+    },
+    "2021_05": {
+      "EAST": {
+        "average": 1906.5420525359261,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1903.3144086520344,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1908.8705354427752,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1909.1522543440822,
+        "point_count": 1191
+      }
+    },
+    "2021_06": {
+      "EAST": {
+        "average": 1920.7759101554766,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1923.2660190099493,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1922.8931902056336,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1924.6402358487883,
+        "point_count": 1191
+      }
+    },
+    "2021_07": {
+      "EAST": {
+        "average": 1927.784509983587,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1931.81310551616,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1932.5220982299063,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1934.08841414495,
+        "point_count": 1191
+      }
+    },
+    "2021_08": {
+      "EAST": {
+        "average": 1866.1530089253147,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1875.078198065466,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1872.552610299957,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1880.2691975738833,
+        "point_count": 1191
+      }
+    },
+    "2021_09": {
+      "EAST": {
+        "average": 1857.896260260887,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1857.766157557923,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1865.9691526302777,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1870.6486754756077,
+        "point_count": 1191
+      }
+    },
+    "2021_10": {
+      "EAST": {
+        "average": 1873.1595164459293,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1872.0137540990352,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1874.7830506982787,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1875.4113255166628,
+        "point_count": 1191
+      }
+    },
+    "2021_11": {
+      "EAST": {
+        "average": 1875.3476066928747,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1872.4948649646844,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1875.5770972815324,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1876.7701656664706,
+        "point_count": 1191
+      }
+    },
+    "2021_12": {
+      "EAST": {
+        "average": 1872.7212050145886,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1872.5389742648497,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1872.7573713650436,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1874.4937900169687,
+        "point_count": 1191
+      }
+    },
+    "2022_01": {
+      "EAST": {
+        "average": 1874.7158301804545,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1873.1004719187972,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1875.040578866716,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1876.470921628255,
+        "point_count": 1191
+      }
+    },
+    "2022_02": {
+      "EAST": {
+        "average": 1849.9124827728779,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1851.653322094492,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1851.4410983700247,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1853.749983036626,
+        "point_count": 1191
+      }
+    },
+    "2022_03": {
+      "EAST": {
+        "average": 1861.0753591767889,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1857.1019388104253,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1870.3784761616375,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1870.0520486362536,
+        "point_count": 1191
+      }
+    },
+    "2022_04": {
+      "EAST": {
+        "average": 1867.3935798617913,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1857.9278859661335,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1850.7366294862493,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1849.6513824680235,
+        "point_count": 1191
+      }
+    },
+    "2022_05": {
+      "EAST": {
+        "average": 1906.5204026858266,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1905.5893473961557,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1904.9787647500257,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1907.585731557015,
+        "point_count": 1191
+      }
+    },
+    "2022_06": {
+      "EAST": {
+        "average": 1916.771922934121,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1921.1013695673644,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1924.465355615935,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1925.9254592084696,
+        "point_count": 1191
+      }
+    },
+    "2022_07": {
+      "EAST": {
+        "average": 1924.5747927277878,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1921.8668216143665,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1930.899416047284,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1929.25770147893,
+        "point_count": 1191
+      }
+    },
+    "2022_08": {
+      "EAST": {
+        "average": 1881.0919363834632,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1867.9084056536483,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1878.5582565947186,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1872.8425843972864,
+        "point_count": 1191
+      }
+    },
+    "2022_09": {
+      "EAST": {
+        "average": 1857.506615767619,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1856.5967543934914,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1857.7692852048467,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1857.7257594868672,
+        "point_count": 1191
+      }
+    },
+    "2022_10": {
+      "EAST": {
+        "average": 1875.8335816593553,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1873.0350367256874,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1875.596163217361,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1876.1853598645403,
+        "point_count": 1191
+      }
+    },
+    "2022_11": {
+      "EAST": {
+        "average": 1875.4530218739433,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1873.6246200592411,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1875.353844507371,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1876.4357269516279,
+        "point_count": 1191
+      }
+    },
+    "2022_12": {
+      "EAST": {
+        "average": 1875.3366162097627,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1874.03327773613,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1875.6777731910877,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1876.9473233576723,
+        "point_count": 1191
+      }
+    },
+    "2023_01": {
+      "EAST": {
+        "average": 1874.8930027823458,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1874.1114970817468,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1875.0428144493083,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1876.3290593497195,
+        "point_count": 1191
+      }
+    },
+    "2023_02": {
+      "EAST": {
+        "average": 1851.0543014168545,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1851.910293706777,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1850.8107208011302,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1851.4728025986863,
+        "point_count": 1191
+      }
+    },
+    "2023_03": {
+      "EAST": {
+        "average": 1870.8400589737544,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1860.4631099823466,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1874.1023925926688,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1870.5636812984505,
+        "point_count": 1191
+      }
+    },
+    "2023_04": {
+      "EAST": {
+        "average": 1874.378102904973,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1849.6472570072358,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1868.3865097910962,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1865.0938741645032,
+        "point_count": 1191
+      }
+    },
+    "2023_05": {
+      "EAST": {
+        "average": 1891.629952888222,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1904.2820618548683,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1889.6151072204661,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1900.7389963620235,
+        "point_count": 1191
+      }
+    },
+    "2023_06": {
+      "EAST": {
+        "average": 1927.9821610381962,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1919.4266860229748,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1927.178204475252,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1926.9353777224549,
+        "point_count": 1191
+      }
+    },
+    "2023_07": {
+      "EAST": {
+        "average": 1922.6107751548986,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1923.504957983978,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1927.8438989290664,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1926.1493425986164,
+        "point_count": 1191
+      }
+    },
+    "2023_08": {
+      "EAST": {
+        "average": 1866.4150303064314,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1851.5833351227393,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1853.7641368429145,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1852.2413574191269,
+        "point_count": 1191
+      }
+    },
+    "2023_09": {
+      "EAST": {
+        "average": 1874.6844775159027,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1873.58957211978,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1880.161008593635,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1875.674494873513,
+        "point_count": 1191
+      }
+    },
+    "2023_10": {
+      "EAST": {
+        "average": 1875.1256285655807,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1870.7928836657388,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1861.793986560629,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1850.2896810559623,
+        "point_count": 1191
+      }
+    },
+    "2023_11": {
+      "EAST": {
+        "average": 1876.904539147247,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1874.787878111745,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1877.628845358386,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1878.7858745233734,
+        "point_count": 1191
+      }
+    },
+    "2023_12": {
+      "EAST": {
+        "average": 1875.4024095162322,
+        "point_count": 926
+      },
+      "NORTH": {
+        "average": 1873.7999065028323,
+        "point_count": 4050
+      },
+      "SOUTH": {
+        "average": 1875.7339566369608,
+        "point_count": 758
+      },
+      "WEST": {
+        "average": 1877.0196797944618,
+        "point_count": 1191
+      }
+    }
+  },
+  "statistics": {
+    "mean": 1879.7673311950803,
+    "std": 24.343294988789026,
+    "min": 1834.6289966475572,
+    "max": 1935.8625135090751
+  }
+}

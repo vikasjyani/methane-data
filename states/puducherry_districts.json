@@ -1,0 +1,1946 @@
+{
+  "type": "state_districts",
+  "state_name": "PUDUCHERRY",
+  "data": {
+    "KARAIKAL": {
+      "average_methane": 1860.3112163404153,
+      "data_quality": {
+        "total_months": 106,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 184.0
+      },
+      "point_count": 19504
+    },
+    "MAHE": {
+      "average_methane": 1866.8139103991543,
+      "data_quality": {
+        "total_months": 102,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 22.0
+      },
+      "point_count": 2244
+    },
+    "PUDUCHERRY": {
+      "average_methane": 1867.8002915930508,
+      "data_quality": {
+        "total_months": 106,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 405.0
+      },
+      "point_count": 42930
+    },
+    "YANAM": {
+      "average_methane": 1866.2215569693417,
+      "data_quality": {
+        "total_months": 106,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 53.0
+      },
+      "point_count": 5618
+    }
+  },
+  "monthly_data": {
+    "2014_01": {
+      "KARAIKAL": {
+        "average": 1868.8624211814124,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1854.9535556092414,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1857.5214806535619,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1850.2367527069323,
+        "point_count": 53
+      }
+    },
+    "2014_02": {
+      "KARAIKAL": {
+        "average": 1879.8736919492417,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1879.7475227578666,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1870.45333764953,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1875.651992427405,
+        "point_count": 53
+      }
+    },
+    "2014_03": {
+      "KARAIKAL": {
+        "average": 1879.7147818813603,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1880.172903265911,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1871.3594116341144,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1873.1766670748405,
+        "point_count": 53
+      }
+    },
+    "2014_04": {
+      "KARAIKAL": {
+        "average": 1864.0377339751874,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1866.2550030818252,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1876.6699132635815,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1862.498434094752,
+        "point_count": 53
+      }
+    },
+    "2014_05": {
+      "KARAIKAL": {
+        "average": 1866.3063141107355,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1876.6449151941881,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1881.662803801253,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1891.0199139966303,
+        "point_count": 53
+      }
+    },
+    "2014_06": {
+      "KARAIKAL": {
+        "average": 1834.639668667515,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1864.2407798201666,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1876.034572948729,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1885.9983661033593,
+        "point_count": 53
+      }
+    },
+    "2014_07": {
+      "KARAIKAL": {
+        "average": 1848.69202444479,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1834.5152619819623,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1876.3497852075097,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1866.6999279087875,
+        "point_count": 53
+      }
+    },
+    "2014_08": {
+      "KARAIKAL": {
+        "average": 1863.3676632711388,
+        "point_count": 184
+      },
+      "PUDUCHERRY": {
+        "average": 1866.7129877236819,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1864.0429232403662,
+        "point_count": 53
+      }
+    },
+    "2014_09": {
+      "KARAIKAL": {
+        "average": 1864.8729469269636,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1866.7874292177155,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1864.5777004164954,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1874.1114590228108,
+        "point_count": 53
+      }
+    },
+    "2014_10": {
+      "KARAIKAL": {
+        "average": 1834.7527657083162,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1860.3775803605438,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1874.3650473674816,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1856.8226131716206,
+        "point_count": 53
+      }
+    },
+    "2014_11": {
+      "KARAIKAL": {
+        "average": 1855.2348508691196,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1851.5263983580226,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1854.2430119201833,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1848.823124667451,
+        "point_count": 53
+      }
+    },
+    "2014_12": {
+      "KARAIKAL": {
+        "average": 1850.2444556652304,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1853.3387016445827,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1848.5735542046618,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1852.6535002614971,
+        "point_count": 53
+      }
+    },
+    "2015_01": {
+      "KARAIKAL": {
+        "average": 1879.791421697673,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1854.751561710891,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1877.1703037916436,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1852.5993378944029,
+        "point_count": 53
+      }
+    },
+    "2015_02": {
+      "KARAIKAL": {
+        "average": 1879.4675567063684,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1879.3262151621864,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1872.6182504100498,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1870.6872140871196,
+        "point_count": 53
+      }
+    },
+    "2015_03": {
+      "KARAIKAL": {
+        "average": 1878.7501284822924,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1879.651425616534,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1872.0969375858556,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1871.523588900957,
+        "point_count": 53
+      }
+    },
+    "2015_04": {
+      "KARAIKAL": {
+        "average": 1863.7604905225155,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1871.4187057786717,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1866.6479122294982,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1866.265235046038,
+        "point_count": 53
+      }
+    },
+    "2015_05": {
+      "KARAIKAL": {
+        "average": 1861.0502316635327,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1875.7658521811466,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1865.5771194644326,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1869.954370475125,
+        "point_count": 53
+      }
+    },
+    "2015_06": {
+      "KARAIKAL": {
+        "average": 1880.1443467619715,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1881.3541169627426,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1877.7367509534186,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1869.400529300087,
+        "point_count": 53
+      }
+    },
+    "2015_07": {
+      "KARAIKAL": {
+        "average": 1834.655723577078,
+        "point_count": 184
+      },
+      "PUDUCHERRY": {
+        "average": 1874.0297530550881,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1866.7428812141266,
+        "point_count": 53
+      }
+    },
+    "2015_08": {
+      "KARAIKAL": {
+        "average": 1865.6593525568676,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1871.4920705250834,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1865.4353156303512,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1865.705411827275,
+        "point_count": 53
+      }
+    },
+    "2015_09": {
+      "KARAIKAL": {
+        "average": 1865.4783749717526,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1875.5158034947913,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1876.3253886005766,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1872.9247532303493,
+        "point_count": 53
+      }
+    },
+    "2015_10": {
+      "KARAIKAL": {
+        "average": 1849.130832916051,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1836.6915888981405,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1868.8715663467613,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1854.1061795140015,
+        "point_count": 53
+      }
+    },
+    "2015_11": {
+      "MAHE": {
+        "average": 1845.9560030633315,
+        "point_count": 22
+      },
+      "YANAM": {
+        "average": 1850.6659430849425,
+        "point_count": 53
+      }
+    },
+    "2015_12": {
+      "KARAIKAL": {
+        "average": 1850.8193512065277,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1850.1015548211597,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1846.0373084545422,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1850.4603378492359,
+        "point_count": 53
+      }
+    },
+    "2016_01": {
+      "KARAIKAL": {
+        "average": 1856.9968889376769,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1856.8673363499554,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1854.6961828642002,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1852.267262924171,
+        "point_count": 53
+      }
+    },
+    "2016_02": {
+      "KARAIKAL": {
+        "average": 1880.1623285920746,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1880.2817648112375,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1870.5081350179662,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1875.623192506865,
+        "point_count": 53
+      }
+    },
+    "2016_03": {
+      "KARAIKAL": {
+        "average": 1878.324532957248,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1877.6469350202215,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1872.794797915932,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1870.0988880934174,
+        "point_count": 53
+      }
+    },
+    "2016_04": {
+      "KARAIKAL": {
+        "average": 1867.4002400807924,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1865.2937405266268,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1863.4961913985521,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1861.0784223008295,
+        "point_count": 53
+      }
+    },
+    "2016_05": {
+      "KARAIKAL": {
+        "average": 1866.8127953936416,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1876.592857211608,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1866.8364881817863,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1893.4807296819135,
+        "point_count": 53
+      }
+    },
+    "2016_06": {
+      "KARAIKAL": {
+        "average": 1834.4968980291014,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1868.3128461512488,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1874.3481651189932,
+        "point_count": 405
+      }
+    },
+    "2016_07": {
+      "KARAIKAL": {
+        "average": 1880.0680192673012,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1870.148825423782,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1873.2726963354933,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1861.892802390417,
+        "point_count": 53
+      }
+    },
+    "2016_08": {
+      "KARAIKAL": {
+        "average": 1863.2225684652822,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1865.4748399645637,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1864.7665489432134,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1864.1879221310496,
+        "point_count": 53
+      }
+    },
+    "2016_09": {
+      "KARAIKAL": {
+        "average": 1864.385157993663,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1876.3169056027764,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1877.1793382027606,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1877.552951823185,
+        "point_count": 53
+      }
+    },
+    "2016_10": {
+      "KARAIKAL": {
+        "average": 1880.0998277061228,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1879.7475227578666,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1872.759460101591,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1852.238735704314,
+        "point_count": 53
+      }
+    },
+    "2016_11": {
+      "KARAIKAL": {
+        "average": 1855.3372967453017,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1850.3750415592651,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1851.230328610939,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1850.5209269441532,
+        "point_count": 53
+      }
+    },
+    "2016_12": {
+      "KARAIKAL": {
+        "average": 1846.6728479070368,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1850.1700547291102,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1849.9983461623747,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1849.0958998474187,
+        "point_count": 53
+      }
+    },
+    "2017_01": {
+      "KARAIKAL": {
+        "average": 1858.0786234208958,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1857.2898444937389,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1857.7066194273982,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1854.2670375520943,
+        "point_count": 53
+      }
+    },
+    "2017_02": {
+      "KARAIKAL": {
+        "average": 1836.1197764840256,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1880.6083494472189,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1881.212152315352,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1875.5000561229572,
+        "point_count": 53
+      }
+    },
+    "2017_03": {
+      "KARAIKAL": {
+        "average": 1878.047185934577,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1877.4086200084928,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1871.48190401075,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1874.2051299710254,
+        "point_count": 53
+      }
+    },
+    "2017_04": {
+      "KARAIKAL": {
+        "average": 1859.6628761759746,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1902.775128268145,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1859.5837903816423,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1869.789171492329,
+        "point_count": 53
+      }
+    },
+    "2017_05": {
+      "KARAIKAL": {
+        "average": 1867.4644233645959,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1890.1318074239605,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1865.7045344961527,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1890.3169326558886,
+        "point_count": 53
+      }
+    },
+    "2017_06": {
+      "KARAIKAL": {
+        "average": 1879.880147193156,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1871.2476082713836,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1877.8634617453056,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1866.3939188917102,
+        "point_count": 53
+      }
+    },
+    "2017_07": {
+      "KARAIKAL": {
+        "average": 1873.6327665626256,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1834.7436038832254,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1872.9932373052904,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1867.2233598339922,
+        "point_count": 53
+      }
+    },
+    "2017_08": {
+      "KARAIKAL": {
+        "average": 1863.760493798757,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1875.7344890082,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1865.3069127888211,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1863.7482761607043,
+        "point_count": 53
+      }
+    },
+    "2017_09": {
+      "KARAIKAL": {
+        "average": 1861.3228122805724,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1864.1354330590327,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1865.2181519068238,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1876.730164435642,
+        "point_count": 53
+      }
+    },
+    "2017_10": {
+      "KARAIKAL": {
+        "average": 1877.4933687505938,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1879.8325988594754,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1879.1664086472736,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1854.7137602387313,
+        "point_count": 53
+      }
+    },
+    "2017_11": {
+      "KARAIKAL": {
+        "average": 1850.9052474857592,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1849.8013249119315,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1852.2514088824041,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1851.891143224092,
+        "point_count": 53
+      }
+    },
+    "2017_12": {
+      "KARAIKAL": {
+        "average": 1843.0448889426305,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1849.683201651414,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1850.454902566372,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1850.5315061395563,
+        "point_count": 53
+      }
+    },
+    "2018_01": {
+      "KARAIKAL": {
+        "average": 1857.4511817629625,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1858.18802317607,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1857.140846596937,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1854.4024763380496,
+        "point_count": 53
+      }
+    },
+    "2018_02": {
+      "KARAIKAL": {
+        "average": 1879.7678596910723,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1879.7475227578666,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1873.6629898811718,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1869.0151993193642,
+        "point_count": 53
+      }
+    },
+    "2018_03": {
+      "KARAIKAL": {
+        "average": 1876.6124239085154,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1879.8194978263505,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1872.707525179261,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1872.370479843341,
+        "point_count": 53
+      }
+    },
+    "2018_04": {
+      "KARAIKAL": {
+        "average": 1866.7013335336371,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1865.2254711262694,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1866.7127419719632,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1877.3571213663174,
+        "point_count": 53
+      }
+    },
+    "2018_05": {
+      "KARAIKAL": {
+        "average": 1868.6323224516566,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1872.6718441476396,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1909.9241282285916,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1889.8476266059486,
+        "point_count": 53
+      }
+    },
+    "2018_06": {
+      "KARAIKAL": {
+        "average": 1873.5072152571545,
+        "point_count": 184
+      },
+      "PUDUCHERRY": {
+        "average": 1874.9615701684436,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1890.5452542659593,
+        "point_count": 53
+      }
+    },
+    "2018_07": {
+      "KARAIKAL": {
+        "average": 1880.1317235909185,
+        "point_count": 184
+      },
+      "PUDUCHERRY": {
+        "average": 1874.6862148329024,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1865.9908732609908,
+        "point_count": 53
+      }
+    },
+    "2018_08": {
+      "KARAIKAL": {
+        "average": 1879.0775614157383,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1866.212754778607,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1879.1572252990482,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1867.5147311964356,
+        "point_count": 53
+      }
+    },
+    "2018_09": {
+      "KARAIKAL": {
+        "average": 1860.0843045699623,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1863.1795950395172,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1863.1342064257515,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1869.8254953527085,
+        "point_count": 53
+      }
+    },
+    "2018_10": {
+      "KARAIKAL": {
+        "average": 1836.3932400808376,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1879.7475227578666,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1874.3684939713246,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1873.2559628060365,
+        "point_count": 53
+      }
+    },
+    "2018_11": {
+      "KARAIKAL": {
+        "average": 1850.139883899878,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1850.5827818759697,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1856.5417423074143,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1850.2966233604789,
+        "point_count": 53
+      }
+    },
+    "2018_12": {
+      "KARAIKAL": {
+        "average": 1842.8681089845268,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1850.2057590358147,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1850.0148950163546,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1850.1839017943341,
+        "point_count": 53
+      }
+    },
+    "2019_01": {
+      "KARAIKAL": {
+        "average": 1860.2813737637275,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1873.3412437054942,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1856.3400829824036,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1850.0838765671022,
+        "point_count": 53
+      }
+    },
+    "2019_02": {
+      "KARAIKAL": {
+        "average": 1849.9527158494952,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1879.7475227578666,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1874.7661117871057,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1875.9246754507064,
+        "point_count": 53
+      }
+    },
+    "2019_03": {
+      "KARAIKAL": {
+        "average": 1879.446182040235,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1879.790060808671,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1874.34736845401,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1871.4853842975665,
+        "point_count": 53
+      }
+    },
+    "2019_04": {
+      "KARAIKAL": {
+        "average": 1863.3861456002137,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1864.008416079797,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1860.4253496183956,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1861.3842269877773,
+        "point_count": 53
+      }
+    },
+    "2019_05": {
+      "KARAIKAL": {
+        "average": 1868.5454279630626,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1875.5333355012217,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1907.2673802598656,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1888.8667067996073,
+        "point_count": 53
+      }
+    },
+    "2019_06": {
+      "KARAIKAL": {
+        "average": 1840.5046222701583,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1877.556836365373,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1878.2626772918488,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1895.5569760826907,
+        "point_count": 53
+      }
+    },
+    "2019_07": {
+      "KARAIKAL": {
+        "average": 1836.321701511196,
+        "point_count": 184
+      },
+      "PUDUCHERRY": {
+        "average": 1872.082908770606,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1867.061925690623,
+        "point_count": 53
+      }
+    },
+    "2019_08": {
+      "KARAIKAL": {
+        "average": 1867.9676659351285,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1876.9503340298945,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1866.5279453152593,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1860.6570102906028,
+        "point_count": 53
+      }
+    },
+    "2019_09": {
+      "KARAIKAL": {
+        "average": 1859.5899316981827,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1862.8775716951013,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1863.333232137082,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1880.5783644074718,
+        "point_count": 53
+      }
+    },
+    "2019_10": {
+      "KARAIKAL": {
+        "average": 1871.6766363125473,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1879.7475227578666,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1875.93835985426,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1869.4550819674248,
+        "point_count": 53
+      }
+    },
+    "2019_11": {
+      "KARAIKAL": {
+        "average": 1848.8736619021802,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1849.430779461449,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1849.1241736490538,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1850.2473369126678,
+        "point_count": 53
+      }
+    },
+    "2019_12": {
+      "KARAIKAL": {
+        "average": 1846.313193346867,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1850.8878442905834,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1849.5683615488351,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1855.0235991299562,
+        "point_count": 53
+      }
+    },
+    "2020_01": {
+      "KARAIKAL": {
+        "average": 1881.8116042321813,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1852.0428574385703,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1859.5054300613153,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1848.5895758344607,
+        "point_count": 53
+      }
+    },
+    "2020_02": {
+      "KARAIKAL": {
+        "average": 1879.9400564371463,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1879.7475227578666,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1871.750958928697,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1877.072354632299,
+        "point_count": 53
+      }
+    },
+    "2020_03": {
+      "KARAIKAL": {
+        "average": 1879.9931520649654,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1879.7475227578666,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1871.2705590738647,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1871.4291280968334,
+        "point_count": 53
+      }
+    },
+    "2020_04": {
+      "KARAIKAL": {
+        "average": 1866.59538547366,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1866.629768000466,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1876.2074702525254,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1859.154262874626,
+        "point_count": 53
+      }
+    },
+    "2020_05": {
+      "KARAIKAL": {
+        "average": 1866.276386202185,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1866.6975923088694,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1871.270418601536,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1884.9177049339105,
+        "point_count": 53
+      }
+    },
+    "2020_06": {
+      "KARAIKAL": {
+        "average": 1834.1295434729666,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1876.1826096742227,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1868.9544255589,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1881.37847604977,
+        "point_count": 53
+      }
+    },
+    "2020_07": {
+      "KARAIKAL": {
+        "average": 1842.5555533281522,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1834.081994918618,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1874.4592747399226,
+        "point_count": 405
+      }
+    },
+    "2020_08": {
+      "KARAIKAL": {
+        "average": 1863.9264438817188,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1863.0732588749233,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1864.6298558205096,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1863.6898336215856,
+        "point_count": 53
+      }
+    },
+    "2020_09": {
+      "KARAIKAL": {
+        "average": 1874.3995335646775,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1869.8594908670202,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1865.3569601056256,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1873.3479726415696,
+        "point_count": 53
+      }
+    },
+    "2020_10": {
+      "KARAIKAL": {
+        "average": 1835.8020064891214,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1879.8325988594754,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1875.4654734676465,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1853.7397659057588,
+        "point_count": 53
+      }
+    },
+    "2020_11": {
+      "KARAIKAL": {
+        "average": 1841.7485248988733,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1851.3255145380042,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1850.2064086910984,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1850.3982003574395,
+        "point_count": 53
+      }
+    },
+    "2020_12": {
+      "KARAIKAL": {
+        "average": 1849.6696349253748,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1850.0675591170593,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1847.6130864701151,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1850.0718919594397,
+        "point_count": 53
+      }
+    },
+    "2021_01": {
+      "MAHE": {
+        "average": 1853.6037506639123,
+        "point_count": 22
+      },
+      "YANAM": {
+        "average": 1852.9253326234912,
+        "point_count": 53
+      }
+    },
+    "2021_02": {
+      "KARAIKAL": {
+        "average": 1834.7448869021287,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1880.6277207916346,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1877.2563239500244,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1872.2580430669389,
+        "point_count": 53
+      }
+    },
+    "2021_03": {
+      "KARAIKAL": {
+        "average": 1879.7695105705802,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1834.0069804856232,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1872.1880501459702,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1872.319649909753,
+        "point_count": 53
+      }
+    },
+    "2021_04": {
+      "KARAIKAL": {
+        "average": 1863.804645392587,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1872.31871595407,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1860.8078056518968,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1863.8523545970622,
+        "point_count": 53
+      }
+    },
+    "2021_05": {
+      "KARAIKAL": {
+        "average": 1863.9178801838038,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1873.8989979965872,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1864.8349437585557,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1891.2295281342817,
+        "point_count": 53
+      }
+    },
+    "2021_06": {
+      "KARAIKAL": {
+        "average": 1835.3103820222902,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1879.902564732726,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1874.3140029087697,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1880.9145330010108,
+        "point_count": 53
+      }
+    },
+    "2021_07": {
+      "KARAIKAL": {
+        "average": 1835.5505572452878,
+        "point_count": 184
+      },
+      "PUDUCHERRY": {
+        "average": 1878.150383966133,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1865.406987753873,
+        "point_count": 53
+      }
+    },
+    "2021_08": {
+      "KARAIKAL": {
+        "average": 1865.5811173467557,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1876.9328338851767,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1867.3629578284858,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1863.3274587027202,
+        "point_count": 53
+      }
+    },
+    "2021_09": {
+      "KARAIKAL": {
+        "average": 1863.4271848582057,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1872.662996584645,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1876.2105900405656,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1874.3393512679722,
+        "point_count": 53
+      }
+    },
+    "2021_10": {
+      "KARAIKAL": {
+        "average": 1879.7620014038562,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1836.609759632196,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1873.4656149534555,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1856.1043989434295,
+        "point_count": 53
+      }
+    },
+    "2021_11": {
+      "KARAIKAL": {
+        "average": 1856.6597478796596,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1857.4852335639787,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1854.0721151335404,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1850.1323812651067,
+        "point_count": 53
+      }
+    },
+    "2021_12": {
+      "KARAIKAL": {
+        "average": 1846.6647281151788,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1849.9482890238237,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1850.8334731519728,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1850.134303176176,
+        "point_count": 53
+      }
+    },
+    "2022_01": {
+      "KARAIKAL": {
+        "average": 1857.0188781917993,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1858.4134892604065,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1854.2986235618318,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1852.9474838503338,
+        "point_count": 53
+      }
+    },
+    "2022_02": {
+      "KARAIKAL": {
+        "average": 1834.9918394359186,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1879.7475227578666,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1874.0492197025155,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1870.2615881942038,
+        "point_count": 53
+      }
+    },
+    "2022_03": {
+      "KARAIKAL": {
+        "average": 1880.4667369275196,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1879.7769597755462,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1874.6665843947026,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1871.6181597984225,
+        "point_count": 53
+      }
+    },
+    "2022_04": {
+      "KARAIKAL": {
+        "average": 1866.6843463162822,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1894.3220692786554,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1864.2668075123063,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1870.1606118140576,
+        "point_count": 53
+      }
+    },
+    "2022_05": {
+      "KARAIKAL": {
+        "average": 1862.879065044752,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1875.3634367580576,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1862.1516691462482,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1892.6202013896045,
+        "point_count": 53
+      }
+    },
+    "2022_06": {
+      "KARAIKAL": {
+        "average": 1835.2281759002249,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1865.479941673934,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1874.3489152310528,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1868.163953083812,
+        "point_count": 53
+      }
+    },
+    "2022_07": {
+      "KARAIKAL": {
+        "average": 1835.3727639844715,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1880.1912484487277,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1873.8308743420343,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1865.309578913444,
+        "point_count": 53
+      }
+    },
+    "2022_08": {
+      "KARAIKAL": {
+        "average": 1866.522131216136,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1873.4422069866635,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1865.5471292322002,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1865.085586970473,
+        "point_count": 53
+      }
+    },
+    "2022_09": {
+      "KARAIKAL": {
+        "average": 1863.2114405648422,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1873.002231198636,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1866.7545936601116,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1874.1984451071994,
+        "point_count": 53
+      }
+    },
+    "2022_10": {
+      "KARAIKAL": {
+        "average": 1836.8737197991595,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1879.9602130118888,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1874.348185564401,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1853.9316707806345,
+        "point_count": 53
+      }
+    },
+    "2022_11": {
+      "KARAIKAL": {
+        "average": 1856.2577161503957,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1851.0167386288967,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1851.683132879334,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1855.1868666176474,
+        "point_count": 53
+      }
+    },
+    "2022_12": {
+      "KARAIKAL": {
+        "average": 1848.5160921382528,
+        "point_count": 184
+      },
+      "MAHE": {
+        "average": 1850.3588006307036,
+        "point_count": 22
+      },
+      "PUDUCHERRY": {
+        "average": 1851.801682187227,
+        "point_count": 405
+      },
+      "YANAM": {
+        "average": 1850.2168446201592,
+        "point_count": 53
+      }
+    }
+  },
+  "statistics": {
+    "mean": 1865.5647491120774,
+    "std": 12.791398894996854,
+    "min": 1834.0069804856232,
+    "max": 1909.9241282285916
+  }
+}

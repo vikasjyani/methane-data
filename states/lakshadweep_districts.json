@@ -1,0 +1,731 @@
+{
+  "type": "state_districts",
+  "state_name": "LAKSHADWEEP",
+  "data": {
+    "LAKSHADWEEP": {
+      "average_methane": 1868.1283244281399,
+      "data_quality": {
+        "total_months": 118,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 100.80508474576271
+      },
+      "point_count": 11895
+    }
+  },
+  "monthly_data": {
+    "2014_01": {
+      "LAKSHADWEEP": {
+        "average": 1871.139383664367,
+        "point_count": 109
+      }
+    },
+    "2014_02": {
+      "LAKSHADWEEP": {
+        "average": 1879.6999589382538,
+        "point_count": 48
+      }
+    },
+    "2014_03": {
+      "LAKSHADWEEP": {
+        "average": 1870.734501401959,
+        "point_count": 83
+      }
+    },
+    "2014_04": {
+      "LAKSHADWEEP": {
+        "average": 1867.75868277129,
+        "point_count": 109
+      }
+    },
+    "2014_05": {
+      "LAKSHADWEEP": {
+        "average": 1871.962161243184,
+        "point_count": 109
+      }
+    },
+    "2014_06": {
+      "LAKSHADWEEP": {
+        "average": 1867.649741185254,
+        "point_count": 109
+      }
+    },
+    "2014_07": {
+      "LAKSHADWEEP": {
+        "average": 1866.1720338659816,
+        "point_count": 109
+      }
+    },
+    "2014_08": {
+      "LAKSHADWEEP": {
+        "average": 1880.9198227948216,
+        "point_count": 109
+      }
+    },
+    "2014_09": {
+      "LAKSHADWEEP": {
+        "average": 1866.921198619337,
+        "point_count": 109
+      }
+    },
+    "2014_10": {
+      "LAKSHADWEEP": {
+        "average": 1865.5211471604257,
+        "point_count": 109
+      }
+    },
+    "2014_11": {
+      "LAKSHADWEEP": {
+        "average": 1860.452090230225,
+        "point_count": 48
+      }
+    },
+    "2014_12": {
+      "LAKSHADWEEP": {
+        "average": 1850.458513353395,
+        "point_count": 91
+      }
+    },
+    "2015_01": {
+      "LAKSHADWEEP": {
+        "average": 1863.2128822210698,
+        "point_count": 109
+      }
+    },
+    "2015_02": {
+      "LAKSHADWEEP": {
+        "average": 1877.9353713380335,
+        "point_count": 109
+      }
+    },
+    "2015_03": {
+      "LAKSHADWEEP": {
+        "average": 1878.2121394283236,
+        "point_count": 109
+      }
+    },
+    "2015_04": {
+      "LAKSHADWEEP": {
+        "average": 1871.521323760533,
+        "point_count": 109
+      }
+    },
+    "2015_05": {
+      "LAKSHADWEEP": {
+        "average": 1864.9842313868412,
+        "point_count": 109
+      }
+    },
+    "2015_06": {
+      "LAKSHADWEEP": {
+        "average": 1871.5735170770852,
+        "point_count": 109
+      }
+    },
+    "2015_07": {
+      "LAKSHADWEEP": {
+        "average": 1878.1200321693616,
+        "point_count": 109
+      }
+    },
+    "2015_08": {
+      "LAKSHADWEEP": {
+        "average": 1869.397553775256,
+        "point_count": 109
+      }
+    },
+    "2015_09": {
+      "LAKSHADWEEP": {
+        "average": 1886.2244613550479,
+        "point_count": 109
+      }
+    },
+    "2015_10": {
+      "LAKSHADWEEP": {
+        "average": 1874.7383991840895,
+        "point_count": 109
+      }
+    },
+    "2015_11": {
+      "LAKSHADWEEP": {
+        "average": 1851.8235939880321,
+        "point_count": 94
+      }
+    },
+    "2015_12": {
+      "LAKSHADWEEP": {
+        "average": 1849.7194394608478,
+        "point_count": 93
+      }
+    },
+    "2016_01": {
+      "LAKSHADWEEP": {
+        "average": 1863.8931746175201,
+        "point_count": 109
+      }
+    },
+    "2016_02": {
+      "LAKSHADWEEP": {
+        "average": 1877.5418671199761,
+        "point_count": 93
+      }
+    },
+    "2016_03": {
+      "LAKSHADWEEP": {
+        "average": 1874.1929400148726,
+        "point_count": 109
+      }
+    },
+    "2016_04": {
+      "LAKSHADWEEP": {
+        "average": 1867.1370778949922,
+        "point_count": 109
+      }
+    },
+    "2016_05": {
+      "LAKSHADWEEP": {
+        "average": 1866.5913908389196,
+        "point_count": 109
+      }
+    },
+    "2016_06": {
+      "LAKSHADWEEP": {
+        "average": 1873.209170862683,
+        "point_count": 109
+      }
+    },
+    "2016_07": {
+      "LAKSHADWEEP": {
+        "average": 1862.2789979126992,
+        "point_count": 66
+      }
+    },
+    "2016_08": {
+      "LAKSHADWEEP": {
+        "average": 1867.14773822,
+        "point_count": 109
+      }
+    },
+    "2016_09": {
+      "LAKSHADWEEP": {
+        "average": 1886.3101502558372,
+        "point_count": 109
+      }
+    },
+    "2016_10": {
+      "LAKSHADWEEP": {
+        "average": 1874.855643138797,
+        "point_count": 109
+      }
+    },
+    "2016_11": {
+      "LAKSHADWEEP": {
+        "average": 1853.4458043281477,
+        "point_count": 109
+      }
+    },
+    "2016_12": {
+      "LAKSHADWEEP": {
+        "average": 1850.5425711089288,
+        "point_count": 109
+      }
+    },
+    "2017_01": {
+      "LAKSHADWEEP": {
+        "average": 1863.5744873032545,
+        "point_count": 109
+      }
+    },
+    "2017_02": {
+      "LAKSHADWEEP": {
+        "average": 1877.923785488255,
+        "point_count": 109
+      }
+    },
+    "2017_03": {
+      "LAKSHADWEEP": {
+        "average": 1876.3047055580262,
+        "point_count": 109
+      }
+    },
+    "2017_04": {
+      "LAKSHADWEEP": {
+        "average": 1876.8188151762026,
+        "point_count": 109
+      }
+    },
+    "2017_05": {
+      "LAKSHADWEEP": {
+        "average": 1872.6489899154433,
+        "point_count": 109
+      }
+    },
+    "2017_06": {
+      "LAKSHADWEEP": {
+        "average": 1867.7052201283461,
+        "point_count": 109
+      }
+    },
+    "2017_07": {
+      "LAKSHADWEEP": {
+        "average": 1871.3361424917832,
+        "point_count": 109
+      }
+    },
+    "2017_08": {
+      "LAKSHADWEEP": {
+        "average": 1868.1441550622994,
+        "point_count": 109
+      }
+    },
+    "2017_09": {
+      "LAKSHADWEEP": {
+        "average": 1874.9617401691662,
+        "point_count": 93
+      }
+    },
+    "2017_10": {
+      "LAKSHADWEEP": {
+        "average": 1877.1797700798647,
+        "point_count": 82
+      }
+    },
+    "2017_11": {
+      "LAKSHADWEEP": {
+        "average": 1851.9005442019595,
+        "point_count": 109
+      }
+    },
+    "2017_12": {
+      "LAKSHADWEEP": {
+        "average": 1851.2232332998387,
+        "point_count": 109
+      }
+    },
+    "2018_01": {
+      "LAKSHADWEEP": {
+        "average": 1859.0943015503149,
+        "point_count": 109
+      }
+    },
+    "2018_02": {
+      "LAKSHADWEEP": {
+        "average": 1878.5999631349805,
+        "point_count": 109
+      }
+    },
+    "2018_03": {
+      "LAKSHADWEEP": {
+        "average": 1879.2752809608708,
+        "point_count": 48
+      }
+    },
+    "2018_04": {
+      "LAKSHADWEEP": {
+        "average": 1876.674046207878,
+        "point_count": 109
+      }
+    },
+    "2018_05": {
+      "LAKSHADWEEP": {
+        "average": 1869.0821416961135,
+        "point_count": 82
+      }
+    },
+    "2018_06": {
+      "LAKSHADWEEP": {
+        "average": 1856.3141430227297,
+        "point_count": 94
+      }
+    },
+    "2018_07": {
+      "LAKSHADWEEP": {
+        "average": 1869.9626508393676,
+        "point_count": 109
+      }
+    },
+    "2018_08": {
+      "LAKSHADWEEP": {
+        "average": 1866.372492533568,
+        "point_count": 75
+      }
+    },
+    "2018_09": {
+      "LAKSHADWEEP": {
+        "average": 1868.6538242294812,
+        "point_count": 109
+      }
+    },
+    "2018_10": {
+      "LAKSHADWEEP": {
+        "average": 1867.232793905084,
+        "point_count": 109
+      }
+    },
+    "2018_11": {
+      "LAKSHADWEEP": {
+        "average": 1852.6056941751597,
+        "point_count": 109
+      }
+    },
+    "2018_12": {
+      "LAKSHADWEEP": {
+        "average": 1851.112742819438,
+        "point_count": 109
+      }
+    },
+    "2019_01": {
+      "LAKSHADWEEP": {
+        "average": 1865.6469667043064,
+        "point_count": 109
+      }
+    },
+    "2019_02": {
+      "LAKSHADWEEP": {
+        "average": 1877.9843551341928,
+        "point_count": 109
+      }
+    },
+    "2019_03": {
+      "LAKSHADWEEP": {
+        "average": 1878.2068083533304,
+        "point_count": 109
+      }
+    },
+    "2019_04": {
+      "LAKSHADWEEP": {
+        "average": 1864.2035116668037,
+        "point_count": 109
+      }
+    },
+    "2019_05": {
+      "LAKSHADWEEP": {
+        "average": 1866.9274673575478,
+        "point_count": 109
+      }
+    },
+    "2019_06": {
+      "LAKSHADWEEP": {
+        "average": 1871.968189607655,
+        "point_count": 94
+      }
+    },
+    "2019_07": {
+      "LAKSHADWEEP": {
+        "average": 1867.8565363428713,
+        "point_count": 109
+      }
+    },
+    "2019_08": {
+      "LAKSHADWEEP": {
+        "average": 1871.193261852845,
+        "point_count": 109
+      }
+    },
+    "2019_09": {
+      "LAKSHADWEEP": {
+        "average": 1885.742145956013,
+        "point_count": 94
+      }
+    },
+    "2019_10": {
+      "LAKSHADWEEP": {
+        "average": 1870.53106098372,
+        "point_count": 109
+      }
+    },
+    "2019_11": {
+      "LAKSHADWEEP": {
+        "average": 1853.8709546289208,
+        "point_count": 109
+      }
+    },
+    "2019_12": {
+      "LAKSHADWEEP": {
+        "average": 1851.175624595243,
+        "point_count": 109
+      }
+    },
+    "2020_01": {
+      "LAKSHADWEEP": {
+        "average": 1873.3503784408645,
+        "point_count": 109
+      }
+    },
+    "2020_02": {
+      "LAKSHADWEEP": {
+        "average": 1878.3520959697014,
+        "point_count": 109
+      }
+    },
+    "2020_03": {
+      "LAKSHADWEEP": {
+        "average": 1877.8395672533895,
+        "point_count": 109
+      }
+    },
+    "2020_04": {
+      "LAKSHADWEEP": {
+        "average": 1863.6840656219945,
+        "point_count": 109
+      }
+    },
+    "2020_05": {
+      "LAKSHADWEEP": {
+        "average": 1869.7555598602332,
+        "point_count": 66
+      }
+    },
+    "2020_06": {
+      "LAKSHADWEEP": {
+        "average": 1860.761692373669,
+        "point_count": 109
+      }
+    },
+    "2020_07": {
+      "LAKSHADWEEP": {
+        "average": 1869.8824311256847,
+        "point_count": 51
+      }
+    },
+    "2020_08": {
+      "LAKSHADWEEP": {
+        "average": 1865.8624443826711,
+        "point_count": 109
+      }
+    },
+    "2020_09": {
+      "LAKSHADWEEP": {
+        "average": 1867.5857877392389,
+        "point_count": 93
+      }
+    },
+    "2020_10": {
+      "LAKSHADWEEP": {
+        "average": 1866.149864882343,
+        "point_count": 109
+      }
+    },
+    "2020_12": {
+      "LAKSHADWEEP": {
+        "average": 1851.7134612790824,
+        "point_count": 109
+      }
+    },
+    "2021_01": {
+      "LAKSHADWEEP": {
+        "average": 1863.8156259616799,
+        "point_count": 109
+      }
+    },
+    "2021_02": {
+      "LAKSHADWEEP": {
+        "average": 1875.5313149884537,
+        "point_count": 109
+      }
+    },
+    "2021_03": {
+      "LAKSHADWEEP": {
+        "average": 1878.0566598168598,
+        "point_count": 109
+      }
+    },
+    "2021_04": {
+      "LAKSHADWEEP": {
+        "average": 1866.989579732248,
+        "point_count": 109
+      }
+    },
+    "2021_05": {
+      "LAKSHADWEEP": {
+        "average": 1869.1153900201566,
+        "point_count": 109
+      }
+    },
+    "2021_06": {
+      "LAKSHADWEEP": {
+        "average": 1861.9711179350318,
+        "point_count": 109
+      }
+    },
+    "2021_07": {
+      "LAKSHADWEEP": {
+        "average": 1863.392824266429,
+        "point_count": 109
+      }
+    },
+    "2021_08": {
+      "LAKSHADWEEP": {
+        "average": 1866.940074379881,
+        "point_count": 82
+      }
+    },
+    "2021_09": {
+      "LAKSHADWEEP": {
+        "average": 1880.394273014297,
+        "point_count": 109
+      }
+    },
+    "2021_10": {
+      "LAKSHADWEEP": {
+        "average": 1869.4810892323794,
+        "point_count": 109
+      }
+    },
+    "2021_11": {
+      "LAKSHADWEEP": {
+        "average": 1850.3782292172216,
+        "point_count": 93
+      }
+    },
+    "2021_12": {
+      "LAKSHADWEEP": {
+        "average": 1850.7366912150164,
+        "point_count": 109
+      }
+    },
+    "2022_01": {
+      "LAKSHADWEEP": {
+        "average": 1864.1091016945857,
+        "point_count": 109
+      }
+    },
+    "2022_02": {
+      "LAKSHADWEEP": {
+        "average": 1874.6477962533822,
+        "point_count": 109
+      }
+    },
+    "2022_03": {
+      "LAKSHADWEEP": {
+        "average": 1877.8070117356567,
+        "point_count": 109
+      }
+    },
+    "2022_04": {
+      "LAKSHADWEEP": {
+        "average": 1877.2222122519252,
+        "point_count": 109
+      }
+    },
+    "2022_05": {
+      "LAKSHADWEEP": {
+        "average": 1879.9038184454503,
+        "point_count": 30
+      }
+    },
+    "2022_06": {
+      "LAKSHADWEEP": {
+        "average": 1860.0659931460389,
+        "point_count": 16
+      }
+    },
+    "2022_07": {
+      "LAKSHADWEEP": {
+        "average": 1879.349529142147,
+        "point_count": 48
+      }
+    },
+    "2022_08": {
+      "LAKSHADWEEP": {
+        "average": 1867.3187383068903,
+        "point_count": 109
+      }
+    },
+    "2022_09": {
+      "LAKSHADWEEP": {
+        "average": 1890.0821675091058,
+        "point_count": 109
+      }
+    },
+    "2022_10": {
+      "LAKSHADWEEP": {
+        "average": 1870.6816308467698,
+        "point_count": 109
+      }
+    },
+    "2022_11": {
+      "LAKSHADWEEP": {
+        "average": 1850.8237136989053,
+        "point_count": 75
+      }
+    },
+    "2022_12": {
+      "LAKSHADWEEP": {
+        "average": 1851.2371496648855,
+        "point_count": 109
+      }
+    },
+    "2023_01": {
+      "LAKSHADWEEP": {
+        "average": 1855.2062541958398,
+        "point_count": 109
+      }
+    },
+    "2023_02": {
+      "LAKSHADWEEP": {
+        "average": 1867.3971306957278,
+        "point_count": 109
+      }
+    },
+    "2023_03": {
+      "LAKSHADWEEP": {
+        "average": 1876.8301238600407,
+        "point_count": 109
+      }
+    },
+    "2023_05": {
+      "LAKSHADWEEP": {
+        "average": 1871.7853312089142,
+        "point_count": 109
+      }
+    },
+    "2023_06": {
+      "LAKSHADWEEP": {
+        "average": 1867.2200885560005,
+        "point_count": 66
+      }
+    },
+    "2023_07": {
+      "LAKSHADWEEP": {
+        "average": 1872.472145027411,
+        "point_count": 109
+      }
+    },
+    "2023_08": {
+      "LAKSHADWEEP": {
+        "average": 1868.772018335223,
+        "point_count": 109
+      }
+    },
+    "2023_09": {
+      "LAKSHADWEEP": {
+        "average": 1872.1495812046858,
+        "point_count": 94
+      }
+    },
+    "2023_10": {
+      "LAKSHADWEEP": {
+        "average": 1877.7644993311894,
+        "point_count": 109
+      }
+    },
+    "2023_11": {
+      "LAKSHADWEEP": {
+        "average": 1851.513477653079,
+        "point_count": 93
+      }
+    },
+    "2023_12": {
+      "LAKSHADWEEP": {
+        "average": 1852.435452220781,
+        "point_count": 109
+      }
+    }
+  },
+  "statistics": {
+    "mean": 1868.1283244281399,
+    "std": 9.34452167003144,
+    "min": 1849.7194394608478,
+    "max": 1890.0821675091058
+  }
+}

@@ -1,0 +1,6094 @@
+{
+  "type": "state_districts",
+  "state_name": "HIMACHAL PRADESH",
+  "data": {
+    "BILASPUR": {
+      "average_methane": 1876.2334673111538,
+      "data_quality": {
+        "total_months": 119,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 3089.9663865546217
+      },
+      "point_count": 367706
+    },
+    "CHAMBA": {
+      "average_methane": 1877.352227811125,
+      "data_quality": {
+        "total_months": 119,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 6550.529411764706
+      },
+      "point_count": 779513
+    },
+    "HAMIRPUR": {
+      "average_methane": 1879.311261057646,
+      "data_quality": {
+        "total_months": 120,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 1152.375
+      },
+      "point_count": 138285
+    },
+    "KANGRA": {
+      "average_methane": 1879.5293543501166,
+      "data_quality": {
+        "total_months": 120,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 5744.5
+      },
+      "point_count": 689340
+    },
+    "KINNAUR": {
+      "average_methane": 1879.7996063579762,
+      "data_quality": {
+        "total_months": 120,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 6402.958333333333
+      },
+      "point_count": 768355
+    },
+    "KULLU": {
+      "average_methane": 1880.5283062313906,
+      "data_quality": {
+        "total_months": 119,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 5346.117647058823
+      },
+      "point_count": 636188
+    },
+    "LAHUL_&_SPITI": {
+      "average_methane": 1878.4233364292284,
+      "data_quality": {
+        "total_months": 118,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 13832.940677966102
+      },
+      "point_count": 1632287
+    },
+    "MANDI": {
+      "average_methane": 1880.337300620479,
+      "data_quality": {
+        "total_months": 120,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 3831.008333333333
+      },
+      "point_count": 459721
+    },
+    "SHIMLA": {
+      "average_methane": 1880.5932253452663,
+      "data_quality": {
+        "total_months": 118,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 5119.661016949152
+      },
+      "point_count": 604120
+    },
+    "SIRMAUR": {
+      "average_methane": 1880.4666452808551,
+      "data_quality": {
+        "total_months": 120,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 2825.4333333333334
+      },
+      "point_count": 339052
+    },
+    "SOLAN": {
+      "average_methane": 1879.672182624716,
+      "data_quality": {
+        "total_months": 120,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 1983.8083333333334
+      },
+      "point_count": 238057
+    },
+    "UNA": {
+      "average_methane": 1879.4532166152196,
+      "data_quality": {
+        "total_months": 120,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 1595.8
+      },
+      "point_count": 191496
+    }
+  },
+  "monthly_data": {
+    "2014_01": {
+      "BILASPUR": {
+        "average": 1851.998595286612,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1869.9454506620093,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1868.9786973836574,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1870.9595456171864,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1871.1704359112296,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1873.1001596980377,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1869.0184756804854,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1876.0864987091647,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1868.487457121167,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1869.8975022859618,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1876.4238519149887,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1866.8987631114953,
+        "point_count": 1598
+      }
+    },
+    "2014_02": {
+      "BILASPUR": {
+        "average": 1869.9861158598394,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1847.856835823133,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1852.3656422831039,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1850.3981931062697,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1848.335125999634,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1849.1234718945298,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1847.2983607761228,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1850.7304778348864,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1847.0810738781033,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1849.3223585828441,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1850.8841401069308,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1850.7014232591087,
+        "point_count": 1598
+      }
+    },
+    "2014_03": {
+      "BILASPUR": {
+        "average": 1866.5562405594092,
+        "point_count": 3327
+      },
+      "HAMIRPUR": {
+        "average": 1854.0534957820814,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1854.7539504119393,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1856.2992290502034,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1855.0423696222954,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1853.376650653869,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1855.420865698962,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1854.197997142994,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1854.2953791970422,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1854.1257211409993,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1854.0829895045579,
+        "point_count": 1598
+      }
+    },
+    "2014_04": {
+      "BILASPUR": {
+        "average": 1876.0526992350403,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1874.088355757483,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1870.647307184487,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1870.5939414050586,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1861.194836303113,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1869.2452750389461,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1866.2950720802926,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1871.7286796418987,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1874.282402930657,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1876.3917984494108,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1878.6586732586406,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1871.4250316120788,
+        "point_count": 1598
+      }
+    },
+    "2014_05": {
+      "BILASPUR": {
+        "average": 1919.239718010232,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1925.4182397804036,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 2016.183177717048,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1967.0282958389146,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1918.3958739144437,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1974.7790820247687,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1961.8373322036734,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1975.1567009911887,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1967.9561653832518,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1969.547792489783,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1976.492200383342,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1998.717017859451,
+        "point_count": 1598
+      }
+    },
+    "2014_06": {
+      "BILASPUR": {
+        "average": 1890.9171913127404,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1904.2208509792329,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1911.6746161363678,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1927.2207103208714,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1920.5679756520783,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1915.1611338251778,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1913.2418521040236,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1888.973946449691,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1913.6924621732303,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1908.4683555539928,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1884.4081714651124,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1907.0924844776764,
+        "point_count": 1598
+      }
+    },
+    "2014_07": {
+      "BILASPUR": {
+        "average": 1891.7338650550123,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1894.3027342461553,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1921.5238935338389,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1905.539907476231,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1911.4844088685998,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1907.7399100986668,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1903.7117666482904,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1907.757456846596,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1910.234809311076,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1909.742412225458,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1910.583386373589,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1910.3957230758656,
+        "point_count": 1598
+      }
+    },
+    "2014_08": {
+      "BILASPUR": {
+        "average": 1865.360588570548,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1874.4123279318078,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1872.6354958112552,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1873.9494963338032,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1870.389957412452,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1873.5081170962178,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1872.5040387063093,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1876.6085328315296,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1872.555729965335,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1873.1880304999545,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1868.246376314647,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1872.8055237061315,
+        "point_count": 1598
+      }
+    },
+    "2014_09": {
+      "BILASPUR": {
+        "average": 1874.1801650446482,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1847.6299640564462,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1845.1967855043604,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1848.271301455949,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1853.5011571726754,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1849.8277247358776,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1848.5568969693693,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1850.1712593963862,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1847.6804847416258,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1846.8656513156375,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1850.4781113043064,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1845.6644986535694,
+        "point_count": 1598
+      }
+    },
+    "2014_10": {
+      "BILASPUR": {
+        "average": 1851.576728513554,
+        "point_count": 346
+      },
+      "CHAMBA": {
+        "average": 1873.7116253371369,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1874.107680399931,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1875.7115533928916,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1874.7604671910385,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1871.2127944785948,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1870.8204916849093,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1871.5417832623618,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1872.0015386815098,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1874.8349257036264,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1872.7245566069382,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1875.021731862666,
+        "point_count": 1598
+      }
+    },
+    "2014_11": {
+      "BILASPUR": {
+        "average": 1881.1530116023782,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1872.5031973212215,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1872.4548922541633,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1875.0647368113716,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1871.3176791321557,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1874.5572855524051,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1870.1919053296365,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1879.2986043738665,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1871.8274936102775,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1874.8065317485793,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1879.560958426805,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1874.8634314632675,
+        "point_count": 1598
+      }
+    },
+    "2014_12": {
+      "BILASPUR": {
+        "average": 1874.238903846552,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1871.1119484597373,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1871.3366022802866,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1873.2421967359983,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1871.8589778630455,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1873.694052985279,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1869.278349072119,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1878.4622737376349,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1870.840512739217,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1873.9102311251438,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1879.6979495716796,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1872.6383448135648,
+        "point_count": 1598
+      }
+    },
+    "2015_01": {
+      "BILASPUR": {
+        "average": 1852.7810428052367,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1870.3726356074576,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1866.685458945091,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1870.2027690854138,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1870.8187897871146,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1872.1519783960925,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1869.1133423608867,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1874.0874133831921,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1868.1827191436983,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1869.2877429785494,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1873.5607887176682,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1868.6791030602035,
+        "point_count": 1598
+      }
+    },
+    "2015_02": {
+      "BILASPUR": {
+        "average": 1872.7118899258837,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1847.7428876770616,
+        "point_count": 6542
+      },
+      "HAMIRPUR": {
+        "average": 1848.1427853523276,
+        "point_count": 843
+      },
+      "KANGRA": {
+        "average": 1848.991117559652,
+        "point_count": 4870
+      },
+      "KINNAUR": {
+        "average": 1848.2248351486755,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1846.7776634242841,
+        "point_count": 1072
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1848.3075547885815,
+        "point_count": 13564
+      },
+      "MANDI": {
+        "average": 1849.3380430487725,
+        "point_count": 38
+      },
+      "SHIMLA": {
+        "average": 1848.0543708428459,
+        "point_count": 4309
+      },
+      "SIRMAUR": {
+        "average": 1847.2846032407572,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1850.4439344578275,
+        "point_count": 1702
+      },
+      "UNA": {
+        "average": 1849.5023712261245,
+        "point_count": 1598
+      }
+    },
+    "2015_03": {
+      "BILASPUR": {
+        "average": 1874.159821696686,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1854.5249642923043,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1847.6932255555282,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1851.6664947756894,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1858.6358101409312,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1854.5224561100308,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1854.563740745889,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1856.1069540344886,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1856.3703643896733,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1852.4823290572233,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1857.2090344847063,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1846.4712171032402,
+        "point_count": 1598
+      }
+    },
+    "2015_04": {
+      "BILASPUR": {
+        "average": 1872.6561203205306,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1874.1964112801943,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1873.1832262845155,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1873.6071900679833,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1858.8056359559498,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1869.8472087078237,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1870.1558604869876,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1862.6073047818536,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1868.0480390115508,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1872.566520939515,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1869.3532804508945,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1872.2690450064742,
+        "point_count": 1598
+      }
+    },
+    "2015_05": {
+      "BILASPUR": {
+        "average": 1903.2434922857585,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1872.9190471786176,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1927.681597140675,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1896.3960190613493,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1879.7523130781842,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1954.634734094367,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1915.212160737966,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1976.3063852033802,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1895.9203596749062,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1898.6920403032204,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1956.5800200526105,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1892.2652124706253,
+        "point_count": 1598
+      }
+    },
+    "2015_06": {
+      "BILASPUR": {
+        "average": 1897.4092335295784,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1921.3961266307533,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1904.5342028314622,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1916.1401399882852,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1927.8783059040675,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1904.190908809041,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1913.472763310001,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1883.3079469158583,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1907.1343435852484,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1894.4254098284048,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1881.6733098812838,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1910.6115017420377,
+        "point_count": 1598
+      }
+    },
+    "2015_07": {
+      "BILASPUR": {
+        "average": 1902.3983200109112,
+        "point_count": 1060
+      },
+      "CHAMBA": {
+        "average": 1907.492468222585,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1911.3179915953099,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1910.3667126079058,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1908.7577408450622,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1902.788728622425,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1910.516401213099,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1896.7001711456126,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1913.234926541913,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1919.9338035575195,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1911.9205411161754,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1910.6052099781389,
+        "point_count": 1598
+      }
+    },
+    "2015_08": {
+      "BILASPUR": {
+        "average": 1865.5922871408898,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1870.249915063515,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1870.7643511630138,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1873.1318891839485,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1865.7832970843926,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1868.724395441601,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1868.3104810807129,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1871.177264353551,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1871.3128857360973,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1868.8449851484836,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1876.431102916639,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1870.2052867334169,
+        "point_count": 1598
+      }
+    },
+    "2015_09": {
+      "BILASPUR": {
+        "average": 1874.0534647412767,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1860.1905966140084,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1865.9920646637559,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1866.510719211059,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1851.3822747376792,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1856.48887304212,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1852.8967222328665,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1856.712626381934,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1854.2340549259425,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1856.153885124477,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1868.7360306262915,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1874.7188776979422,
+        "point_count": 1598
+      }
+    },
+    "2015_10": {
+      "BILASPUR": {
+        "average": 1852.1614937984184,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1871.7041046117083,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1873.2313153506382,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1873.7637449153078,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1873.0790021848306,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1876.2338812203764,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1871.1133479199925,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1877.4970825666585,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1873.5179608980834,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1875.3270430008872,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1875.9360868525396,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1873.2606184094313,
+        "point_count": 1598
+      }
+    },
+    "2015_11": {
+      "BILASPUR": {
+        "average": 1876.5249404992728,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1869.1780553273416,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1871.3926556662527,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1871.3307010206438,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1871.1023936967729,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1872.6734087360157,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1869.7123605028703,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1875.2707977826992,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1871.1316112247175,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1875.3375913635853,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1878.5237736355787,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1873.330699131587,
+        "point_count": 1598
+      }
+    },
+    "2015_12": {
+      "BILASPUR": {
+        "average": 1875.505302714849,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1869.4615485926595,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1869.7641110396319,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1870.333367302272,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1871.8059289123744,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1873.9401755348647,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1869.214003088498,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1876.6404280032507,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1869.8967285124158,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1873.0205968486455,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1878.9109739486992,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1871.6462654725267,
+        "point_count": 1598
+      }
+    },
+    "2016_01": {
+      "BILASPUR": {
+        "average": 1881.5179128536424,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1870.4839890133242,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1867.913592202602,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1870.9086052965406,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1871.355413546341,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1873.0297711121539,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1868.9244096169532,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1876.4247749459028,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1869.5615167179749,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1872.6222900997884,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1877.66786892481,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1870.3385684901805,
+        "point_count": 1598
+      }
+    },
+    "2016_02": {
+      "BILASPUR": {
+        "average": 1853.2902467577203,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1848.0731227791832,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1849.4795663392192,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1849.880526832346,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1850.9615054941737,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1850.324333814926,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1855.3030531754162,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1851.4308998042418,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1850.0814404488178,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1850.7374503595065,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1850.6710257975803,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1850.3084042299208,
+        "point_count": 1598
+      }
+    },
+    "2016_03": {
+      "BILASPUR": {
+        "average": 1869.4614239017822,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1851.8211683317863,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1848.1908218451358,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1851.2820887623511,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1854.9410837473602,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1855.524129892975,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1853.9948415300803,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1856.8587405165133,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1851.8065277060136,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1849.0860091552145,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1857.02183364953,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1846.7395593037309,
+        "point_count": 1598
+      }
+    },
+    "2016_04": {
+      "BILASPUR": {
+        "average": 1875.317199675547,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1866.6508717534512,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1871.5700353880702,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1864.1223899490233,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1857.3694980696348,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1861.716235389291,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1865.861252553515,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1854.1886642680097,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1870.2816433528835,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1878.9906923729175,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1850.7874415935532,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1873.4758383142123,
+        "point_count": 1598
+      }
+    },
+    "2016_05": {
+      "BILASPUR": {
+        "average": 1910.1336685874628,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1919.6010229522449,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1940.3036218066363,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1938.8154436963066,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1990.0602627071696,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1945.0872487260383,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1938.7550569040216,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1959.7724712445067,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1960.2424191606847,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1961.9098448249729,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1889.9355160243915,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1901.8732557355786,
+        "point_count": 1598
+      }
+    },
+    "2016_06": {
+      "BILASPUR": {
+        "average": 1893.809815658056,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1920.2589007344138,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1923.01583382485,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1920.1678150340988,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1920.9013036846045,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1904.2932137681867,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1918.4323884263513,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1891.2975489593084,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1910.3317958601554,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1913.033412642886,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1904.2668904384855,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1924.230158289642,
+        "point_count": 1598
+      }
+    },
+    "2016_07": {
+      "BILASPUR": {
+        "average": 1912.8044555765193,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1908.2189288610875,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1913.340014310634,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1909.8697045558595,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1900.5933982631311,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1915.5609151165447,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1909.299174781031,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1917.9105642428137,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1915.5758600905428,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1919.615483433176,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1920.9162401616845,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1910.2413006188408,
+        "point_count": 1598
+      }
+    },
+    "2016_08": {
+      "BILASPUR": {
+        "average": 1917.2010383599916,
+        "point_count": 381
+      },
+      "CHAMBA": {
+        "average": 1869.668677718402,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1873.119332100217,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1873.2087479050583,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1875.0440154247544,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1873.964803986787,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1873.7125220598602,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1877.0612556637523,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1873.3985821460858,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1875.1288807345925,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1878.496137607082,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1872.9631640679863,
+        "point_count": 1598
+      }
+    },
+    "2016_09": {
+      "BILASPUR": {
+        "average": 1871.1981316062586,
+        "point_count": 1068
+      },
+      "CHAMBA": {
+        "average": 1847.86105580399,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1848.2843810719928,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1848.9437817079513,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1849.967113323273,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1852.3225969156974,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1850.4085843052585,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1856.7937320033768,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1852.6389662288166,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1855.2422275433846,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1857.6650513206612,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1846.1365164023925,
+        "point_count": 1598
+      }
+    },
+    "2016_10": {
+      "BILASPUR": {
+        "average": 1851.3309933508685,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1873.8280997681645,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1875.8489106657348,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1876.099498780047,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1873.7986394468965,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1876.4184406349177,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1872.5230514982122,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1880.680022833233,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1873.602943390563,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1875.8803820932494,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1877.942749804594,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1875.24663103488,
+        "point_count": 1598
+      }
+    },
+    "2016_11": {
+      "BILASPUR": {
+        "average": 1875.560664306756,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1872.8154847658216,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1874.7284819849824,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1875.1217418644221,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1873.1894263331815,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1874.1221748984913,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1870.2536293984858,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1879.2116922178413,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1872.2676754461445,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1875.3333798189537,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1879.8683745890125,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1875.4814117653168,
+        "point_count": 1598
+      }
+    },
+    "2016_12": {
+      "BILASPUR": {
+        "average": 1875.7641255681467,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1871.2970847244017,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1870.4721429741774,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1873.7621330176298,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1872.565069948978,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1874.877853981675,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1869.8561896974713,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1878.344537823747,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1871.4932781570133,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1873.616911342981,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1880.1572631289298,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1870.6765862017578,
+        "point_count": 1598
+      }
+    },
+    "2017_01": {
+      "BILASPUR": {
+        "average": 1854.8822012155101,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1869.1365822809887,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1867.9993816697288,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1869.526420001797,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1868.6460040514653,
+        "point_count": 1162
+      },
+      "KULLU": {
+        "average": 1873.9742986822773,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1869.3894208839201,
+        "point_count": 12475
+      },
+      "MANDI": {
+        "average": 1876.806763298088,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1869.7373228418783,
+        "point_count": 4808
+      },
+      "SIRMAUR": {
+        "average": 1871.5424160803518,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1874.4450611845023,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1868.4028054423654,
+        "point_count": 1598
+      }
+    },
+    "2017_02": {
+      "BILASPUR": {
+        "average": 1855.512294803748,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1847.9569761919424,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1845.4868550293336,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1848.2855921236483,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1851.9205146432646,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1848.881891619442,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1847.8852085168162,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1850.27875850263,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1847.698321970607,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1849.128451508183,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1851.1816066776046,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1846.2877229312883,
+        "point_count": 1598
+      }
+    },
+    "2017_03": {
+      "BILASPUR": {
+        "average": 1873.6308829087254,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1850.50557821706,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1853.0084563193539,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1852.8942232086085,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1854.0126181975127,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1855.153491193117,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1853.6917022117093,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1857.2598082073935,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1849.546012231828,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1850.6405119103383,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1857.2359851077924,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1852.7560514758818,
+        "point_count": 1598
+      }
+    },
+    "2017_04": {
+      "BILASPUR": {
+        "average": 1873.5010870535607,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1868.1749657920068,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1875.1858888511413,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1874.328590753159,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1853.6538133189786,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1875.2600712103083,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1866.7719406096571,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1877.4299769256177,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1874.8993561867026,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1876.5332096072075,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1876.859201851078,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1876.501647472601,
+        "point_count": 1598
+      }
+    },
+    "2017_05": {
+      "BILASPUR": {
+        "average": 1918.307231892818,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1992.9168828633376,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1951.5845979575429,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1974.0844727670399,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1983.1095053397319,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1932.5608296615071,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1976.329250031509,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1884.398664383363,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1958.341242356682,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1883.6563839296687,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1884.2725820303683,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1953.3797409933454,
+        "point_count": 1598
+      }
+    },
+    "2017_06": {
+      "BILASPUR": {
+        "average": 1895.4546671825665,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1909.268827264988,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1911.2104005070953,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1901.7064009461035,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1921.5469845349776,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1911.8971167901389,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1924.5964731492243,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1887.5834361037028,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1914.2982636479298,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1910.573677115403,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1891.4076773076692,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1906.2118839730588,
+        "point_count": 1598
+      }
+    },
+    "2017_07": {
+      "BILASPUR": {
+        "average": 1890.3827307912452,
+        "point_count": 1056
+      },
+      "CHAMBA": {
+        "average": 1906.6454606695304,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1913.0447933914502,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1912.4035463031387,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1906.8338548917588,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1901.9437368702197,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1897.830070665071,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1902.7834562768248,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1903.881991809345,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1915.8423637205133,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1918.141779423718,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1909.8041588848057,
+        "point_count": 1598
+      }
+    },
+    "2017_08": {
+      "BILASPUR": {
+        "average": 1876.746652629927,
+        "point_count": 1062
+      },
+      "CHAMBA": {
+        "average": 1867.3455920020906,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1870.0381998929067,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1869.3756603852842,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1874.5116845130156,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1869.1205555962817,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1864.9456324027576,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1867.4911667252834,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1872.1196438728768,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1873.4131332063207,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1847.3799592238495,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1873.5764676560168,
+        "point_count": 1598
+      }
+    },
+    "2017_09": {
+      "BILASPUR": {
+        "average": 1873.327765418395,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1847.5998238919478,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1848.1343355206852,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1848.729012699692,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1863.5081947025838,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1851.50736011631,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1851.2892769446105,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1852.0764498508108,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1853.6594414661713,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1851.9944496727421,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1851.7575564406015,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1845.9293709632464,
+        "point_count": 1598
+      }
+    },
+    "2017_10": {
+      "BILASPUR": {
+        "average": 1865.088355890444,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1873.632988048814,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1874.6965568574888,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1875.819837018313,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1873.9096115672817,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1875.661111220776,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1871.7969658855432,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1877.4384925571003,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1873.6564893357827,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1875.2907649155816,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1876.3114911052028,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1874.6305420327487,
+        "point_count": 1598
+      }
+    },
+    "2017_11": {
+      "BILASPUR": {
+        "average": 1876.123968883392,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1870.5255295045724,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1871.9766828391764,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1873.1132449675558,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1872.0636287854234,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1873.2518278749817,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1870.1750475777649,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1877.5322472903479,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1870.9674082010222,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1874.5179244599435,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1879.2345974820082,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1870.7141506607663,
+        "point_count": 1598
+      }
+    },
+    "2017_12": {
+      "BILASPUR": {
+        "average": 1879.6992594254118,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1870.1971607305911,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1870.8084348455939,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1872.0570383058714,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1872.1431620247308,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1874.1863080114179,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1868.8481923073107,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1878.3960034001511,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1870.3224744407305,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1872.6810263431744,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1879.7367190669727,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1869.871771426651,
+        "point_count": 1598
+      }
+    },
+    "2018_01": {
+      "BILASPUR": {
+        "average": 1850.5921286681673,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1870.4284719032928,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1867.2587342911797,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1871.8472348374519,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1871.8473153982934,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1872.9576877383297,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1868.688316788097,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1875.741959523808,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1870.0741446776792,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1871.6865514479657,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1878.628942604611,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1869.3314077508378,
+        "point_count": 1598
+      }
+    },
+    "2018_02": {
+      "BILASPUR": {
+        "average": 1855.8544704735393,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1871.0145310919565,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1866.6594728351888,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1869.1417207721818,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1849.4393152941577,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1849.616013760332,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1850.1880124054119,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1850.4659569701037,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1850.3376321689302,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1849.4061154988199,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1852.0978400668548,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1876.7721629274977,
+        "point_count": 1598
+      }
+    },
+    "2018_03": {
+      "BILASPUR": {
+        "average": 1873.6866756908125,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1854.811827621824,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1858.4008855652735,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1854.2180221805243,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1854.5196304082083,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1854.7844143368447,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1852.9394500595752,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1857.4832749422194,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1849.2282683143567,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1852.6973318090509,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1867.872982833907,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1854.5938825849628,
+        "point_count": 1598
+      }
+    },
+    "2018_04": {
+      "BILASPUR": {
+        "average": 1870.295459502845,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1874.4242138372717,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1872.4677842833917,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1874.1973068467057,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1855.0324924045397,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1865.2242206062483,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1873.059666394217,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1850.18595458645,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1868.8879902436584,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1872.8565496131762,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1842.4520115067378,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1874.5084732124164,
+        "point_count": 1598
+      }
+    },
+    "2018_05": {
+      "BILASPUR": {
+        "average": 1916.448255147981,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1912.7824044672,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1880.1053945807644,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1896.0403724054245,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1980.2334506793852,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1882.1190411120756,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1893.9946913142091,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1870.1698024409086,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1986.044003026014,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1988.744641278242,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1890.670765275218,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1894.8790550520384,
+        "point_count": 1598
+      }
+    },
+    "2018_06": {
+      "BILASPUR": {
+        "average": 1896.1905218042486,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1909.9667267924235,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1921.5621486565476,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1917.609660689953,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1916.9104090092699,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1909.1938239091462,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1913.76552727959,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1913.7541784685675,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1917.2556152885509,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1915.1827622765277,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1909.2628900691006,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1933.3767050462716,
+        "point_count": 1598
+      }
+    },
+    "2018_07": {
+      "BILASPUR": {
+        "average": 1881.4848864091118,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1907.2507610351597,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1912.0263934600337,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1910.1848258477737,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1910.0373174234362,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1918.5041773767487,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1912.0077731099439,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1914.3886662491173,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1914.3161717242979,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1919.27324532936,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1916.889350412559,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1910.2787613969294,
+        "point_count": 1598
+      }
+    },
+    "2018_08": {
+      "BILASPUR": {
+        "average": 1865.7062303394016,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1865.4981551542453,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1870.9237960988703,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1868.3092913196488,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1875.6730305534202,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1875.2973225066173,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1870.9676443001517,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1860.4726602275866,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1868.8717246496105,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1869.812245023836,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1842.2866769535533,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1870.0550250073989,
+        "point_count": 1598
+      }
+    },
+    "2018_09": {
+      "BILASPUR": {
+        "average": 1863.0631708544154,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1854.021788343819,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1850.865299405744,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1854.1329070374836,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1855.4583137965699,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1873.7129584204256,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1857.4872628532075,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1876.8256495491908,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1871.6718166230778,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1873.673682892851,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1878.2707149316036,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1848.2885073032812,
+        "point_count": 1598
+      }
+    },
+    "2018_10": {
+      "BILASPUR": {
+        "average": 1849.8886447656748,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1872.000845760505,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1877.0281056156493,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1876.185188597808,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1873.18654421861,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1872.7944122722754,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1869.3646045023584,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1879.6831391253409,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1872.6369012942826,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1876.70648584522,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1880.2957485924173,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1875.927913777144,
+        "point_count": 1598
+      }
+    },
+    "2018_11": {
+      "BILASPUR": {
+        "average": 1876.1162093802945,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1870.7373958883268,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1872.2240753016547,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1873.205504131852,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1871.1048131968062,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1874.1174187009076,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1869.5724089334208,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1879.1510331162963,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1871.7634377568365,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1874.464040913745,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1879.910286458594,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1871.7861482587857,
+        "point_count": 1598
+      }
+    },
+    "2018_12": {
+      "BILASPUR": {
+        "average": 1881.3556657649078,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1870.9072662153521,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1868.251711175463,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1872.3626835640014,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1871.3382068472488,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1873.1032036602926,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1868.8769397895728,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1875.7010666079739,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1869.095517744562,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1870.930336963476,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1876.45156825692,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1870.8241334331894,
+        "point_count": 1598
+      }
+    },
+    "2019_01": {
+      "BILASPUR": {
+        "average": 1852.9869141385798,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1868.871502678439,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1866.9316842839057,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1868.920260019592,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1870.5782329501112,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1872.5288670592222,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1869.1336860310741,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1874.9727381579708,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1868.7682807702593,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1870.570769139705,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1876.4878540101683,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1865.8144343608428,
+        "point_count": 1598
+      }
+    },
+    "2019_02": {
+      "BILASPUR": {
+        "average": 1860.0626134137144,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1865.587761958622,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1862.0144365548438,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1856.3155548825414,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1849.5099966846449,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1849.1215938145879,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1850.6038601937576,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1850.3242223481075,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1846.9451317623075,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1851.1027022802252,
+        "point_count": 2039
+      },
+      "SOLAN": {
+        "average": 1850.1291193813665,
+        "point_count": 1893
+      },
+      "UNA": {
+        "average": 1849.031596160018,
+        "point_count": 1598
+      }
+    },
+    "2019_03": {
+      "BILASPUR": {
+        "average": 1871.7735443360664,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1854.646793061323,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1857.9789000386854,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1856.5043311752636,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1854.5757519439217,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1856.5313312148915,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1851.0556811117406,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1874.475925346671,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1856.230842088202,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1870.3406313330483,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1878.8598580500177,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1854.581951027478,
+        "point_count": 1598
+      }
+    },
+    "2019_04": {
+      "BILASPUR": {
+        "average": 1866.7918681485678,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1873.8692563824143,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1878.6384880576384,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1876.2783612591368,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1865.882340673366,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1875.3815425883924,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1868.706577384215,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1877.5747166784843,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1875.3094096620002,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1872.72495663146,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1878.4004513689006,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1880.5534579481746,
+        "point_count": 1598
+      }
+    },
+    "2019_05": {
+      "BILASPUR": {
+        "average": 1909.6601274036143,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1923.6432075378764,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1871.597781271399,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1898.1543360794494,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1936.6718566949571,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1980.1354825033318,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1935.631129576251,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1973.2319056230156,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1974.7702903856605,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1969.2755981850894,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1987.4643683912395,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1881.6690908222272,
+        "point_count": 1598
+      }
+    },
+    "2019_06": {
+      "BILASPUR": {
+        "average": 1890.83929410619,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1896.6076622992045,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1909.4983767794868,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1905.5369945347327,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1914.4852170078195,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1922.99798771463,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1914.39830796444,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1922.8723573429631,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1924.6077410357427,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1916.9953133052852,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1925.5471051954898,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1907.320982405435,
+        "point_count": 1598
+      }
+    },
+    "2019_07": {
+      "BILASPUR": {
+        "average": 1892.5645646064786,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1906.8356974143423,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1911.80483039535,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1917.5398195142639,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1905.7645868206253,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1904.825335484733,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1909.0526210886,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1909.135167956378,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1909.8978784739336,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1913.2380344611465,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1914.2984408761506,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1915.1358869795142,
+        "point_count": 1598
+      }
+    },
+    "2019_08": {
+      "BILASPUR": {
+        "average": 1868.0567104725621,
+        "point_count": 884
+      },
+      "CHAMBA": {
+        "average": 1868.5714137851367,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1875.0984092080243,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1873.748300005595,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1870.551753222283,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1854.7401802356542,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1864.7241653633005,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1848.9503804796068,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1868.2559642087726,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1872.7405997914445,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1841.9833158870083,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1872.5872703241703,
+        "point_count": 1598
+      }
+    },
+    "2019_09": {
+      "BILASPUR": {
+        "average": 1873.8243431109568,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1850.1652300060396,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1844.895424895748,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1850.0206806539811,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1853.2651700831727,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1850.0658953851785,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1851.0773767878597,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1849.5975593920346,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1847.5330562437687,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1847.0088007259978,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1846.4752548286674,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1853.4093080829043,
+        "point_count": 1598
+      }
+    },
+    "2019_10": {
+      "BILASPUR": {
+        "average": 1856.026351896427,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1871.320727671851,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1878.0445230794428,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1876.4126577362651,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1872.5092268221147,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1875.694843616477,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1870.8356943951967,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1880.8261106966736,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1872.6031986990397,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1876.5819626338275,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1880.7994670320613,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1876.9861941176375,
+        "point_count": 1598
+      }
+    },
+    "2019_11": {
+      "BILASPUR": {
+        "average": 1875.9337893426132,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1870.0801873349878,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1869.8817316417935,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1873.2782331250746,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1870.940707797013,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1871.922481513338,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1869.0151965373323,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1872.882242947059,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1869.2251159739064,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1872.0595216113886,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1873.2779919846419,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1874.5460083356672,
+        "point_count": 1598
+      }
+    },
+    "2019_12": {
+      "BILASPUR": {
+        "average": 1881.4329670593395,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1870.8687692108285,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1868.2825090699748,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1872.5460197252871,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1871.508236397208,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1872.2162841774366,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1869.1496660056612,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1875.3242807276404,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1869.9387291415449,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1871.3969253900332,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1876.471445656259,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1871.0773854105178,
+        "point_count": 1598
+      }
+    },
+    "2020_01": {
+      "BILASPUR": {
+        "average": 1853.478355858085,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1869.0802956747834,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1866.0221487259412,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1870.3355755981902,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1870.805985975894,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1872.1393714371745,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1869.1771381353662,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1873.9125812241653,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1868.9004257502586,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1869.0085224582826,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1873.0597870774272,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1866.9254506484888,
+        "point_count": 1598
+      }
+    },
+    "2020_02": {
+      "BILASPUR": {
+        "average": 1873.0459210281085,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1856.9251276622813,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1852.4891615172596,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1854.7259850807923,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1852.2634123071132,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1873.851366338724,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1866.5004856358257,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1862.5127023175223,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1867.1620076675301,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1866.5202769995285,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1851.258243701046,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1851.4265084941405,
+        "point_count": 1598
+      }
+    },
+    "2020_03": {
+      "BILASPUR": {
+        "average": 1875.232764317374,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1854.6000575844744,
+        "point_count": 6570
+      },
+      "HAMIRPUR": {
+        "average": 1852.0942805594777,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1851.354181681663,
+        "point_count": 4026
+      },
+      "KINNAUR": {
+        "average": 1855.7303124019463,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1853.3272931095682,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1854.0783579820472,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1851.3762451488499,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1854.110253701073,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1853.5843978525336,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1854.2329067170601,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1846.693309622873,
+        "point_count": 1334
+      }
+    },
+    "2020_04": {
+      "BILASPUR": {
+        "average": 1873.787570937285,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1867.9937890552796,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1876.6996838131172,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1870.3570204120072,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1875.482758473004,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1862.7041582863737,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1866.1637316970564,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1866.9591450669054,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1871.2124375122226,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1871.1492490076532,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1847.3082520818275,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1877.4139419828048,
+        "point_count": 1598
+      }
+    },
+    "2020_05": {
+      "BILASPUR": {
+        "average": 1920.1623844933117,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1933.3589348912908,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 2004.6562277612634,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1976.7519095837768,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1915.5407014196694,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1979.4885889207167,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1964.6857148710121,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1990.191591267977,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1967.147129906011,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1965.1980968377113,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1967.7515830522889,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 2006.3914184911914,
+        "point_count": 1598
+      }
+    },
+    "2020_06": {
+      "BILASPUR": {
+        "average": 1880.5771052393004,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1903.3270981956707,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1921.913176968752,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1903.940509291136,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1921.565528643918,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1922.0169977404382,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1915.158451893449,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1920.318051654158,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1923.4556851830507,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1924.44081448847,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1924.3992394096686,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1917.271596161606,
+        "point_count": 1598
+      }
+    },
+    "2020_07": {
+      "BILASPUR": {
+        "average": 1887.508779161176,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1896.9717064998406,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1914.9771165003206,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1911.5351675338532,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1910.9123644446647,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1912.0143890770169,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1901.9385294032375,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1911.522136085146,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1913.208767715689,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1911.9248210976496,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1910.0701521965684,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1916.2390394949957,
+        "point_count": 1598
+      }
+    },
+    "2020_08": {
+      "BILASPUR": {
+        "average": 1864.9070963300155,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1866.1392642392843,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1872.7021205555632,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1864.8791986165043,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1859.6629031287214,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1871.65560954569,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1873.0404136620207,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1873.4737501092432,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1869.675088463061,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1869.5853291758235,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1876.7596005367293,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1870.349574632354,
+        "point_count": 1598
+      }
+    },
+    "2020_09": {
+      "BILASPUR": {
+        "average": 1864.514577341087,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1848.279453466988,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1845.523871376337,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1850.0131145378564,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1852.1803731721654,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1850.6363877990195,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1851.5960328157996,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1850.3645460202767,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1848.553086564376,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1847.8809406556575,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1850.2626243671095,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1845.6459246746438,
+        "point_count": 1598
+      }
+    },
+    "2020_10": {
+      "BILASPUR": {
+        "average": 1849.5525505958212,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1873.2933007087097,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1874.597185541077,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1875.5411844980852,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1874.442574506945,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1876.4228189089927,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1871.9770976468265,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1879.263760765778,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1874.4059553572445,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1876.0968960773769,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1879.009793359417,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1874.9937247058795,
+        "point_count": 1598
+      }
+    },
+    "2020_11": {
+      "BILASPUR": {
+        "average": 1878.2964803736784,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1869.3037930411397,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1867.167562070098,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1870.177380253443,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1870.4716901791319,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1871.4837736464758,
+        "point_count": 5460
+      },
+      "MANDI": {
+        "average": 1872.4255688081782,
+        "point_count": 3928
+      },
+      "SIRMAUR": {
+        "average": 1870.868722585323,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1873.2900183944644,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1870.427815479578,
+        "point_count": 1598
+      }
+    },
+    "2020_12": {
+      "BILASPUR": {
+        "average": 1876.102722089204,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1869.2671513325663,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1869.0696936058648,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1869.5195205861519,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1871.6915443351004,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1872.5007000263229,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1869.2468600244204,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1875.893457143668,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1870.479819269972,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1872.7603056928988,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1879.750412668966,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1870.1881372906507,
+        "point_count": 1598
+      }
+    },
+    "2021_01": {
+      "BILASPUR": {
+        "average": 1853.410816391042,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1870.5703827302734,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1867.1866498110664,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1870.6863135028082,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1871.170990030058,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1874.187068368054,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1868.763107661143,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1876.5159292186725,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1869.7029890893998,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1871.4238203696818,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1877.2240502349057,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1867.6963003055098,
+        "point_count": 1598
+      }
+    },
+    "2021_02": {
+      "BILASPUR": {
+        "average": 1869.5565760064176,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1847.7142879491914,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1849.5359558190864,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1848.6399538078551,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1852.9892196798116,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1858.0839081315671,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1861.3021332238275,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1850.03324907856,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1856.4334099887346,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1848.4325624993508,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1850.4323752894118,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1848.8130676783148,
+        "point_count": 1598
+      }
+    },
+    "2021_03": {
+      "BILASPUR": {
+        "average": 1873.8809989442366,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1854.480873614854,
+        "point_count": 6557
+      },
+      "HAMIRPUR": {
+        "average": 1845.794173789171,
+        "point_count": 893
+      },
+      "KANGRA": {
+        "average": 1852.3830676330272,
+        "point_count": 4930
+      },
+      "KINNAUR": {
+        "average": 1862.9239453205912,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1869.0819892662514,
+        "point_count": 843
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1856.911795650576,
+        "point_count": 13515
+      },
+      "MANDI": {
+        "average": 1848.8490571831946,
+        "point_count": 71
+      },
+      "SHIMLA": {
+        "average": 1866.9407067682791,
+        "point_count": 4234
+      },
+      "SIRMAUR": {
+        "average": 1851.2348283205765,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1856.5797925167503,
+        "point_count": 1717
+      },
+      "UNA": {
+        "average": 1848.8391395139888,
+        "point_count": 1598
+      }
+    },
+    "2021_04": {
+      "BILASPUR": {
+        "average": 1876.7532354104558,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1867.0205211517616,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1870.0328834985582,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1865.519249386045,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1856.321265165407,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1864.1129550693038,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1866.0217321951332,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1875.5783960899967,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1873.5932643219712,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1875.0537249361503,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1878.1207254183348,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1870.4789500009038,
+        "point_count": 1598
+      }
+    },
+    "2021_05": {
+      "BILASPUR": {
+        "average": 1921.0627620180082,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1873.9920032167538,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1960.9277800134553,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1898.346184121355,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1902.8131613414912,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1956.3668132181651,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1916.4468983452662,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1972.3563810103929,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1895.4957143842464,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1902.8500653555043,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1950.8812044968506,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1944.7944254342335,
+        "point_count": 1598
+      }
+    },
+    "2021_06": {
+      "BILASPUR": {
+        "average": 1887.807466462573,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1915.9464735031659,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1912.574061309493,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1915.3215539709536,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1926.4126372114208,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1905.5301780295524,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1913.5836343499216,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1910.4239668982837,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1920.1304996202061,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1924.7035378045532,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1916.3506356428882,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1915.7388303726548,
+        "point_count": 1598
+      }
+    },
+    "2021_07": {
+      "BILASPUR": {
+        "average": 1883.4745559947387,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1894.8394981866481,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1912.8689966753034,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1907.0849771613139,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1907.7705817714298,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1913.5014622427016,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1909.222577029495,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1910.8732163335633,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1916.419820398067,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1919.3211219624013,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1914.7961676067548,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1917.4527184441913,
+        "point_count": 1598
+      }
+    },
+    "2021_08": {
+      "BILASPUR": {
+        "average": 1866.948428459178,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1865.659064586268,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1871.9841346515575,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1864.8241275589448,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1875.2949905303535,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1867.0037270499338,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1867.0290034906473,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1871.3187147717545,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1871.5459768530852,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1869.070196292482,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1877.2760990723582,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1871.0471754729997,
+        "point_count": 1598
+      }
+    },
+    "2021_09": {
+      "BILASPUR": {
+        "average": 1871.0209723941985,
+        "point_count": 1064
+      },
+      "CHAMBA": {
+        "average": 1848.1433266602535,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1847.7251402800562,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1847.7122392191084,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1849.6074358963833,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1856.9180347637996,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1851.702099780668,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1856.7136899221273,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1855.5999445102439,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1855.7051863937954,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1858.2577661803973,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1843.0976600318165,
+        "point_count": 1598
+      }
+    },
+    "2021_10": {
+      "BILASPUR": {
+        "average": 1853.5070598562982,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1873.7196880138088,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1867.2269966678148,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1870.802523726129,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1873.8160750830289,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1854.4387950373991,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1871.337131145471,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1850.4134005789883,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1865.6003870104878,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1864.6365680321985,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1850.059262605577,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1874.8432391371048,
+        "point_count": 1598
+      }
+    },
+    "2021_11": {
+      "BILASPUR": {
+        "average": 1879.4315017925517,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1872.247212434166,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1871.8859059574283,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1874.548931785449,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1872.2806957776454,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1872.9548980841662,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1868.9764011223958,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1877.1796734754246,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1871.0960345783922,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1873.9355478235927,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1879.8766864756562,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1872.718872306379,
+        "point_count": 1598
+      }
+    },
+    "2021_12": {
+      "BILASPUR": {
+        "average": 1880.1884035775704,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1870.1627100706871,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1870.522850960412,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1873.0208198660068,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1871.9479125511693,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1873.8604502584437,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1869.1042120638413,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1877.4905617592474,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1869.4008070710615,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1872.5179796839343,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1879.6326232733481,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1871.6399190807062,
+        "point_count": 1598
+      }
+    },
+    "2022_01": {
+      "BILASPUR": {
+        "average": 1881.2866497411405,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1870.3187217489817,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1867.2030447608154,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1870.858310200082,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1871.5883463217067,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1872.0048047367634,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1868.9747187990636,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1872.6993290524179,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1869.09530721835,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1870.163195060897,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1874.9947064156415,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1867.1485828757432,
+        "point_count": 1598
+      }
+    },
+    "2022_02": {
+      "BILASPUR": {
+        "average": 1854.4062214042983,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1847.9400188056222,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1845.8414118397932,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1847.609452225065,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1850.4813768703589,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1848.5219780999628,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1854.640692075551,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1849.9263709458257,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1847.6975363279353,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1851.6720894808063,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1852.0001350271773,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1846.2526160054408,
+        "point_count": 1598
+      }
+    },
+    "2022_03": {
+      "BILASPUR": {
+        "average": 1874.131404147888,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1847.7198258675814,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1854.2289243064909,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1851.6685218045145,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1854.9577083639467,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1855.823027701199,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1853.626841711503,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1857.4751225899706,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1851.252441170051,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1849.524621322372,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1857.2816034064563,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1852.0788130846527,
+        "point_count": 1598
+      }
+    },
+    "2022_04": {
+      "BILASPUR": {
+        "average": 1874.5291964448131,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1875.8395921062815,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1875.4010109387827,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1877.56653197838,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1863.687756025784,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1876.8596989576124,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1870.2094953111612,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1877.018628867712,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1877.1056159297768,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1875.1696116060893,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1876.9497729577106,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1878.1817597218035,
+        "point_count": 1598
+      }
+    },
+    "2022_05": {
+      "BILASPUR": {
+        "average": 1921.5164279412554,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1942.8053411044762,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1949.4859350004683,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1979.3401302371667,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1995.8786372762506,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1942.847763546456,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1955.042784701375,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1948.1928205204954,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1980.0279445447802,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1951.6359361216664,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1884.4499858293484,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1955.6795627558656,
+        "point_count": 1598
+      }
+    },
+    "2022_06": {
+      "BILASPUR": {
+        "average": 1887.5059349464361,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1919.8246377250268,
+        "point_count": 6478
+      },
+      "HAMIRPUR": {
+        "average": 1882.0860101879086,
+        "point_count": 829
+      },
+      "KANGRA": {
+        "average": 1890.8734731259285,
+        "point_count": 4686
+      },
+      "KINNAUR": {
+        "average": 1915.1595070683416,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1917.4647062970569,
+        "point_count": 913
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1915.2894559158733,
+        "point_count": 7791
+      },
+      "MANDI": {
+        "average": 1871.9734825880441,
+        "point_count": 36
+      },
+      "SHIMLA": {
+        "average": 1910.6804508218304,
+        "point_count": 3783
+      },
+      "SIRMAUR": {
+        "average": 1904.2024264148363,
+        "point_count": 1775
+      },
+      "SOLAN": {
+        "average": 1918.0608678360659,
+        "point_count": 1905
+      },
+      "UNA": {
+        "average": 1899.2175959811536,
+        "point_count": 1598
+      }
+    },
+    "2022_07": {
+      "BILASPUR": {
+        "average": 1888.2695267332242,
+        "point_count": 889
+      },
+      "CHAMBA": {
+        "average": 1907.9490605534497,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1898.8229436406489,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1913.6710097737873,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1906.7611520368064,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1898.4406354609673,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1905.583759190242,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1885.0216277087814,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1905.9737607598192,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1904.248528548436,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1887.3536812725247,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1919.3245687199933,
+        "point_count": 1598
+      }
+    },
+    "2022_08": {
+      "BILASPUR": {
+        "average": 1920.6977763614595,
+        "point_count": 246
+      },
+      "CHAMBA": {
+        "average": 1872.9462891388157,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1870.022000949149,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1870.5848332987107,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1876.118681224548,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1875.2660405295444,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1871.6785064306043,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1877.367014777036,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1873.5428182597118,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1875.6617885068465,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1878.973179917561,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1871.6213139606702,
+        "point_count": 1598
+      }
+    },
+    "2022_09": {
+      "BILASPUR": {
+        "average": 1874.8882815470822,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1859.8352041554585,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1849.669388508464,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1856.8830663610897,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1849.9800720169235,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1852.3772974559574,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1851.4596131834899,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1855.1157901853508,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1849.9513497350476,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1854.5957488198494,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1857.7412609345845,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1849.9997373449437,
+        "point_count": 1598
+      }
+    },
+    "2022_10": {
+      "BILASPUR": {
+        "average": 1849.2982381224292,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1872.3672496965573,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1874.1761650158594,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1876.2950980246767,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1873.3613298982098,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1874.864889995403,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1870.755551631211,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1881.0739243678022,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1873.358645959872,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1876.8049702116834,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1880.9498003805895,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1874.7125421329577,
+        "point_count": 1598
+      }
+    },
+    "2022_11": {
+      "BILASPUR": {
+        "average": 1876.4833596354742,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1871.3066817142408,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1872.3359741984373,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1874.284713363605,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1871.0800407139027,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1873.9358820940017,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1869.614451821832,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1879.4909984153614,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1871.787558609408,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1874.4578716006604,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1879.6384938172453,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1872.940885497933,
+        "point_count": 1598
+      }
+    },
+    "2022_12": {
+      "BILASPUR": {
+        "average": 1875.9973947678222,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1870.6343262881005,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1869.9299104979082,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1873.3071209651966,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1872.3337291100884,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1873.4474751486514,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1869.0303758646326,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1876.358909842833,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1869.9707212879673,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1872.382504098554,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1878.9586807950334,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1871.5989825282868,
+        "point_count": 1598
+      }
+    },
+    "2023_01": {
+      "BILASPUR": {
+        "average": 1852.539050195796,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1870.1103082500117,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1867.7443098525341,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1870.5018446302065,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1871.1721210770063,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1874.3004326381745,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1868.6623303643491,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1876.4461585765457,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1869.98108406007,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1871.7304409082722,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1877.979911017555,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1866.706379230223,
+        "point_count": 1598
+      }
+    },
+    "2023_02": {
+      "BILASPUR": {
+        "average": 1856.0114472811151,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1848.1475316672677,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1850.2183584173981,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1849.0511659746212,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1851.8174713973076,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1849.71850271424,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1848.1888498244496,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1851.895351984582,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1851.173278964164,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1853.0170348750598,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1853.079798274222,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1846.0927465271598,
+        "point_count": 1598
+      }
+    },
+    "2023_03": {
+      "BILASPUR": {
+        "average": 1872.6835222975749,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1854.0967140556158,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1854.5592279705324,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1855.5638740505208,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1854.253937773195,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1855.0595665446667,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1853.9882066921766,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1857.270474730907,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1849.8725441229737,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1849.100958918444,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1857.3457318001954,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1853.9233928990168,
+        "point_count": 1598
+      }
+    },
+    "2023_04": {
+      "BILASPUR": {
+        "average": 1873.4849564225528,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1873.4212423162726,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1874.3900975887511,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1875.0147894556728,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1860.560861682861,
+        "point_count": 6447
+      },
+      "MANDI": {
+        "average": 1877.0115797560604,
+        "point_count": 3928
+      },
+      "SIRMAUR": {
+        "average": 1875.210646786094,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1877.5934525379732,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1873.954934750849,
+        "point_count": 1598
+      }
+    },
+    "2023_05": {
+      "BILASPUR": {
+        "average": 1915.4762084284819,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1987.0624492589525,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1939.8716967962305,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1968.547487734389,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1973.8300913297655,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1937.3498418606923,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1977.8172567023657,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1877.0218783659548,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1945.8282560762937,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1897.032465471564,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1880.8713314145648,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1953.3750584356176,
+        "point_count": 1598
+      }
+    },
+    "2023_06": {
+      "BILASPUR": {
+        "average": 1894.4377720008652,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1921.1885098889352,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1915.6822195380453,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1925.812914109016,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1916.6261938891357,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1922.6772870810794,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1912.388897476165,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1926.57540632862,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1918.8645891151457,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1927.1839608652526,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1935.3165669904506,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1938.360634634274,
+        "point_count": 1598
+      }
+    },
+    "2023_07": {
+      "BILASPUR": {
+        "average": 1901.938079026628,
+        "point_count": 334
+      },
+      "CHAMBA": {
+        "average": 1906.6282437282664,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1911.544462846321,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1908.8810768800345,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1906.3054043102686,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1903.4850629421605,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1898.6254089367096,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1910.3724591105838,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1904.2161127224813,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1915.7110423819477,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1917.3758998920669,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1910.0238270715633,
+        "point_count": 1598
+      }
+    },
+    "2023_08": {
+      "CHAMBA": {
+        "average": 1865.4299885471441,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1869.6492305828992,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1864.098152420677,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1874.7424598779967,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1866.1730426592637,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1873.2761320351021,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1849.5980969373472,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1867.6878627511192,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1871.0090991920144,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1844.1476786187116,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1871.6294950552183,
+        "point_count": 1598
+      }
+    },
+    "2023_09": {
+      "BILASPUR": {
+        "average": 1874.7477678859839,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1848.1039312212747,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1846.8832853585434,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1848.8459724402176,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1862.5260501221453,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1851.4573064955218,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1850.568617074561,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1852.0244951606705,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1854.0336445298933,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1853.5440599983954,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1851.7984561043875,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1846.1195648059954,
+        "point_count": 1598
+      }
+    },
+    "2023_10": {
+      "BILASPUR": {
+        "average": 1852.658243902705,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1869.4938649371588,
+        "point_count": 4272
+      },
+      "HAMIRPUR": {
+        "average": 1873.340411104975,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1873.3246697034251,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1871.3028962272433,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1875.3986162256317,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1871.6859374086932,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1879.6831273849425,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1873.9597027829088,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1876.1442506996223,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1877.3315102305562,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1873.7151904462125,
+        "point_count": 1598
+      }
+    },
+    "2023_11": {
+      "BILASPUR": {
+        "average": 1875.610192605925,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1871.7218726887559,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1871.7480073143463,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1873.9359434895086,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1873.378631820175,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1874.6533218348388,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1870.2316666896688,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1879.409521229035,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1871.6975924730848,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1875.1757655239696,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1879.838090055421,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1872.4072888587443,
+        "point_count": 1598
+      }
+    },
+    "2023_12": {
+      "BILASPUR": {
+        "average": 1878.2742734830165,
+        "point_count": 3327
+      },
+      "CHAMBA": {
+        "average": 1870.6286642305556,
+        "point_count": 6571
+      },
+      "HAMIRPUR": {
+        "average": 1867.4755140377033,
+        "point_count": 1160
+      },
+      "KANGRA": {
+        "average": 1871.3765053110078,
+        "point_count": 5783
+      },
+      "KINNAUR": {
+        "average": 1871.8732827205783,
+        "point_count": 6447
+      },
+      "KULLU": {
+        "average": 1872.2237399269816,
+        "point_count": 5460
+      },
+      "LAHUL_&_SPITI": {
+        "average": 1868.7055242950803,
+        "point_count": 13903
+      },
+      "MANDI": {
+        "average": 1874.2575454774294,
+        "point_count": 3928
+      },
+      "SHIMLA": {
+        "average": 1868.944157320918,
+        "point_count": 5149
+      },
+      "SIRMAUR": {
+        "average": 1872.2231483679752,
+        "point_count": 2841
+      },
+      "SOLAN": {
+        "average": 1876.5849926084566,
+        "point_count": 1990
+      },
+      "UNA": {
+        "average": 1869.7958096792474,
+        "point_count": 1598
+      }
+    }
+  },
+  "statistics": {
+    "mean": 1879.1567723780138,
+    "std": 28.51604015414007,
+    "min": 1841.9833158870083,
+    "max": 2016.183177717048
+  }
+}

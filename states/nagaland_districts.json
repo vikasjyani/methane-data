@@ -1,0 +1,5247 @@
+{
+  "type": "state_districts",
+  "state_name": "NAGALAND",
+  "data": {
+    "DIMAPUR": {
+      "average_methane": 1880.7493619753109,
+      "data_quality": {
+        "total_months": 115,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 753.6
+      },
+      "point_count": 86664
+    },
+    "KIPHIRE": {
+      "average_methane": 1877.0636244723196,
+      "data_quality": {
+        "total_months": 111,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 1110.4954954954956
+      },
+      "point_count": 123265
+    },
+    "KOHIMA": {
+      "average_methane": 1879.3215538145398,
+      "data_quality": {
+        "total_months": 107,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 1293.0
+      },
+      "point_count": 138351
+    },
+    "LONGLENG": {
+      "average_methane": 1880.0076697753407,
+      "data_quality": {
+        "total_months": 112,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 612.8303571428571
+      },
+      "point_count": 68637
+    },
+    "MOKOKCHUNG": {
+      "average_methane": 1879.7089774019303,
+      "data_quality": {
+        "total_months": 110,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 1572.1818181818182
+      },
+      "point_count": 172940
+    },
+    "MON": {
+      "average_methane": 1878.1476138239286,
+      "data_quality": {
+        "total_months": 112,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 2094.3839285714284
+      },
+      "point_count": 234571
+    },
+    "PAREN": {
+      "average_methane": 1880.5163728010145,
+      "data_quality": {
+        "total_months": 117,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 1689.5299145299145
+      },
+      "point_count": 197675
+    },
+    "PHEK": {
+      "average_methane": 1878.3977672887509,
+      "data_quality": {
+        "total_months": 113,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 1761.3805309734514
+      },
+      "point_count": 199036
+    },
+    "TUENSANG": {
+      "average_methane": 1877.4258908424424,
+      "data_quality": {
+        "total_months": 111,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 2041.6576576576576
+      },
+      "point_count": 226624
+    },
+    "WOKHA": {
+      "average_methane": 1879.2413728572174,
+      "data_quality": {
+        "total_months": 107,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 1578.0
+      },
+      "point_count": 168846
+    },
+    "ZUNHEBOTO": {
+      "average_methane": 1879.392648976223,
+      "data_quality": {
+        "total_months": 110,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 1536.0363636363636
+      },
+      "point_count": 168964
+    }
+  },
+  "monthly_data": {
+    "2014_01": {
+      "DIMAPUR": {
+        "average": 1881.8633755949,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1867.8088134034615,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1878.3602493087772,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1877.4332787658366,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1878.5777373991602,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1870.043469215547,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1878.8267385573913,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1873.8479142530466,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1870.0032330276674,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1879.3698765750362,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1877.6994213521032,
+        "point_count": 1579
+      }
+    },
+    "2014_02": {
+      "DIMAPUR": {
+        "average": 1855.4539647533004,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1853.7954021420753,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1855.5514312621503,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1850.4414143567642,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1851.7495773945702,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1852.3458968883428,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1853.3332195926173,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1855.0189550018238,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1852.8680558512872,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1854.2034177692576,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1854.6774064482058,
+        "point_count": 1579
+      }
+    },
+    "2014_03": {
+      "DIMAPUR": {
+        "average": 1874.9318163226335,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1870.974935094816,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1879.7411397407745,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1876.1658670189329,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1871.9621534201704,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1875.512541468521,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1873.6812090410488,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1875.4144341425795,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1870.3266363426783,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1878.859176318193,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1876.5349398882277,
+        "point_count": 1579
+      }
+    },
+    "2014_04": {
+      "DIMAPUR": {
+        "average": 1874.138359506881,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1871.7560686307224,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1879.68904343859,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1873.9456448643089,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1861.2447092522375,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1873.108166831908,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1872.1509111555988,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1873.4886274600187,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1872.569921739764,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1860.7633066518622,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1876.3605669180063,
+        "point_count": 1579
+      }
+    },
+    "2014_05": {
+      "DIMAPUR": {
+        "average": 1910.3022743757215,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1909.2960719141665,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1907.133285523241,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1906.701281148053,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1906.9568071623564,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1915.0069003608367,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1918.95624580212,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1907.1274326511766,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1909.3024280462319,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1908.1564017790502,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1906.7039439239945,
+        "point_count": 1579
+      }
+    },
+    "2014_06": {
+      "DIMAPUR": {
+        "average": 1919.0866301963238,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1915.9069845733538,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1921.017644399069,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1912.8238894999495,
+        "point_count": 618
+      },
+      "MOKOKCHUNG": {
+        "average": 1911.8268041459341,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1913.7600312518387,
+        "point_count": 1896
+      },
+      "PAREN": {
+        "average": 1927.188888435277,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1915.4526033112397,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1916.0932439719525,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1916.718455829428,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1915.8758740065089,
+        "point_count": 1579
+      }
+    },
+    "2014_07": {
+      "DIMAPUR": {
+        "average": 1925.820495702267,
+        "point_count": 12
+      },
+      "PAREN": {
+        "average": 1919.735650110263,
+        "point_count": 1034
+      }
+    },
+    "2014_08": {
+      "DIMAPUR": {
+        "average": 1928.052575090412,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1920.7460276704708,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1915.324623266497,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1919.4674852376368,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1915.388314482552,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1923.015742425524,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1917.400073338742,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1914.2841941709864,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1924.0597150590008,
+        "point_count": 2066
+      },
+      "WOKHA": {
+        "average": 1908.2182403322893,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1914.3733711330299,
+        "point_count": 1579
+      }
+    },
+    "2014_09": {
+      "DIMAPUR": {
+        "average": 1872.8824114763645,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1872.5904193096944,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1880.28049786894,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1864.947462811255,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1876.9943985813786,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1858.647011238774,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1871.7446755561764,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1874.051106098736,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1866.9826239558372,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1880.048366519033,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1874.2731418930184,
+        "point_count": 1579
+      }
+    },
+    "2014_10": {
+      "DIMAPUR": {
+        "average": 1882.7841147708389,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1871.3262659189327,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1873.6283902369926,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1879.2673338442785,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1877.346766300674,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1874.4101099272839,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1878.8229313111833,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1873.2129275329785,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1871.8460112523303,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1876.4445440697252,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1875.537886823553,
+        "point_count": 1579
+      }
+    },
+    "2014_11": {
+      "DIMAPUR": {
+        "average": 1881.0954629126027,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1869.3502070830539,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1877.2634154560783,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1877.6261554090745,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1877.6775643781498,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1870.9900841171318,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1877.5874046626614,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1874.369323676388,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1870.6938257182826,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1878.639492243979,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1876.285978845001,
+        "point_count": 1579
+      }
+    },
+    "2014_12": {
+      "DIMAPUR": {
+        "average": 1880.9552083258864,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1868.2686228176697,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1877.3370860034715,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1877.6991373990124,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1878.4894815682123,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1870.5551336492679,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1875.6444720543168,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1872.6474564164773,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1869.6327988161142,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1879.4565158542841,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1875.8142195751022,
+        "point_count": 1579
+      }
+    },
+    "2015_01": {
+      "DIMAPUR": {
+        "average": 1867.4032804873489,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1867.238980718804,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1875.4753581082264,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1876.5663069947148,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1876.3063388691908,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1870.049326325004,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1856.8816914706376,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1872.9262556486115,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1869.4651414022935,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1877.1976270463667,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1874.4251163213096,
+        "point_count": 1579
+      }
+    },
+    "2015_02": {
+      "DIMAPUR": {
+        "average": 1857.721504070285,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1852.5823260061356,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1855.5924334898239,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1851.974651718683,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1851.1072669188788,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1854.1510252745556,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1855.1706233668713,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1851.0025916207458,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1853.9931435705946,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1852.2870091835075,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1849.8528354635812,
+        "point_count": 1579
+      }
+    },
+    "2015_03": {
+      "DIMAPUR": {
+        "average": 1872.1758614591354,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1868.8492055065533,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1860.8157527167825,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1869.216494804767,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1874.8844028943497,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1868.6789862525438,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1870.5017876281213,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1866.9065395530727,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1869.8389919066988,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1879.4894494162913,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1868.834252587282,
+        "point_count": 1579
+      }
+    },
+    "2015_04": {
+      "DIMAPUR": {
+        "average": 1872.673656898383,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1869.6408006409793,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1871.9801026377438,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1869.2799245839667,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1867.2704200550152,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1869.6170906488871,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1870.0582324633458,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1870.474353746591,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1869.2763000511936,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1867.1813297288177,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1871.1803824324431,
+        "point_count": 1579
+      }
+    },
+    "2015_05": {
+      "DIMAPUR": {
+        "average": 1918.142966892111,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1917.499584102357,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1917.3636440706805,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1907.478798860188,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1907.3082454447667,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1909.2395790706105,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1918.8026530299273,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1911.7742384062487,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1909.327422625451,
+        "point_count": 2066
+      },
+      "WOKHA": {
+        "average": 1913.550290680871,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1914.54677238164,
+        "point_count": 1579
+      }
+    },
+    "2015_06": {
+      "DIMAPUR": {
+        "average": 1908.86959822558,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1914.8870561209237,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1910.7705304937178,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1909.6871108381245,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1921.7526199594463,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1913.2115532619493,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1909.697331711863,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1910.8697434371604,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1916.8864732898544,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1925.9075361354849,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1924.137995739429,
+        "point_count": 1579
+      }
+    },
+    "2015_07": {
+      "DIMAPUR": {
+        "average": 1916.1213815035137,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1910.402394769499,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1917.8687460619433,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1907.8870993327726,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1911.2042384541903,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1915.0237600513879,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1921.5815115220303,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1916.9174517857216,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1906.2458291202138,
+        "point_count": 2066
+      },
+      "WOKHA": {
+        "average": 1914.2141547657122,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1908.3874582635376,
+        "point_count": 1579
+      }
+    },
+    "2015_08": {
+      "DIMAPUR": {
+        "average": 1876.5857155842552,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1866.574735217082,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1878.6387597255125,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1875.3109973556795,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1880.2303887245232,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1881.3656166373983,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1876.483147157426,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1866.6250129567288,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1866.9353370726708,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1875.431002962188,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1870.6451952750467,
+        "point_count": 1579
+      }
+    },
+    "2015_09": {
+      "DIMAPUR": {
+        "average": 1864.5125171556756,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1849.2580541929417,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1849.7624658320622,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1855.0875010257087,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1856.8612143877751,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1848.132073304224,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1866.198918410939,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1854.6605420322812,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1849.431198793675,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1854.493732505552,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1856.4851457980112,
+        "point_count": 1579
+      }
+    },
+    "2015_10": {
+      "DIMAPUR": {
+        "average": 1874.3264860063518,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1871.0533019522975,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1873.3491385008263,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1878.7701689575233,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1877.4183744737136,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1875.5295836622843,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1874.7317264986436,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1874.024431194191,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1871.4912056318421,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1876.1506646028306,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1872.917753932695,
+        "point_count": 1579
+      }
+    },
+    "2015_11": {
+      "DIMAPUR": {
+        "average": 1883.4558153976525,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1869.958326211894,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1878.6077410486453,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1877.7873836724546,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1878.4782997672135,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1871.1945741136474,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1879.0109757805408,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1875.366099517938,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1871.331236387315,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1879.7649765814099,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1877.896726172878,
+        "point_count": 1579
+      }
+    },
+    "2015_12": {
+      "DIMAPUR": {
+        "average": 1878.6741250285768,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1867.4226118146123,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1876.1480832253233,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1875.2461758671805,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1875.3792615885593,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1868.790150630942,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1876.5467489493417,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1873.4805342943541,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1868.422140843015,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1876.3351602218775,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1875.6915381874835,
+        "point_count": 1579
+      }
+    },
+    "2016_01": {
+      "DIMAPUR": {
+        "average": 1881.0359751060873,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1867.0576391452557,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1878.0276509524285,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1877.205318921542,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1878.0578521928917,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1869.7944108231932,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1877.6717805737176,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1873.4005159885091,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1869.0172637109386,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1879.0961534301155,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1876.810751627724,
+        "point_count": 1579
+      }
+    },
+    "2016_02": {
+      "DIMAPUR": {
+        "average": 1847.628590631301,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1847.3911269338869,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1850.1801241593853,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1849.2216039602515,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1850.517843864083,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1845.6615966586062,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1849.8241358023663,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1849.5001748396062,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1845.4816051731957,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1850.5815191542208,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1850.6510932573758,
+        "point_count": 1579
+      }
+    },
+    "2016_03": {
+      "DIMAPUR": {
+        "average": 1877.8368903879941,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1869.465627557499,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1879.477790608505,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1871.9410969465332,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1875.2401089229224,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1868.7233917200126,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1874.2301187839835,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1877.0789788463005,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1867.7086234556891,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1879.7887523468498,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1875.7352316117378,
+        "point_count": 1579
+      }
+    },
+    "2016_04": {
+      "DIMAPUR": {
+        "average": 1863.948742127482,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1871.1178250372104,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1835.5182944498122,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1869.3051597414633,
+        "point_count": 618
+      },
+      "MOKOKCHUNG": {
+        "average": 1854.989180700731,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1871.6003000699047,
+        "point_count": 1914
+      },
+      "PAREN": {
+        "average": 1870.4074363665936,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1866.475262886082,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1869.7495374559746,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1836.3444585017146,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1861.548006847466,
+        "point_count": 1579
+      }
+    },
+    "2016_05": {
+      "DIMAPUR": {
+        "average": 1918.6585673452853,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1911.1835915713455,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1918.6132605942048,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1915.1844892763063,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1918.7606294327604,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1911.0741171911307,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1920.4606198154786,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1914.0370346458378,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1913.5951960250104,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1918.533649109935,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1916.579979149433,
+        "point_count": 1579
+      }
+    },
+    "2016_06": {
+      "DIMAPUR": {
+        "average": 1906.5192272651389,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1918.5435872175747,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1912.4764191001013,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1929.8585481803843,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1931.7425551225956,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1922.4100823264325,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1906.256395363489,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1914.7117816969608,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1924.386883259151,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1917.455574497089,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1918.1096885101126,
+        "point_count": 1579
+      }
+    },
+    "2016_07": {
+      "PAREN": {
+        "average": 1908.7636134904346,
+        "point_count": 848
+      }
+    },
+    "2016_08": {
+      "DIMAPUR": {
+        "average": 1872.5028266877441,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1873.271079437511,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1880.179466609314,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1876.1880679397318,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1877.434222920744,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1878.740562260304,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1871.1824491105117,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1876.2954326168888,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1877.379126419484,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1879.2325567595633,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1879.8612313453395,
+        "point_count": 1579
+      }
+    },
+    "2016_09": {
+      "DIMAPUR": {
+        "average": 1856.5079547072137,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1851.7740692603356,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1856.7385270954676,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1854.4907987848956,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1855.716418211787,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1854.523813625168,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1855.3442785065815,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1853.0007778034583,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1854.5164213407957,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1857.0056708958855,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1856.713040900565,
+        "point_count": 1579
+      }
+    },
+    "2016_10": {
+      "DIMAPUR": {
+        "average": 1850.397841174327,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1864.0121265613764,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1850.585560107515,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1875.48046442911,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1855.5113453550778,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1874.3004069702063,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1854.600371857251,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1856.9231957012905,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1866.432587109401,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1850.49680601963,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1850.675441484988,
+        "point_count": 1579
+      }
+    },
+    "2016_11": {
+      "DIMAPUR": {
+        "average": 1882.7696364444337,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1869.9930068123363,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1878.6363707111163,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1877.2866042114058,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1877.9554061098243,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1871.6248848798755,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1879.4728739356847,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1874.3550952767937,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1871.2879185471404,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1877.7727221759542,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1877.6569187406305,
+        "point_count": 1579
+      }
+    },
+    "2016_12": {
+      "DIMAPUR": {
+        "average": 1881.491963249401,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1867.8483133574773,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1877.9087438284641,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1875.736742308877,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1877.3002681328362,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1870.1308563439204,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1878.1282357252342,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1872.8226513307586,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1869.7786529209827,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1879.5843807680044,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1877.173682740036,
+        "point_count": 1579
+      }
+    },
+    "2017_01": {
+      "DIMAPUR": {
+        "average": 1881.1511586150239,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1867.7528594075993,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1878.104954278094,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1877.0828672165076,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1878.1555272784187,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1870.2011316295786,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1878.6276018789606,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1873.6517206528206,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1869.6001429377086,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1878.8299254504511,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1876.7865148109947,
+        "point_count": 1579
+      }
+    },
+    "2017_02": {
+      "DIMAPUR": {
+        "average": 1852.729905748025,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1845.1235413844286,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1848.748476195043,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1849.2817495693691,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1850.4630823212083,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1846.1807757976167,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1851.7606826321871,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1846.0725398062834,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1846.286439227199,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1845.7975569265823,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1848.1005953520432,
+        "point_count": 1579
+      }
+    },
+    "2017_03": {
+      "DIMAPUR": {
+        "average": 1873.428722594677,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1875.4090985694893,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1876.7833825623586,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1872.0111482180262,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1872.3757717647907,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1867.5931489543907,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1873.0831519217963,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1875.7827660263554,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1874.1288983398274,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1879.622732087016,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1878.9068215779268,
+        "point_count": 1579
+      }
+    },
+    "2017_04": {
+      "DIMAPUR": {
+        "average": 1875.1884534443136,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1869.9028359588913,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1878.4948277654482,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1872.9654658098661,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1877.3001753785593,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1869.4405199645958,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1872.9167997145996,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1870.4582538496743,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1870.4434798618572,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1879.841994628441,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1874.8418217857002,
+        "point_count": 1579
+      }
+    },
+    "2017_05": {
+      "DIMAPUR": {
+        "average": 1922.8842288239468,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1925.7891092972934,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1925.383543259141,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1917.4067801006504,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1916.966461454351,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1913.6751439468694,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1920.6369499926495,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1922.1737936703105,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1919.754614921388,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1921.72634632934,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1917.972006033575,
+        "point_count": 1579
+      }
+    },
+    "2017_06": {
+      "KIPHIRE": {
+        "average": 1914.7638997236281,
+        "point_count": 817
+      },
+      "LONGLENG": {
+        "average": 1917.4382823366307,
+        "point_count": 523
+      },
+      "MOKOKCHUNG": {
+        "average": 1914.6092121271506,
+        "point_count": 616
+      },
+      "MON": {
+        "average": 1929.0559649586403,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1896.0577501731277,
+        "point_count": 848
+      },
+      "PHEK": {
+        "average": 1911.6784172925202,
+        "point_count": 554
+      },
+      "TUENSANG": {
+        "average": 1925.2106711619817,
+        "point_count": 1386
+      },
+      "ZUNHEBOTO": {
+        "average": 1910.8250692015756,
+        "point_count": 4
+      }
+    },
+    "2017_07": {
+      "DIMAPUR": {
+        "average": 1917.1517269667381,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1911.5648657317545,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1916.5766916362588,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1925.1177990920776,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1922.7949708637661,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1923.82015198082,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1919.8720540534955,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1911.5726708496613,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1922.528073272114,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1914.4724898253237,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1917.0374765330657,
+        "point_count": 1579
+      }
+    },
+    "2017_08": {
+      "DIMAPUR": {
+        "average": 1874.566211665358,
+        "point_count": 7
+      },
+      "PAREN": {
+        "average": 1872.2790924842889,
+        "point_count": 342
+      },
+      "PHEK": {
+        "average": 1871.9984246261952,
+        "point_count": 214
+      }
+    },
+    "2017_09": {
+      "DIMAPUR": {
+        "average": 1872.5927652995251,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1869.7385509666397,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1879.8874934219675,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1873.2442665882215,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1877.4984048970896,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1865.7394355361653,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1870.7773041177854,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1873.7389216788044,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1869.1847981247927,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1879.6461795664945,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1876.7606452893037,
+        "point_count": 1579
+      }
+    },
+    "2017_10": {
+      "DIMAPUR": {
+        "average": 1850.5366583840912,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1871.339469733406,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1852.9530440593755,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1877.2370728723902,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1875.2945998418597,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1875.901118757981,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1853.5581182000162,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1869.0566344388142,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1872.6824077687716,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1866.0968604925577,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1872.991982443532,
+        "point_count": 1579
+      }
+    },
+    "2017_11": {
+      "DIMAPUR": {
+        "average": 1882.5385020288445,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1869.9051145903431,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1878.6324510023596,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1878.8673029041167,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1879.4122029077587,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1872.7138303987647,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1878.9306687044273,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1875.1554699784767,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1871.1788201662011,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1879.9527805449598,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1878.348939249033,
+        "point_count": 1579
+      }
+    },
+    "2017_12": {
+      "DIMAPUR": {
+        "average": 1881.0487250058077,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1867.014489903939,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1877.6345971256462,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1876.5461428445813,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1876.7362020921742,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1869.8067246854982,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1878.3780444101862,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1872.862187901675,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1868.8006634802944,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1878.9371534186482,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1876.1693015790895,
+        "point_count": 1579
+      }
+    },
+    "2018_01": {
+      "DIMAPUR": {
+        "average": 1881.1281994007716,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1867.6089973552907,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1877.9284930520703,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1876.969080019446,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1877.4763221345356,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1869.8873308140746,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1877.962951259712,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1873.6497509186643,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1869.4044845729095,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1878.257717290447,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1876.6487392169136,
+        "point_count": 1579
+      }
+    },
+    "2018_02": {
+      "DIMAPUR": {
+        "average": 1854.3402251401199,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1849.1278179175142,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1853.5427874790257,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1844.837139857127,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1847.8092467207496,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1844.922807991084,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1854.1848815156557,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1851.5798624295123,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1842.776744671921,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1855.6253660987923,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1854.862945944163,
+        "point_count": 1579
+      }
+    },
+    "2018_03": {
+      "DIMAPUR": {
+        "average": 1873.9519556156908,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1870.1739625585906,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1871.5898419063526,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1871.0469943330277,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1856.3415962049535,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1867.3658318884577,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1872.7595367621689,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1866.3794017031446,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1868.671431295705,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1856.501049993079,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1861.7775595219052,
+        "point_count": 1579
+      }
+    },
+    "2018_04": {
+      "DIMAPUR": {
+        "average": 1873.959911126401,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1873.5010963356829,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1880.0589503338222,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1876.2910946675581,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1877.7141665587403,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1875.9465648884755,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1871.0943952462758,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1874.3441267569174,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1873.1775511589503,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1880.0257258490315,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1875.3633835718772,
+        "point_count": 1579
+      }
+    },
+    "2018_05": {
+      "DIMAPUR": {
+        "average": 1923.4738599250181,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1928.8123208238742,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1918.7994569114237,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1930.3586709629897,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1914.520461475764,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1926.8476409251762,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1925.853348745746,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1921.471488922323,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1928.7856335608067,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1920.588599659377,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1923.2568202095874,
+        "point_count": 1579
+      }
+    },
+    "2018_06": {
+      "DIMAPUR": {
+        "average": 1912.2286171947376,
+        "point_count": 20
+      },
+      "KIPHIRE": {
+        "average": 1906.1133229311665,
+        "point_count": 764
+      },
+      "LONGLENG": {
+        "average": 1908.6867653244944,
+        "point_count": 39
+      },
+      "MON": {
+        "average": 1918.5408233828398,
+        "point_count": 1572
+      },
+      "PAREN": {
+        "average": 1912.0472728989446,
+        "point_count": 417
+      },
+      "PHEK": {
+        "average": 1903.7417880759142,
+        "point_count": 493
+      },
+      "TUENSANG": {
+        "average": 1914.198344638295,
+        "point_count": 1313
+      }
+    },
+    "2018_07": {
+      "DIMAPUR": {
+        "average": 1929.372279922582,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1927.702732067087,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1927.4460902822063,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1930.8440886706117,
+        "point_count": 621
+      },
+      "MOKOKCHUNG": {
+        "average": 1932.762650189122,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1928.7521381066626,
+        "point_count": 1853
+      },
+      "PAREN": {
+        "average": 1926.6222033079362,
+        "point_count": 1783
+      },
+      "PHEK": {
+        "average": 1924.6705297943017,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1928.3201796948306,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1930.7671537357967,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1928.6121131570408,
+        "point_count": 1579
+      }
+    },
+    "2018_08": {
+      "DIMAPUR": {
+        "average": 1865.2242448492682,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1870.7222111735093,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1863.8352538023157,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1865.23974749752,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1866.2142167675488,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1867.693054548399,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1865.082640244473,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1866.8361923410746,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1868.7951687750833,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1866.2661324233175,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1866.4747871329614,
+        "point_count": 1579
+      }
+    },
+    "2018_09": {
+      "DIMAPUR": {
+        "average": 1872.5337373932339,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1869.186010300737,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1878.9720557819899,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1873.6316500293026,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1877.5663084678436,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1857.2771924753135,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1866.196646564445,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1873.1219739088942,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1871.0924913193953,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1877.8049235788899,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1875.9425958696713,
+        "point_count": 1579
+      }
+    },
+    "2018_10": {
+      "DIMAPUR": {
+        "average": 1875.1332784396611,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1872.121926929337,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1880.731472656434,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1880.6775190236085,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1881.588467239245,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1873.334579347077,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1859.3119327300765,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1876.6861835068412,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1872.669114147757,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1882.6398694966124,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1880.4608344616006,
+        "point_count": 1579
+      }
+    },
+    "2018_11": {
+      "DIMAPUR": {
+        "average": 1880.3570279225867,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1868.1875228201438,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1877.4323274166402,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1876.686484346591,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1878.1322909888104,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1871.3528576258677,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1878.022033285592,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1873.5330152554684,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1869.6179046886975,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1879.5787192922292,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1876.4662295704845,
+        "point_count": 1579
+      }
+    },
+    "2018_12": {
+      "DIMAPUR": {
+        "average": 1881.094304548006,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1867.8272674741347,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1878.3020776238027,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1877.4128093445647,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1878.3477631816518,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1870.8246290864693,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1877.7000875700767,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1873.7216764790242,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1869.4330056953838,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1879.6034857321292,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1876.8362544871213,
+        "point_count": 1579
+      }
+    },
+    "2019_01": {
+      "DIMAPUR": {
+        "average": 1881.1988433078234,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1868.0131868792075,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1878.774659402917,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1877.3553656252388,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1877.802433928441,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1870.8295266233324,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1877.7650407249405,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1874.2699304592873,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1869.406459501655,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1879.6199621349922,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1877.1316106128634,
+        "point_count": 1579
+      }
+    },
+    "2019_02": {
+      "DIMAPUR": {
+        "average": 1854.0966602734402,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1853.7100519695916,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1855.1627735049008,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1859.2315788645597,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1855.0009246375798,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1849.4822678814633,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1851.5877797168118,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1855.0490701401272,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1855.8331978513536,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1855.0846069835882,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1854.9695154264984,
+        "point_count": 1579
+      }
+    },
+    "2019_03": {
+      "DIMAPUR": {
+        "average": 1876.567535521366,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1872.467337966596,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1874.7404229502158,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1874.6356742037162,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1877.4531601979356,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1873.4177268064961,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1872.1060130404653,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1875.2261022148057,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1871.0379370372555,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1866.3876483320091,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1875.2279488007166,
+        "point_count": 1579
+      }
+    },
+    "2019_04": {
+      "DIMAPUR": {
+        "average": 1862.6239797910382,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1873.5721033703737,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1854.967072791545,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1873.9845369147,
+        "point_count": 617
+      },
+      "MOKOKCHUNG": {
+        "average": 1868.6120717843805,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1869.2720205251662,
+        "point_count": 1915
+      },
+      "PAREN": {
+        "average": 1871.181172957763,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1875.6598833834228,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1872.726627923768,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1849.512729015457,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1878.7769153452991,
+        "point_count": 1579
+      }
+    },
+    "2019_05": {
+      "DIMAPUR": {
+        "average": 1912.540880252249,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1905.7727600540393,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1907.3921118538103,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1904.6730071231332,
+        "point_count": 619
+      },
+      "MOKOKCHUNG": {
+        "average": 1900.0148894796712,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1915.9384156673193,
+        "point_count": 1889
+      },
+      "PAREN": {
+        "average": 1909.649473280239,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1909.0725956734975,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1910.534564556863,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1900.9531807836004,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1903.6147259542347,
+        "point_count": 1579
+      }
+    },
+    "2019_06": {
+      "DIMAPUR": {
+        "average": 1924.8215075683734,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1912.586096071874,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1933.9539591859384,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1910.57660807024,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1925.9770487428175,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1913.4515764551522,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1922.158625060932,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1918.9717418982466,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1910.984380363081,
+        "point_count": 2066
+      },
+      "WOKHA": {
+        "average": 1932.671930760364,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1917.531828520008,
+        "point_count": 1579
+      }
+    },
+    "2019_07": {
+      "DIMAPUR": {
+        "average": 1915.6073704625292,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1927.6370280957963,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1926.1652241041525,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1929.0619613345518,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1927.4419512307816,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1922.846265366194,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1923.376751621621,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1926.4277638139645,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1928.3216431791725,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1921.5573291361472,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1928.1148246965327,
+        "point_count": 1579
+      }
+    },
+    "2019_08": {
+      "DIMAPUR": {
+        "average": 1865.5846466507794,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1867.770497486021,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1865.642052278748,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1864.6242655215385,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1864.9293247578873,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1869.2584575290846,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1865.857886789953,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1865.8817219289772,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1866.662140557196,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1865.248539120839,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1864.4599080297176,
+        "point_count": 1579
+      }
+    },
+    "2019_09": {
+      "DIMAPUR": {
+        "average": 1874.7002993558594,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1867.0217292171199,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1875.4800636566417,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1869.6604312642105,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1873.4729674497698,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1870.5214839617188,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1873.367744141432,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1865.3903068772913,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1868.75614655937,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1878.487858785865,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1875.237464181791,
+        "point_count": 1579
+      }
+    },
+    "2019_10": {
+      "DIMAPUR": {
+        "average": 1852.2473907598044,
+        "point_count": 7
+      },
+      "KIPHIRE": {
+        "average": 1848.5325844273993,
+        "point_count": 817
+      },
+      "LONGLENG": {
+        "average": 1849.8837781537102,
+        "point_count": 524
+      },
+      "MOKOKCHUNG": {
+        "average": 1850.104159529611,
+        "point_count": 618
+      },
+      "MON": {
+        "average": 1845.285092001085,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1867.5547868222336,
+        "point_count": 1012
+      },
+      "PHEK": {
+        "average": 1846.3170145220734,
+        "point_count": 562
+      },
+      "TUENSANG": {
+        "average": 1848.763075251567,
+        "point_count": 1385
+      },
+      "ZUNHEBOTO": {
+        "average": 1848.155516353795,
+        "point_count": 4
+      }
+    },
+    "2019_11": {
+      "DIMAPUR": {
+        "average": 1876.2770299123242,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1869.7991589250769,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1874.8626100782403,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1872.2349271599705,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1875.8308346946005,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1872.7479804305335,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1874.4481666013114,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1873.7076248949354,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1870.8243150562798,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1876.0930301822434,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1874.8976837808568,
+        "point_count": 1579
+      }
+    },
+    "2019_12": {
+      "DIMAPUR": {
+        "average": 1875.7951249557311,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1866.9783214803572,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1872.421660437728,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1870.6380073311802,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1870.9254977995681,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1869.7644018048422,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1872.0072325788453,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1871.0152503791765,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1868.0177491172713,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1871.9928903004986,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1871.040017947196,
+        "point_count": 1579
+      }
+    },
+    "2020_01": {
+      "DIMAPUR": {
+        "average": 1880.200659008634,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1867.9307676257363,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1876.1733960541674,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1876.424342132865,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1876.6291611601528,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1869.7615709296022,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1876.3971449461387,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1873.4810420467934,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1869.1460863158122,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1877.6073271018493,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1875.6080489383571,
+        "point_count": 1579
+      }
+    },
+    "2020_02": {
+      "DIMAPUR": {
+        "average": 1853.440070856199,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1853.5474537622645,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1851.9637072695778,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1851.2018781992617,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1852.0213597834158,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1851.6355573293954,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1854.6036932475104,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1851.9192792110061,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1853.7023260109252,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1853.6881471292581,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1852.07975581995,
+        "point_count": 1579
+      }
+    },
+    "2020_03": {
+      "DIMAPUR": {
+        "average": 1870.4810378283753,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1871.781166930878,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1862.6199042436783,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1873.2627594610874,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1862.2996372051023,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1869.801749554608,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1873.7037760611665,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1870.7951366455193,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1871.2199316874828,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1852.1593771170865,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1868.9250899808223,
+        "point_count": 1579
+      }
+    },
+    "2020_04": {
+      "DIMAPUR": {
+        "average": 1864.2356264636687,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1869.5462457017318,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1836.2582037465472,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1874.7443172752062,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1858.3186749495312,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1870.1879313958189,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1873.0326813524182,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1868.1638027276806,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1871.303473381171,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1835.7803696277776,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1864.2570922140385,
+        "point_count": 1579
+      }
+    },
+    "2020_05": {
+      "DIMAPUR": {
+        "average": 1917.4049326354077,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1909.208048149638,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1912.7939217898884,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1908.47334162211,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1908.1615033618607,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1910.499724254492,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1919.164990495191,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1911.3053381106604,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1911.0315609557424,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1912.4931389556584,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1909.828861985959,
+        "point_count": 1579
+      }
+    },
+    "2020_06": {
+      "DIMAPUR": {
+        "average": 1905.4556017373463,
+        "point_count": 12
+      },
+      "PAREN": {
+        "average": 1914.1874721979798,
+        "point_count": 372
+      }
+    },
+    "2020_08": {
+      "DIMAPUR": {
+        "average": 1870.0090164506787,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1866.843982048944,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1865.967773531045,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1866.0098303732836,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1866.257808104427,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1865.9336071289588,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1870.7276884190806,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1866.559715021152,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1866.3945960854926,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1867.5002246763688,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1865.9776942536023,
+        "point_count": 1579
+      }
+    },
+    "2020_09": {
+      "DIMAPUR": {
+        "average": 1871.0987661284828,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1868.848704771712,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1878.1034078580938,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1855.7588371474546,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1864.1723315858412,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1858.0950443231925,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1874.9036491814618,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1872.5546482888378,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1854.3006537730364,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1860.787647948871,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1872.4104503409205,
+        "point_count": 1579
+      }
+    },
+    "2020_10": {
+      "DIMAPUR": {
+        "average": 1883.1763632759464,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1870.3058884676975,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1878.3146053955932,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1878.5076380984708,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1879.6310165880554,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1871.2928949519505,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1879.580711383205,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1875.3859399109901,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1871.4987996100635,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1880.6326128567061,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1877.8607139412934,
+        "point_count": 1579
+      }
+    },
+    "2020_11": {
+      "DIMAPUR": {
+        "average": 1882.6449351303754,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1870.199607175086,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1880.0146108764668,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1879.360305294944,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1880.184391341864,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1873.3665755526865,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1880.143186990926,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1875.5134172868497,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1871.7366281733553,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1882.2344290257518,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1878.6309086440601,
+        "point_count": 1579
+      }
+    },
+    "2020_12": {
+      "DIMAPUR": {
+        "average": 1880.9472861965746,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1867.2674315841407,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1876.6983783979815,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1876.2338139261196,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1877.0047542582108,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1869.584639402249,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1877.1630828853113,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1873.1292202176394,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1868.8080930793749,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1878.0944147242662,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1875.8439676494413,
+        "point_count": 1579
+      }
+    },
+    "2021_01": {
+      "DIMAPUR": {
+        "average": 1862.209374377084,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1868.1584200600118,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1878.4536994442003,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1877.736442670605,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1878.2604934162105,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1870.5417655776037,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1855.073094660329,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1874.3934165660626,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1869.373689385657,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1879.6831414553353,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1877.1178305171265,
+        "point_count": 1579
+      }
+    },
+    "2021_02": {
+      "DIMAPUR": {
+        "average": 1857.7543483748632,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1851.9552975467873,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1856.0361610231057,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1850.861311568699,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1850.6627813434895,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1852.587781667301,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1856.4076321430634,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1851.1949327559485,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1852.160679192478,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1852.6432677938294,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1849.404041897886,
+        "point_count": 1579
+      }
+    },
+    "2021_03": {
+      "DIMAPUR": {
+        "average": 1876.4588679246365,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1870.240230305307,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1864.8964116130567,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1869.666587718397,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1875.229414309518,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1870.8766996985396,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1875.2434636715818,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1869.922919444694,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1870.647625770186,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1871.3301595230546,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1869.5349224932663,
+        "point_count": 1579
+      }
+    },
+    "2021_04": {
+      "DIMAPUR": {
+        "average": 1875.9899400535357,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1877.657236302389,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1858.3193344823053,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1877.4030468156982,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1868.368062014838,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1877.3452159341628,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1874.1055404541762,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1871.4749614890309,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1879.317367566978,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1864.6527540046595,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1868.7969675362872,
+        "point_count": 1579
+      }
+    },
+    "2021_05": {
+      "DIMAPUR": {
+        "average": 1919.504784466937,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1922.3609699068604,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1917.793162227927,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1908.3928499714568,
+        "point_count": 616
+      },
+      "MOKOKCHUNG": {
+        "average": 1908.5073507558275,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1914.7338100132931,
+        "point_count": 1899
+      },
+      "PAREN": {
+        "average": 1921.1530076099543,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1919.8800830781793,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1911.8250440602815,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1915.4021785591156,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1916.8878269429497,
+        "point_count": 1579
+      }
+    },
+    "2021_06": {
+      "DIMAPUR": {
+        "average": 1902.273412548924,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1904.5894833814855,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1907.5084254961332,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1908.8108718325966,
+        "point_count": 617
+      },
+      "MOKOKCHUNG": {
+        "average": 1912.8299987173136,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1913.9957098256234,
+        "point_count": 1911
+      },
+      "PAREN": {
+        "average": 1903.6824427720776,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1907.3514285379897,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1904.7539326374797,
+        "point_count": 2061
+      },
+      "WOKHA": {
+        "average": 1908.8293903125998,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1905.6884457324618,
+        "point_count": 1579
+      }
+    },
+    "2021_07": {
+      "DIMAPUR": {
+        "average": 1902.8354030407058,
+        "point_count": 20
+      },
+      "LONGLENG": {
+        "average": 1914.6340266341092,
+        "point_count": 476
+      },
+      "MOKOKCHUNG": {
+        "average": 1915.985322166356,
+        "point_count": 613
+      },
+      "MON": {
+        "average": 1913.9134085465341,
+        "point_count": 1864
+      },
+      "PAREN": {
+        "average": 1904.5093587694064,
+        "point_count": 415
+      }
+    },
+    "2021_08": {
+      "DIMAPUR": {
+        "average": 1876.442520785934,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1866.2150487195365,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1879.019685236789,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1876.0941861686085,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1880.1190211571545,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1884.5179465734445,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1877.0261754551466,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1866.6453479071456,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1867.2167691057305,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1877.1942284811141,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1870.9968027842485,
+        "point_count": 1579
+      }
+    },
+    "2021_09": {
+      "DIMAPUR": {
+        "average": 1872.9907677866775,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1848.025176298026,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1862.6482230492127,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1856.1444737021366,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1857.3128200586127,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1850.2554983595448,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1873.2578937817439,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1853.3115520116546,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1848.6397859134922,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1857.6290041441991,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1857.2265897731197,
+        "point_count": 1579
+      }
+    },
+    "2021_10": {
+      "DIMAPUR": {
+        "average": 1882.2931943853139,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1872.1711885719083,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1880.8083059658209,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1881.5883502439897,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1881.8664163159171,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1877.6409755611542,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1879.5853184171574,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1876.1420585172582,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1873.3728506408308,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1882.015604614072,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1880.2239439998075,
+        "point_count": 1579
+      }
+    },
+    "2021_11": {
+      "DIMAPUR": {
+        "average": 1882.9395805806755,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1869.831253109983,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1878.5551724517286,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1877.7514556815033,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1878.4764250798623,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1873.4156504903592,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1878.466881175737,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1875.2712560553925,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1871.3138859474543,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1879.7568911254102,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1877.88707546465,
+        "point_count": 1579
+      }
+    },
+    "2021_12": {
+      "DIMAPUR": {
+        "average": 1882.3659692027,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1867.8722252870612,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1878.2762728607725,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1877.7247278180614,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1878.475076611233,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1870.6549009338166,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1878.0514448962047,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1873.92541563516,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1869.6727590836156,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1879.6678755027629,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1876.9841041287489,
+        "point_count": 1579
+      }
+    },
+    "2022_01": {
+      "DIMAPUR": {
+        "average": 1881.0677766001718,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1867.6372737562665,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1876.860659588661,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1876.4171456195588,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1876.9260414692505,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1870.3934474456157,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1877.1084061189447,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1873.3414680623025,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1869.039643687135,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1878.630801684188,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1875.78438345132,
+        "point_count": 1579
+      }
+    },
+    "2022_02": {
+      "DIMAPUR": {
+        "average": 1846.6254000271126,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1849.5520680966722,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1850.3885805189677,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1849.7728810168671,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1850.1237131254252,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1845.0214579384192,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1851.0091813984104,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1850.5553792955511,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1848.3432756151428,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1850.0725673220538,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1849.9874236083504,
+        "point_count": 1579
+      }
+    },
+    "2022_03": {
+      "DIMAPUR": {
+        "average": 1877.8262836106574,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1873.2276349151457,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1879.7479351334841,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1872.994606400468,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1875.184857200152,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1872.9700069744013,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1872.8808705339336,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1877.0078217990038,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1870.3948353803494,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1879.7815930806673,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1877.4224438959836,
+        "point_count": 1579
+      }
+    },
+    "2022_04": {
+      "DIMAPUR": {
+        "average": 1863.2667660311731,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1871.3078174112554,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1850.1610169253295,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1868.0444103313546,
+        "point_count": 615
+      },
+      "MOKOKCHUNG": {
+        "average": 1858.4120345420872,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1869.254260696241,
+        "point_count": 1965
+      },
+      "PAREN": {
+        "average": 1868.0947665935066,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1869.7453835287947,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1868.6732008622641,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1839.8739169843675,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1863.893404249308,
+        "point_count": 1579
+      }
+    },
+    "2022_05": {
+      "DIMAPUR": {
+        "average": 1918.491877060368,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1913.4761389056403,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1916.8747660574306,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1913.820490069621,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1917.1334181137988,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1911.9495968494566,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1923.3015807658949,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1916.9387275814474,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1913.5434347635173,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1916.4059398728405,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1916.4344730236444,
+        "point_count": 1579
+      }
+    },
+    "2022_07": {
+      "DIMAPUR": {
+        "average": 1914.1646404377275,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1921.12836928215,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1912.8821092321562,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1914.2140303667527,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1906.4511552612344,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1920.92242378127,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1919.5198775115728,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1920.752283191448,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1921.3826975176212,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1907.3631397655065,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1905.906839503715,
+        "point_count": 1579
+      }
+    },
+    "2022_08": {
+      "DIMAPUR": {
+        "average": 1873.8592812693296,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1877.1474070780293,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1879.5884325731156,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1873.188193188151,
+        "point_count": 616
+      },
+      "MOKOKCHUNG": {
+        "average": 1876.4785401264985,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1876.026357437926,
+        "point_count": 1929
+      },
+      "PAREN": {
+        "average": 1872.8597421447519,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1878.6157423156087,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1878.1242156199473,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1879.983709940679,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1878.332198176963,
+        "point_count": 1579
+      }
+    },
+    "2022_09": {
+      "DIMAPUR": {
+        "average": 1857.5816848925015,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1854.7621607766798,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1857.4259468980295,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1854.4383479141727,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1854.3268436427438,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1854.2390993973017,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1855.3606784914364,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1855.0123597975564,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1855.1491589712869,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1856.6107035853672,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1855.1786571055536,
+        "point_count": 1579
+      }
+    },
+    "2022_10": {
+      "DIMAPUR": {
+        "average": 1850.212036857569,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1866.9081360567418,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1850.3167280086705,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1875.512081668396,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1865.8140511628208,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1873.6646045374248,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1849.5132248475843,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1851.5060918054362,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1874.2771504595614,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1850.1550567134336,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1853.426752698409,
+        "point_count": 1579
+      }
+    },
+    "2022_11": {
+      "DIMAPUR": {
+        "average": 1879.74922939591,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1870.5240208267694,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1880.5985902995574,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1879.8009506450398,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1881.4524757887916,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1872.6179000316922,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1881.9321430093366,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1875.7136134338953,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1872.042856914287,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1881.9185173315811,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1878.7843602985217,
+        "point_count": 1579
+      }
+    },
+    "2022_12": {
+      "DIMAPUR": {
+        "average": 1882.895569390975,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1869.1640684215304,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1877.6151302233677,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1877.6289759553408,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1878.5090380522417,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1871.5590473489817,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1877.3556729935365,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1874.0175979791495,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1870.7539303473864,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1879.762325737217,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1877.8059365835275,
+        "point_count": 1579
+      }
+    },
+    "2023_01": {
+      "DIMAPUR": {
+        "average": 1880.901821264612,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1867.1501680794368,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1877.1586842145368,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1876.2629843384289,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1876.9438431924655,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1868.9368250168354,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1877.4538870658835,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1873.2933755510298,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1868.5514306391005,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1877.925642336215,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1875.88297008643,
+        "point_count": 1579
+      }
+    },
+    "2023_02": {
+      "DIMAPUR": {
+        "average": 1853.97521982543,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1849.8534865084378,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1850.6730072020387,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1849.3230934684582,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1850.083657001834,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1846.8236855043317,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1853.2999900891014,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1846.3720228944821,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1847.7894292375381,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1846.0329641421074,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1847.793497137094,
+        "point_count": 1579
+      }
+    },
+    "2023_03": {
+      "DIMAPUR": {
+        "average": 1875.217414254319,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1873.7759872703114,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1879.7414514358975,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1875.2137747201123,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1879.1398291746727,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1867.2613168126904,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1873.6713148416575,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1877.9181805801736,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1869.5369834211715,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1879.8409587488998,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1879.0555625503712,
+        "point_count": 1579
+      }
+    },
+    "2023_04": {
+      "DIMAPUR": {
+        "average": 1873.7751434473148,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1873.3016719243249,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1878.191612083479,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1875.0584646787813,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1877.104647159169,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1872.8459440156505,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1872.815312911661,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1874.6956334715474,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1872.5344336078488,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1879.4194065616093,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1875.8327304068723,
+        "point_count": 1579
+      }
+    },
+    "2023_05": {
+      "DIMAPUR": {
+        "average": 1925.1103278659,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1925.2108829950619,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1921.4239032037974,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1913.4727571278186,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1909.995293351163,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1915.5324719374291,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1925.6874465673627,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1918.2401463503777,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1921.351831670615,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1922.0539691577144,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1917.3796746449534,
+        "point_count": 1579
+      }
+    },
+    "2023_06": {
+      "DIMAPUR": {
+        "average": 1904.3977383671534,
+        "point_count": 11
+      },
+      "KIPHIRE": {
+        "average": 1915.8044072687394,
+        "point_count": 813
+      },
+      "LONGLENG": {
+        "average": 1905.9787296943423,
+        "point_count": 72
+      },
+      "MON": {
+        "average": 1919.0380278413431,
+        "point_count": 1664
+      },
+      "PAREN": {
+        "average": 1910.4716297977723,
+        "point_count": 367
+      },
+      "PHEK": {
+        "average": 1908.3145224177808,
+        "point_count": 549
+      },
+      "TUENSANG": {
+        "average": 1919.7230491527093,
+        "point_count": 1381
+      },
+      "ZUNHEBOTO": {
+        "average": 1891.5413027396214,
+        "point_count": 3
+      }
+    },
+    "2023_07": {
+      "DIMAPUR": {
+        "average": 1926.8085551884672,
+        "point_count": 12
+      },
+      "PAREN": {
+        "average": 1925.3399984230175,
+        "point_count": 1027
+      },
+      "PHEK": {
+        "average": 1927.1824894443566,
+        "point_count": 212
+      }
+    },
+    "2023_09": {
+      "DIMAPUR": {
+        "average": 1873.4692013241008,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1871.0679635805834,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1880.2111491207547,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1872.9553899325233,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1876.8582677310985,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1871.5468987661832,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1870.5011771860657,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1874.34197140908,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1871.9663516794442,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1879.789769660856,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1876.0702373179165,
+        "point_count": 1579
+      }
+    },
+    "2023_10": {
+      "DIMAPUR": {
+        "average": 1849.8592935765696,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1871.670653546677,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1858.7825803117819,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1878.6957132896234,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1878.3113984313375,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1873.0657242916723,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1854.440732096111,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1873.9509817675391,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1871.876200929527,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1875.71097735376,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1878.1035324910742,
+        "point_count": 1579
+      }
+    },
+    "2023_11": {
+      "DIMAPUR": {
+        "average": 1883.2538181337384,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1870.3684287826052,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1878.3451459160217,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1876.9914977621781,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1878.0941353397404,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1871.9971984287147,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1878.9071634891457,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1874.6936443879995,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1871.9172216324102,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1879.4912719576023,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1877.0837112317668,
+        "point_count": 1579
+      }
+    },
+    "2023_12": {
+      "DIMAPUR": {
+        "average": 1879.8125426336658,
+        "point_count": 809
+      },
+      "KIPHIRE": {
+        "average": 1866.8034348081737,
+        "point_count": 1122
+      },
+      "KOHIMA": {
+        "average": 1877.7534167658007,
+        "point_count": 1293
+      },
+      "LONGLENG": {
+        "average": 1876.2518991858917,
+        "point_count": 627
+      },
+      "MOKOKCHUNG": {
+        "average": 1878.245586166155,
+        "point_count": 1599
+      },
+      "MON": {
+        "average": 1868.7430539263391,
+        "point_count": 2123
+      },
+      "PAREN": {
+        "average": 1876.1940734189166,
+        "point_count": 1785
+      },
+      "PHEK": {
+        "average": 1872.9324283737958,
+        "point_count": 1836
+      },
+      "TUENSANG": {
+        "average": 1868.7851099143686,
+        "point_count": 2067
+      },
+      "WOKHA": {
+        "average": 1879.2560397187326,
+        "point_count": 1578
+      },
+      "ZUNHEBOTO": {
+        "average": 1876.3861398994434,
+        "point_count": 1579
+      }
+    }
+  },
+  "statistics": {
+    "mean": 1878.9325068457174,
+    "std": 21.387226206580777,
+    "min": 1835.5182944498122,
+    "max": 1933.9539591859384
+  }
+}

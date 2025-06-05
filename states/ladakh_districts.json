@@ -1,0 +1,1214 @@
+{
+  "type": "state_districts",
+  "state_name": "LADAKH",
+  "data": {
+    "KARGIL": {
+      "average_methane": 1875.6537495118273,
+      "data_quality": {
+        "total_months": 119,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 14273.319327731093
+      },
+      "point_count": 1698525
+    },
+    "LEH": {
+      "average_methane": 1875.8227838744108,
+      "data_quality": {
+        "total_months": 117,
+        "data_coverage": 100.0,
+        "avg_points_per_month": 153357.7435897436
+      },
+      "point_count": 17942856
+    }
+  },
+  "monthly_data": {
+    "2014_01": {
+      "KARGIL": {
+        "average": 1870.4581706590334,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1869.4500530884611,
+        "point_count": 154016
+      }
+    },
+    "2014_02": {
+      "KARGIL": {
+        "average": 1862.3765261068338,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1858.9479735524578,
+        "point_count": 154016
+      }
+    },
+    "2014_04": {
+      "KARGIL": {
+        "average": 1858.4253533998528,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1857.4797525982622,
+        "point_count": 154016
+      }
+    },
+    "2014_05": {
+      "KARGIL": {
+        "average": 1930.2359868106105,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1912.3752035536452,
+        "point_count": 154016
+      }
+    },
+    "2014_06": {
+      "KARGIL": {
+        "average": 1908.1149304471944,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1916.0276518989654,
+        "point_count": 154016
+      }
+    },
+    "2014_07": {
+      "KARGIL": {
+        "average": 1905.0056595022768,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1919.0826913838278,
+        "point_count": 154016
+      }
+    },
+    "2014_08": {
+      "KARGIL": {
+        "average": 1868.488636587842,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1865.2620366784663,
+        "point_count": 154016
+      }
+    },
+    "2014_09": {
+      "KARGIL": {
+        "average": 1851.9042377675898,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1858.4582224411213,
+        "point_count": 154016
+      }
+    },
+    "2014_10": {
+      "KARGIL": {
+        "average": 1872.9959994176838,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1871.316764162193,
+        "point_count": 154016
+      }
+    },
+    "2014_11": {
+      "KARGIL": {
+        "average": 1870.824457168466,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1871.1896202572193,
+        "point_count": 154016
+      }
+    },
+    "2014_12": {
+      "KARGIL": {
+        "average": 1870.1086939405918,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1870.1883894827495,
+        "point_count": 154016
+      }
+    },
+    "2015_01": {
+      "KARGIL": {
+        "average": 1869.8548518506734,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1869.4873589877393,
+        "point_count": 154016
+      }
+    },
+    "2015_02": {
+      "KARGIL": {
+        "average": 1856.4383952643639,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1861.5400998917598,
+        "point_count": 154016
+      }
+    },
+    "2015_03": {
+      "KARGIL": {
+        "average": 1854.7489597453066,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1850.3773380265304,
+        "point_count": 154016
+      }
+    },
+    "2015_04": {
+      "KARGIL": {
+        "average": 1873.9068222745789,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1862.0209496298694,
+        "point_count": 154016
+      }
+    },
+    "2015_05": {
+      "KARGIL": {
+        "average": 1897.8805167893986,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1883.9974813954764,
+        "point_count": 154016
+      }
+    },
+    "2015_06": {
+      "KARGIL": {
+        "average": 1908.2688084062618,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1917.6406913564315,
+        "point_count": 154016
+      }
+    },
+    "2015_07": {
+      "KARGIL": {
+        "average": 1915.6322263488814,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1905.628208058375,
+        "point_count": 154016
+      }
+    },
+    "2015_08": {
+      "KARGIL": {
+        "average": 1864.6629361452053,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1866.3110672420162,
+        "point_count": 154016
+      }
+    },
+    "2015_09": {
+      "KARGIL": {
+        "average": 1857.6229786480362,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1851.8752788456895,
+        "point_count": 154016
+      }
+    },
+    "2015_10": {
+      "KARGIL": {
+        "average": 1871.7803089022725,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1871.3283569112969,
+        "point_count": 154016
+      }
+    },
+    "2015_11": {
+      "KARGIL": {
+        "average": 1870.4314946165973,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1871.1838172992498,
+        "point_count": 154016
+      }
+    },
+    "2015_12": {
+      "KARGIL": {
+        "average": 1870.121471359979,
+        "point_count": 9047
+      },
+      "LEH": {
+        "average": 1870.6993621708625,
+        "point_count": 148277
+      }
+    },
+    "2016_01": {
+      "KARGIL": {
+        "average": 1869.8716308605792,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1869.311387825022,
+        "point_count": 154016
+      }
+    },
+    "2016_02": {
+      "KARGIL": {
+        "average": 1850.3932104858156,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1863.243638356442,
+        "point_count": 154016
+      }
+    },
+    "2016_03": {
+      "KARGIL": {
+        "average": 1854.142316672749,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1850.0290812874716,
+        "point_count": 154016
+      }
+    },
+    "2016_04": {
+      "KARGIL": {
+        "average": 1863.3830211330155,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1859.924372205149,
+        "point_count": 154016
+      }
+    },
+    "2016_05": {
+      "KARGIL": {
+        "average": 1890.159783252826,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1891.5489505050953,
+        "point_count": 154016
+      }
+    },
+    "2016_06": {
+      "KARGIL": {
+        "average": 1909.5740025467833,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1918.3873581690618,
+        "point_count": 154016
+      }
+    },
+    "2016_07": {
+      "KARGIL": {
+        "average": 1917.3290340255644,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1916.9475403005304,
+        "point_count": 154016
+      }
+    },
+    "2016_08": {
+      "KARGIL": {
+        "average": 1860.2141970638543,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1866.6238326788987,
+        "point_count": 154016
+      }
+    },
+    "2016_09": {
+      "KARGIL": {
+        "average": 1849.957264684754,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1853.9282698934876,
+        "point_count": 154016
+      }
+    },
+    "2016_10": {
+      "KARGIL": {
+        "average": 1873.0438459701766,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1871.961517400586,
+        "point_count": 154016
+      }
+    },
+    "2016_11": {
+      "KARGIL": {
+        "average": 1871.2400085645786,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1871.5840366095492,
+        "point_count": 154016
+      }
+    },
+    "2016_12": {
+      "KARGIL": {
+        "average": 1870.8504231692036,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1870.4711300401718,
+        "point_count": 154016
+      }
+    },
+    "2017_01": {
+      "KARGIL": {
+        "average": 1869.986585742828,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1869.1031612217412,
+        "point_count": 144913
+      }
+    },
+    "2017_02": {
+      "KARGIL": {
+        "average": 1849.5808663686594,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1863.0658714048748,
+        "point_count": 154016
+      }
+    },
+    "2017_03": {
+      "KARGIL": {
+        "average": 1848.6966154428567,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1850.0256620906844,
+        "point_count": 154016
+      }
+    },
+    "2017_04": {
+      "KARGIL": {
+        "average": 1859.1823236058055,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1859.016686951617,
+        "point_count": 154016
+      }
+    },
+    "2017_05": {
+      "KARGIL": {
+        "average": 1916.4822668057523,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1903.937612247342,
+        "point_count": 154016
+      }
+    },
+    "2017_06": {
+      "KARGIL": {
+        "average": 1908.6564845127223,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1919.3483695225902,
+        "point_count": 154016
+      }
+    },
+    "2017_07": {
+      "KARGIL": {
+        "average": 1912.07100328739,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1905.0538433667964,
+        "point_count": 154016
+      }
+    },
+    "2017_08": {
+      "KARGIL": {
+        "average": 1859.7733051570185,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1865.8969859110512,
+        "point_count": 154016
+      }
+    },
+    "2017_09": {
+      "KARGIL": {
+        "average": 1854.8848521436369,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1857.5968074646821,
+        "point_count": 154016
+      }
+    },
+    "2017_10": {
+      "KARGIL": {
+        "average": 1873.1691267215035,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1871.6486745353911,
+        "point_count": 154016
+      }
+    },
+    "2017_11": {
+      "KARGIL": {
+        "average": 1870.7941058920321,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1871.2009006072026,
+        "point_count": 154016
+      }
+    },
+    "2017_12": {
+      "KARGIL": {
+        "average": 1869.8991296055501,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1870.0589615997908,
+        "point_count": 154016
+      }
+    },
+    "2018_01": {
+      "KARGIL": {
+        "average": 1869.7895457777886,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1869.468100742078,
+        "point_count": 154016
+      }
+    },
+    "2018_02": {
+      "KARGIL": {
+        "average": 1865.8825723321593,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1864.8646129576875,
+        "point_count": 154016
+      }
+    },
+    "2018_03": {
+      "KARGIL": {
+        "average": 1851.1778492603175,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1850.5607981481658,
+        "point_count": 154016
+      }
+    },
+    "2018_04": {
+      "KARGIL": {
+        "average": 1868.6099969120917,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1861.0850773809957,
+        "point_count": 154016
+      }
+    },
+    "2018_05": {
+      "KARGIL": {
+        "average": 1897.333387090936,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1896.206497690372,
+        "point_count": 154016
+      }
+    },
+    "2018_06": {
+      "KARGIL": {
+        "average": 1907.8869743770633,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1922.3116519899054,
+        "point_count": 154016
+      }
+    },
+    "2018_07": {
+      "KARGIL": {
+        "average": 1895.623948169551,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1903.0234290422482,
+        "point_count": 154016
+      }
+    },
+    "2018_08": {
+      "KARGIL": {
+        "average": 1860.086655420241,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1867.2153079290083,
+        "point_count": 149212
+      }
+    },
+    "2018_09": {
+      "KARGIL": {
+        "average": 1855.395195132917,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1856.289749713652,
+        "point_count": 154016
+      }
+    },
+    "2018_10": {
+      "KARGIL": {
+        "average": 1870.3472074806018,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1870.344220248951,
+        "point_count": 154016
+      }
+    },
+    "2018_11": {
+      "KARGIL": {
+        "average": 1871.1310963251103,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1871.020416133087,
+        "point_count": 154016
+      }
+    },
+    "2018_12": {
+      "KARGIL": {
+        "average": 1870.2212697964756,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1870.0724178913117,
+        "point_count": 154016
+      }
+    },
+    "2019_01": {
+      "KARGIL": {
+        "average": 1869.7912421831966,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1869.2619482630625,
+        "point_count": 154016
+      }
+    },
+    "2019_02": {
+      "KARGIL": {
+        "average": 1866.412824209203,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1862.7924484659547,
+        "point_count": 154016
+      }
+    },
+    "2019_03": {
+      "KARGIL": {
+        "average": 1852.194030332227,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1849.0295535813648,
+        "point_count": 154016
+      }
+    },
+    "2019_04": {
+      "KARGIL": {
+        "average": 1864.4573520962986,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1857.2060536735535,
+        "point_count": 154016
+      }
+    },
+    "2019_05": {
+      "KARGIL": {
+        "average": 1931.2910710328008,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1896.9995865288095,
+        "point_count": 154016
+      }
+    },
+    "2019_06": {
+      "KARGIL": {
+        "average": 1911.307360392917,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1921.2480645957953,
+        "point_count": 154016
+      }
+    },
+    "2019_07": {
+      "KARGIL": {
+        "average": 1911.2687585405668,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1926.9652209082785,
+        "point_count": 154016
+      }
+    },
+    "2019_08": {
+      "KARGIL": {
+        "average": 1873.118322628239,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1867.1761379641432,
+        "point_count": 154016
+      }
+    },
+    "2019_09": {
+      "KARGIL": {
+        "average": 1850.466392512579,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1856.0551486533045,
+        "point_count": 154016
+      }
+    },
+    "2019_10": {
+      "KARGIL": {
+        "average": 1871.5563432033425,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1870.9577536305965,
+        "point_count": 154016
+      }
+    },
+    "2019_11": {
+      "KARGIL": {
+        "average": 1870.6069004552103,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1871.3033525946744,
+        "point_count": 154016
+      }
+    },
+    "2019_12": {
+      "KARGIL": {
+        "average": 1870.6913198581726,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1870.1396750611993,
+        "point_count": 150881
+      }
+    },
+    "2020_01": {
+      "KARGIL": {
+        "average": 1869.8404200630773,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1869.4089449899902,
+        "point_count": 154016
+      }
+    },
+    "2020_02": {
+      "KARGIL": {
+        "average": 1867.2130877650015,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1865.9823037957242,
+        "point_count": 153726
+      }
+    },
+    "2020_03": {
+      "KARGIL": {
+        "average": 1853.298004131003,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1849.1976540908224,
+        "point_count": 154016
+      }
+    },
+    "2020_04": {
+      "KARGIL": {
+        "average": 1863.718630154194,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1860.3659857873547,
+        "point_count": 154016
+      }
+    },
+    "2020_05": {
+      "KARGIL": {
+        "average": 1935.354985004961,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1911.0903358716594,
+        "point_count": 154016
+      }
+    },
+    "2020_06": {
+      "KARGIL": {
+        "average": 1910.0699499619157,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1914.1958746784323,
+        "point_count": 154016
+      }
+    },
+    "2020_07": {
+      "KARGIL": {
+        "average": 1903.6743717312554,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1916.3365883239271,
+        "point_count": 154016
+      }
+    },
+    "2020_08": {
+      "KARGIL": {
+        "average": 1867.1656833190673,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1867.928997259296,
+        "point_count": 154016
+      }
+    },
+    "2020_09": {
+      "KARGIL": {
+        "average": 1853.0170563943261,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1860.91135142929,
+        "point_count": 154016
+      }
+    },
+    "2020_10": {
+      "KARGIL": {
+        "average": 1873.1378016320125,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1871.9153744147848,
+        "point_count": 154016
+      }
+    },
+    "2020_11": {
+      "KARGIL": {
+        "average": 1870.816819397824,
+        "point_count": 14343
+      }
+    },
+    "2020_12": {
+      "KARGIL": {
+        "average": 1869.989273037343,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1870.2791452755582,
+        "point_count": 154016
+      }
+    },
+    "2021_01": {
+      "KARGIL": {
+        "average": 1869.6750066247826,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1869.4637222815338,
+        "point_count": 154016
+      }
+    },
+    "2021_02": {
+      "KARGIL": {
+        "average": 1859.3276247004367,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1866.4933510054886,
+        "point_count": 154016
+      }
+    },
+    "2021_03": {
+      "KARGIL": {
+        "average": 1854.1209439140775,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1850.8896832235666,
+        "point_count": 153807
+      }
+    },
+    "2021_04": {
+      "KARGIL": {
+        "average": 1860.6651321435513,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1858.5553865652707,
+        "point_count": 154016
+      }
+    },
+    "2021_05": {
+      "KARGIL": {
+        "average": 1892.0110952883385,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1889.8450441829739,
+        "point_count": 154016
+      }
+    },
+    "2021_06": {
+      "KARGIL": {
+        "average": 1907.907303173596,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1919.959228780845,
+        "point_count": 154016
+      }
+    },
+    "2021_07": {
+      "KARGIL": {
+        "average": 1913.5133324140518,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1910.927602623831,
+        "point_count": 154016
+      }
+    },
+    "2021_08": {
+      "KARGIL": {
+        "average": 1862.7131735049222,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1863.7679931842022,
+        "point_count": 154016
+      }
+    },
+    "2021_09": {
+      "KARGIL": {
+        "average": 1851.1559062834283,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1851.5395954018325,
+        "point_count": 154016
+      }
+    },
+    "2021_10": {
+      "KARGIL": {
+        "average": 1873.4361131950548,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1871.9144496203573,
+        "point_count": 154016
+      }
+    },
+    "2021_11": {
+      "KARGIL": {
+        "average": 1870.5516781050824,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1871.0191220004772,
+        "point_count": 154016
+      }
+    },
+    "2021_12": {
+      "KARGIL": {
+        "average": 1870.5840790760337,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1870.426457827302,
+        "point_count": 154016
+      }
+    },
+    "2022_01": {
+      "KARGIL": {
+        "average": 1870.0940843575133,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1869.3801973266684,
+        "point_count": 154016
+      }
+    },
+    "2022_02": {
+      "KARGIL": {
+        "average": 1849.9078752169203,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1864.1619586985487,
+        "point_count": 154016
+      }
+    },
+    "2022_03": {
+      "KARGIL": {
+        "average": 1848.9308637008096,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1849.3533890405015,
+        "point_count": 154016
+      }
+    },
+    "2022_04": {
+      "KARGIL": {
+        "average": 1866.1701932841258,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1860.4734619445105,
+        "point_count": 154016
+      }
+    },
+    "2022_05": {
+      "KARGIL": {
+        "average": 1895.5879221437242,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1895.2357723225336,
+        "point_count": 154016
+      }
+    },
+    "2022_06": {
+      "KARGIL": {
+        "average": 1912.2740102459486,
+        "point_count": 11844
+      },
+      "LEH": {
+        "average": 1920.8490003231925,
+        "point_count": 130169
+      }
+    },
+    "2022_07": {
+      "KARGIL": {
+        "average": 1920.7181740170868,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1909.675994015313,
+        "point_count": 127088
+      }
+    },
+    "2022_08": {
+      "KARGIL": {
+        "average": 1861.2173060009432,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1864.9605127177003,
+        "point_count": 151055
+      }
+    },
+    "2022_09": {
+      "KARGIL": {
+        "average": 1855.4727814506937,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1854.5124551413328,
+        "point_count": 154016
+      }
+    },
+    "2022_10": {
+      "KARGIL": {
+        "average": 1872.3441951750694,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1870.9506905722992,
+        "point_count": 154016
+      }
+    },
+    "2022_11": {
+      "KARGIL": {
+        "average": 1871.0933411830683,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1871.1433044484065,
+        "point_count": 154016
+      }
+    },
+    "2022_12": {
+      "KARGIL": {
+        "average": 1870.1839700931803,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1870.2482356373976,
+        "point_count": 154016
+      }
+    },
+    "2023_01": {
+      "KARGIL": {
+        "average": 1869.7733101711522,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1869.466359613707,
+        "point_count": 154016
+      }
+    },
+    "2023_02": {
+      "KARGIL": {
+        "average": 1849.434389066304,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1864.9660963937965,
+        "point_count": 154016
+      }
+    },
+    "2023_03": {
+      "KARGIL": {
+        "average": 1848.7305870820805,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1850.0855094983074,
+        "point_count": 154016
+      }
+    },
+    "2023_04": {
+      "KARGIL": {
+        "average": 1864.8700124262825,
+        "point_count": 14343
+      }
+    },
+    "2023_05": {
+      "KARGIL": {
+        "average": 1918.654644526005,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1905.5994740823048,
+        "point_count": 154016
+      }
+    },
+    "2023_06": {
+      "KARGIL": {
+        "average": 1907.1539643344397,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1915.8781074086526,
+        "point_count": 154016
+      }
+    },
+    "2023_07": {
+      "KARGIL": {
+        "average": 1910.4267055351731,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1901.0722837988956,
+        "point_count": 154016
+      }
+    },
+    "2023_08": {
+      "KARGIL": {
+        "average": 1868.7855454210742,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1868.6091529045411,
+        "point_count": 154016
+      }
+    },
+    "2023_09": {
+      "KARGIL": {
+        "average": 1858.7446481261284,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1858.367393205236,
+        "point_count": 154016
+      }
+    },
+    "2023_10": {
+      "KARGIL": {
+        "average": 1871.287102821779,
+        "point_count": 13846
+      },
+      "LEH": {
+        "average": 1870.8638310556205,
+        "point_count": 154016
+      }
+    },
+    "2023_11": {
+      "KARGIL": {
+        "average": 1871.2864509899375,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1871.0433858803374,
+        "point_count": 154016
+      }
+    },
+    "2023_12": {
+      "KARGIL": {
+        "average": 1870.6115552668075,
+        "point_count": 14343
+      },
+      "LEH": {
+        "average": 1870.2317621592833,
+        "point_count": 154016
+      }
+    }
+  },
+  "statistics": {
+    "mean": 1875.808166313132,
+    "std": 21.401754995444147,
+    "min": 1848.6966154428567,
+    "max": 1935.354985004961
+  }
+}

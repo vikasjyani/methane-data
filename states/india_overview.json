@@ -1,0 +1,1398 @@
+{
+  "type": "india_overview",
+  "data": {
+    "ANDAMAN & NICOBAR": {
+      "average_methane": 1868.40524948454,
+      "district_count": 3,
+      "total_data_points": 847942
+    },
+    "ANDHRA PRADESH": {
+      "average_methane": 1869.9737382264912,
+      "district_count": 13,
+      "total_data_points": 16761025
+    },
+    "ARUNACHAL PRADESH": {
+      "average_methane": 1878.805875931978,
+      "district_count": 25,
+      "total_data_points": 8798846
+    },
+    "ASSAM": {
+      "average_methane": 1880.2559549061714,
+      "district_count": 33,
+      "total_data_points": 8354258
+    },
+    "BIHAR": {
+      "average_methane": 1882.1537590425755,
+      "district_count": 38,
+      "total_data_points": 10443066
+    },
+    "CHANDIGARH": {
+      "average_methane": 1882.2494202853802,
+      "district_count": 1,
+      "total_data_points": 14522
+    },
+    "CHHATTISGARH": {
+      "average_methane": 1875.7705798747377,
+      "district_count": 28,
+      "total_data_points": 14139129
+    },
+    "DADRA NAGAR HAVELI DAMAN DIU": {
+      "average_methane": 1876.1826596972437,
+      "district_count": 3,
+      "total_data_points": 74652
+    },
+    "DELHI": {
+      "average_methane": 1882.7677329554413,
+      "district_count": 11,
+      "total_data_points": 370185
+    },
+    "GOA": {
+      "average_methane": 1867.9686893724136,
+      "district_count": 2,
+      "total_data_points": 377748
+    },
+    "GUJARAT": {
+      "average_methane": 1876.7551695618574,
+      "district_count": 33,
+      "total_data_points": 19542260
+    },
+    "HARYANA": {
+      "average_methane": 1881.203912211582,
+      "district_count": 22,
+      "total_data_points": 5266520
+    },
+    "HIMACHAL PRADESH": {
+      "average_methane": 1879.1567723780138,
+      "district_count": 12,
+      "total_data_points": 6844120
+    },
+    "JAMMU AND KASHMIR": {
+      "average_methane": 1878.8570855184114,
+      "district_count": 20,
+      "total_data_points": 6156922
+    },
+    "JHARKHAND": {
+      "average_methane": 1878.8898576297156,
+      "district_count": 24,
+      "total_data_points": 8921204
+    },
+    "KARNATAKA": {
+      "average_methane": 1868.8472126608692,
+      "district_count": 30,
+      "total_data_points": 19291486
+    },
+    "KERALA": {
+      "average_methane": 1867.0015915955767,
+      "district_count": 14,
+      "total_data_points": 4011664
+    },
+    "LADAKH": {
+      "average_methane": 1875.808166313132,
+      "district_count": 2,
+      "total_data_points": 19641381
+    },
+    "LAKSHADWEEP": {
+      "average_methane": 1868.1283244281399,
+      "district_count": 1,
+      "total_data_points": 11895
+    },
+    "MADHYA PRADESH": {
+      "average_methane": 1877.9463110221316,
+      "district_count": 52,
+      "total_data_points": 32577207
+    },
+    "MAHARASHTRA": {
+      "average_methane": 1874.085391300187,
+      "district_count": 36,
+      "total_data_points": 30000266
+    },
+    "MANIPUR": {
+      "average_methane": 1878.9200053454251,
+      "district_count": 16,
+      "total_data_points": 2408075
+    },
+    "MEGHALAYA": {
+      "average_methane": 1880.7066295936652,
+      "district_count": 11,
+      "total_data_points": 2456558
+    },
+    "MIZORAM": {
+      "average_methane": 1877.4781806367555,
+      "district_count": 8,
+      "total_data_points": 2287511
+    },
+    "NAGALAND": {
+      "average_methane": 1878.9325068457174,
+      "district_count": 11,
+      "total_data_points": 1785573
+    },
+    "ODISHA": {
+      "average_methane": 1875.3763669209543,
+      "district_count": 29,
+      "total_data_points": 15651031
+    },
+    "PUDUCHERRY": {
+      "average_methane": 1865.5647491120774,
+      "district_count": 4,
+      "total_data_points": 70296
+    },
+    "PUNJAB": {
+      "average_methane": 1880.1367164295216,
+      "district_count": 22,
+      "total_data_points": 6129788
+    },
+    "RAJASTHAN": {
+      "average_methane": 1881.2716784053362,
+      "district_count": 33,
+      "total_data_points": 37384917
+    },
+    "SIKKIM": {
+      "average_methane": 1879.7673311950803,
+      "district_count": 4,
+      "total_data_points": 824086
+    },
+    "TAMIL NADU": {
+      "average_methane": 1866.2715423990458,
+      "district_count": 35,
+      "total_data_points": 9190565
+    },
+    "TELANGANA": {
+      "average_methane": 1873.7651482974948,
+      "district_count": 33,
+      "total_data_points": 10113553
+    },
+    "TRIPURA": {
+      "average_methane": 1881.1311791792784,
+      "district_count": 8,
+      "total_data_points": 1294443
+    },
+    "UTTAR PRADESH": {
+      "average_methane": 1882.2016792313407,
+      "district_count": 73,
+      "total_data_points": 20713799
+    },
+    "UTTARAKHAND": {
+      "average_methane": 1880.9280484453716,
+      "district_count": 13,
+      "total_data_points": 5695900
+    },
+    "WEST BENGAL": {
+      "average_methane": 1879.6120871854018,
+      "district_count": 23,
+      "total_data_points": 8589376
+    }
+  },
+  "monthly_data": {
+    "2014_01": {
+      "national_average": 1864.8098479647917,
+      "contributing_states": 36,
+      "total_data_points": 2894723,
+      "statistics": {
+        "min": 1850.0754511615876,
+        "max": 1884.6238168275218,
+        "std": 9.412433022520018
+      }
+    },
+    "2014_02": {
+      "national_average": 1858.8507445817934,
+      "contributing_states": 36,
+      "total_data_points": 2951806,
+      "statistics": {
+        "min": 1847.927881828706,
+        "max": 1879.6999589382538,
+        "std": 8.950983940798299
+      }
+    },
+    "2014_03": {
+      "national_average": 1871.511435317593,
+      "contributing_states": 35,
+      "total_data_points": 2775795,
+      "statistics": {
+        "min": 1854.5313442685188,
+        "max": 1879.969996462037,
+        "std": 5.196419690900643
+      }
+    },
+    "2014_04": {
+      "national_average": 1872.7837362479968,
+      "contributing_states": 36,
+      "total_data_points": 2996585,
+      "statistics": {
+        "min": 1855.7903705445835,
+        "max": 1883.8617201153934,
+        "std": 5.925716924389248
+      }
+    },
+    "2014_05": {
+      "national_average": 1905.0254757592259,
+      "contributing_states": 36,
+      "total_data_points": 2995146,
+      "statistics": {
+        "min": 1867.3223753636719,
+        "max": 1977.8198171608178,
+        "std": 14.151131870540148
+      }
+    },
+    "2014_06": {
+      "national_average": 1895.5149366955338,
+      "contributing_states": 36,
+      "total_data_points": 2967895,
+      "statistics": {
+        "min": 1864.5344160976979,
+        "max": 1922.3731657803987,
+        "std": 16.469234909638573
+      }
+    },
+    "2014_07": {
+      "national_average": 1901.3377269792707,
+      "contributing_states": 36,
+      "total_data_points": 2757547,
+      "statistics": {
+        "min": 1863.488052344252,
+        "max": 1928.8922606930857,
+        "std": 18.76784053158444
+      }
+    },
+    "2014_08": {
+      "national_average": 1879.1573874144285,
+      "contributing_states": 36,
+      "total_data_points": 2816545,
+      "statistics": {
+        "min": 1864.9511789669866,
+        "max": 1919.848096155888,
+        "std": 10.542554431225108
+      }
+    },
+    "2014_09": {
+      "national_average": 1869.2343277000596,
+      "contributing_states": 36,
+      "total_data_points": 2946566,
+      "statistics": {
+        "min": 1850.029166918092,
+        "max": 1897.2074561010177,
+        "std": 6.746800891218152
+      }
+    },
+    "2014_10": {
+      "national_average": 1864.8051744580991,
+      "contributing_states": 36,
+      "total_data_points": 2804558,
+      "statistics": {
+        "min": 1850.07060913353,
+        "max": 1879.9202238573812,
+        "std": 8.522020287667866
+      }
+    },
+    "2014_11": {
+      "national_average": 1872.1562185560897,
+      "contributing_states": 36,
+      "total_data_points": 2880410,
+      "statistics": {
+        "min": 1850.7457410923016,
+        "max": 1880.9699519315923,
+        "std": 8.191022810597708
+      }
+    },
+    "2014_12": {
+      "national_average": 1872.3449171391162,
+      "contributing_states": 36,
+      "total_data_points": 2984048,
+      "statistics": {
+        "min": 1849.4944299107567,
+        "max": 1885.2738470769734,
+        "std": 7.661109307517995
+      }
+    },
+    "2015_01": {
+      "national_average": 1863.4248085012962,
+      "contributing_states": 36,
+      "total_data_points": 2980716,
+      "statistics": {
+        "min": 1847.9075760307026,
+        "max": 1882.076291570956,
+        "std": 9.050506084080812
+      }
+    },
+    "2015_02": {
+      "national_average": 1858.9768904719729,
+      "contributing_states": 36,
+      "total_data_points": 2990852,
+      "statistics": {
+        "min": 1849.2037246894465,
+        "max": 1878.6881332132846,
+        "std": 8.822565186805031
+      }
+    },
+    "2015_03": {
+      "national_average": 1870.2829583615799,
+      "contributing_states": 36,
+      "total_data_points": 2805297,
+      "statistics": {
+        "min": 1850.7497693804373,
+        "max": 1879.8771130439995,
+        "std": 7.0321682465723185
+      }
+    },
+    "2015_04": {
+      "national_average": 1873.368940093446,
+      "contributing_states": 36,
+      "total_data_points": 2994553,
+      "statistics": {
+        "min": 1851.2957867819175,
+        "max": 1883.4522280102162,
+        "std": 5.1191513633942085
+      }
+    },
+    "2015_05": {
+      "national_average": 1901.77417026521,
+      "contributing_states": 36,
+      "total_data_points": 2952376,
+      "statistics": {
+        "min": 1864.9842313868412,
+        "max": 1949.4133495178812,
+        "std": 13.22827923034108
+      }
+    },
+    "2015_06": {
+      "national_average": 1897.2720020365414,
+      "contributing_states": 36,
+      "total_data_points": 2868604,
+      "statistics": {
+        "min": 1864.8372577335847,
+        "max": 1924.3364558077758,
+        "std": 17.133837661431173
+      }
+    },
+    "2015_07": {
+      "national_average": 1900.9918544520135,
+      "contributing_states": 36,
+      "total_data_points": 2851453,
+      "statistics": {
+        "min": 1862.1434202957043,
+        "max": 1929.5915228860447,
+        "std": 18.29865438446648
+      }
+    },
+    "2015_08": {
+      "national_average": 1876.9228763242338,
+      "contributing_states": 36,
+      "total_data_points": 2736588,
+      "statistics": {
+        "min": 1865.7196326493272,
+        "max": 1917.0368217660707,
+        "std": 8.168453062725431
+      }
+    },
+    "2015_09": {
+      "national_average": 1868.214176557631,
+      "contributing_states": 36,
+      "total_data_points": 2955650,
+      "statistics": {
+        "min": 1852.3649423520374,
+        "max": 1886.2244613550474,
+        "std": 5.913789751771165
+      }
+    },
+    "2015_10": {
+      "national_average": 1862.8382858453065,
+      "contributing_states": 36,
+      "total_data_points": 2993070,
+      "statistics": {
+        "min": 1849.956186286893,
+        "max": 1879.3018482416499,
+        "std": 8.577816060220655
+      }
+    },
+    "2015_11": {
+      "national_average": 1872.2023567044653,
+      "contributing_states": 36,
+      "total_data_points": 2980723,
+      "statistics": {
+        "min": 1849.284360678604,
+        "max": 1882.3607950365692,
+        "std": 7.380826620551749
+      }
+    },
+    "2015_12": {
+      "national_average": 1873.0816831440666,
+      "contributing_states": 36,
+      "total_data_points": 2991013,
+      "statistics": {
+        "min": 1847.8501546056716,
+        "max": 1881.393803577667,
+        "std": 7.539372271514777
+      }
+    },
+    "2016_01": {
+      "national_average": 1865.0967761576171,
+      "contributing_states": 36,
+      "total_data_points": 3000994,
+      "statistics": {
+        "min": 1849.7708832392493,
+        "max": 1879.881090363498,
+        "std": 9.13809927351242
+      }
+    },
+    "2016_02": {
+      "national_average": 1858.8553013400633,
+      "contributing_states": 36,
+      "total_data_points": 3005506,
+      "statistics": {
+        "min": 1848.6533936710375,
+        "max": 1877.541867119977,
+        "std": 8.466051887701756
+      }
+    },
+    "2016_03": {
+      "national_average": 1869.5361022582463,
+      "contributing_states": 36,
+      "total_data_points": 3005239,
+      "statistics": {
+        "min": 1850.3794999471859,
+        "max": 1876.7030830707934,
+        "std": 6.97758771768473
+      }
+    },
+    "2016_04": {
+      "national_average": 1872.76233171252,
+      "contributing_states": 36,
+      "total_data_points": 2991334,
+      "statistics": {
+        "min": 1860.2190247130195,
+        "max": 1892.3106658850922,
+        "std": 4.785441827314364
+      }
+    },
+    "2016_05": {
+      "national_average": 1904.3540050587305,
+      "contributing_states": 36,
+      "total_data_points": 2915808,
+      "statistics": {
+        "min": 1865.5262113268625,
+        "max": 1943.0415408164715,
+        "std": 13.966736109224
+      }
+    },
+    "2016_06": {
+      "national_average": 1895.7158541042277,
+      "contributing_states": 36,
+      "total_data_points": 2902654,
+      "statistics": {
+        "min": 1862.1298178819552,
+        "max": 1925.397569133545,
+        "std": 17.492632116503607
+      }
+    },
+    "2016_07": {
+      "national_average": 1903.2987888753728,
+      "contributing_states": 36,
+      "total_data_points": 2429118,
+      "statistics": {
+        "min": 1862.2789979126992,
+        "max": 1930.556366575902,
+        "std": 19.488291337383192
+      }
+    },
+    "2016_08": {
+      "national_average": 1877.6114637042715,
+      "contributing_states": 35,
+      "total_data_points": 2683034,
+      "statistics": {
+        "min": 1864.3159808309929,
+        "max": 1891.7502838788644,
+        "std": 7.365089859443102
+      }
+    },
+    "2016_09": {
+      "national_average": 1867.4965248272908,
+      "contributing_states": 36,
+      "total_data_points": 2816682,
+      "statistics": {
+        "min": 1851.4827519851576,
+        "max": 1886.310150255837,
+        "std": 6.540601542354042
+      }
+    },
+    "2016_10": {
+      "national_average": 1863.679027731121,
+      "contributing_states": 36,
+      "total_data_points": 3001515,
+      "statistics": {
+        "min": 1849.6401007848388,
+        "max": 1878.9827125532959,
+        "std": 8.967092903755844
+      }
+    },
+    "2016_11": {
+      "national_average": 1872.3915462467937,
+      "contributing_states": 36,
+      "total_data_points": 3005146,
+      "statistics": {
+        "min": 1850.6753743387462,
+        "max": 1884.8386388170975,
+        "std": 7.6297167827059855
+      }
+    },
+    "2016_12": {
+      "national_average": 1872.9153885367095,
+      "contributing_states": 36,
+      "total_data_points": 3003589,
+      "statistics": {
+        "min": 1849.0104790762198,
+        "max": 1884.4675424829884,
+        "std": 7.6851497101834125
+      }
+    },
+    "2017_01": {
+      "national_average": 1863.2981257380247,
+      "contributing_states": 36,
+      "total_data_points": 2983423,
+      "statistics": {
+        "min": 1849.6637434553215,
+        "max": 1877.6380462814639,
+        "std": 9.034979197538215
+      }
+    },
+    "2017_02": {
+      "national_average": 1859.1393508668264,
+      "contributing_states": 36,
+      "total_data_points": 2998901,
+      "statistics": {
+        "min": 1847.9246105427003,
+        "max": 1877.923785488256,
+        "std": 8.270130724657259
+      }
+    },
+    "2017_03": {
+      "national_average": 1870.5763645926254,
+      "contributing_states": 36,
+      "total_data_points": 2997231,
+      "statistics": {
+        "min": 1849.9124366850344,
+        "max": 1878.6714245949802,
+        "std": 7.120955863146793
+      }
+    },
+    "2017_04": {
+      "national_average": 1877.3011752701402,
+      "contributing_states": 36,
+      "total_data_points": 3001793,
+      "statistics": {
+        "min": 1859.030798026945,
+        "max": 1891.5151321868195,
+        "std": 8.429410347343955
+      }
+    },
+    "2017_05": {
+      "national_average": 1905.5624788433759,
+      "contributing_states": 36,
+      "total_data_points": 2988971,
+      "statistics": {
+        "min": 1868.9660957290914,
+        "max": 1954.7004895918712,
+        "std": 14.866865872617145
+      }
+    },
+    "2017_06": {
+      "national_average": 1896.2247705666684,
+      "contributing_states": 36,
+      "total_data_points": 2887612,
+      "statistics": {
+        "min": 1862.6327660386726,
+        "max": 1927.9604629645348,
+        "std": 17.046579794303888
+      }
+    },
+    "2017_07": {
+      "national_average": 1900.812060812251,
+      "contributing_states": 36,
+      "total_data_points": 2413821,
+      "statistics": {
+        "min": 1867.9947753432068,
+        "max": 1927.0193878329028,
+        "std": 19.171468678252847
+      }
+    },
+    "2017_08": {
+      "national_average": 1877.4191677716979,
+      "contributing_states": 36,
+      "total_data_points": 2559799,
+      "statistics": {
+        "min": 1841.4914603215348,
+        "max": 1919.7576196914133,
+        "std": 9.814078161381149
+      }
+    },
+    "2017_09": {
+      "national_average": 1868.4046597386614,
+      "contributing_states": 36,
+      "total_data_points": 2873807,
+      "statistics": {
+        "min": 1849.5970805715822,
+        "max": 1878.514914105332,
+        "std": 6.0518416819932845
+      }
+    },
+    "2017_10": {
+      "national_average": 1863.150136644174,
+      "contributing_states": 36,
+      "total_data_points": 2966738,
+      "statistics": {
+        "min": 1846.0381042411252,
+        "max": 1877.6759768236686,
+        "std": 8.55810899200509
+      }
+    },
+    "2017_11": {
+      "national_average": 1872.4946497705214,
+      "contributing_states": 36,
+      "total_data_points": 2937525,
+      "statistics": {
+        "min": 1850.7886814407868,
+        "max": 1882.2265920298546,
+        "std": 7.516750743951522
+      }
+    },
+    "2017_12": {
+      "national_average": 1873.189167684896,
+      "contributing_states": 36,
+      "total_data_points": 2992168,
+      "statistics": {
+        "min": 1848.3820713351693,
+        "max": 1884.7701907025619,
+        "std": 7.872715443899119
+      }
+    },
+    "2018_01": {
+      "national_average": 1864.3192371408454,
+      "contributing_states": 36,
+      "total_data_points": 2999219,
+      "statistics": {
+        "min": 1850.6352126158197,
+        "max": 1877.1930463266694,
+        "std": 9.111527539079685
+      }
+    },
+    "2018_02": {
+      "national_average": 1859.3230982455866,
+      "contributing_states": 36,
+      "total_data_points": 2990126,
+      "statistics": {
+        "min": 1848.77887707797,
+        "max": 1878.59996313498,
+        "std": 8.255956160077414
+      }
+    },
+    "2018_03": {
+      "national_average": 1870.1852252994406,
+      "contributing_states": 36,
+      "total_data_points": 2941114,
+      "statistics": {
+        "min": 1850.6133665531909,
+        "max": 1880.1435599536435,
+        "std": 7.157690142508131
+      }
+    },
+    "2018_04": {
+      "national_average": 1875.757250131182,
+      "contributing_states": 36,
+      "total_data_points": 2994620,
+      "statistics": {
+        "min": 1853.060638780747,
+        "max": 1892.6054319689893,
+        "std": 8.023560444646492
+      }
+    },
+    "2018_05": {
+      "national_average": 1904.9215902389142,
+      "contributing_states": 36,
+      "total_data_points": 2978330,
+      "statistics": {
+        "min": 1869.0821416961135,
+        "max": 1949.8276261349138,
+        "std": 14.885949021996916
+      }
+    },
+    "2018_06": {
+      "national_average": 1895.77273002439,
+      "contributing_states": 36,
+      "total_data_points": 2859483,
+      "statistics": {
+        "min": 1856.3141430227295,
+        "max": 1924.6825395051228,
+        "std": 16.902879257704097
+      }
+    },
+    "2018_07": {
+      "national_average": 1904.0035794269513,
+      "contributing_states": 34,
+      "total_data_points": 2156564,
+      "statistics": {
+        "min": 1869.8689243848494,
+        "max": 1928.5118457930414,
+        "std": 17.508077039892083
+      }
+    },
+    "2018_08": {
+      "national_average": 1876.5219117143456,
+      "contributing_states": 36,
+      "total_data_points": 2446708,
+      "statistics": {
+        "min": 1833.1057825400999,
+        "max": 1924.7147720864696,
+        "std": 8.571410881532753
+      }
+    },
+    "2018_09": {
+      "national_average": 1868.7224776479493,
+      "contributing_states": 36,
+      "total_data_points": 2966626,
+      "statistics": {
+        "min": 1851.561975603656,
+        "max": 1879.9598010029765,
+        "std": 5.937365957470349
+      }
+    },
+    "2018_10": {
+      "national_average": 1862.679725958714,
+      "contributing_states": 36,
+      "total_data_points": 2965210,
+      "statistics": {
+        "min": 1847.9253542913941,
+        "max": 1878.1622664648448,
+        "std": 8.148919598258225
+      }
+    },
+    "2018_11": {
+      "national_average": 1872.3027195252243,
+      "contributing_states": 36,
+      "total_data_points": 2965713,
+      "statistics": {
+        "min": 1850.6807709387508,
+        "max": 1884.2071228760715,
+        "std": 7.512634554595078
+      }
+    },
+    "2018_12": {
+      "national_average": 1873.0041049419956,
+      "contributing_states": 36,
+      "total_data_points": 2982527,
+      "statistics": {
+        "min": 1848.0542741395545,
+        "max": 1881.0088591462252,
+        "std": 8.021070131717895
+      }
+    },
+    "2019_01": {
+      "national_average": 1864.4097990066555,
+      "contributing_states": 36,
+      "total_data_points": 2989907,
+      "statistics": {
+        "min": 1849.941596570681,
+        "max": 1876.8899852027641,
+        "std": 9.317331487937269
+      }
+    },
+    "2019_02": {
+      "national_average": 1859.472426168141,
+      "contributing_states": 35,
+      "total_data_points": 2971837,
+      "statistics": {
+        "min": 1848.2272300167301,
+        "max": 1877.9843551341921,
+        "std": 8.86697341857415
+      }
+    },
+    "2019_03": {
+      "national_average": 1870.5556238540876,
+      "contributing_states": 36,
+      "total_data_points": 2981173,
+      "statistics": {
+        "min": 1848.632900743664,
+        "max": 1879.7475227578655,
+        "std": 7.33139521458082
+      }
+    },
+    "2019_04": {
+      "national_average": 1875.2427824536396,
+      "contributing_states": 36,
+      "total_data_points": 2975947,
+      "statistics": {
+        "min": 1857.823813183156,
+        "max": 1888.132895509321,
+        "std": 7.265312316777226
+      }
+    },
+    "2019_05": {
+      "national_average": 1902.8125449138668,
+      "contributing_states": 36,
+      "total_data_points": 2944306,
+      "statistics": {
+        "min": 1866.9274673575478,
+        "max": 1955.6332104355308,
+        "std": 12.997560955968604
+      }
+    },
+    "2019_06": {
+      "national_average": 1895.8779643163741,
+      "contributing_states": 36,
+      "total_data_points": 2960920,
+      "statistics": {
+        "min": 1867.025770198351,
+        "max": 1932.8332863106718,
+        "std": 16.42164469160629
+      }
+    },
+    "2019_07": {
+      "national_average": 1902.5132261892757,
+      "contributing_states": 36,
+      "total_data_points": 2821650,
+      "statistics": {
+        "min": 1861.4190859684716,
+        "max": 1935.0058113497955,
+        "std": 19.863958424817174
+      }
+    },
+    "2019_08": {
+      "national_average": 1879.614409085001,
+      "contributing_states": 36,
+      "total_data_points": 2511261,
+      "statistics": {
+        "min": 1834.1893708609964,
+        "max": 1925.4918670973098,
+        "std": 9.60590581977849
+      }
+    },
+    "2019_09": {
+      "national_average": 1868.15606968148,
+      "contributing_states": 35,
+      "total_data_points": 2597330,
+      "statistics": {
+        "min": 1847.004386302237,
+        "max": 1885.7421459560126,
+        "std": 6.505035535682032
+      }
+    },
+    "2019_10": {
+      "national_average": 1862.795202470542,
+      "contributing_states": 36,
+      "total_data_points": 2918075,
+      "statistics": {
+        "min": 1848.0701660505295,
+        "max": 1877.3523540676144,
+        "std": 7.671123631837196
+      }
+    },
+    "2019_11": {
+      "national_average": 1872.1874756645964,
+      "contributing_states": 36,
+      "total_data_points": 2990195,
+      "statistics": {
+        "min": 1849.1545634373367,
+        "max": 1882.8235319896874,
+        "std": 7.755171783716445
+      }
+    },
+    "2019_12": {
+      "national_average": 1873.2368438526457,
+      "contributing_states": 36,
+      "total_data_points": 2903641,
+      "statistics": {
+        "min": 1849.1454779087076,
+        "max": 1883.2104437090638,
+        "std": 8.09827114045891
+      }
+    },
+    "2020_01": {
+      "national_average": 1863.6613896582537,
+      "contributing_states": 36,
+      "total_data_points": 2939737,
+      "statistics": {
+        "min": 1849.8496098127328,
+        "max": 1875.9020168256432,
+        "std": 9.078915577728003
+      }
+    },
+    "2020_02": {
+      "national_average": 1859.647615176674,
+      "contributing_states": 36,
+      "total_data_points": 2989814,
+      "statistics": {
+        "min": 1848.0235493512182,
+        "max": 1878.352095969701,
+        "std": 9.032289978175811
+      }
+    },
+    "2020_03": {
+      "national_average": 1869.7211465689927,
+      "contributing_states": 36,
+      "total_data_points": 2957639,
+      "statistics": {
+        "min": 1849.5469750099671,
+        "max": 1877.8395672533893,
+        "std": 7.335684462523254
+      }
+    },
+    "2020_04": {
+      "national_average": 1870.4542589076427,
+      "contributing_states": 36,
+      "total_data_points": 2985856,
+      "statistics": {
+        "min": 1851.9346196501024,
+        "max": 1877.6700179494621,
+        "std": 3.3619754359280316
+      }
+    },
+    "2020_05": {
+      "national_average": 1903.9096553554848,
+      "contributing_states": 36,
+      "total_data_points": 2986236,
+      "statistics": {
+        "min": 1868.6554842536098,
+        "max": 1975.4272909905008,
+        "std": 14.126988014760823
+      }
+    },
+    "2020_06": {
+      "national_average": 1893.944309532167,
+      "contributing_states": 36,
+      "total_data_points": 2734295,
+      "statistics": {
+        "min": 1860.5353237859201,
+        "max": 1931.1726411447069,
+        "std": 16.859810034532384
+      }
+    },
+    "2020_07": {
+      "national_average": 1903.868117815162,
+      "contributing_states": 34,
+      "total_data_points": 2541417,
+      "statistics": {
+        "min": 1863.3977609987858,
+        "max": 1929.3101816839016,
+        "std": 18.577529006625173
+      }
+    },
+    "2020_08": {
+      "national_average": 1881.9737722065383,
+      "contributing_states": 36,
+      "total_data_points": 2339142,
+      "statistics": {
+        "min": 1864.3083285523114,
+        "max": 1922.5251639963083,
+        "std": 12.312783974489562
+      }
+    },
+    "2020_09": {
+      "national_average": 1867.828046113829,
+      "contributing_states": 36,
+      "total_data_points": 2775252,
+      "statistics": {
+        "min": 1849.9319357215904,
+        "max": 1901.431212538968,
+        "std": 6.322169282599459
+      }
+    },
+    "2020_10": {
+      "national_average": 1863.7071188586974,
+      "contributing_states": 36,
+      "total_data_points": 2857550,
+      "statistics": {
+        "min": 1849.6830063492077,
+        "max": 1879.26390171927,
+        "std": 8.764274361749266
+      }
+    },
+    "2020_11": {
+      "national_average": 1872.3571267393147,
+      "contributing_states": 35,
+      "total_data_points": 2564556,
+      "statistics": {
+        "min": 1847.915045241066,
+        "max": 1883.9529531399944,
+        "std": 8.486652992115348
+      }
+    },
+    "2020_12": {
+      "national_average": 1873.0486299943339,
+      "contributing_states": 36,
+      "total_data_points": 2977353,
+      "statistics": {
+        "min": 1848.460556357065,
+        "max": 1883.0304539536503,
+        "std": 7.503872999392054
+      }
+    },
+    "2021_01": {
+      "national_average": 1864.4665153022845,
+      "contributing_states": 36,
+      "total_data_points": 2946620,
+      "statistics": {
+        "min": 1849.8792769253673,
+        "max": 1884.8125797800124,
+        "std": 9.282539129313024
+      }
+    },
+    "2021_02": {
+      "national_average": 1859.9498464950557,
+      "contributing_states": 36,
+      "total_data_points": 2986243,
+      "statistics": {
+        "min": 1848.9530638292542,
+        "max": 1876.8272412689007,
+        "std": 9.134160864376627
+      }
+    },
+    "2021_03": {
+      "national_average": 1870.7332363303904,
+      "contributing_states": 36,
+      "total_data_points": 2962509,
+      "statistics": {
+        "min": 1851.1653060132426,
+        "max": 1878.0566598168589,
+        "std": 6.4362516409691475
+      }
+    },
+    "2021_04": {
+      "national_average": 1873.9489068652385,
+      "contributing_states": 36,
+      "total_data_points": 2988925,
+      "statistics": {
+        "min": 1855.8756424630417,
+        "max": 1884.8658337592324,
+        "std": 6.400428025401362
+      }
+    },
+    "2021_05": {
+      "national_average": 1904.824791064637,
+      "contributing_states": 36,
+      "total_data_points": 2931712,
+      "statistics": {
+        "min": 1866.9879294022244,
+        "max": 1951.254884928323,
+        "std": 14.463353263101359
+      }
+    },
+    "2021_06": {
+      "national_average": 1897.137931091122,
+      "contributing_states": 36,
+      "total_data_points": 2879276,
+      "statistics": {
+        "min": 1861.9711179350313,
+        "max": 1926.9532099060996,
+        "std": 17.136519262841823
+      }
+    },
+    "2021_07": {
+      "national_average": 1901.86424421353,
+      "contributing_states": 36,
+      "total_data_points": 2659940,
+      "statistics": {
+        "min": 1863.3928242664292,
+        "max": 1931.743333615907,
+        "std": 18.617690025741364
+      }
+    },
+    "2021_08": {
+      "national_average": 1877.7922309850867,
+      "contributing_states": 36,
+      "total_data_points": 2632076,
+      "statistics": {
+        "min": 1863.6781299831862,
+        "max": 1892.1541217206263,
+        "std": 8.04622193800187
+      }
+    },
+    "2021_09": {
+      "national_average": 1866.4973770360907,
+      "contributing_states": 36,
+      "total_data_points": 2640221,
+      "statistics": {
+        "min": 1851.5069077936535,
+        "max": 1880.3942730142967,
+        "std": 6.355233970051034
+      }
+    },
+    "2021_10": {
+      "national_average": 1862.8167305236814,
+      "contributing_states": 36,
+      "total_data_points": 2965104,
+      "statistics": {
+        "min": 1849.9550874609772,
+        "max": 1878.4834340724376,
+        "std": 8.585444535622276
+      }
+    },
+    "2021_11": {
+      "national_average": 1873.1745510258213,
+      "contributing_states": 36,
+      "total_data_points": 2865125,
+      "statistics": {
+        "min": 1848.8051127596532,
+        "max": 1882.5640999290129,
+        "std": 7.1864390878302356
+      }
+    },
+    "2021_12": {
+      "national_average": 1873.4055786400381,
+      "contributing_states": 36,
+      "total_data_points": 2984311,
+      "statistics": {
+        "min": 1849.4317586375569,
+        "max": 1881.8357854354765,
+        "std": 7.7247169159266775
+      }
+    },
+    "2022_01": {
+      "national_average": 1863.0314139570555,
+      "contributing_states": 36,
+      "total_data_points": 2905526,
+      "statistics": {
+        "min": 1850.0053286933548,
+        "max": 1876.6202124025237,
+        "std": 8.689820087283364
+      }
+    },
+    "2022_02": {
+      "national_average": 1859.2412341561833,
+      "contributing_states": 36,
+      "total_data_points": 2986250,
+      "statistics": {
+        "min": 1848.5757975733075,
+        "max": 1876.3357025802154,
+        "std": 8.956227829980246
+      }
+    },
+    "2022_03": {
+      "national_average": 1870.4840193973573,
+      "contributing_states": 36,
+      "total_data_points": 2985970,
+      "statistics": {
+        "min": 1849.3173928600345,
+        "max": 1878.934308461587,
+        "std": 7.258503347046253
+      }
+    },
+    "2022_04": {
+      "national_average": 1876.7203524616698,
+      "contributing_states": 36,
+      "total_data_points": 2960453,
+      "statistics": {
+        "min": 1856.9830404021448,
+        "max": 1894.8487495197576,
+        "std": 8.217871822148211
+      }
+    },
+    "2022_05": {
+      "national_average": 1906.3018177035938,
+      "contributing_states": 36,
+      "total_data_points": 2908989,
+      "statistics": {
+        "min": 1865.2229521909508,
+        "max": 1956.6143250542245,
+        "std": 14.800775176020403
+      }
+    },
+    "2022_06": {
+      "national_average": 1894.955350924492,
+      "contributing_states": 34,
+      "total_data_points": 2591392,
+      "statistics": {
+        "min": 1860.0659931460389,
+        "max": 1923.6604009738187,
+        "std": 16.338670815501107
+      }
+    },
+    "2022_07": {
+      "national_average": 1905.7237340801437,
+      "contributing_states": 35,
+      "total_data_points": 2138697,
+      "statistics": {
+        "min": 1862.704379261975,
+        "max": 1927.2410393621549,
+        "std": 17.719223961076718
+      }
+    },
+    "2022_08": {
+      "national_average": 1882.0802258479791,
+      "contributing_states": 36,
+      "total_data_points": 2531203,
+      "statistics": {
+        "min": 1864.6359089501923,
+        "max": 1906.4681352701682,
+        "std": 11.091845745811364
+      }
+    },
+    "2022_09": {
+      "national_average": 1867.3142414760089,
+      "contributing_states": 36,
+      "total_data_points": 2757208,
+      "statistics": {
+        "min": 1851.9776178045045,
+        "max": 1890.0821675091058,
+        "std": 6.056438389675991
+      }
+    },
+    "2022_10": {
+      "national_average": 1863.087897590353,
+      "contributing_states": 36,
+      "total_data_points": 2898734,
+      "statistics": {
+        "min": 1849.6937253621413,
+        "max": 1877.8260535832658,
+        "std": 8.798886188229206
+      }
+    },
+    "2022_11": {
+      "national_average": 1872.4316112665804,
+      "contributing_states": 36,
+      "total_data_points": 2983029,
+      "statistics": {
+        "min": 1849.7950033546144,
+        "max": 1882.8326924900086,
+        "std": 7.650208333003463
+      }
+    },
+    "2022_12": {
+      "national_average": 1873.487710167346,
+      "contributing_states": 36,
+      "total_data_points": 2977568,
+      "statistics": {
+        "min": 1849.0195166743297,
+        "max": 1885.8342210163237,
+        "std": 7.982815981111676
+      }
+    },
+    "2023_01": {
+      "national_average": 1864.2648542133222,
+      "contributing_states": 30,
+      "total_data_points": 2431906,
+      "statistics": {
+        "min": 1850.6766392694706,
+        "max": 1876.7602275576826,
+        "std": 9.536915673562538
+      }
+    },
+    "2023_02": {
+      "national_average": 1859.5839971433343,
+      "contributing_states": 30,
+      "total_data_points": 2428848,
+      "statistics": {
+        "min": 1848.891704864347,
+        "max": 1879.0835729502887,
+        "std": 8.50254969140909
+      }
+    },
+    "2023_03": {
+      "national_average": 1869.089353051217,
+      "contributing_states": 30,
+      "total_data_points": 2434609,
+      "statistics": {
+        "min": 1849.9700796595946,
+        "max": 1879.1793921504075,
+        "std": 6.981903450790996
+      }
+    },
+    "2023_04": {
+      "national_average": 1872.7198557275083,
+      "contributing_states": 29,
+      "total_data_points": 2180639,
+      "statistics": {
+        "min": 1857.661991728648,
+        "max": 1877.9769806207655,
+        "std": 2.8934076609939363
+      }
+    },
+    "2023_05": {
+      "national_average": 1906.4021789501005,
+      "contributing_states": 30,
+      "total_data_points": 2430176,
+      "statistics": {
+        "min": 1870.9374170789156,
+        "max": 1954.2227234885245,
+        "std": 13.95805668192279
+      }
+    },
+    "2023_06": {
+      "national_average": 1896.5564014428282,
+      "contributing_states": 30,
+      "total_data_points": 2349352,
+      "statistics": {
+        "min": 1865.8677921864553,
+        "max": 1929.7629809221132,
+        "std": 17.32393829849235
+      }
+    },
+    "2023_07": {
+      "national_average": 1903.726840998095,
+      "contributing_states": 29,
+      "total_data_points": 1691757,
+      "statistics": {
+        "min": 1865.5558713756193,
+        "max": 1925.666321986334,
+        "std": 17.781952939431097
+      }
+    },
+    "2023_08": {
+      "national_average": 1876.1408373715394,
+      "contributing_states": 26,
+      "total_data_points": 1903470,
+      "statistics": {
+        "min": 1853.9184834258429,
+        "max": 1895.5047725589118,
+        "std": 8.701307451261775
+      }
+    },
+    "2023_09": {
+      "national_average": 1867.9909303480497,
+      "contributing_states": 30,
+      "total_data_points": 2175678,
+      "statistics": {
+        "min": 1850.2700076805509,
+        "max": 1879.6307079106855,
+        "std": 6.537981026177055
+      }
+    },
+    "2023_10": {
+      "national_average": 1862.5251488212198,
+      "contributing_states": 30,
+      "total_data_points": 2411792,
+      "statistics": {
+        "min": 1851.780784486593,
+        "max": 1877.9236954104408,
+        "std": 7.68665928895815
+      }
+    },
+    "2023_11": {
+      "national_average": 1872.5389005535878,
+      "contributing_states": 30,
+      "total_data_points": 2421161,
+      "statistics": {
+        "min": 1851.5134776530797,
+        "max": 1880.0653319639584,
+        "std": 7.3477546831346805
+      }
+    },
+    "2023_12": {
+      "national_average": 1873.2937822487072,
+      "contributing_states": 30,
+      "total_data_points": 2419044,
+      "statistics": {
+        "min": 1849.8901456656251,
+        "max": 1881.3622454749056,
+        "std": 7.162161904091098
+      }
+    }
+  },
+  "overall_statistics": {
+    "mean": 1876.8099867377618,
+    "std": 18.180845686807015,
+    "min": 1833.1057825400999,
+    "max": 1977.8198171608178
+  },
+  "metadata": {
+    "last_updated": "2025-06-05T06:48:02.982953",
+    "total_states": 36,
+    "data_coverage": "2014-2023"
+  }
+}
