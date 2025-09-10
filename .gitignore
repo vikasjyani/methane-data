@@ -6,3 +6,6 @@ __pycache__/
 
 # Logs
 *.log
+
+# Generated data
+tiles/
