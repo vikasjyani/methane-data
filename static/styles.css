@@ -9,7 +9,7 @@ body {
 }
 
 body.loading::after {
-    content: 'Loading...';
+    content: 'Loading Tiles...';
     position: absolute;
     top: 10px;
     left: 50%;
@@ -19,6 +19,7 @@ body.loading::after {
     color: white;
     border-radius: 5px;
     z-index: 2000;
+    pointer-events: none; /* Make it non-interactive */
 }
 
 
@@ -95,7 +96,12 @@ hr {
     color: #343a40;
 }
 
-/* --- Leaflet Legend --- */
+/* --- Leaflet UI Customization --- */
+.leaflet-control-layers-toggle {
+    background-image: url(https://unpkg.com/leaflet@1.9.4/dist/images/layers.png);
+    background-size: 26px 26px;
+}
+
 .info.legend {
     padding: 8px 12px;
     font: 14px/16px Arial, Helvetica, sans-serif;

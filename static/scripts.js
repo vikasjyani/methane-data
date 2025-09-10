@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', function () {
     // --- Overlay Layers ---
     const labelsLayer = L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager_labels_under/{z}/{x}/{y}{r}.png', {
         attribution: '&copy; <a href="https://carto.com/attributions">CARTO</a>',
-        pane: 'shadowPane' // Ensures labels are on top of other layers
+        pane: 'shadowPane'
     });
 
     let methaneLayer = L.tileLayer(getTileLayerUrl(), {
@@ -31,13 +31,14 @@ document.addEventListener('DOMContentLoaded', function () {
     };
     L.control.layers(baseMaps, overlayMaps).addTo(map);
 
-    // --- UI Element References ---
+    // --- UI Element References & State ---
     const yearSelect = document.getElementById('year-select');
     const monthSelect = document.getElementById('month-select');
     const stateSelect = document.getElementById('state-select');
     const districtSelect = document.getElementById('district-select');
     const statsPanel = document.getElementById('stats-panel');
-    let geoJsonLayer = null;
+    let statesGeoJsonLayer = null;
+    let districtsGeoJsonLayer = null;
     let legend = L.control({position: 'bottomright'});
 
     // --- Legend Logic ---
@@ -48,18 +49,20 @@ document.addEventListener('DOMContentLoaded', function () {
     };
     legend.update = function (props) {
         let content = '<h4>Methane Concentration</h4>';
+        const scope = stateSelect.value ? stateSelect.options[stateSelect.selectedIndex].text : 'All India';
+        content += `<strong>Scope:</strong> ${scope}<br>`;
         if (props && props.min !== null) {
             content += `<b>Min:</b> ${props.min.toFixed(2)}<br><b>Max:</b> ${props.max.toFixed(2)}`;
             content += '<div class="gradient-bar"></div>';
             content += '<span class="min-label">Low</span><span class="max-label">High</span>';
         } else {
-            content += 'Select a state to see the scale.';
+            content += 'No data for this period.';
         }
         this._div.innerHTML = content;
     };
     legend.addTo(map);
 
-    // --- Date and Geo Selection Logic ---
+    // --- Core Logic ---
     function getTileLayerUrl() {
         const year = yearSelect.value;
         const month = monthSelect.value;
@@ -78,38 +81,23 @@ document.addEventListener('DOMContentLoaded', function () {
         const year = yearSelect.value;
         const month = monthSelect.value;
 
-        // Show a loading indicator
         document.body.classList.add('loading');
 
-        if (state) {
-            fetch(`/api/prepare_state_data?state=${state}&year=${year}&month=${month}`)
-                .then(response => response.json())
-                .then(data => {
-                    legend.update(data);
-                    methaneLayer.setUrl(getTileLayerUrl(), false);
-                    methaneLayer.redraw();
-                    document.body.classList.remove('loading');
-                });
-        } else {
-            legend.update();
-            methaneLayer.setUrl(getTileLayerUrl(), false);
-            methaneLayer.redraw();
-            document.body.classList.remove('loading');
-        }
+        fetch(`/api/prepare_data?state=${state || ''}&year=${year}&month=${month}`)
+            .then(response => response.json())
+            .then(data => {
+                legend.update(data);
+                methaneLayer.setUrl(getTileLayerUrl(), false);
+                methaneLayer.redraw();
+                document.body.classList.remove('loading');
+            });
     }
 
     // --- Event Listeners ---
     yearSelect.addEventListener('change', updateMap);
     monthSelect.addEventListener('change', updateMap);
-    stateSelect.addEventListener('change', function() {
-        handleStateSelection();
-        // updateMap is called by handleStateSelection
-    });
-    districtSelect.addEventListener('change', function() {
-        handleDistrictSelection();
-        methaneLayer.setUrl(getTileLayerUrl(), false);
-        methaneLayer.redraw();
-    });
+    stateSelect.addEventListener('change', handleStateSelection);
+    districtSelect.addEventListener('change', handleDistrictSelection);
 
     // --- Initial Population ---
     for (let year = 2023; year >= 2014; year--) {
@@ -130,20 +118,57 @@ document.addEventListener('DOMContentLoaded', function () {
             });
         });
 
+    // --- Click-to-Select States ---
+    fetch('/geojson/states')
+        .then(res => res.json())
+        .then(geojsonData => {
+            statesGeoJsonLayer = L.geoJSON(geojsonData, {
+                style: {
+                    color: "#3388ff",
+                    weight: 1,
+                    opacity: 0.5,
+                    fillOpacity: 0.1
+                },
+                onEachFeature: function(feature, layer) {
+                    layer.on({
+                        mouseover: e => e.target.setStyle({ weight: 3, color: '#ff7800' }),
+                        mouseout: e => statesGeoJsonLayer.resetStyle(e.target),
+                        click: e => {
+                            const stateName = e.target.feature.properties.ST_NM;
+                            stateSelect.value = stateName;
+                            stateSelect.dispatchEvent(new Event('change'));
+                        }
+                    });
+                }
+            }).addTo(map);
+        });
+
     // --- Handler Functions ---
     function handleStateSelection() {
         const selectedState = stateSelect.value;
         districtSelect.innerHTML = '<option value="">-- Select a District --</option>';
-        if (geoJsonLayer) map.removeLayer(geoJsonLayer);
+        if (districtsGeoJsonLayer) map.removeLayer(districtsGeoJsonLayer);
+        if (statesGeoJsonLayer) map.removeLayer(statesGeoJsonLayer);
 
         if (selectedState) {
             fetch(`/geojson/districts/${selectedState}`)
                 .then(response => response.json())
                 .then(geojsonData => {
-                    geoJsonLayer = L.geoJSON(geojsonData, {
-                        style: { color: "#ff7800", weight: 2, opacity: 0.65, fillOpacity: 0.1 }
+                    districtsGeoJsonLayer = L.geoJSON(geojsonData, {
+                        style: { color: "#ff7800", weight: 2, opacity: 0.65, fillOpacity: 0.1 },
+                        onEachFeature: function(feature, layer) {
+                            layer.on({
+                                mouseover: e => e.target.setStyle({ weight: 3, color: '#0078ff' }),
+                                mouseout: e => districtsGeoJsonLayer.resetStyle(e.target),
+                                click: e => {
+                                    const districtName = e.target.feature.properties.DISTRICT;
+                                    districtSelect.value = districtName;
+                                    districtSelect.dispatchEvent(new Event('change'));
+                                }
+                            });
+                        }
                     }).addTo(map);
-                    map.fitBounds(geoJsonLayer.getBounds());
+                    map.fitBounds(districtsGeoJsonLayer.getBounds());
                 });
             fetch(`/api/stats/${selectedState}`)
                 .then(response => response.json())
@@ -154,6 +179,9 @@ document.addEventListener('DOMContentLoaded', function () {
                         districtSelect.appendChild(new Option(optionText, district));
                     });
                 });
+        } else {
+            if (statesGeoJsonLayer) statesGeoJsonLayer.addTo(map);
+            map.setView([20.5937, 78.9629], 5);
         }
         updateMap();
     }
@@ -161,20 +189,20 @@ document.addEventListener('DOMContentLoaded', function () {
     function handleDistrictSelection() {
         const selectedDistrict = districtSelect.value;
         const selectedState = stateSelect.value;
-        if (geoJsonLayer) map.removeLayer(geoJsonLayer);
+
+        // Don't remove the main districts layer, just highlight the selected one
+        if (districtsGeoJsonLayer) {
+            districtsGeoJsonLayer.eachLayer(layer => {
+                if (layer.feature.properties.DISTRICT.toUpperCase() === selectedDistrict.toUpperCase()) {
+                    map.fitBounds(layer.getBounds());
+                    layer.setStyle({ color: "#0078ff", weight: 4, opacity: 1, fillOpacity: 0.2 });
+                } else {
+                    districtsGeoJsonLayer.resetStyle(layer);
+                }
+            });
+        }
 
         if (selectedDistrict) {
-            fetch(`/geojson/districts/${selectedState}`)
-                .then(response => response.json())
-                .then(geojsonData => {
-                    const districtFeature = geojsonData.features.find(f => f.properties.DISTRICT.toUpperCase() === selectedDistrict.toUpperCase());
-                    if (districtFeature) {
-                        geoJsonLayer = L.geoJSON(districtFeature, {
-                            style: { color: "#0078ff", weight: 3, opacity: 0.8, fillOpacity: 0.2 }
-                        }).addTo(map);
-                        map.fitBounds(geoJsonLayer.getBounds());
-                    }
-                });
             fetch(`/api/stats/${selectedState}`)
                 .then(response => response.json())
                 .then(statsData => {
@@ -182,8 +210,8 @@ document.addEventListener('DOMContentLoaded', function () {
                     statsPanel.innerHTML = `<h2>${selectedDistrict.replace(/_/g, ' ')}, ${selectedState.replace(/_/g, ' ')}</h2><p>Average Methane: ${districtStats.average_methane.toFixed(2)}</p><p>Data Point Count: ${districtStats.point_count}</p>`;
                 });
         } else {
-            // If district is de-selected, re-select the state
-            handleStateSelection();
+            // If district is de-selected, reset view to the state level
+            if(districtsGeoJsonLayer) map.fitBounds(districtsGeoJsonLayer.getBounds());
         }
     }
 });

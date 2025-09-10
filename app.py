@@ -2,6 +2,7 @@ import os
 import json
 from flask import Flask, render_template, send_from_directory, jsonify, request
 import generate_tiles
+from PIL import Image
 
 app = Flask(__name__)
 
@@ -81,13 +82,11 @@ def serve_tile(z, x, y):
     if os.path.exists(os.path.join('tiles', tile_path_segment)):
         return send_from_directory('tiles', tile_path_segment)
 
-    # Get min/max for the view
     cache_key = f"{state or 'GLOBAL'}-{month_column}"
     min_max_data = DATA_CACHE.get(cache_key)
 
     if not min_max_data or min_max_data.get('min') is None:
-        # Fallback if prepare_data wasn't called or found no data
-        return send_from_directory('static', 'blank_tile.png') # Assumes a blank tile exists
+        return send_from_directory('static', 'blank_tile.png')
 
     min_val = min_max_data['min']
     max_val = min_max_data['max']
@@ -96,6 +95,11 @@ def serve_tile(z, x, y):
     generate_tiles.generate_tile(z, x, y, month_column, ALL_PARQUET_FILES, min_val, max_val, geo_filter)
 
     return send_from_directory('tiles', tile_path_segment)
+
+@app.route('/geojson/states')
+def get_states_geojson():
+    """Serves the GeoJSON file for all Indian states."""
+    return send_from_directory('geojson', 'india_states.geojson')
 
 @app.route('/geojson/districts/<state_name>')
 def get_districts_geojson(state_name):
@@ -124,7 +128,6 @@ def get_metadata():
     return jsonify(data)
 
 if __name__ == '__main__':
-    # Create a blank tile for fallbacks
     if not os.path.exists('static/blank_tile.png'):
         img = Image.new('RGBA', (256, 256), (255, 255, 255, 0))
         img.save('static/blank_tile.png')
