@@ -7,12 +7,49 @@ document.addEventListener('DOMContentLoaded', function () {
         attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
     }).addTo(map);
 
+    // Date selection
+    const yearSelect = document.getElementById('year-select');
+    const monthSelect = document.getElementById('month-select');
+
+    // Populate date dropdowns
+    for (let year = 2023; year >= 2014; year--) {
+        const option = document.createElement('option');
+        option.value = year;
+        option.textContent = year;
+        yearSelect.appendChild(option);
+    }
+    for (let month = 1; month <= 12; month++) {
+        const option = document.createElement('option');
+        option.value = month;
+        option.textContent = new Date(0, month - 1).toLocaleString('default', { month: 'long' });
+        monthSelect.appendChild(option);
+    }
+    monthSelect.value = 12; // Default to December
+
+    // Function to update the tile layer URL
+    function getTileLayerUrl() {
+        const year = yearSelect.value;
+        const month = monthSelect.value;
+        return `/tiles/{z}/{x}/{y}.png?year=${year}&month=${month}`;
+    }
+
     // Add our custom methane tile layer
-    const methaneLayer = L.tileLayer('/tiles/{z}/{x}/{y}.png', {
+    let methaneLayer = L.tileLayer(getTileLayerUrl(), {
         attribution: 'Methane Data',
         opacity: 0.7
     }).addTo(map);
 
+    // Function to update the map
+    function updateMap() {
+        methaneLayer.setUrl(getTileLayerUrl());
+    }
+
+    // Add event listeners for date changes
+    yearSelect.addEventListener('change', updateMap);
+    monthSelect.addEventListener('change', updateMap);
+
+
+    // State and District selection
     const stateSelect = document.getElementById('state-select');
     const districtSelect = document.getElementById('district-select');
     const statsPanel = document.getElementById('stats-panel');

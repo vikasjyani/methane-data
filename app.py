@@ -1,5 +1,5 @@
 import os
-from flask import Flask, render_template, send_from_directory, jsonify
+from flask import Flask, render_template, send_from_directory, jsonify, request
 import generate_tiles
 import json
 
@@ -16,17 +16,29 @@ def index():
 @app.route('/tiles/<int:z>/<int:x>/<int:y>.png')
 def serve_tile(z, x, y):
     """Serves a map tile, generating it if it doesn't exist."""
-    tile_path = f'tiles/{z}/{x}/{y}.png'
+
+    # Get year and month from query parameters, with defaults
+    year = request.args.get('year', '2023')
+    month = request.args.get('month', '12')
+
+    # Format month to be two digits (e.g., 1 -> 01)
+    month_str = str(month).zfill(2)
+    month_column = f"{year}_{month_str}_01"
+
+    # Define tile path based on date
+    tile_dir = f'tiles/{year}/{month}/{z}/{x}'
+    tile_path = f'{tile_dir}/{y}.png'
 
     if not os.path.exists(tile_path):
-        # For now, we'll hardcode the month. This will be made dynamic later.
-        month_column = '2023_12_01'
         print(f"Generating tile {z}/{x}/{y} for {month_column}...")
+        # Note: generate_tile now saves the file itself, but we need to create the dated directory
+        os.makedirs(tile_dir, exist_ok=True)
+        # We pass the full path to generate_tile now
         generate_tiles.generate_tile(z, x, y, month_column, ALL_PARQUET_FILES)
 
     # The tile should be in the 'tiles' directory, which is at the same level as app.py
     # We need to construct the path from the script's directory
-    return send_from_directory('tiles', f'{z}/{x}/{y}.png')
+    return send_from_directory('tiles', f'{year}/{month}/{z}/{x}/{y}.png')
 
 @app.route('/geojson/states')
 def get_states_geojson():

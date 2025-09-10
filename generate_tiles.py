@@ -25,10 +25,14 @@ def tile_coords_to_latlon_bbox(z, x, y):
     lat_deg_s = math.degrees(lat_rad_s)
     return (lat_deg_s, lon_deg_w, lat_deg_n, lon_deg_e)
 
-def get_color_for_value(value, min_val=1800, max_val=1900):
-    """Maps a methane value to a color from blue to red."""
-    if pd.isna(value) or value < min_val:
-        return None  # Transparent for no data or low values
+def get_color_for_value(value, min_val, max_val):
+    """Maps a methane value to a color from blue to red based on a dynamic range."""
+    if pd.isna(value):
+        return None  # Transparent for no data
+
+    if max_val == min_val:
+        # If all values are the same, return a mid-range color
+        return (255, 0, 0, 150) # Red
 
     # Normalize value to 0-1 range
     normalized = (value - min_val) / (max_val - min_val)
@@ -49,65 +53,55 @@ def get_all_parquet_files():
     return parquet_files
 
 def generate_tile(z, x, y, month_column, parquet_files):
-    """Generates a single map tile for the given zoom, x, y, and month."""
+    """Generates a single map tile with a dynamic color gradient."""
 
-    # Create a blank, transparent tile
     img = Image.new('RGBA', (TILE_SIZE, TILE_SIZE), (255, 255, 255, 0))
-
-    # Get the geographic bounding box for the tile
     lat_min, lon_min, lat_max, lon_max = tile_coords_to_latlon_bbox(z, x, y)
 
-    data_found = False
-
+    # Pass 1: Collect all data points for the tile
+    tile_data_points = []
     for file_path in parquet_files:
         try:
             df = pd.read_parquet(file_path, columns=['latitude', 'longitude', month_column])
-
             df_in_tile = df[
                 (df['latitude'] >= lat_min) & (df['latitude'] <= lat_max) &
                 (df['longitude'] >= lon_min) & (df['longitude'] <= lon_max)
             ]
-
             if not df_in_tile.empty:
-                draw = ImageDraw.Draw(img)
-                for _, row in df_in_tile.iterrows():
-                    color = get_color_for_value(row[month_column])
-                    if color:
-                        data_found = True
-                        tile_x_float, tile_y_float = latlon_to_tile_coords(row['latitude'], row['longitude'], z)
-                        pixel_x = int((tile_x_float - x) * TILE_SIZE)
-                        pixel_y = int((tile_y_float - y) * TILE_SIZE)
-                        draw.rectangle([pixel_x, pixel_y, pixel_x + 1, pixel_y + 1], fill=color)
-
-        except Exception as e:
+                # Keep only non-null values for the month
+                df_in_tile = df_in_tile.dropna(subset=[month_column])
+                if not df_in_tile.empty:
+                    tile_data_points.extend(df_in_tile.to_dict('records'))
+        except (KeyError, ValueError):
+            # Ignore files that don't have the month_column or other read errors
             pass
 
-    tile_dir = f'tiles/{z}/{x}'
-    os.makedirs(tile_dir, exist_ok=True)
+    # Proceed only if we have data for the tile
+    if tile_data_points:
+        # Calculate dynamic min and max for this tile
+        values = [p[month_column] for p in tile_data_points]
+        min_val = min(values)
+        max_val = max(values)
 
+        # Pass 2: Draw the points with the dynamic gradient
+        draw = ImageDraw.Draw(img)
+        for point in tile_data_points:
+            color = get_color_for_value(point[month_column], min_val, max_val)
+            if color:
+                tile_x_float, tile_y_float = latlon_to_tile_coords(point['latitude'], point['longitude'], z)
+                pixel_x = int((tile_x_float - x) * TILE_SIZE)
+                pixel_y = int((tile_y_float - y) * TILE_SIZE)
+                draw.rectangle([pixel_x, pixel_y, pixel_x + 1, pixel_y + 1], fill=color)
+
+    # Save the tile image
+    year, month, _ = month_column.split('_')
+    tile_dir = f'tiles/{year}/{month}/{z}/{x}'
+    os.makedirs(tile_dir, exist_ok=True)
     tile_path = f'{tile_dir}/{y}.png'
     img.save(tile_path)
-    return tile_path, img, data_found
+
+    # Return the image object for debugging if needed
+    return tile_path, img, bool(tile_data_points)
 
 if __name__ == '__main__':
     print("This script is intended to be used as a module.")
-    # Example usage:
-    # print("Searching for a tile with data to generate...")
-    # all_files = get_all_parquet_files()
-    # test_month = '2023_12_01'
-
-    # found_data = False
-    # # Loop through some tile coordinates over India at zoom level 5
-    # for x in range(24, 28):
-    #     for y in range(14, 18):
-    #         print(f"Trying tile z=5, x={x}, y={y}...")
-    #         tile_path, generated_image, data_found = generate_tile(5, x, y, test_month, all_files)
-    #         if data_found:
-    #             print(f"\nSUCCESS: Found data and generated tile at: {tile_path}")
-    #             found_data = True
-    #             break
-    #     if found_data:
-    #         break
-
-    # if not found_data:
-    #     print("\nCould not find any data in the tested tile range.")
