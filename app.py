@@ -13,20 +13,17 @@ def index():
     """Serves the main HTML page."""
     return render_template('index.html')
 
-@app.route('/tiles/<int:z>/<int:x>/<int:y>.png')
-def serve_tile(z, x, y):
-    """Serves a map tile, generating it if it doesn't exist."""
-    tile_path = f'tiles/{z}/{x}/{y}.png'
+@app.route('/tiles/<int:year>/<int:month>/<int:z>/<int:x>/<int:y>.png')
+def serve_tile(year, month, z, x, y):
+    """Serves a map tile for a given year and month, generating if absent."""
+    tile_dir = f'tiles/{year}/{month}/{z}/{x}'
+    tile_path = f'{tile_dir}/{y}.png'
 
     if not os.path.exists(tile_path):
-        # For now, we'll hardcode the month. This will be made dynamic later.
-        month_column = '2023_12_01'
-        print(f"Generating tile {z}/{x}/{y} for {month_column}...")
-        generate_tiles.generate_tile(z, x, y, month_column, ALL_PARQUET_FILES)
+        print(f"Generating tile {year}/{month}/{z}/{x}/{y}...")
+        generate_tiles.generate_tile(year, month, z, x, y, ALL_PARQUET_FILES)
 
-    # The tile should be in the 'tiles' directory, which is at the same level as app.py
-    # We need to construct the path from the script's directory
-    return send_from_directory('tiles', f'{z}/{x}/{y}.png')
+    return send_from_directory(tile_dir, f'{y}.png')
 
 @app.route('/geojson/states')
 def get_states_geojson():
@@ -53,6 +50,14 @@ def get_metadata():
     with open('metadata/metadata.json') as f:
         data = json.load(f)
     return jsonify(data)
+
+
+@app.route('/api/color_range/<int:year>/<int:month>')
+def color_range(year, month):
+    """Return global min/max methane for legend creation."""
+    column = f"{year:04d}_{month:02d}_01"
+    min_val, max_val = generate_tiles.get_global_min_max(column, tuple(ALL_PARQUET_FILES))
+    return jsonify({'min': min_val, 'max': max_val})
 
 
 if __name__ == '__main__':
