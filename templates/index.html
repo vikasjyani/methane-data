@@ -14,26 +14,27 @@
     <div id="controls">
         <h1>India Methane Emissions</h1>
         <div class="select-container">
-            <label for="state-select">Select a State:</label>
-            <select id="state-select">
-                <option value="">--Select a State--</option>
-            </select>
+            <label for="year-select">Select Year:</label>
+            <select id="year-select"></select>
         </div>
         <div class="select-container">
-            <label for="district-select">Select a District:</label>
-            <select id="district-select">
-                <option value="">--Select a District--</option>
-            </select>
+            <label for="month-select">Select Month:</label>
+            <select id="month-select"></select>
+        </div>
+        <div class="select-container">
+            <button id="play-button">Play</button>
         </div>
         <div id="stats-panel">
             <h2>Statistics</h2>
-            <p>Select a state or district to see statistics.</p>
+            <p>Click on a state and district to see statistics.</p>
+            <canvas id="line-chart"></canvas>
         </div>
     </div>
 
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
      crossorigin=""></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <script src="{{ url_for('static', filename='scripts.js') }}"></script>
 </body>
 </html>
