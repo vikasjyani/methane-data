@@ -1,4 +1,5 @@
 document.addEventListener('DOMContentLoaded', function () {
+
     const indiaBounds = [[6, 68], [38, 98]]; // approximate India bounding box
     const map = L.map('map', {
         center: [20.5937, 78.9629],
@@ -17,6 +18,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
     ).addTo(map);
 
+
     let selectedYear = null;
     let selectedMonth = null;
     let availableYears = [];
@@ -31,8 +33,10 @@ document.addEventListener('DOMContentLoaded', function () {
         }
         methaneLayer = L.tileLayer(`/tiles/${selectedYear}/${selectedMonth}/{z}/{x}/{y}.png`, {
             attribution: 'Methane Data',
+
             opacity: 0.7,
             noWrap: true
+
         });
         methaneLayer.addTo(map);
         layerControl.addOverlay(methaneLayer, 'Methane');
@@ -243,6 +247,7 @@ document.addEventListener('DOMContentLoaded', function () {
         fetch(`/api/color_range/${selectedYear}/${selectedMonth}`)
             .then(res => res.json())
             .then(range => {
+
                 const minEl = document.getElementById('legend-min');
                 const maxEl = document.getElementById('legend-max');
                 if (range.min == null || range.max == null) {
@@ -252,6 +257,8 @@ document.addEventListener('DOMContentLoaded', function () {
                     minEl.textContent = range.min.toFixed(2);
                     maxEl.textContent = range.max.toFixed(2);
                 }
+
+
             });
     }
 

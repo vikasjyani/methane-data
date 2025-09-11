@@ -75,6 +75,7 @@ def get_global_min_max(month_column, parquet_files_tuple):
         return None, None
     return min_val, max_val
 
+
 def get_all_parquet_files():
     """Returns a list of all .parquet files in the data directory."""
     parquet_files = []
@@ -121,6 +122,7 @@ def generate_tile(year, month, z, x, y, parquet_files):
                             draw.rectangle([pixel_x, pixel_y, pixel_x + 1, pixel_y + 1], fill=color)
             except Exception:
                 pass
+
 
     tile_dir = f'tiles/{year}/{month}/{z}/{x}'
     os.makedirs(tile_dir, exist_ok=True)
