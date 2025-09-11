@@ -1,10 +1,15 @@
 import math
 import os
+from functools import lru_cache
+
 import pandas as pd
+import geopandas as gpd
+from shapely.geometry import Point
 from PIL import Image, ImageDraw
 
 TILE_SIZE = 256
 DATA_DIR = 'data_parquet'
+BOUNDARY_FILE = 'geojson/india_states.geojson'
 
 def latlon_to_tile_coords(lat, lon, zoom):
     """Converts latitude and longitude to tile coordinates at a given zoom level."""
@@ -25,19 +30,46 @@ def tile_coords_to_latlon_bbox(z, x, y):
     lat_deg_s = math.degrees(lat_rad_s)
     return (lat_deg_s, lon_deg_w, lat_deg_n, lon_deg_e)
 
-def get_color_for_value(value, min_val=1800, max_val=1900):
+def get_color_for_value(value, min_val, max_val):
     """Maps a methane value to a color from blue to red."""
     if pd.isna(value) or value < min_val:
         return None  # Transparent for no data or low values
 
-    # Normalize value to 0-1 range
     normalized = (value - min_val) / (max_val - min_val)
-    normalized = max(0, min(1, normalized)) # Clamp between 0 and 1
+    normalized = max(0, min(1, normalized))
 
-    # Simple blue to red gradient
     red = int(255 * normalized)
     blue = int(255 * (1 - normalized))
-    return (red, 0, blue, 150) # RGBA with some transparency
+    return (red, 0, blue, 150)
+
+
+@lru_cache(maxsize=None)
+def load_boundary():
+    """Load boundary polygon for India from shapefile/geojson."""
+    if os.path.exists(BOUNDARY_FILE):
+        gdf = gpd.read_file(BOUNDARY_FILE)
+        return gdf.unary_union
+    return None
+
+
+@lru_cache(maxsize=32)
+def get_global_min_max(month_column, parquet_files_tuple):
+    """Compute global min and max methane for given month across all parquet files."""
+    parquet_files = list(parquet_files_tuple)
+    values = []
+    for file_path in parquet_files:
+        try:
+            df = pd.read_parquet(file_path, columns=[month_column])
+            series = df[month_column]
+            series = series[(series > 0) & (~series.isna())]
+            if not series.empty:
+                values.append(series)
+        except Exception:
+            pass
+    if not values:
+        return 0, 1
+    all_vals = pd.concat(values)
+    return float(all_vals.min()), float(all_vals.max())
 
 def get_all_parquet_files():
     """Returns a list of all .parquet files in the data directory."""
@@ -48,13 +80,14 @@ def get_all_parquet_files():
                 parquet_files.append(os.path.join(root, file))
     return parquet_files
 
-def generate_tile(z, x, y, month_column, parquet_files):
-    """Generates a single map tile for the given zoom, x, y, and month."""
+def generate_tile(year, month, z, x, y, parquet_files):
+    """Generates a single map tile for the given year/month, zoom, x, and y."""
 
-    # Create a blank, transparent tile
+    month_column = f"{year:04d}_{month:02d}_01"
+    min_val, max_val = get_global_min_max(month_column, tuple(parquet_files))
+    boundary = load_boundary()
+
     img = Image.new('RGBA', (TILE_SIZE, TILE_SIZE), (255, 255, 255, 0))
-
-    # Get the geographic bounding box for the tile
     lat_min, lon_min, lat_max, lon_max = tile_coords_to_latlon_bbox(z, x, y)
 
     data_found = False
@@ -62,29 +95,30 @@ def generate_tile(z, x, y, month_column, parquet_files):
     for file_path in parquet_files:
         try:
             df = pd.read_parquet(file_path, columns=['latitude', 'longitude', month_column])
-
             df_in_tile = df[
                 (df['latitude'] >= lat_min) & (df['latitude'] <= lat_max) &
                 (df['longitude'] >= lon_min) & (df['longitude'] <= lon_max)
             ]
+            if boundary is not None and not df_in_tile.empty:
+                df_in_tile = df_in_tile[df_in_tile.apply(
+                    lambda r: boundary.contains(Point(r['longitude'], r['latitude'])), axis=1
+                )]
 
             if not df_in_tile.empty:
                 draw = ImageDraw.Draw(img)
                 for _, row in df_in_tile.iterrows():
-                    color = get_color_for_value(row[month_column])
+                    color = get_color_for_value(row[month_column], min_val, max_val)
                     if color:
                         data_found = True
                         tile_x_float, tile_y_float = latlon_to_tile_coords(row['latitude'], row['longitude'], z)
                         pixel_x = int((tile_x_float - x) * TILE_SIZE)
                         pixel_y = int((tile_y_float - y) * TILE_SIZE)
                         draw.rectangle([pixel_x, pixel_y, pixel_x + 1, pixel_y + 1], fill=color)
-
-        except Exception as e:
+        except Exception:
             pass
 
-    tile_dir = f'tiles/{z}/{x}'
+    tile_dir = f'tiles/{year}/{month}/{z}/{x}'
     os.makedirs(tile_dir, exist_ok=True)
-
     tile_path = f'{tile_dir}/{y}.png'
     img.save(tile_path)
     return tile_path, img, data_found
