@@ -1,0 +1,8 @@
+Flask
+geopandas
+pandas
+numpy
+rasterio
+shapely
+matplotlib
+gdal
